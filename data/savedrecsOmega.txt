@@ -1,0 +1,917 @@
+\\OO=Omega AND PY=2016
+FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Yan, Hai
+   Huang, Lijun
+   Xu, Xiaochuan
+   Chakravarty, Swapnajit
+   Tang, Naimei
+   Tian, Huiping
+   Chen, Ray T
+TI Unique surface sensing property and enhanced sensitivity in microring
+   resonator biosensors based on subwavelength grating waveguides.
+SO Optics express
+VL 24
+IS 26
+BP 29724
+EP 29733
+DI 10.1364/OE.24.029724
+PD 2016-Dec-26
+PY 2016
+AB In this paper, unique surface sensing property and enhanced sensitivity
+   in microring resonator biosensors based on subwavelength grating (SWG)
+   waveguides are studied and demonstrated. The SWG structure consists of
+   periodic silicon pillars in the propagation direction with a
+   subwavelength period. Effective sensing region in the SWG microring
+   resonator includes not only the top and side of the waveguide, but also
+   the space between the silicon pillars on the light propagation path. It
+   leads to greatly increased sensitivity and a unique surface sensing
+   property in contrast to common evanescent wave sensors: the surface
+   sensitivity remains constantly high as the surface layer thickness
+   grows. Microring resonator biosensors based on both SWG waveguides and
+   conventional strip waveguides were compared side by side in surface
+   sensing experiment and the enhanced surface sensing capability in SWG
+   based microring resonator biosensors was demonstrated.
+OI Yan, Hai/0000-0003-2756-7683
+ZB 0
+TC 19
+Z8 0
+ZR 0
+ZS 0
+Z9 19
+EI 1094-4087
+UT MEDLINE:28059356
+PM 28059356
+ER
+
+PT J
+AU Asai, Takao
+   Cordova Vidal, Claudia
+   Strauss, Wilma
+   Ikoma, Toshikazu
+   Endoh, Kazuo
+   Yamamoto, Masaharu
+TI Effect of Mass Stool Examination and Mass Treatment For Decreasing
+   Intestinal Helminth and Protozoan Infection Rates in Bolivian Children:
+   A Cross-Sectional Study.
+SO PLoS neglected tropical diseases
+VL 10
+IS 12
+BP e0005147
+EP e0005147
+DI 10.1371/journal.pntd.0005147
+PD 2016-12
+PY 2016
+AB Bolivia is one of the countries with a high intestinal helminth and
+   protozoan infection rate. Despite the high prevalence of the parasitic
+   infection, nationwide preventive measures for Bolivian children have not
+   yet been implemented. We evaluated the effect of mass stool examination
+   and treatment as a strategy for decreasing the infection rate. This
+   study was conducted between 2013 and 2015 in children aged 2-18 years. A
+   total of 2,033 stool samples (575 in 2013, 815 in 2014 and 642 in 2015)
+   were collected and examined using the formalin-ether medical
+   sedimentation method. As an anthelminthic medicine, nitazoxanide was
+   given to all infected children within 2 months post-examination, each
+   year. The effect of mass stool examination and treatment was evaluated
+   based on the changes in the overall or individual parasitic infection
+   rates during the study period. The overall parasitic infection rate
+   decreased significantly from 65.2% in 2013 to 43.0% in 2015; a 22.2
+   percentage point decrease (P<0.001). Protozoan infection accounted for a
+   large portion of the parasitic infections, in the following rates: 62.4%
+   in 2013, 49.3% in 2014, and 41.0% in 2015. The rate of the most common
+   helminth infection, Hymenolepis nana, decreased significantly from 9.0%
+   in 2013 to 6.4% in 2014 to 3.4% in 2015 (P<0.001). Prevalence of the
+   most common pathogenic protozoan infection, Entamoeba histolytica,
+   decreased significantly from 19.0% in 2013 to 3.0% in 2015 (P<0.001).
+   Conversely, the rate of Giardia intestinalis increased significantly
+   from 16.5% in 2013 to 21.2% in 2015 (P<0.01). Mass stool examination and
+   treatment for intestinal helminth and protozoan infections was effective
+   for decreasing the overall parasitic infection rate in the study
+   population, excluding Giardia intestinalis. Further studies on the
+   long-term effect of mass stool examination and treatment for decreasing
+   all intestinal parasitic infection rates in Bolivian children are
+   needed.
+ZB 1
+ZR 0
+Z8 0
+ZS 0
+TC 1
+Z9 1
+EI 1935-2735
+UT MEDLINE:27923058
+PM 27923058
+ER
+
+PT J
+AU Yan, Hai
+   Xu, Xiaochuan
+   Chung, Chi-Jui
+   Subbaraman, Harish
+   Pan, Zeyu
+   Chakravarty, Swapnajit
+   Chen, Ray T
+TI One-dimensional photonic crystal slot waveguide for silicon-organic
+   hybrid electro-optic modulators.
+SO Optics letters
+VL 41
+IS 23
+BP 5466
+EP 5469
+DI 10.1364/OL.41.005466
+PD 2016-Dec-01
+PY 2016
+AB In an on-chip silicon-organic hybrid electro-optic (EO) modulator, the
+   mode overlap with EO materials, in-device effective r<sub>33</sub>, and
+   propagation loss are among the most critical factors that determine the
+   performance of the modulator. Various waveguide structures have been
+   proposed to optimize these factors, yet there is a lack of comprehensive
+   consideration on all of them. In this Letter, a one-dimensional (1D)
+   photonic crystal (PC) slot waveguide structure is proposed that takes
+   all these factors into consideration. The proposed structure takes
+   advantage of the strong mode confinement within a low-index region in a
+   conventional slot waveguide and the slow-light enhancement from the 1D
+   PC structure. Its simple geometry makes it robust to resist fabrication
+   imperfections and helps reduce the propagation loss. Using it as a phase
+   shifter in a Mach-Zehnder interferometer structure, an integrated
+   silicon-organic hybrid EO modulator was experimentally demonstrated. The
+   observed effective EO coefficient is as high as 490 pm/V. The measured
+   half-wave voltage and length product is less than 1V·cm and can be
+   further improved. A potential bandwidth of 61 GHz can be achieved and
+   further improved by tailoring the doping profile. The proposed structure
+   offers a competitive novel phase-shifter design, which is simple, highly
+   efficient, and with low optical loss, for on-chip silicon-organic hybrid
+   EO modulators.
+OI Yan, Hai/0000-0003-2756-7683
+Z8 0
+ZB 1
+ZR 0
+ZS 0
+TC 10
+Z9 10
+EI 1539-4794
+UT MEDLINE:27906214
+PM 27906214
+ER
+
+PT J
+AU Kini, Amit
+   Fernandes, Custan
+   Suryawanshi, Dayaram
+TI Effect of KiFAY on Performance, Insulin-like Growth Factor-1, and
+   Thyroid Hormones in Broilers.
+SO Asian-Australasian journal of animal sciences
+VL 29
+IS 10
+BP 1451
+EP 7
+DI 10.5713/ajas.16.0188
+PD 2016-Oct
+PY 2016
+AB A comparative study was performed to investigate the efficacy of KiFAY
+   as a feed additive on performance parameters, thyroid, and pancreatic
+   hormone levels in broilers. Ninety birds (Vencobb 400) were randomly
+   divided into three groups viz., Control (no DL-methionine
+   supplementation), Treatment1 (containing added DL-methionine) and
+   Treatment 2 (containing KiFAY and without DL-methionine
+   supplementation). The performance parameters (weekly body weight, body
+   weight gain, feed intake, and feed consumption ratio) were recorded and
+   calculated during the whole study of 4 weeks. Analyses of insulin and
+   insulin-like growth factor (IGF 1), triiodothyronine (T3), thyroxine
+   (T4) and thyroid stimulating hormone (TSH) were performed at the end of
+   the study. The results show that birds on supplementation of KiFAY
+   performed significantly (p<0.001) better than other treatments. The
+   weekly body weight, body weight gain, feed in-take and feed consumption
+   ratio improved in KiFAY treated birds. The study found an increase in
+   insulin and IGF1 levels (p<0.001) in KiFAY compared with the other
+   treatments. Serum T3, T4, and TSH levels in the Treatment 2 were higher
+   than other treatments (p<0.001). The KiFAY supplementation was able to
+   improve performance with associated responses at a hormonal level in
+   broilers. 
+ZR 0
+ZS 0
+Z8 0
+ZB 0
+TC 0
+Z9 0
+SN 1011-2367
+UT MEDLINE:27221245
+PM 27221245
+ER
+
+PT J
+AU Elema, Agnes
+   Zalmstra, Trees A. L.
+   Boonstra, Anne M.
+   Narayanan, Unni G.
+   Reinders-Messelink, Heleen A.
+   v d Putten, Annette A. J.
+TI Pain and hospital admissions are important factors associated with
+   quality of life in nonambulatory children
+SO ACTA PAEDIATRICA
+VL 105
+IS 9
+BP E419
+EP E425
+DI 10.1111/apa.13493
+PD SEP 2016
+PY 2016
+AB AimThis was the first study to investigate the factors associated with
+   health-related quality of life (HRQoL) in nonambulatory children with
+   cerebral palsy (CP), based on a HRQoL measure specifically developed for
+   this population.
+   MethodsThe Dutch version of the Caregiver Priorities and Child Health
+   Index of Life with Disabilities (CPCHILD-DV) was used to measure HRQoL.
+   It was completed by 66 parents of 47 boys and 19 girls with
+   nonambulatory CP aged between five and 18 years with gross motor
+   function classification system (GMFCS) levels of IV and V. Factors
+   measured were the child's motor and cognitive impairments,
+   comorbidities, pain, parents' education and occupations and family
+   structure. Multiple linear regression analyses were used to determine
+   the significant factors and the relative contribution of these factors
+   to the CPCHILD-DV scores.
+   ResultsThe most important factors associated with poorer HRQoL scores
+   were pain and hospital admissions in the previous six months. Other
+   factors were as follows: increased GMFCS level, feeding by gastrostomy
+   tube, inability to communicate verbally, cognitive impairment, poor
+   seizure control and higher parents' educational qualifications.
+   ConclusionPain and hospital admissions were the most important factors
+   that were negatively associated with HRQoL in nonambulatory children
+   with CP between five to 18 years.
+OI Narayanan, Unni/0000-0003-0051-9622
+TC 1
+ZR 0
+Z8 0
+ZB 1
+ZS 0
+Z9 1
+SN 0803-5253
+EI 1651-2227
+UT WOS:000382742900005
+PM 27250697
+ER
+
+PT J
+AU Topic, N.
+   Radovic, I. Bogdanovic
+   Fazinic, S.
+   Skoko, Z.
+TI ANALYSIS OF MEDIEVAL AND POST-MEDIEVAL GLASS FRAGMENTS FROM THE
+   DUBROVNIK REGION (CROATIA)
+SO ARCHAEOMETRY
+VL 58
+IS 4
+BP 574
+EP 592
+DI 10.1111/arcm.12191
+PD AUG 2016
+PY 2016
+AB Dubrovnik was an important trade city throughout the medieval and
+   post-medieval time period, maintaining its own glass production from the
+   14th to the 16th century. Unfortunately, Dubrovnik glass discoveries
+   have not been well investigated up until now, except via archival data
+   in large data analyses. In the following work, we will shed new light on
+   the glass material found in this region, which has diverse origins,
+   chronology, typology and style. Medieval and post-medieval glass finds
+   (10th/12th-18th centuries) discovered during archaeological excavations
+   in Dubrovnik and the Dubrovnik region were analysed using
+   particle-induced X-ray emission (PIXE) and particle-induced gamma-ray
+   emission (PIGE), which revealed three main compositional groups: natron
+   glass, plant-ash glass and potash glass. This demonstrates the important
+   commercial links present between Dubrovnik and other major glass-making
+   centres.
+TC 3
+ZR 0
+Z8 0
+ZS 0
+ZB 2
+Z9 3
+SN 0003-813X
+EI 1475-4754
+UT WOS:000384092300003
+ER
+
+PT J
+AU Wang, Zheng
+   Xu, Xiaochuan
+   Fan, Donglei
+   Wang, Yaguo
+   Chen, Ray T
+TI High quality factor subwavelength grating waveguide micro-ring resonator
+   based on trapezoidal silicon pillars.
+SO Optics letters
+VL 41
+IS 14
+BP 3375
+EP 8
+DI 10.1364/OL.41.003375
+PD 2016-Jul-15
+PY 2016
+AB Subwavelength grating waveguide-based micro-ring resonators (SWGMRs) are
+   a promising platform for research in light-matter interaction. However,
+   it is extremely difficult to achieve small radius SWGMR devices (e.g., 5
+   mum) with satisfying quality factors (e.g., 10,000). One major issue is
+   the large bend loss of small radius SWGMRs. In this work, we report the
+   use of trapezoidal silicon pillars instead of conventional rectangular
+   silicon pillars as building blocks of SWGMRs. We found that an
+   asymmetric effective refractive index profile created by trapezoidal
+   silicon pillars can significantly reduce the bend loss and therefore
+   increase the quality factors of SWGMRs. For the first time to the best
+   of our knowledge, we have experimentally demonstrated a 5 mum radius
+   SWGMR made of trapezoidal silicon pillars (T-SWGMR) with an applicable
+   quality factor as high as 11,500, 4.6 times of that (2800) offered by a
+   conventional SWGMR made of rectangular silicon pillars, which indicates
+   an 81.4% reduction of the propagation loss. This approach can also be
+   readily employed to enhance SWGMRs with larger radii. We have also
+   experimentally demonstrated a 10 mum radius T-SWGMR with a quality
+   factor as high as 45,000, which indicates a propagation loss as low as
+   6.07 dB/cm. 
+RI WANG, ZHENG/L-7562-2018
+OI WANG, ZHENG/0000-0002-2143-3847
+ZR 0
+TC 12
+ZS 0
+ZB 0
+Z8 0
+Z9 12
+EI 1539-4794
+UT MEDLINE:27420539
+PM 27420539
+ER
+
+PT J
+AU Chen, Li
+   Wang, Jiaolong
+   Mouser, Glen
+   Li, Yan Chun
+   Marcovici, Geno
+TI Blockade of Androgen Markers Using a Novel Betasitosterol, Thioctic Acid
+   and Carnitine-containing Compound in Prostate and Hair Follicle
+   Cell-based Assays.
+SO Phytotherapy research : PTR
+VL 30
+IS 6
+BP 1016
+EP 20
+DI 10.1002/ptr.5611
+PD 2016-Jun
+PY 2016
+AB Androgenetic alopecia (AGA) affects approximately 70% of men and 40% of
+   women in an age-dependent manner and is partially mediated by androgen
+   hormones. Benign prostatic hyperplasia (BPH) similarly affects 50% of
+   the male population, rising by 10% each decade. Finasteride inhibits
+   5-alpha reductase (5AR) and is used to treat both disorders, despite
+   offering limited clinical benefits accompanied by significant adverse
+   side effects. Building on our previous work demonstrating the efficacy
+   of naturally derived 5AR inhibitors (such as stigmasterol and beta
+   sitosterol), we hypothesize that targeting 5AR as well as inflammatory
+   pathways may yield improved efficacy in AGA and BPH. Here we address
+   these dual pathomechanisms by examining the potency of a novel
+   composition using in vitro assays of representative cell lines for AGA
+   (hair follicle dermal papilla cells) and BPH (LNCaP prostate cells),
+   respectively. Exposure of cells to the novel test composition
+   down-regulated mRNA expression profiles characteristic of both disease
+   processes, which outperformed finasteride. Changes in mRNA expression
+   were corroborated at the protein level as assessed by western blotting.
+   These studies provide proof of concept that novel, naturally derived
+   compositions simultaneously targeting 5AR and inflammatory mediators may
+   represent a rational approach to treating AGA and BPH. Copyright © 2016
+   John Wiley & Sons, Ltd. 
+Z8 0
+ZR 0
+TC 0
+ZB 0
+ZS 0
+Z9 0
+EI 1099-1573
+UT MEDLINE:26990224
+PM 26990224
+ER
+
+PT J
+AU Metzler, Paul A.
+TI Virtual Afterlives: Grieving the Dead in the Twenty-First Century
+SO OMEGA-JOURNAL OF DEATH AND DYING
+VL 73
+IS 2
+BP 191
+EP 193
+DI 10.1177/0030222815613182
+PD JUN 2016
+PY 2016
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0030-2228
+EI 1541-3764
+UT WOS:000375037500008
+ER
+
+PT J
+AU Wang, Zheng
+   Xu, Xiaochuan
+   Fan, Donglei
+   Wang, Yaguo
+   Subbaraman, Harish
+   Chen, Ray T
+TI Geometrical tuning art for entirely subwavelength grating waveguide
+   based integrated photonics circuits.
+SO Scientific reports
+VL 6
+BP 24106
+EP 24106
+DI 10.1038/srep24106
+PD 2016 May 05
+PY 2016
+AB Subwavelength grating (SWG) waveguide is an intriguing alternative to
+   conventional optical waveguides due to the extra degree of freedom it
+   offers in tuning a few important waveguide properties, such as
+   dispersion and refractive index. Devices based on SWG waveguides have
+   demonstrated impressive performances compared to conventional
+   waveguides. However, the high loss of SWG waveguide bends jeopardizes
+   their applications in integrated photonic circuits. In this work, we
+   propose a geometrical tuning art, which realizes a pre-distorted
+   refractive index profile in SWG waveguide bends. The pre-distorted
+   refractive index profile can effectively reduce the mode mismatch and
+   radiation loss simultaneously, thus significantly reduce the bend loss.
+   This geometry tuning art has been numerically optimized and
+   experimentally demonstrated in present study. Through such tuning, the
+   average insertion loss of a 5mum SWG waveguide bend is reduced
+   drastically from 5.43dB to 1.10dB per 90° bend for quasi-TE
+   polarization. In the future, the proposed scheme will be utilized to
+   enhance performance of a wide range of SWG waveguide based photonics
+   devices.
+RI WANG, ZHENG/L-7562-2018
+OI WANG, ZHENG/0000-0002-2143-3847
+ZB 1
+TC 14
+Z8 1
+ZR 0
+ZS 0
+Z9 15
+EI 2045-2322
+UT MEDLINE:27145872
+PM 27145872
+ER
+
+PT J
+AU Rice, Harry B
+   Bernasconi, Aldo
+   Maki, Kevin C
+   Harris, William S
+   von Schacky, Clemens
+   Calder, Philip C
+TI Conducting omega-3 clinical trials with cardiovascular outcomes:
+   Proceedings of a workshop held at ISSFAL 2014.
+SO Prostaglandins, leukotrienes, and essential fatty acids
+VL 107
+BP 30
+EP 42
+DI 10.1016/j.plefa.2016.01.003
+PD 2016-Apr
+PY 2016
+AB In contrast to earlier long-chain (LC) omega-3 (i.e. EPA and DHA)
+   investigations, some recent studies have not demonstrated significant
+   effects of EPA and DHA on cardiovascular disease (CVD) outcomes. The
+   neutral findings may have been due to experimental design issues, such
+   as: maintenance on aggressive cardiovascular drug treatment
+   overshadowing the benefits of LC omega-3s, high background LC omega-3
+   intake, too few subjects in the study, treatment duration too short,
+   insufficient LC omega-3 dosage, increase in omega-6 fatty acid intake
+   during the study, failure to assess the LC omega-3 status of the
+   subjects prior to and during treatment and lack of clarity concerning
+   which mechanisms were expected to produce benefits. At the 11th ISSFAL
+   Congress, a workshop was held on conducting LC omega-3 clinical trials
+   with cardiovascular outcomes, with the goal of gaining a better
+   understanding concerning aspects of experimental design that should be
+   considered when planning clinical studies related to EPA and DHA and
+   potential cardiovascular benefits. 
+RI Calder, Philip/E-9739-2013
+OI Calder, Philip/0000-0002-6038-710X
+TC 18
+ZR 0
+Z8 0
+ZB 12
+ZS 0
+Z9 19
+EI 1532-2823
+UT MEDLINE:26858145
+PM 26858145
+ER
+
+PT J
+AU Rao, Vatturi Venkata Satya Prabhakar
+   Manthri, Ranadheer
+   Hemalatha, Pottumuthu
+   Kumar, Vuyyuru Navin
+   Azhar, Mohammad
+TI Time reducing exposure containing 18 fluorine flourodeoxyglucose master
+   vial dispensing in hot lab: Omega technique.
+SO Indian journal of nuclear medicine : IJNM : the official journal of the
+   Society of Nuclear Medicine, India
+VL 31
+IS 2
+BP 158
+EP 60
+DI 10.4103/0972-3919.178339
+PD 2016 Apr-Jun
+PY 2016
+AB Hot lab dispensing of large doses of 18 fluorine fluorodeoxyglucose in
+   master vials supplied from the cyclotrons requires high degrees of skill
+   to handle high doses. Presently practiced conventional method of
+   fractionating from the inverted tiltable vial pig mounted on a metal
+   frame has its own limitations such as increasing isotope handling times
+   and exposure to the technologist. Innovative technique devised markedly
+   improves the fractionating efficiency along with speed, precision, and
+   reduced dose exposure. 
+ZR 0
+ZB 0
+TC 0
+Z8 0
+ZS 0
+Z9 0
+SN 0972-3919
+UT MEDLINE:27095872
+PM 27095872
+ER
+
+PT J
+AU Pereira, Ederson R
+   de Almeida, Tarcisio S
+   Borges, Daniel L G
+   Carasek, Eduardo
+   Welz, Bernhard
+   Feldmann, Jorg
+   Campo Menoyo, Javier Del
+TI Investigation of chemical modifiers for the direct determination of
+   arsenic in fish oil using high-resolution continuum source graphite
+   furnace atomic absorption spectrometry.
+SO Talanta
+VL 150
+BP 142
+EP 7
+DI 10.1016/j.talanta.2015.12.036
+PD 2016-Apr-01
+PY 2016
+AB High-resolution continuum source graphite furnace atomic absorption
+   spectrometry (HR-CS GF AAS) has been applied for the development of a
+   method for the determination of total As in fish oil samples using
+   direct analysis. The method does not use any sample pretreatment,
+   besides dilution with 1-propanole, in order to decrease the oil
+   viscosity. The stability and sensitivity of As were evaluated using
+   ruthenium and iridium as permanent chemical modifiers and palladium
+   added in solution over the sample. The best results were obtained with
+   ruthenium as the permanent modifier and palladium in solution added to
+   samples and standard solutions. Under these conditions, aqueous standard
+   solutions could be used for calibration for the fish oil samples diluted
+   with 1-propanole. The pyrolysis and atomization temperatures were 1400
+   °C and 2300 °C, respectively, and the limit of detection and
+   characteristic mass were 30 pg and 43 pg, respectively. Accuracy and
+   precision of the method have been evaluated using microwave-assisted
+   acid digestion of the samples with subsequent determination by HR-CS GF
+   AAS and ICP-MS; the results were in agreement (95% confidence level)
+   with those of the proposed method.
+RI de almeida, tarcisio/U-4368-2017; Borges, Daniel L. G./S-6705-2016; Pereira, Ederson/I-2605-2015; Feldmann, Joerg/; Carasek, Eduardo/
+OI de almeida, tarcisio/0000-0003-1963-3775; Borges, Daniel L.
+   G./0000-0001-7829-7180; Feldmann, Joerg/0000-0002-0524-8254; Carasek,
+   Eduardo/0000-0001-7089-3607
+ZB 7
+TC 9
+ZS 0
+ZR 0
+Z8 1
+Z9 10
+EI 1873-3573
+UT MEDLINE:26838392
+PM 26838392
+ER
+
+PT J
+AU Lupton, J R
+   Blumberg, J B
+   L'Abbe, M
+   LeDoux, M
+   Rice, H B
+   von Schacky, C
+   Yaktine, A
+   Griffiths, J C
+TI Nutrient reference value: non-communicable disease endpoints--a
+   conference report.
+SO European journal of nutrition
+VL 55 Suppl 1
+BP S1
+EP 10
+DI 10.1007/s00394-016-1195-z
+PD 2016-Mar
+PY 2016
+AB Nutrition is complex-and seemingly getting more complicated. Most
+   consumers are familiar with "essential nutrients," e.g., vitamins and
+   minerals, and more recently protein and important amino acids. These
+   essential nutrients have nutrient reference values, referred to as
+   dietary reference intakes (DRIs) developed by consensus committees of
+   scientific experts convened by the Institute of Medicine of the National
+   Academy of Sciences, Engineering, and Medicine and carried out by the
+   Food and Nutrition Board. The DRIs comprise a set of four nutrient-based
+   reverence values, the estimated average requirements, the recommended
+   dietary allowances (RDAs), the adequate intakes and the tolerable upper
+   intake levels for micronutrient intakes and an acceptable macronutrient
+   distribution range for macronutrient intakes. From the RDA, the US Food
+   and Drug Administration (FDA) derives a labeling value called the daily
+   value (DV), which appears on the nutrition label of all foods for sale
+   in the US. The DRI reports do not make recommendations about whether the
+   DV labeling values can be set only for what have been defined to date as
+   "essential nutrients." For example, the FDA set a labeling value for
+   "dietary fiber" without having the DV. Nutrient reference
+   values-requirements are set by Codex Alimentarius for essential
+   nutrients, and regulatory bodies in many countries use these Codex
+   values in setting national policy for recommended dietary intakes.
+   However, the focus of this conference is not on essential nutrients, but
+   on the "nonessential nutrients," also termed dietary bioactive
+   components. They can be defined as "Constituents in foods or dietary
+   supplements, other than those needed to meet basic human nutritional
+   needs, which are responsible for changes in health status (Office of
+   Disease Prevention and Health Promotion, Office of Public Health and
+   Science, Department of Health and Human Services in Fed Regist
+   69:55821-55822, 2004)." Substantial and often persuasive scientific
+   evidence does exist to confirm a relationship between the intake of a
+   specific bioactive constituent and enhanced health conditions or reduced
+   risk of a chronic disease. Further, research on the putative mechanisms
+   of action of various classes of bioactives is supported by national and
+   pan-national government agencies, and academic institutions, as well as
+   functional food and dietary supplement manufacturers. Consumers are
+   becoming educated and are seeking to purchase products containing
+   bioactives, yet there is no evaluative process in place to let the
+   public know how strong the science is behind the benefits or the
+   quantitative amounts needed to achieve these beneficial health effects
+   or to avoid exceeding the upper level (UL). When one lacks an essential
+   nutrient, overt deficiency with concomitant physiological determents and
+   eventually death are expected. The absence of bioactive substances from
+   the diet results in suboptimal health, e.g., poor cellular and/or
+   physiological function, which is relative and not absolute. Regrettably
+   at this time, there is no DRI process to evaluate bioactives, although a
+   recent workshop convened by the National Institutes of Health (Options
+   for Consideration of Chronic Disease Endpoints for Dietary Reference
+   Intakes (DRIs); March 10-11, 2015;
+   http://health.gov/dietaryguidelines/dri/ ) did explore the process to
+   develop DVs for nutrients, the lack of which result in increased risk of
+   chronic disease (non-communicable disease) endpoints. A final report is
+   expected soon. This conference (CRN-International Scientific Symposium;
+   "Nutrient Reference Value-Non-Communicable Disease (NRV-NCD) Endpoints,"
+   20 November in Kronberg, Germany; http://www.crn-i.ch/2015symposium/ )
+   explores concepts related to the Codex NRV process, the public health
+   opportunities in setting NRVs for bioactive constituents, and further
+   research and details on the specific class of bioactives, n-3 long-chain
+   polyunsaturated fatty acids (also termed omega-3 fatty acids) and their
+   constituents, specifically docosahexaenoic acid and eicosapentaenoic
+   acid.
+ZR 1
+ZB 0
+Z8 0
+ZS 0
+TC 1
+Z9 2
+EI 1436-6215
+UT MEDLINE:26983608
+PM 26983608
+ER
+
+PT J
+AU Pareek, Anil K
+   Messerli, Franz H
+   Chandurkar, Nitin B
+   Dharmadhikari, Shruti K
+   Godbole, Anil V
+   Kshirsagar, Prasita P
+   Agarwal, Manish A
+   Sharma, Kamal H
+   Mathur, Shyam L
+   Kumbla, Mukund M
+TI Efficacy of Low-Dose Chlorthalidone and Hydrochlorothiazide as Assessed
+   by 24-h Ambulatory Blood Pressure Monitoring.
+SO Journal of the American College of Cardiology
+VL 67
+IS 4
+BP 379
+EP 389
+DI 10.1016/j.jacc.2015.10.083
+PD 2016-Feb-02
+PY 2016
+AB BACKGROUND: Thiazide and thiazide-like diuretic agents are being
+   increasingly used at lower doses. Hydrochlorothiazide (HCTZ) in the
+   12.5-mg dose remains the most commonly prescribed antihypertensive agent
+   in the United States.
+   OBJECTIVES: This study compared chlorthalidone, 6.25 mg daily, with
+   HCTZ, 12.5 mg daily, by 24-h ambulatory blood pressure (ABP) monitoring
+   and evaluated efficacy. Because HCTZ has been perceived as a
+   short-acting drug, a third comparison with an extended-release
+   formulation (HCTZ-controlled release [CR]) was added.
+   METHODS: This 12-week comparative, double-blind, outpatient study
+   randomized 54 patients with stage 1 hypertension to receive either
+   chlorthalidone, 6.25 mg, (n = 16); HCTZ 12.5 mg (n = 18); or HCTZ-CR
+   12.5 mg (n = 20). ABP monitoring was performed at baseline and after 4
+   and 12 weeks of therapy.
+   RESULTS: All 3 treatments significantly (p < 0.01) lowered office BP at
+   weeks 4 and 12 from baseline. At weeks 4 and 12, significant reductions
+   in systolic and diastolic 24-h ambulatory and nighttime BP (p < 0.01)
+   were observed with chlorthalidone but not with HCTZ. At weeks 4 (p =
+   0.015) and 12 (p = 0.020), nighttime systolic ABP was significantly
+   lower in the chlorthalidone group than in the the HCTZ group. With HCTZ
+   therapy, sustained hypertension was converted into masked hypertension.
+   In contrast to the HCTZ group, the HCTZ-CR group also showed a
+   significant (p < 0.01) reduction in 24-h ABP. All 3 treatments were
+   generally safe and well tolerated.
+   CONCLUSIONS: Treatment with low-dose chlorthalidone, 6.25 mg daily,
+   significantly reduced mean 24-h ABP as well as daytime and nighttime BP.
+   Due to its short duration of action, no significant 24-h ABP reduction
+   was seen with HCTZ, 12.5 mg daily, which merely converted sustained
+   hypertension into masked hypertension. Thus, low-dose chlorthalidone,
+   6.25 mg, could be used as monotherapy for treatment of essential
+   hypertension, whereas low-dose HCTZ monotherapy is not an appropriate
+   antihypertensive drug. (Comparative Evaluation of Safety and Efficacy of
+   Hydrochlorothiazide CR with Hydrochlorothiazide and Chlorthalidone in
+   Patients With Stage I Essential Hypertension; CTRI/2013/07/003793).
+TC 15
+Z8 0
+ZB 8
+ZR 0
+ZS 0
+Z9 15
+EI 1558-3597
+UT MEDLINE:26821625
+PM 26821625
+ER
+
+PT J
+AU Skedung, L
+   Buraczewska-Norin, I
+   Dawood, N
+   Rutland, M W
+   Ringstad, L
+TI Tactile friction of topical formulations.
+SO Skin research and technology : official journal of International Society
+   for Bioengineering and the Skin (ISBS) [and] International Society for
+   Digital Imaging of Skin (ISDIS) [and] International Society for Skin
+   Imaging (ISSI)
+VL 22
+IS 1
+BP 46
+EP 54
+DI 10.1111/srt.12227
+PD 2016-Feb
+PY 2016
+AB BACKGROUND: The tactile perception is essential for all types of topical
+   formulations (cosmetic, pharmaceutical, medical device) and the
+   possibility to predict the sensorial response by using instrumental
+   methods instead of sensory testing would save time and cost at an early
+   stage product development. Here, we report on an instrumental evaluation
+   method using tactile friction measurements to estimate perceptual
+   attributes of topical formulations.
+   METHODS: Friction was measured between an index finger and an artificial
+   skin substrate after application of formulations using a force sensor.
+   Both model formulations of liquid crystalline phase structures with
+   significantly different tactile properties, as well as commercial
+   pharmaceutical moisturizing creams being more tactile-similar, were
+   investigated. Friction coefficients were calculated as the ratio of the
+   friction force to the applied load. The structures of the model
+   formulations and phase transitions as a result of water evaporation were
+   identified using optical microscopy.
+   RESULTS: The friction device could distinguish friction coefficients
+   between the phase structures, as well as the commercial creams after
+   spreading and absorption into the substrate. In addition, phase
+   transitions resulting in alterations in the feel of the formulations
+   could be detected. A correlation was established between skin hydration
+   and friction coefficient, where hydrated skin gave rise to higher
+   friction. Also a link between skin smoothening and finger friction was
+   established for the commercial moisturizing creams, although further
+   investigations are needed to analyse this and correlations with other
+   sensorial attributes in more detail.
+   CONCLUSION: The present investigation shows that tactile friction
+   measurements have potential as an alternative or complement in the
+   evaluation of perception of topical formulations.
+RI Rutland, Mark/F-8890-2012
+OI Rutland, Mark/0000-0002-8935-8070
+ZS 0
+TC 7
+ZB 0
+ZR 0
+Z8 0
+Z9 7
+EI 1600-0846
+UT MEDLINE:25783057
+PM 25783057
+ER
+
+PT J
+AU Jiménez Hernández, Verónica
+   Guerra Sánchez, Ricardo
+TI Obtención de un medio enriquecido para hacer más eficiente la
+   biodisponibilidad de los hidrocarburos intemperizados en un suelo
+   costero
+X1 Obtaining of an enriched medium to increasing the bioavailability of
+   weathered hydrocarbons in a coastal soil
+SO Revista internacional de contaminación ambiental
+VL 32
+IS 4
+BP 413
+EP 424
+DI 10.20937/RICA.2016.32.04.05
+PD 2016-11
+PY 2016
+AB Abstract The weathered hydrocarbons are mainly constituted of highly
+   persistent heavy petroleum fractions. Thus, the soil chemical complexity
+   delays the hydrocarbon biodegradation. The objective of this study was
+   to increase the bioavailability of highly persistent compounds by
+   obtaining the greatest nutritional conditions for indigenous
+   microorganisms. A consortium was previously adapted in order to achieve
+   the full potential of degradation through the biostimulation process
+   which was carried out by the Plackett-Burman analytic method
+   experiments. These experiments conducted to a specific combination of
+   nutrients, which provided the minimum requirements for the
+   hydrocarbonoclastic bacteria to efficiently improve their metabolic
+   processes. The biodegradation of hydrocarbons were estimated based on
+   the heavy oil/kg dry soil, CO2 production/kg dry soil, as well as the
+   alteration of certain physicochemical characteristics, such as pH, EC
+   (µS/cm), moisture and organic matter percentage. In conclusion, these
+   analyses provide a contribution to the study of bioavailability of
+   weathered hydrocarbons by controlling conditions in a nutrient
+   biostimulation process and through the design of experiments. Likewise,
+   a microbial consortium adapted to a 1 % concentration of Mayan crude,
+   resulted in an up to 97 % increase in hydrocarbon degradation in the
+   coastal weathered soil, which were expressed as a heavy fraction of
+   hydrocarbons in a period of 28 days of degradation.
+X4 Resumen Los hidrocarburos intemperizados presentan una composición
+   formada principalmente por la fracción pesada del petróleo, los cuales
+   son altamente persistentes. La complejidad química del suelo dificulta
+   la biodegradación de los hidrocarburos. El objetivo de este trabajo fue
+   incrementar la biodisponibilidad de hidrocarburos altamente
+   persistentes, obteniendo las mejores condiciones nutrimentales para que
+   los microorganismos nativos en un consorcio adaptado desarrollaran el
+   máximo potencial de degradación en un suelo contaminado con
+   hidrocarburos intemperizados, a través de un proceso de bioestimulación.
+   Se utilizó un diseño de experimentos factorial fraccionado del tipo
+   Plackett-Burman para encontrar la combinación de nutrientes específicos
+   que aporten los requerimientos mínimos necesarios para que las bacterias
+   hidrocarbonoclastas desarrollen sus procesos metabólicos de manera
+   eficiente. La biodegradación de los hidrocarburos fue estimada con base
+   en el contenido de hidrocarburos de fracción pesada (HFP)/kg suelo seco,
+   producción de CO2/kg suelo seco, así como la alteración de algunas
+   características fisicas y químicas como el pH, CE (µS/cm), porcentaje de
+   humedad y porcentaje de materia orgánica. Este trabajo realiza una
+   contribución al estudio de la biodisponibilidad de los hidrocarburos
+   persistentes mediante el control de las condiciones nutrimentales en un
+   proceso de bioestimulación a través de un diseño de experimentos. Por
+   otro lado, la adición de un consorcio microbiano adaptado a
+   concentraciones de 1 % de crudo Maya incrementó la degradación de los
+   hidrocarburos intemperizados en el suelo costero hasta en un 97 %,
+   expresados como HFP en un periodo de 28 días de degradación.
+TC 0
+ZS 0
+ZB 0
+ZR 0
+Z8 0
+Z9 0
+SN 0188-4999
+UT SCIELO:S0188-49992016000400413
+ER
+
+PT J
+AU Chigurupati, Mohana Vamsy
+   Madiraju, Vidya
+   Chigurupati, Namrata
+   Shinkar, Pawan Gulabrao
+   Dhagam, Snehalatha
+   Prabhakar Rao, Vatturi Venkata Satya
+TI Great cervical venous tumoral thrombosis of melanotic medullary
+   carcinoma thyroid: Fluorine-18 fluorodeoxyglucose positron emission
+   tomography/computed tomography enabled diagnosis and radiotherapy
+   planning.
+SO Indian journal of nuclear medicine : IJNM : the official journal of the
+   Society of Nuclear Medicine, India
+VL 31
+IS 1
+BP 45
+EP 8
+DI 10.4103/0972-3919.172361
+PD 2016 Jan-Mar
+PY 2016
+AB The authors report an extremely rare occurrence of a massive tumor
+   thrombus involving right internal and external jugular veins extending
+   into superior vena cava from a still rarer melanotic medullary carcinoma
+   thyroid in the postoperative follow-up. The case was managed by
+   hypofractionated intensity modulated radiotherapy technique with
+   gratifying results. 
+ZR 0
+ZS 0
+TC 1
+Z8 0
+ZB 0
+Z9 1
+SN 0972-3919
+UT MEDLINE:26917895
+PM 26917895
+ER
+
+EF
