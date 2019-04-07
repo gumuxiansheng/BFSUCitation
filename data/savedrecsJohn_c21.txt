@@ -1,0 +1,184 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Cai, LW
+   Tian, JH
+   Liu, JY
+   Bai, XM
+   Lee, I
+   Kong, XJ
+   Xia, F
+AF Cai, Liwei
+   Tian, Jiahao
+   Liu, Jiaying
+   Bai, Xiaomei
+   Lee, Ivan
+   Kong, Xiangjie
+   Xia, Feng
+TI Scholarly impact assessment: a survey of citation weighting solutions
+SO SCIENTOMETRICS
+RI Kong, Xiangjie/B-8809-2016
+OI Kong, Xiangjie/0000-0003-2698-3319
+SN 0138-9130
+EI 1588-2861
+PD FEB
+PY 2019
+VL 118
+IS 2
+BP 453
+EP 478
+DI 10.1007/s11192-018-2973-6
+UT WOS:000458190700004
+ER
+
+PT J
+AU Shen, ZS
+   Yang, LY
+   Di, ZR
+   Wu, JS
+AF Shen, Zhesi
+   Yang, Liying
+   Di, Zengru
+   Wu, Jinshan
+TI Large enough sample size to rank two groups of data reliably according
+   to their means
+SO SCIENTOMETRICS
+SN 0138-9130
+EI 1588-2861
+PD FEB
+PY 2019
+VL 118
+IS 2
+BP 653
+EP 671
+DI 10.1007/s11192-018-2995-0
+UT WOS:000458190700014
+ER
+
+PT J
+AU Bao, GJ
+   Fang, H
+   Chen, LF
+   Wan, YH
+   Xu, F
+   Yang, QH
+   Zhang, LB
+AF Bao, Guanjun
+   Fang, Hui
+   Chen, Lingfeng
+   Wan, Yuehua
+   Xu, Fang
+   Yang, Qinghua
+   Zhang, Libin
+TI Soft Robotics: Academic Insights and Perspectives Through Bibliometric
+   Analysis
+SO SOFT ROBOTICS
+RI Wan, Yuehua/G-2351-2011
+OI Wan, Yuehua/0000-0003-3456-8748
+SN 2169-5172
+EI 2169-5180
+PD JUN
+PY 2018
+VL 5
+IS 3
+BP 229
+EP 241
+DI 10.1089/soro.2017.0135
+EA MAY
+EY 2018
+UT WOS:000432690500001
+PM 29782219
+ER
+
+PT J
+AU Wu, YQ
+   Wan, YH
+   Zhang, FZ
+AF Wu, Yanqi
+   Wan, Yuehua
+   Zhang, Fengzhi
+TI Characteristics and Trends of C-H Activation Research: A Review of
+   Literature
+SO CURRENT ORGANIC SYNTHESIS
+RI Wan, Yuehua/G-2351-2011
+OI Wan, Yuehua/0000-0003-3456-8748
+SN 1570-1794
+EI 1875-6271
+PY 2018
+VL 15
+IS 6
+BP 781
+EP 792
+DI 10.2174/1570179415666180426115417
+UT WOS:000443020800005
+ER
+
+PT J
+AU Mingers, J
+   O'Hanley, JR
+   Okunola, M
+AF Mingers, John
+   O'Hanley, Jesse R.
+   Okunola, Musbaudeen
+TI Using Google Scholar institutional level data to evaluate the quality of
+   university research
+SO SCIENTOMETRICS
+OI Mingers, John/0000-0002-4102-4696
+SN 0138-9130
+EI 1588-2861
+PD DEC
+PY 2017
+VL 113
+IS 3
+BP 1627
+EP 1643
+DI 10.1007/s11192-017-2532-6
+UT WOS:000415715100019
+ER
+
+PT J
+AU Ryazanova, O
+   McNamara, P
+   Aguinis, H
+AF Ryazanova, Olga
+   McNamara, Peter
+   Aguinis, Herman
+TI Research performance as a quality signal in international labor markets:
+   Visibility of business schools worldwide through a global research
+   performance system
+SO JOURNAL OF WORLD BUSINESS
+SN 1090-9516
+EI 1878-5573
+PD NOV
+PY 2017
+VL 52
+IS 6
+BP 831
+EP 841
+DI 10.1016/j.jwb.2017.09.003
+UT WOS:000414882500009
+ER
+
+PT J
+AU Katchanov, YL
+   Markova, YV
+AF Katchanov, Yurij L.
+   Markova, Yulia V.
+TI The "space of physics journals": topological structure and the Journal
+   Impact Factor
+SO SCIENTOMETRICS
+RI Katchanov, Yurij/G-1566-2012
+OI Katchanov, Yurij/0000-0001-6836-5549; Markova, Yulia/0000-0001-8202-8370
+SN 0138-9130
+EI 1588-2861
+PD OCT
+PY 2017
+VL 113
+IS 1
+BP 313
+EP 333
+DI 10.1007/s11192-017-2471-2
+UT WOS:000412527000016
+ER
+
+EF

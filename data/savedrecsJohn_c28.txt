@@ -1,0 +1,131 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Cardoso-Grilo, T
+   Monteiro, M
+   Oliveira, MD
+   Amorim-Lopes, M
+   Barbosa-Povoa, A
+AF Cardoso-Grilo, Teresa
+   Monteiro, Marta
+   Oliveira, Monica Duarte
+   Amorim-Lopes, Mario
+   Barbosa-Povoa, Ana
+TI From problem structuring to optimization: A multi-methodological
+   framework to assist the planning of medical training
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+RI Oliveira, Monica/D-4996-2009; Cardoso, Teresa/A-7273-2012
+OI Oliveira, Monica/0000-0003-4053-9214; Amorim Lopes,
+   Mario/0000-0001-9609-4723; Barbosa-Povoa, Ana/0000-0001-6594-9653;
+   Cardoso, Teresa/0000-0001-5494-4494
+SN 0377-2217
+EI 1872-6860
+PD MAR 1
+PY 2019
+VL 273
+IS 2
+BP 662
+EP 683
+DI 10.1016/j.ejor.2018.08.003
+UT WOS:000452345600021
+ER
+
+PT J
+AU Hanafizadeh, P
+   Mehrabioun, M
+AF Hanafizadeh, Payam
+   Mehrabioun, Mohammad
+TI Application of SSM in tackling problematical situations from
+   academicians' viewpoints
+SO SYSTEMIC PRACTICE AND ACTION RESEARCH
+OI Hanafizadeh, Payam/0000-0002-5233-987X
+SN 1094-429X
+EI 1573-9295
+PD APR
+PY 2018
+VL 31
+IS 2
+BP 179
+EP 220
+DI 10.1007/s11213-017-9422-y
+UT WOS:000426694600004
+ER
+
+PT J
+AU Scholz, RW
+AF Scholz, Roland W.
+TI Digital Threat and Vulnerability Management: The SVIDT Method
+SO SUSTAINABILITY
+RI Scholz, Roland/B-2076-2008
+SN 2071-1050
+PD APR
+PY 2017
+VL 9
+IS 4
+AR 554
+DI 10.3390/su9040554
+UT WOS:000402090300077
+ER
+
+PT J
+AU Sadiq, M
+AF Sadiq, Mohd
+TI A Fuzzy Set-Based Approach for the Prioritization of Stakeholders on the
+   Basis of the Importance of Software Requirements
+SO IETE JOURNAL OF RESEARCH
+SN 0377-2063
+EI 0974-780X
+PY 2017
+VL 63
+IS 5
+BP 616
+EP 629
+DI 10.1080/03772063.2017.1313140
+UT WOS:000407616600003
+ER
+
+PT J
+AU Powell, JH
+   Mustafee, N
+   Chen, AS
+   Hammond, M
+AF Powell, J. H.
+   Mustafee, N.
+   Chen, A. S.
+   Hammond, M.
+TI System-focused risk identification and assessment for disaster
+   preparedness: Dynamic threat analysis
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+RI Chen, Albert/E-2735-2010; Mustafee, Navonil/B-8313-2008
+OI Chen, Albert/0000-0003-3708-3332; Mustafee, Navonil/0000-0002-2204-8924
+SN 0377-2217
+EI 1872-6860
+PD OCT 16
+PY 2016
+VL 254
+IS 2
+BP 550
+EP 564
+DI 10.1016/j.ejor.2016.04.037
+UT WOS:000377732300016
+ER
+
+PT J
+AU Julian, R
+AF Julian, Rachel
+TI Is it for donors or locals? The relationship between stakeholder
+   interests and demonstrating results in international development
+SO INTERNATIONAL JOURNAL OF MANAGING PROJECTS IN BUSINESS
+OI Julian, Rachel/0000-0003-4766-777X
+SN 1753-8378
+EI 1753-8386
+PY 2016
+VL 9
+IS 3
+BP 505
+EP 527
+DI 10.1108/IJMPB-09-2015-0091
+UT WOS:000379028800004
+ER
+
+EF

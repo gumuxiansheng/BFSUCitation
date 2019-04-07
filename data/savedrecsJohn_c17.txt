@@ -1,0 +1,212 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Johnson, MP
+   Midgley, G
+   Chichirau, G
+AF Johnson, Michael P.
+   Midgley, Gerald
+   Chichirau, George
+TI Emerging trends and new frontiers in community operational research
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+OI Johnson, Michael/0000-0002-4466-5886
+SN 0377-2217
+EI 1872-6860
+PD AUG 1
+PY 2018
+VL 268
+IS 3
+SI SI
+BP 1178
+EP 1191
+DI 10.1016/j.ejor.2017.11.032
+UT WOS:000431164000032
+ER
+
+PT J
+AU Edwards, P
+AF Edwards, Paul
+TI Critical performativity and the small firm: Challenges and prospects
+SO INTERNATIONAL SMALL BUSINESS JOURNAL-RESEARCHING ENTREPRENEURSHIP
+SN 0266-2426
+EI 1741-2870
+PD JUN
+PY 2018
+VL 36
+IS 4
+SI SI
+BP 368
+EP 379
+DI 10.1177/0266242617747953
+UT WOS:000433913400002
+ER
+
+PT J
+AU Wang, W
+   Liu, WB
+   Mingers, J
+AF Wang, Wei
+   Liu, Wenbin
+   Mingers, John
+TI A systemic method for organisational stakeholder identification and
+   analysis using Soft Systems Methodology (SSM)
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+OI Mingers, John/0000-0002-4102-4696
+SN 0377-2217
+EI 1872-6860
+PD OCT 16
+PY 2015
+VL 246
+IS 2
+BP 562
+EP 574
+DI 10.1016/j.ejor.2015.05.014
+UT WOS:000357348600019
+ER
+
+PT J
+AU Mingers, J
+AF Mingers, John
+TI Helping business schools engage with real problems: The contribution of
+   critical realism and systems thinking
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+SN 0377-2217
+EI 1872-6860
+PD APR 1
+PY 2015
+VL 242
+IS 1
+BP 316
+EP 331
+DI 10.1016/j.ejor.2014.10.058
+UT WOS:000348687900028
+ER
+
+PT J
+AU Edwards, MG
+   Kirkham, N
+AF Edwards, Mark G.
+   Kirkham, Nin
+TI Situating 'Giving Voice to Values': A Metatheoretical Evaluation of a
+   New Approach to Business Ethics
+SO JOURNAL OF BUSINESS ETHICS
+SN 0167-4544
+EI 1573-0697
+PD MAY
+PY 2014
+VL 121
+IS 3
+BP 477
+EP 495
+DI 10.1007/s10551-013-1738-7
+UT WOS:000336399900011
+ER
+
+PT J
+AU Ormerod, RJ
+   Ulrich, W
+AF Ormerod, Richard J.
+   Ulrich, Werner
+TI Operational research and ethics: A literature review
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+RI Ormerod, Richard/F-2877-2013
+SN 0377-2217
+EI 1872-6860
+PD JUL 16
+PY 2013
+VL 228
+IS 2
+BP 291
+EP 307
+DI 10.1016/j.ejor.2012.11.048
+UT WOS:000317710700001
+ER
+
+PT J
+AU Diekmann, S
+AF Diekmann, Sven
+TI Moral mid-level principles in modeling
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+SN 0377-2217
+PD APR 1
+PY 2013
+VL 226
+IS 1
+BP 132
+EP 138
+DI 10.1016/j.ejor.2012.09.027
+UT WOS:000314005400014
+ER
+
+PT J
+AU Rechberg, I
+   Syed, J
+AF Rechberg, Isabel
+   Syed, Jawad
+TI Ethical issues in knowledge management: conflict of knowledge ownership
+SO JOURNAL OF KNOWLEDGE MANAGEMENT
+SN 1367-3270
+EI 1758-7484
+PY 2013
+VL 17
+IS 6
+BP 828
+EP 847
+DI 10.1108/JKM-06-2013-0232
+UT WOS:000328094900002
+ER
+
+PT J
+AU Vanem, E
+AF Vanem, Erik
+TI Ethics and fundamental principles of risk acceptance criteria
+SO SAFETY SCIENCE
+SN 0925-7535
+PD APR
+PY 2012
+VL 50
+IS 4
+SI SI
+BP 958
+EP 967
+DI 10.1016/j.ssci.2011.12.030
+UT WOS:000300960900065
+ER
+
+PT J
+AU Tavella, E
+   Hjortso, CN
+AF Tavella, Elena
+   Hjortso, Carsten Nico
+TI Enhancing the Design and Management of a Local Organic Food Supply Chain
+   with Soft Systems Methodology
+SO INTERNATIONAL FOOD AND AGRIBUSINESS MANAGEMENT REVIEW
+RI Hjortso, Carsten/I-5548-2013; Tavella, Elena/A-8361-2015
+OI Hjortso, Carsten/0000-0002-2365-8740; Tavella, Elena/0000-0001-7511-7199
+SN 1559-2448
+PY 2012
+VL 15
+IS 2
+BP 47
+EP 68
+UT WOS:000305935600003
+ER
+
+PT J
+AU Workman, M
+AF Workman, Michael
+TI Rash impulsivity, vengefulness, virtual-self and amplification of
+   ethical relativism on cyber-smearing against corporations
+SO COMPUTERS IN HUMAN BEHAVIOR
+SN 0747-5632
+PD JAN
+PY 2012
+VL 28
+IS 1
+BP 217
+EP 225
+DI 10.1016/j.chb.2011.09.003
+UT WOS:000297392700025
+ER
+
+EF

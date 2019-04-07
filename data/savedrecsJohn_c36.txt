@@ -1,0 +1,47 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Seddon, PB
+   Constantinidis, D
+   Tamm, T
+   Dod, H
+AF Seddon, Peter B.
+   Constantinidis, Dora
+   Tamm, Toomas
+   Dod, Harjot
+TI How does business analytics contribute to business value?
+SO INFORMATION SYSTEMS JOURNAL
+RI Tamm, Toomas/L-1195-2013
+OI Tamm, Toomas/0000-0003-4120-2453; Seddon, Peter/0000-0001-7517-5524
+SN 1350-1917
+EI 1365-2575
+PD MAY
+PY 2017
+VL 27
+IS 3
+BP 237
+EP 269
+DI 10.1111/isj.12101
+UT WOS:000400273000002
+ER
+
+PT J
+AU Mackay, D
+   Burt, G
+AF Mackay, David
+   Burt, George
+TI Strategic learning, foresight and hyperopia
+SO MANAGEMENT LEARNING
+SN 1350-5076
+EI 1461-7307
+PD NOV
+PY 2015
+VL 46
+IS 5
+BP 546
+EP 564
+DI 10.1177/1350507614549120
+UT WOS:000365743800003
+ER
+
+EF

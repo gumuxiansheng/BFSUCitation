@@ -1,0 +1,81 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Oshri, I
+   Henfridsson, O
+   Kotlarsky, J
+AF Oshri, Ilan
+   Henfridsson, Ola
+   Kotlarsky, Julia
+TI RE-REPRESENTATION AS WORK DESIGN IN OUTSOURCING: A SEMIOTIC VIEW
+SO MIS QUARTERLY
+SN 0276-7783
+PD MAR
+PY 2018
+VL 42
+IS 1
+BP 1
+EP +
+DI 10.25300/MISQ/2018/13427
+UT WOS:000425847700002
+ER
+
+PT J
+AU Beynon-Davies, P
+AF Beynon-Davies, Paul
+TI What's in a face? Making sense of tangible information systems in terms
+   of Peircean semiotics
+SO EUROPEAN JOURNAL OF INFORMATION SYSTEMS
+SN 0960-085X
+EI 1476-9344
+PY 2018
+VL 27
+IS 3
+SI SI
+BP 295
+EP 314
+DI 10.1080/0960085X.2018.1435233
+UT WOS:000434327800003
+ER
+
+PT J
+AU Mingers, J
+   Standing, C
+AF Mingers, John
+   Standing, Craig
+TI Why things happen - Developing the critical realist view of causal
+   mechanisms
+SO INFORMATION AND ORGANIZATION
+OI Mingers, John/0000-0002-4102-4696
+SN 1471-7727
+EI 1873-7919
+PD SEP
+PY 2017
+VL 27
+IS 3
+BP 171
+EP 189
+DI 10.1016/j.infoandorg.2017.07.001
+UT WOS:000412039100004
+ER
+
+PT J
+AU Mingers, J
+AF Mingers, John
+TI Back to the future: A critique of Demetis and Lee's "Crafting theory to
+   satisfy the requirements of systems science"
+SO INFORMATION AND ORGANIZATION
+OI Mingers, John/0000-0002-4102-4696
+SN 1471-7727
+EI 1873-7919
+PD MAR
+PY 2017
+VL 27
+IS 1
+BP 67
+EP 71
+DI 10.1016/j.infoandorg.2017.01.003
+UT WOS:000398751600006
+ER
+
+EF

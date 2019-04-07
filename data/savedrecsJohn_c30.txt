@@ -1,0 +1,96 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Sainaghi, R
+   Phillips, P
+   Zavarrone, E
+AF Sainaghi, Ruggero
+   Phillips, Paul
+   Zavarrone, Emma
+TI Performance measurement in tourism firms: A content analytical
+   meta-approach
+SO TOURISM MANAGEMENT
+SN 0261-5177
+EI 1879-3193
+PD APR
+PY 2017
+VL 59
+BP 36
+EP 56
+DI 10.1016/j.tourman.2016.07.002
+UT WOS:000390739400004
+ER
+
+PT J
+AU Xu, F
+   Li, XX
+   Meng, W
+   Liu, WB
+   Mingers, J
+AF Xu, F.
+   Li, X. X.
+   Meng, W.
+   Liu, W. B.
+   Mingers, J.
+TI Ranking academic impact of world national research institutes-by the
+   Chinese Academy of Sciences
+SO RESEARCH EVALUATION
+OI Mingers, John/0000-0002-4102-4696
+SN 0958-2029
+EI 1471-5449
+PD DEC
+PY 2013
+VL 22
+IS 5
+BP 337
+EP 350
+DI 10.1093/reseval/rvt007
+UT WOS:000326882300007
+ER
+
+PT J
+AU Lowe, T
+AF Lowe, Toby
+TI New development: The paradox of outcomes-the more we measure, the less
+   we understand
+SO PUBLIC MONEY & MANAGEMENT
+OI Lowe, Toby/0000-0003-0699-9962
+SN 0954-0962
+PD MAY 1
+PY 2013
+VL 33
+IS 3
+BP 213
+EP 216
+DI 10.1080/09540962.2013.785707
+UT WOS:000317281400010
+ER
+
+PT J
+AU Liu, WBB
+   Meng, W
+   Mingers, J
+   Tang, N
+   Wang, W
+AF Liu, Wenbin B.
+   Meng, Wei
+   Mingers, John
+   Tang, Ning
+   Wang, Wei
+TI Developing a performance management system using soft systems
+   methodology: A Chinese case study
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+OI Mingers, John/0000-0002-4102-4696
+SN 0377-2217
+EI 1872-6860
+PD DEC 1
+PY 2012
+VL 223
+IS 2
+BP 529
+EP 540
+DI 10.1016/j.ejor.2012.06.029
+UT WOS:000308521400024
+ER
+
+EF

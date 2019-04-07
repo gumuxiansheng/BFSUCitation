@@ -1,0 +1,215 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Molleri, JS
+   Petersen, K
+   Mendes, E
+AF Molleri, Jefferson Seide
+   Petersen, Kai
+   Mendes, Emilia
+TI Towards understanding the relation between citations and research
+   quality in software engineering studies
+SO SCIENTOMETRICS
+AB The importance of achieving high quality in research practice has been highlighted in different disciplines. At the same time, citations are utilized to measure the impact of academic researchers and institutions. One open question is whether the quality in the reporting of research is related to scientific impact, which would be desired. In this exploratory study we aim to: (1) Investigate how consistently a scoring rubric for rigor and relevance has been used to assess research quality of software engineering studies; (2) Explore the relationship between rigor, relevance and citation count. Through backward snowball sampling we identified 718 primary studies assessed through the scoring rubric. We utilized cluster analysis and conditional inference tree to explore the relationship between quality in the reporting of research (represented by rigor and relevance) and scientiometrics (represented by normalized citations). The results show that only rigor is related to studies' normalized citations. Besides that, confounding factors are likely to influence the number of citations. The results also suggest that the scoring rubric is not applied the same way by all studies, and one of the likely reasons is because it was found to be too abstract and in need to be further refined. Our findings could be used as a basis to further understand the relation between the quality in the reporting of research and scientific impact, and foster new discussions on how to fairly acknowledge studies for performing well with respect to the emphasized research quality. Furthermore, we highlighted the need to further improve the scoring rubric.
+SN 0138-9130
+EI 1588-2861
+PD DEC
+PY 2018
+VL 117
+IS 3
+BP 1453
+EP 1478
+DI 10.1007/s11192-018-2907-3
+UT WOS:000451754600007
+PM 30546170
+ER
+
+PT J
+AU Scaratti, G
+   Galuppo, L
+   Gorli, M
+   Gozzoli, C
+   Ripamonti, S
+AF Scaratti, Giuseppe
+   Galuppo, Laura
+   Gorli, Mara
+   Gozzoli, Caterina
+   Ripamonti, Silvio
+TI The social relevance and social impact of knowledge and knowing
+SO MANAGEMENT LEARNING
+AB In recent years, there has been a growing concern around the connection between theory and practice, rigour and relevance, theoretical consistency and impact. This Special Issue links with the literature on the co-production of knowledge and aims to extend the debate to the concept and practice of social value and social relevance, and their impact on different ways of knowing, researching and learning in organizations and in complex contexts and systems.
+OI Gozzoli, Caterina/0000-0003-0200-8033
+SN 1350-5076
+EI 1461-7307
+PD FEB
+PY 2017
+VL 48
+IS 1
+BP 57
+EP 64
+DI 10.1177/1350507616680563
+UT WOS:000396914400005
+ER
+
+PT J
+AU Wells, P
+   Nieuwenhuis, P
+AF Wells, Peter
+   Nieuwenhuis, Paul
+TI Operationalizing Deep Structural Sustainability in Business:
+   Longitudinal Immersion as Extensive Engaged Scholarship
+SO BRITISH JOURNAL OF MANAGEMENT
+AB This paper offers an innovative perspective on engaged scholarship as multiple, cumulative interactions between academia and external organizations in the business and policy realms. A definition of longitudinal immersion is positioned relative to the extant literature on academic engagement as a dialectic relationship between academic research and the praxis of business and society. Using a case study of a specific academic theoretical concept, we seek to demonstrate how over a period of some 25 years the ideas and practice of deep structural sustainability have co-evolved through a process of reflexivity. Drawing from critical management studies and design science we give a different perspective on the processes and mechanisms of engagement and the question of the nature of impact. Notwithstanding the challenges thus presented to researchers in nurturing the ability for informed creativity, it is concluded that future opportunities for engagement and impact may be captured by a longer-term, value-driven and less episodic approach to the entire research process.
+SN 1045-3172
+EI 1467-8551
+PD JAN
+PY 2017
+VL 28
+IS 1
+SI SI
+BP 45
+EP 63
+DI 10.1111/1467-8551.12201
+UT WOS:000394638400004
+ER
+
+PT J
+AU HakemZadeh, F
+   Baba, VV
+AF HakemZadeh, Farimah
+   Baba, Vishwanath V.
+TI Toward a theory of collaboration for evidence-based management
+SO MANAGEMENT DECISION
+AB Purpose - The purpose of this paper is to address the research-practice gap in management and advocate the need for an independent organization, called the evidence-based management (EBMgt) collaboration to facilitate generation and dissemination of knowledge that is rigorous, relevant, and actionable.
+   Design/methodology/approach - The authors use a theory-building approach to collaboration. They identify existing challenges in the research-practice gap literature and argue that EBMgt offers the most viable alternative to narrow this gap. They offer a theory of collaboration with supporting propositions that engages the generators, disseminators, and users of management knowledge in an ongoing sustainable collaboration toward EBMgt.
+   Findings - The authors envision evidence at the center of the EBMgt collaboration. They offer a process model of EBMgt incorporating a collaboration that ensures the fusion of rigor, relevance, and actionability of management knowledge toward the production of strong evidence that is of value to a decision maker. They suggest that the collaboration generate evidence in the form of a systematic review (SR) using a standard template and make it available online to management decision makers around the world in real time. They outline the parameters of the SR and offer details on the design of the Template.
+   Research limitations/implications - The theory of collaboration brings together various competing ideas and recommendations made over the past few decades to close the research-practice gap in management. The theory can be used as a guideline to establish and maintain the operation of an EBMgt collaboration.
+   Practical implications - The authors offer details on the format and content of a standardized SR along with a template to execute it. They believe it would appeal to a practicing manager to know the state-of-the-art knowledge that applies to a decision that he or she is about to make in real time.
+   Originality/value - The work provides a theoretical platform for the idea of EBMgt collaboration that was not available before. The authors add value to the research-practice gap literature by addressing critical concerns including the identification of relevant research questions, evaluating and grading evidence, fostering communication between researchers and practitioners, and translating research to practicing managers. The integration of research and organizational knowledge in the form of an SR that provides decision support to a practicing manager is of significant value to the profession. The conceptualization of the collaboration, not as a research method but as a separate social system that links key management knowledge stakeholders together adds originality to collaboration research.
+SN 0025-1747
+EI 1758-6070
+PY 2016
+VL 54
+IS 10
+BP 2587
+EP 2616
+DI 10.1108/MD-06-2015-0243
+UT WOS:000390762300012
+ER
+
+PT J
+AU Mackay, D
+   Burt, G
+AF Mackay, David
+   Burt, George
+TI Strategic learning, foresight and hyperopia
+SO MANAGEMENT LEARNING
+AB Analogous to long-sightedness, hyperopia describes the condition of being able to grasp with acuity matters which are far removed from current experience (temporally, spatially or cognitively) while encountering difficulty in interpreting and acting on that which is close at hand. We examine data from a top management team's activity in which they collectively display a hyperopic approach. A single in-depth field study is analysed retroductively to examine the plausibility of potential causal mechanisms that might explain the emergence of hyperopia. In the case examined, hyperopia appears to emerge from a strategic learning approach that emphasises foresightful learning mechanisms while neglecting experiential learning from direct exposure to operations. To avoid the emergence of pathologies of managerial approaches, such as hyperopia or myopia, practitioners are encouraged to engage with balanced strategic learning mechanisms of varying temporal, spatial and cognitive scope.
+SN 1350-5076
+EI 1461-7307
+PD NOV
+PY 2015
+VL 46
+IS 5
+BP 546
+EP 564
+DI 10.1177/1350507614549120
+UT WOS:000365743800003
+ER
+
+PT J
+AU Latusek, D
+   Vlaar, PWL
+AF Latusek, Dominika
+   Vlaar, Paul W. L.
+TI Exploring managerial talk through metaphor: An opportunity to bridge
+   rigour and relevance?
+SO MANAGEMENT LEARNING
+AB In this article, we elucidate that exploring managerial talk through the lens of metaphor might offer an opportunity to bridge the often acclaimed gap between rigour and relevance in management research and education. Building on an interpretative research approach and a qualitative field study among managers from the Netherlands, Poland and the United States, we reveal that managers view their day-to-day interactions in relationships with suppliers and clients as if they perform acts, play games and fight battles. These findings corroborate extant research, but they also show that combining (a) the use of metaphor as an analytical tool with (b) a focus on managers' perceptions of their own and others' micro-level behaviours offers substantial potential for synthesising theory with practice. More specifically, we argue that the layered nature of metaphors - on a primary level helping us imbue meaning to raw observations, and on a theoretical level drawing our attention to potentially interesting constructs - propels confrontation and symbiosis between research and practice. Simultaneously, a focus on micro-level behaviours enhances recognisability for practitioners, while facilitating the emergence of fine-mazed patterns underlying emerging constructs on a theoretical level.
+SN 1350-5076
+EI 1461-7307
+PD APR
+PY 2015
+VL 46
+IS 2
+BP 211
+EP 232
+DI 10.1177/1350507614529512
+UT WOS:000352012400005
+ER
+
+PT J
+AU Floyd, LA
+   Xu, F
+   Atkins, R
+   Caldwell, C
+AF Floyd, Larry A.
+   Xu, Feng
+   Atkins, Ryan
+   Caldwell, Cam
+TI Ethical Outcomes and Business Ethics: Toward Improving Business Ethics
+   Education
+SO JOURNAL OF BUSINESS ETHICS
+AB Unethical conduct has reached crisis proportions in business (Walker et al., Wall Str J East Edn, 258(37):A1-A10, 2011) and on today's college campuses (Burke et al., CPA J, 77(5):58-65, 2007). Despite the evidence that suggests that more than half of business students admit to dishonest practices (McCabe et al. 2006), only about 5 % of business school deans surveyed believe that dishonesty is a problem at their schools (Brown et al., Coll Stud J A, 44(2):299-308, 2010). In addition, the AACSB which establishes standards for accredited business schools has resisted the urging of deans and business experts to require business schools to teach an ethics class, and fewer than one-third of businesses schools now teach a business ethics course at the graduate or undergraduate levels (Swanson and Fisher, Advancing Business Ethics Education, 2008). In this paper we briefly introduce the status of business ethics education and report the results of a survey of business students, deans of the top business schools, and business ethics subject matter experts about ten ethical outcomes. We then offer five specific recommendations to encourage business ethics faculty and decision makers to improve the teaching of business ethics.
+SN 0167-4544
+EI 1573-0697
+PD NOV
+PY 2013
+VL 117
+IS 4
+SI SI
+BP 753
+EP 776
+DI 10.1007/s10551-013-1717-z
+UT WOS:000327061800006
+ER
+
+PT J
+AU Ram, M
+   Jones, T
+   Edwards, P
+   Kiselinchev, A
+   Muchenje, L
+   Woldesenbet, K
+AF Ram, Monder
+   Jones, Trevor
+   Edwards, Paul
+   Kiselinchev, Alexander
+   Muchenje, Lovemore
+   Woldesenbet, Kassa
+TI Engaging with super-diversity: New migrant businesses and the
+   research-policy nexus
+SO INTERNATIONAL SMALL BUSINESS JOURNAL-RESEARCHING ENTREPRENEURSHIP
+AB Growing population diversity, referred to as 'super-diversity', has transformed the UK landscape, yet many areas of social science and policy appear reluctant to engage with the phenomenon. This article examines the 'research-policy' nexus as it applies one area of super-diversity: that is, businesses run by new migrants. Based on a year-long collaboration with a regional business support intermediary, the study investigate how policymakers, working with academics, handle the complexities that attend super-diversity in relation to enterprise. The study adopts an 'engaged scholarship' approach comprising participant observation and interviews with community-based intermediaries and business owners from 22 new migrant communities. It finds that policymakers and practitioners struggle to cope with the complexities that attend the processes of super-diversity. The danger of this is a perpetuation of a form of 'ethnic managerialism'. However, by working collaboratively, academics and practitioners can deploy complementary bodies of knowledge to develop constructive intervention to support new migrant businesses.
+OI Woldesenbet, Kassa/0000-0001-8144-2254
+SN 0266-2426
+EI 1741-2870
+PD JUN
+PY 2013
+VL 31
+IS 4
+BP 337
+EP 356
+DI 10.1177/0266242611429979
+UT WOS:000319345600001
+ER
+
+PT J
+AU Cunliffe, AL
+   Sadler-Smith, E
+AF Cunliffe, Ann L.
+   Sadler-Smith, Eugene
+TI Imagination, distinctiveness, and thought-provocation
+SO MANAGEMENT LEARNING
+SN 1350-5076
+PD FEB
+PY 2011
+VL 42
+IS 1
+BP 3
+EP 5
+DI 10.1177/1350507610395696
+UT WOS:000286871800001
+ER
+
+EF

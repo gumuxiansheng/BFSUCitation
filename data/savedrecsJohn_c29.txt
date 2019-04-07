@@ -1,0 +1,130 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Li, J
+   Wu, DS
+   Li, JP
+   Li, ML
+AF Li, Jing
+   Wu, Dengsheng
+   Li, Jianping
+   Li, Minglu
+TI A comparison of 17 article-level bibliometric indicators of
+   institutional research productivity: Evidence from the information
+   management literature of China
+SO INFORMATION PROCESSING & MANAGEMENT
+SN 0306-4573
+EI 1873-5371
+PD SEP
+PY 2017
+VL 53
+IS 5
+BP 1156
+EP 1170
+DI 10.1016/j.ipm.2017.05.002
+UT WOS:000407402200009
+ER
+
+PT J
+AU Mingers, J
+   Meyer, M
+AF Mingers, John
+   Meyer, Martin
+TI Normalizing Google Scholar data for use in research evaluation
+SO SCIENTOMETRICS
+OI Meyer, Martin/0000-0002-5598-9480; Mingers, John/0000-0002-4102-4696
+SN 0138-9130
+EI 1588-2861
+PD AUG
+PY 2017
+VL 112
+IS 2
+BP 1111
+EP 1121
+DI 10.1007/s11192-017-2415-x
+UT WOS:000405275500021
+PM 28781396
+ER
+
+PT J
+AU Peres-Neto, PR
+AF Peres-Neto, Pedro R.
+TI Will technology trample peer review in ecology? Ongoing issues and
+   potential solutions
+SO OIKOS
+OI Peres Neto, Pedro/0000-0002-5629-8067
+SN 0030-1299
+EI 1600-0706
+PD JAN
+PY 2016
+VL 125
+IS 1
+BP 3
+EP 9
+DI 10.1111/oik.02956
+UT WOS:000369953100002
+ER
+
+PT J
+AU Mingers, J
+   Leydesdorff, L
+AF Mingers, John
+   Leydesdorff, Loet
+TI Identifying research fields within business and management: a journal
+   cross-citation analysis
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+RI Zuluaga Gaviria, Jennifer Daniela/T-2321-2017
+SN 0160-5682
+EI 1476-9360
+PD AUG
+PY 2015
+VL 66
+IS 8
+BP 1370
+EP 1384
+DI 10.1057/jors.2014.113
+UT WOS:000359173300012
+ER
+
+PT J
+AU Mingers, J
+AF Mingers, John
+TI Problems with the SNIP indicator
+SO JOURNAL OF INFORMETRICS
+SN 1751-1577
+EI 1875-5879
+PD OCT
+PY 2014
+VL 8
+IS 4
+BP 890
+EP 894
+DI 10.1016/j.joi.2014.09.004
+UT WOS:000345527400009
+ER
+
+PT J
+AU Tatry, MV
+   Fournier, D
+   Jeannequin, B
+   Dosba, F
+AF Tatry, Marie-Violaine
+   Fournier, Dominique
+   Jeannequin, Benoit
+   Dosba, Francoise
+TI EU27 and USA leadership in fruit and vegetable research: a bibliometric
+   study from 2000 to 2009
+SO SCIENTOMETRICS
+SN 0138-9130
+EI 1588-2861
+PD MAR
+PY 2014
+VL 98
+IS 3
+BP 2207
+EP 2222
+DI 10.1007/s11192-013-1160-z
+UT WOS:000331559800039
+ER
+
+EF

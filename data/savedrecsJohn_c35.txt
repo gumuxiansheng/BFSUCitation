@@ -1,0 +1,39 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Wang, SH
+AF Wang, Shih-Hsu
+TI An analytical model for benchmarking the development of national
+   infrastructure items against those in similar countries
+SO INTERNATIONAL JOURNAL OF CRITICAL INFRASTRUCTURE PROTECTION
+SN 1874-5482
+EI 2212-2087
+PD JUN
+PY 2016
+VL 13
+BP 3
+EP 18
+DI 10.1016/j.ijcip.2016.02.002
+UT WOS:000376448400002
+ER
+
+PT J
+AU Schulz, J
+AF Schulz, Jan
+TI Using Monte Carlo simulations to assess the impact of author name
+   disambiguation quality on different bibliometric analyses
+SO SCIENTOMETRICS
+OI Katins, Jan/0000-0002-2312-0588
+SN 0138-9130
+EI 1588-2861
+PD JUN
+PY 2016
+VL 107
+IS 3
+BP 1283
+EP 1298
+DI 10.1007/s11192-016-1892-7
+UT WOS:000376273700018
+ER
+
+EF

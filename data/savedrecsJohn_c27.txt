@@ -1,0 +1,140 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Gusenbauer, M
+AF Gusenbauer, Michael
+TI Google Scholar to overshadow them all? Comparing the sizes of 12
+   academic search engines and bibliographic databases
+SO SCIENTOMETRICS
+SN 0138-9130
+EI 1588-2861
+PD JAN
+PY 2019
+VL 118
+IS 1
+BP 177
+EP 214
+DI 10.1007/s11192-018-2958-5
+UT WOS:000456290600009
+ER
+
+PT J
+AU da Silva, JAT
+AF da Silva, Jaime A. Teixeira
+TI The Google Scholar h-index: useful but burdensome metric
+SO SCIENTOMETRICS
+SN 0138-9130
+EI 1588-2861
+PD OCT
+PY 2018
+VL 117
+IS 1
+BP 631
+EP 635
+DI 10.1007/s11192-018-2859-7
+UT WOS:000442737700036
+ER
+
+PT J
+AU Gantman, ER
+   Dabos, MP
+AF Gantman, Ernesto R.
+   Dabos, Marcelo P.
+TI Research output and impact of the fields of management, economics, and
+   sociology in spain and france: An analysis using google scholar and
+   scopus
+SO JOURNAL OF THE ASSOCIATION FOR INFORMATION SCIENCE AND TECHNOLOGY
+SN 2330-1635
+EI 2330-1643
+PD AUG
+PY 2018
+VL 69
+IS 8
+BP 1054
+EP 1066
+DI 10.1002/asi.24020
+UT WOS:000440036500009
+ER
+
+PT J
+AU Martin-Martin, A
+   Orduna-Malea, E
+   Lopez-Cozar, ED
+AF Martin-Martin, Alberto
+   Orduna-Malea, Enrique
+   Delgado Lopez-Cozar, Emilio
+TI A novel method for depicting academic disciplines through Google Scholar
+   Citations: The case of Bibliometrics
+SO SCIENTOMETRICS
+RI Singh, Moirangthem Lokendro/L-4609-2018; Orduna-Malea,
+   Enrique/D-1867-2009; Delgado Lopez-Cozar, Emilio/I-8406-2012;
+   Martin-Martin, Alberto/G-3982-2014
+OI Singh, Moirangthem Lokendro/0000-0002-8385-214X; Orduna-Malea,
+   Enrique/0000-0002-1989-8477; Delgado Lopez-Cozar,
+   Emilio/0000-0002-8184-551X; Martin-Martin, Alberto/0000-0002-0360-186X
+SN 0138-9130
+EI 1588-2861
+PD MAR
+PY 2018
+VL 114
+IS 3
+BP 1251
+EP 1273
+DI 10.1007/s11192-017-2587-4
+UT WOS:000425306300024
+ER
+
+PT J
+AU Gasparyan, AY
+   Nurmashev, B
+   Yessirkepov, M
+   Endovitskiy, DA
+   Voronov, AA
+   Kitas, GD
+AF Gasparyan, Armen Yuri
+   Nurmashev, Bekaidar
+   Yessirkepov, Marlen
+   Endovitskiy, Dmitry A.
+   Voronov, Alexander A.
+   Kitas, George D.
+TI Researcher and Author Profiles: Opportunities, Advantages, and
+   Limitations
+SO JOURNAL OF KOREAN MEDICAL SCIENCE
+RI ; Gasparyan, Armen Yuri/C-9174-2009
+OI Voronov, Alexander A./0000-0001-8505-7345; Gasparyan, Armen
+   Yuri/0000-0001-8749-6018; Yessirkepov, Marlen/0000-0003-2511-6918
+SN 1011-8934
+EI 1598-6357
+PD NOV
+PY 2017
+VL 32
+IS 11
+BP 1749
+EP 1756
+DI 10.3346/jkms.2017.32.11.1749
+UT WOS:000416688800006
+PM 28960025
+ER
+
+PT J
+AU Mingers, J
+   Meyer, M
+AF Mingers, John
+   Meyer, Martin
+TI Normalizing Google Scholar data for use in research evaluation (vol 112,
+   pg 1111, 2017)
+SO SCIENTOMETRICS
+OI Mingers, John/0000-0002-4102-4696
+SN 0138-9130
+EI 1588-2861
+PD AUG
+PY 2017
+VL 112
+IS 2
+BP 1123
+EP 1124
+DI 10.1007/s11192-017-2424-9
+UT WOS:000405275500022
+ER
+
+EF

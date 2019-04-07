@@ -1,0 +1,21 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Papachristos, G
+AF Papachristos, George
+TI A mechanism based transition research methodology: Bridging analytical
+   approaches
+SO FUTURES
+OI Papachristos, George/0000-0001-7622-3364
+SN 0016-3287
+EI 1873-6378
+PD APR
+PY 2018
+VL 98
+BP 57
+EP 71
+DI 10.1016/j.futures.2018.02.006
+UT WOS:000430784900006
+ER
+
+EF

@@ -1,0 +1,133 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU de la Torre, EM
+   Casani, F
+   Sagarra, M
+AF de la Torre, Eva M.
+   Casani, Fernando
+   Sagarra, Marti
+TI Defining typologies of universities through a DEA-MDS analysis: An
+   institutional characterization for formative evaluation purposes
+SO RESEARCH EVALUATION
+OI de la Torre, Dr. Eva M./0000-0002-8415-6568
+SN 0958-2029
+EI 1471-5449
+PD OCT
+PY 2018
+VL 27
+IS 4
+SI SI
+BP 388
+EP 403
+DI 10.1093/reseval/rvy024
+UT WOS:000456558800011
+ER
+
+PT J
+AU Bojkovic, N
+   Petrovic, M
+   Parezanovic, T
+AF Bojkovic, Natasa
+   Petrovic, Marijana
+   Parezanovic, Tanja
+TI Towards indicators outlining prospects to reduce car use with an
+   application to European cities
+SO ECOLOGICAL INDICATORS
+SN 1470-160X
+EI 1872-7034
+PD JAN
+PY 2018
+VL 84
+BP 172
+EP 182
+DI 10.1016/j.ecolind.2017.08.061
+UT WOS:000425828200018
+ER
+
+PT J
+AU Johnes, J
+AF Johnes, Jill
+TI Operational Research in education
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+OI Johnes, Jill/0000-0002-1607-1810
+SN 0377-2217
+EI 1872-6860
+PD JUN 16
+PY 2015
+VL 243
+IS 3
+BP 683
+EP 696
+DI 10.1016/j.ejor.2014.10.043
+UT WOS:000351981200001
+ER
+
+PT J
+AU Sagarra, M
+   Mar-Molinero, C
+   Garcia-Cestona, M
+AF Sagarra, Marti
+   Mar-Molinero, Cecilio
+   Garcia-Cestona, Miguel
+TI Spanish savings banks in the credit crunch: could distress have been
+   predicted before the crisis? A multivariate statistical analysis
+SO EUROPEAN JOURNAL OF FINANCE
+RI Garcia-Cestona, Miguel/B-7443-2015
+OI Garcia-Cestona, Miguel/0000-0002-5533-5313; Sagarra,
+   Marti/0000-0003-2938-7395
+SN 1351-847X
+EI 1466-4364
+PD FEB 19
+PY 2015
+VL 21
+IS 3
+BP 195
+EP 214
+DI 10.1080/1351847X.2013.784208
+UT WOS:000346410600002
+ER
+
+PT J
+AU Serrano-Cinca, C
+   Fuertes-Callen, Y
+   Gutierrez-Nieto, B
+AF Serrano-Cinca, Carlos
+   Fuertes-Callen, Yolanda
+   Gutierrez-Nieto, Begona
+TI Internet positioning and performance of e-tailers: An empirical analysis
+SO ELECTRONIC COMMERCE RESEARCH AND APPLICATIONS
+RI Serrano-Cinca, Carlos/K-1744-2017
+OI Serrano-Cinca, Carlos/0000-0003-2596-9638; Gutierrez Nieto,
+   Begona/0000-0003-3044-4983
+SN 1567-4223
+EI 1873-7846
+PD MAY-JUN
+PY 2010
+VL 9
+IS 3
+SI SI
+BP 237
+EP 248
+DI 10.1016/j.elerap.2009.09.001
+UT WOS:000277469100007
+ER
+
+PT J
+AU Jessop, A
+AF Jessop, A.
+TI A portfolio model for performance assessment: the Financial Times MBA
+   ranking
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+SN 0160-5682
+PD APR
+PY 2010
+VL 61
+IS 4
+BP 632
+EP 639
+DI 10.1057/jors.2008.193
+UT WOS:000275445300010
+ER
+
+EF

@@ -1,0 +1,31 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Martin-Martin, A
+   Orduna-Malea, E
+   Lopez-Cozar, ED
+AF Martin-Martin, Alberto
+   Orduna-Malea, Enrique
+   Delgado Lopez-Cozar, Emilio
+TI A novel method for depicting academic disciplines through Google Scholar
+   Citations: The case of Bibliometrics
+SO SCIENTOMETRICS
+RI Singh, Moirangthem Lokendro/L-4609-2018; Orduna-Malea,
+   Enrique/D-1867-2009; Delgado Lopez-Cozar, Emilio/I-8406-2012;
+   Martin-Martin, Alberto/G-3982-2014
+OI Singh, Moirangthem Lokendro/0000-0002-8385-214X; Orduna-Malea,
+   Enrique/0000-0002-1989-8477; Delgado Lopez-Cozar,
+   Emilio/0000-0002-8184-551X; Martin-Martin, Alberto/0000-0002-0360-186X
+SN 0138-9130
+EI 1588-2861
+PD MAR
+PY 2018
+VL 114
+IS 3
+BP 1251
+EP 1273
+DI 10.1007/s11192-017-2587-4
+UT WOS:000425306300024
+ER
+
+EF

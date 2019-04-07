@@ -1,0 +1,177 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Thanassoulis, E
+   Sotiros, D
+   Koronakos, G
+   Despotis, D
+AF Thanassoulis, E.
+   Sotiros, D.
+   Koronakos, G.
+   Despotis, D.
+TI Assessing the cost-effectiveness of university academic recruitment and
+   promotion policies
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+CT 23rd International Conference on Multiple Criteria Decision Making
+   (MCDM0
+CY AUG 02-07, 2015
+CL Hamburg, GERMANY
+RI ; Koronakos, Gregory/I-2130-2016
+OI Sotiros, Dimitrios Georgios/0000-0002-9995-3906; Thanassoulis,
+   Emmanuel/0000-0002-3769-5374; Koronakos, Gregory/0000-0002-6170-3725
+SN 0377-2217
+EI 1872-6860
+PD JAN 16
+PY 2018
+VL 264
+IS 2
+BP 742
+EP 755
+DI 10.1016/j.ejor.2017.06.046
+UT WOS:000413177900027
+ER
+
+PT J
+AU Mingers, J
+   Leydesdorff, L
+AF Mingers, John
+   Leydesdorff, Loet
+TI Identifying research fields within business and management: a journal
+   cross-citation analysis
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+RI Zuluaga Gaviria, Jennifer Daniela/T-2321-2017
+SN 0160-5682
+EI 1476-9360
+PD AUG
+PY 2015
+VL 66
+IS 8
+BP 1370
+EP 1384
+DI 10.1057/jors.2014.113
+UT WOS:000359173300012
+ER
+
+PT J
+AU Mingers, J
+AF Mingers, John
+TI Helping business schools engage with real problems: The contribution of
+   critical realism and systems thinking
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+SN 0377-2217
+EI 1872-6860
+PD APR 1
+PY 2015
+VL 242
+IS 1
+BP 316
+EP 331
+DI 10.1016/j.ejor.2014.10.058
+UT WOS:000348687900028
+ER
+
+PT J
+AU Rigby, D
+   Burton, M
+   Lusk, JL
+AF Rigby, Dan
+   Burton, Michael
+   Lusk, Jayson L.
+TI Journals, Preferences, and Publishing in Agricultural and Environmental
+   Economics
+SO AMERICAN JOURNAL OF AGRICULTURAL ECONOMICS
+RI burton, michael/A-9541-2009; Rigby, Dan/A-9606-2009
+OI burton, michael/0000-0003-4213-4093; Rigby, Dan/0000-0003-0820-5740
+SN 0002-9092
+EI 1467-8276
+PD MAR
+PY 2015
+VL 97
+IS 2
+BP 490
+EP 509
+DI 10.1093/ajae/aau102
+UT WOS:000351474300009
+ER
+
+PT J
+AU Tourish, D
+   Willmott, H
+AF Tourish, Dennis
+   Willmott, Hugh
+TI In Defiance of Folly: Journal rankings, mindless measures and the ABS
+   Guide
+SO CRITICAL PERSPECTIVES ON ACCOUNTING
+SN 1045-2354
+PD FEB
+PY 2015
+VL 26
+BP 37
+EP 46
+DI 10.1016/j.cpa.2014.02.004
+UT WOS:000350085400004
+ER
+
+PT J
+AU Wood, M
+AF Wood, Martin
+TI AUDIO-VISUAL PRODUCTION AND SHORTCOMINGS OF DISTRIBUTION IN ORGANISATION
+   STUDIES
+SO JOURNAL OF CULTURAL ECONOMY
+OI Wood, Martin/0000-0002-8979-9626
+SN 1753-0350
+EI 1753-0369
+PY 2015
+VL 8
+IS 4
+BP 462
+EP 478
+DI 10.1080/17530350.2014.942346
+UT WOS:000372131600004
+ER
+
+PT J
+AU Mingers, J
+   Willmott, H
+AF Mingers, John
+   Willmott, Hugh
+TI Taylorizing business school research: On the "one best way' performative
+   effects of journal ranking lists
+SO HUMAN RELATIONS
+OI Mingers, John/0000-0002-4102-4696
+SN 0018-7267
+EI 1741-282X
+PD AUG
+PY 2013
+VL 66
+IS 8
+BP 1051
+EP 1073
+DI 10.1177/0018726712467048
+UT WOS:000322506300002
+ER
+
+PT J
+AU Baruch, Y
+   Ghobadian, A
+   Ozbilgin, M
+AF Baruch, Yehuda
+   Ghobadian, Abby
+   Ozbilgin, Mustafa
+TI Open Access the Wrong Response to a Complex Question: The Case of the
+   Finch Report
+SO BRITISH JOURNAL OF MANAGEMENT
+RI Ozbilgin, Mustafa/A-1343-2008
+OI Ozbilgin, Mustafa/0000-0002-8672-9534
+SN 1045-3172
+PD JUN
+PY 2013
+VL 24
+IS 2
+BP 147
+EP 155
+DI 10.1111/1467-8551.12016
+UT WOS:000318279700001
+ER
+
+EF

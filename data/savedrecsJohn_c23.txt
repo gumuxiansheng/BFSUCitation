@@ -1,0 +1,170 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Mingers, J
+   Yang, LY
+AF Mingers, John
+   Yang, Liying
+TI Evaluating journal quality: A review of journal citation indicators, and
+   ranking in business and management
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+OI Mingers, John/0000-0002-4102-4696
+SN 0377-2217
+EI 1872-6860
+PD FEB 16
+PY 2017
+VL 257
+IS 1
+BP 323
+EP 337
+DI 10.1016/j.ejor.2016.07.058
+UT WOS:000386738300027
+ER
+
+PT J
+AU Leydesdorff, L
+   Wouters, P
+   Bornmann, L
+AF Leydesdorff, Loet
+   Wouters, Paul
+   Bornmann, Lutz
+TI Professional and citizen bibliometrics: complementarities and
+   ambivalences in the development and use of indicators-a state-of-the-art
+   report
+SO SCIENTOMETRICS
+RI Zuluaga Gaviria, Jennifer Daniela/T-2321-2017; Singh, Moirangthem
+   Lokendro/L-4609-2018; Leydesdorff, Loet/E-2903-2010
+OI Singh, Moirangthem Lokendro/0000-0002-8385-214X; Leydesdorff,
+   Loet/0000-0002-7835-3098
+SN 0138-9130
+EI 1588-2861
+PD DEC
+PY 2016
+VL 109
+IS 3
+BP 2129
+EP 2150
+DI 10.1007/s11192-016-2150-8
+UT WOS:000389336100039
+PM 27942086
+ER
+
+PT J
+AU Waltman, L
+AF Waltman, Ludo
+TI A review of the literature on citation impact indicators
+SO JOURNAL OF INFORMETRICS
+SN 1751-1577
+EI 1875-5879
+PD MAY
+PY 2016
+VL 10
+IS 2
+BP 365
+EP 391
+DI 10.1016/j.joi.2016.02.007
+UT WOS:000377413800004
+ER
+
+PT J
+AU Bouyssou, D
+   Marchant, T
+AF Bouyssou, Denis
+   Marchant, Thierry
+TI Ranking authors using fractional counting of citations: An axiomatic
+   approach
+SO JOURNAL OF INFORMETRICS
+SN 1751-1577
+EI 1875-5879
+PD FEB
+PY 2016
+VL 10
+IS 1
+BP 183
+EP 199
+DI 10.1016/j.joi.2015.12.006
+UT WOS:000371938600017
+ER
+
+PT J
+AU Moed, HF
+AF Moed, Henk F.
+TI Comprehensive indicator comparisons intelligible to non-experts: the
+   case of two SNIP versions
+SO SCIENTOMETRICS
+SN 0138-9130
+EI 1588-2861
+PD JAN
+PY 2016
+VL 106
+IS 1
+BP 51
+EP 65
+DI 10.1007/s11192-015-1781-5
+UT WOS:000368075800004
+ER
+
+PT J
+AU Mingers, J
+   Leydesdorff, L
+AF Mingers, John
+   Leydesdorff, Loet
+TI A review of theory and practice in scientometrics
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+RI Zuluaga Gaviria, Jennifer Daniela/T-2321-2017; Leydesdorff,
+   Loet/E-2903-2010
+OI Leydesdorff, Loet/0000-0002-7835-3098; Mingers, John/0000-0002-4102-4696
+SN 0377-2217
+EI 1872-6860
+PD OCT 1
+PY 2015
+VL 246
+IS 1
+BP 1
+EP 19
+DI 10.1016/j.ejor.2015.04.002
+UT WOS:000356742800001
+ER
+
+PT J
+AU Mingers, J
+   Leydesdorff, L
+AF Mingers, John
+   Leydesdorff, Loet
+TI Identifying research fields within business and management: a journal
+   cross-citation analysis
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+RI Zuluaga Gaviria, Jennifer Daniela/T-2321-2017
+SN 0160-5682
+EI 1476-9360
+PD AUG
+PY 2015
+VL 66
+IS 8
+BP 1370
+EP 1384
+DI 10.1057/jors.2014.113
+UT WOS:000359173300012
+ER
+
+PT J
+AU Leydesdorff, L
+   Milojevic, S
+AF Leydesdorff, Loet
+   Milojevic, Stasa
+TI The Citation Impact of German Sociology Journals: Some Problems with the
+   Use of Scientometric Indicators in Journal and Research Evaluations
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+RI Zuluaga Gaviria, Jennifer Daniela/T-2321-2017
+SN 0038-6073
+PY 2015
+VL 66
+IS 2
+BP 193
+EP 204
+DI 10.5771/0038-6073-2015-2-193
+UT WOS:000368313200006
+ER
+
+EF

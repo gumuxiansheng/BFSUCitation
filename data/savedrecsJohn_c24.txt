@@ -1,0 +1,157 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Hanafizadeh, P
+   Mehrabioun, M
+AF Hanafizadeh, Payam
+   Mehrabioun, Mohammad
+TI Application of SSM in tackling problematical situations from
+   academicians' viewpoints
+SO SYSTEMIC PRACTICE AND ACTION RESEARCH
+OI Hanafizadeh, Payam/0000-0002-5233-987X
+SN 1094-429X
+EI 1573-9295
+PD APR
+PY 2018
+VL 31
+IS 2
+BP 179
+EP 220
+DI 10.1007/s11213-017-9422-y
+UT WOS:000426694600004
+ER
+
+PT J
+AU Scozzi, B
+   Bellantuono, N
+   Pontrandolfo, P
+AF Scozzi, Barbara
+   Bellantuono, Nicola
+   Pontrandolfo, Pierpaolo
+TI Managing Open Innovation in Urban Labs
+SO GROUP DECISION AND NEGOTIATION
+OI Scozzi, Barbara/0000-0001-7359-4469
+SN 0926-2644
+EI 1572-9907
+PD SEP
+PY 2017
+VL 26
+IS 5
+SI SI
+BP 857
+EP 874
+DI 10.1007/s10726-017-9524-z
+UT WOS:000410181900002
+ER
+
+PT J
+AU Sainaghi, R
+   Phillips, P
+   Zavarrone, E
+AF Sainaghi, Ruggero
+   Phillips, Paul
+   Zavarrone, Emma
+TI Performance measurement in tourism firms: A content analytical
+   meta-approach
+SO TOURISM MANAGEMENT
+SN 0261-5177
+EI 1879-3193
+PD APR
+PY 2017
+VL 59
+BP 36
+EP 56
+DI 10.1016/j.tourman.2016.07.002
+UT WOS:000390739400004
+ER
+
+PT J
+AU Mello, MH
+   Gosling, J
+   Naim, MM
+   Strandhagen, JO
+   Brett, PO
+AF Mello, Mario Henrique
+   Gosling, Jonathan
+   Naim, Mohamed M.
+   Strandhagen, Jan Ola
+   Brett, Per Olaf
+TI Improving coordination in an engineer-to-order supply chain using a soft
+   systems approach
+SO PRODUCTION PLANNING & CONTROL
+OI Gosling, Jonathan/0000-0002-9027-9011
+SN 0953-7287
+EI 1366-5871
+PY 2017
+VL 28
+IS 2
+BP 89
+EP 107
+DI 10.1080/09537287.2016.1233471
+UT WOS:000390749900001
+ER
+
+PT J
+AU Hales, DN
+   Chakravorty, SS
+AF Hales, Douglas N.
+   Chakravorty, Satya S.
+TI Creating high reliability organizations using mindfulness
+SO JOURNAL OF BUSINESS RESEARCH
+SN 0148-2963
+EI 1873-7978
+PD AUG
+PY 2016
+VL 69
+IS 8
+BP 2873
+EP 2881
+DI 10.1016/j.jbusres.2015.12.056
+UT WOS:000377726600027
+ER
+
+PT J
+AU Wang, W
+   Liu, WB
+   Mingers, J
+AF Wang, Wei
+   Liu, Wenbin
+   Mingers, John
+TI A systemic method for organisational stakeholder identification and
+   analysis using Soft Systems Methodology (SSM)
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+OI Mingers, John/0000-0002-4102-4696
+SN 0377-2217
+EI 1872-6860
+PD OCT 16
+PY 2015
+VL 246
+IS 2
+BP 562
+EP 574
+DI 10.1016/j.ejor.2015.05.014
+UT WOS:000357348600019
+ER
+
+PT J
+AU Hanafizadeh, P
+   Zadeh, RV
+AF Hanafizadeh, Payam
+   Zadeh, Reihaneh Vali
+TI Vendor Selection Using Soft Thinking Approach: A Case Study of National
+   Iranian South Oil Company
+SO SYSTEMIC PRACTICE AND ACTION RESEARCH
+OI Hanafizadeh, Payam/0000-0002-5233-987X
+SN 1094-429X
+EI 1573-9295
+PD AUG
+PY 2015
+VL 28
+IS 4
+BP 355
+EP 381
+DI 10.1007/s11213-014-9334-z
+UT WOS:000358255200004
+ER
+
+EF

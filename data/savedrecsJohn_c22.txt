@@ -1,0 +1,162 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Yearworth, M
+   White, L
+AF Yearworth, Mike
+   White, Leroy
+TI Spontaneous emergence of Community OR: Self-initiating, self-organising
+   problem structuring mediated by social media
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+RI Yearworth, Mike/A-9463-2012
+OI Yearworth, Mike/0000-0002-8468-0335
+SN 0377-2217
+EI 1872-6860
+PD AUG 1
+PY 2018
+VL 268
+IS 3
+SI SI
+BP 809
+EP 824
+DI 10.1016/j.ejor.2018.01.024
+UT WOS:000431164000005
+ER
+
+PT J
+AU Herron, R
+   Mendiwelso-Bendek, Z
+AF Herron, Rebecca
+   Mendiwelso-Bendek, Zoraida
+TI Supporting self-organised community research through informal learning
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+OI Mendiwelso-Bendek, Zoraida/0000-0001-6251-315X
+SN 0377-2217
+EI 1872-6860
+PD AUG 1
+PY 2018
+VL 268
+IS 3
+SI SI
+BP 825
+EP 835
+DI 10.1016/j.ejor.2017.08.009
+UT WOS:000431164000006
+ER
+
+PT J
+AU Marttunen, M
+   Lienert, J
+   Belton, V
+AF Marttunen, Mika
+   Lienert, Judit
+   Belton, Valerie
+TI Structuring problems for Multi-Criteria Decision Analysis in practice: A
+   literature review of method combinations
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+RI Lienert, Judit/B-1138-2013; Marttunen, Mika/G-3134-2019
+OI Lienert, Judit/0000-0003-1925-3895; Marttunen, Mika/0000-0001-9494-4181
+SN 0377-2217
+EI 1872-6860
+PD NOV 16
+PY 2017
+VL 263
+IS 1
+BP 1
+EP 17
+DI 10.1016/j.ejor.2017.04.041
+UT WOS:000405157300001
+ER
+
+PT J
+AU White, L
+   Burger, K
+   Yearworth, M
+AF White, Leroy
+   Burger, Katharina
+   Yearworth, Mike
+TI Understanding behaviour in problem structuring methods interventions
+   with activity theory
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+RI Yearworth, Mike/A-9463-2012
+OI Yearworth, Mike/0000-0002-8468-0335; Burger,
+   Katharina/0000-0002-4348-5381
+SN 0377-2217
+EI 1872-6860
+PD MAR 16
+PY 2016
+VL 249
+IS 3
+BP 983
+EP 1004
+DI 10.1016/j.ejor.2015.07.044
+UT WOS:000370463500018
+ER
+
+PT J
+AU Hammer, RJ
+   Edwards, JS
+   Tapinos, E
+AF Hammer, R. J.
+   Edwards, J. S.
+   Tapinos, E.
+TI Examining the strategy development process through the lens of complex
+   adaptive systems theory
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+OI Edwards, John S./0000-0003-3979-017X
+SN 0160-5682
+EI 1476-9360
+PD JUL
+PY 2012
+VL 63
+IS 7
+BP 909
+EP 919
+DI 10.1057/jors.2011.97
+UT WOS:000305083500005
+ER
+
+PT J
+AU Li, Y
+   Zhu, ZC
+   Gerard, CM
+AF Li, Ya
+   Zhu, Zhichang
+   Gerard, Catherine M.
+TI Learning from Conflict Resolution: An Opportunity to Systems Thinking
+SO SYSTEMS RESEARCH AND BEHAVIORAL SCIENCE
+SN 1092-7026
+EI 1099-1743
+PD MAR-APR
+PY 2012
+VL 29
+IS 2
+SI SI
+BP 209
+EP 220
+DI 10.1002/sres.2107
+UT WOS:000300985500009
+ER
+
+PT J
+AU White, L
+AF White, Leroy
+TI Understanding problem structuring methods interventions
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+CT International Conference on Information Systems, Logistics and Supply
+   Chain
+CY MAY 14-17, 2006
+CL Lyon, FRANCE
+SN 0377-2217
+EI 1872-6860
+PD DEC 16
+PY 2009
+VL 199
+IS 3
+BP 823
+EP 833
+DI 10.1016/j.ejor.2009.01.066
+UT WOS:000267357600026
+ER
+
+EF

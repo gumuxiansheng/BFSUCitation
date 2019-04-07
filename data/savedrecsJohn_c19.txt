@@ -1,0 +1,206 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Molderez, I
+   Ceulemans, K
+AF Molderez, Ingrid
+   Ceulemans, Kim
+TI The power of art to foster systems thinking, one of the key competencies
+   of education for sustainable development
+SO JOURNAL OF CLEANER PRODUCTION
+SN 0959-6526
+EI 1879-1786
+PD JUN 10
+PY 2018
+VL 186
+BP 758
+EP 770
+DI 10.1016/j.jclepro.2018.03.120
+UT WOS:000430785600065
+ER
+
+PT J
+AU Brousselle, A
+   Buregeya, JM
+AF Brousselle, Astrid
+   Buregeya, Jean-Marie
+TI Theory-based evaluations: Framing the existence of a new theory in
+   evaluation and the rise of the 5th generation
+SO EVALUATION
+CT Biennial Conference of the European-Evaluation-Society (EES) on
+   Evaluation Futures in Europe and Beyond - Connectivity, Innovation and
+   Use
+CY 2016
+CL Maastricht, NETHERLANDS
+SP European Evaluat Soc
+SN 1356-3890
+EI 1461-7153
+PD APR
+PY 2018
+VL 24
+IS 2
+SI SI
+BP 153
+EP 168
+DI 10.1177/1356389018765487
+UT WOS:000430229600003
+ER
+
+PT J
+AU Small, A
+   Wainwright, D
+AF Small, Adrian
+   Wainwright, David
+TI Privacy and security of electronic patient records - Tailoring
+   multimethodology to explore the socio-political problems associated with
+   Role Based Access Control systems
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+RI Small, Adrian/E-1702-2014
+OI Small, Adrian/0000-0001-5154-0080
+SN 0377-2217
+EI 1872-6860
+PD FEB 16
+PY 2018
+VL 265
+IS 1
+BP 344
+EP 360
+DI 10.1016/j.ejor.2017.07.041
+UT WOS:000415775300027
+ER
+
+PT J
+AU Williams, CK
+   Wynn, DE
+AF Williams, Clay K.
+   Wynn, Donald E., Jr.
+TI A critical realist script for creative theorising in information systems
+SO EUROPEAN JOURNAL OF INFORMATION SYSTEMS
+SN 0960-085X
+EI 1476-9344
+PY 2018
+VL 27
+IS 3
+SI SI
+BP 315
+EP 325
+DI 10.1080/0960085X.2018.1435231
+UT WOS:000434327800004
+ER
+
+PT J
+AU Wells, P
+   Nieuwenhuis, P
+AF Wells, Peter
+   Nieuwenhuis, Paul
+TI Operationalizing Deep Structural Sustainability in Business:
+   Longitudinal Immersion as Extensive Engaged Scholarship
+SO BRITISH JOURNAL OF MANAGEMENT
+SN 1045-3172
+EI 1467-8551
+PD JAN
+PY 2017
+VL 28
+IS 1
+SI SI
+BP 45
+EP 63
+DI 10.1111/1467-8551.12201
+UT WOS:000394638400004
+ER
+
+PT J
+AU Viegas, CV
+   Bond, AJ
+   Vaz, CR
+   Borchardt, M
+   Pereira, GM
+   Selig, PM
+   Varvakis, G
+AF Viegas, Claudia V.
+   Bond, Alan J.
+   Vaz, Caroline R.
+   Borchardt, Miriam
+   Pereira, Giancarlo Medeiros
+   Selig, Paulo M.
+   Varvakis, Gregorio
+TI Critical attributes of Sustainability in Higher Education: a
+   categorisation from literature review
+SO JOURNAL OF CLEANER PRODUCTION
+OI Pereira, Giancarlo/0000-0003-0539-2851; Bond, Alan/0000-0002-3809-5805
+SN 0959-6526
+EI 1879-1786
+PD JUL 10
+PY 2016
+VL 126
+BP 260
+EP 276
+DI 10.1016/j.jclepro.2016.02.106
+UT WOS:000376801100021
+ER
+
+PT J
+AU Lane, DC
+   Munro, E
+   Husemann, E
+AF Lane, David C.
+   Munro, Eileen
+   Husemann, Elke
+TI Blending systems thinking approaches for organisational analysis:
+   Reviewing child protection in England
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+OI Lane, David/0000-0001-6658-7041
+SN 0377-2217
+EI 1872-6860
+PD JUN 1
+PY 2016
+VL 251
+IS 2
+BP 613
+EP 623
+DI 10.1016/j.ejor.2015.10.041
+UT WOS:000378100800022
+ER
+
+PT J
+AU Midgley, G
+   Wilby, J
+AF Midgley, Gerald
+   Wilby, Jennifer
+TI Learning across Boundaries: Exploring the Variety of Systems Theory and
+   Practice
+SO SYSTEMS RESEARCH AND BEHAVIORAL SCIENCE
+SN 1092-7026
+EI 1099-1743
+PD SEP
+PY 2015
+VL 32
+IS 5
+SI SI
+BP 509
+EP 513
+DI 10.1002/sres.2357
+UT WOS:000360841700001
+ER
+
+PT J
+AU Rajagopalan, R
+   Midgley, G
+AF Rajagopalan, Raghav
+   Midgley, Gerald
+TI Knowing Differently in Systemic Intervention
+SO SYSTEMS RESEARCH AND BEHAVIORAL SCIENCE
+SN 1092-7026
+EI 1099-1743
+PD SEP
+PY 2015
+VL 32
+IS 5
+SI SI
+BP 546
+EP 561
+DI 10.1002/sres.2352
+UT WOS:000360841700005
+ER
+
+EF

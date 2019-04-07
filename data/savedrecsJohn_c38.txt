@@ -1,0 +1,26 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Morgan, JS
+   Howick, S
+   Belton, V
+AF Morgan, Jennifer Sian
+   Howick, Susan
+   Belton, Valerie
+TI A toolkit of designs for mixing Discrete Event Simulation and System
+   Dynamics
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+OI howick, susan/0000-0002-0796-7981
+SN 0377-2217
+EI 1872-6860
+PD MAR 16
+PY 2017
+VL 257
+IS 3
+BP 907
+EP 918
+DI 10.1016/j.ejor.2016.08.016
+UT WOS:000389098100018
+ER
+
+EF

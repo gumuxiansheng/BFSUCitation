@@ -1,0 +1,66 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Mingers, J
+   Yang, LY
+AF Mingers, John
+   Yang, Liying
+TI Evaluating journal quality: A review of journal citation indicators, and
+   ranking in business and management
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+OI Mingers, John/0000-0002-4102-4696
+SN 0377-2217
+EI 1872-6860
+PD FEB 16
+PY 2017
+VL 257
+IS 1
+BP 323
+EP 337
+DI 10.1016/j.ejor.2016.07.058
+UT WOS:000386738300027
+ER
+
+PT J
+AU Ma, RM
+   Yan, EJ
+AF Ma, Ruimin
+   Yan, Erjia
+TI Uncovering inter-specialty knowledge communication using author citation
+   networks
+SO SCIENTOMETRICS
+SN 0138-9130
+EI 1588-2861
+PD NOV
+PY 2016
+VL 109
+IS 2
+BP 839
+EP 854
+DI 10.1007/s11192-016-2091-2
+UT WOS:000386373000011
+ER
+
+PT J
+AU Mingers, J
+   Leydesdorff, L
+AF Mingers, John
+   Leydesdorff, Loet
+TI A review of theory and practice in scientometrics
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+RI Zuluaga Gaviria, Jennifer Daniela/T-2321-2017; Leydesdorff,
+   Loet/E-2903-2010
+OI Leydesdorff, Loet/0000-0002-7835-3098; Mingers, John/0000-0002-4102-4696
+SN 0377-2217
+EI 1872-6860
+PD OCT 1
+PY 2015
+VL 246
+IS 1
+BP 1
+EP 19
+DI 10.1016/j.ejor.2015.04.002
+UT WOS:000356742800001
+ER
+
+EF

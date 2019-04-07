@@ -1,0 +1,81 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Little, JC
+   Hester, ET
+   Elsawah, S
+   Filz, GM
+   Sandu, A
+   Carey, CC
+   Iwanaga, T
+   Jakeman, AJ
+AF Little, John C.
+   Hester, Erich T.
+   Elsawah, Sondoss
+   Filz, George M.
+   Sandu, Adrian
+   Carey, Cayelan C.
+   Iwanaga, Takuya
+   Jakeman, Anthony J.
+TI A tiered, system-of-systems modeling framework for resolving complex
+   socio-environmental policy issues
+SO ENVIRONMENTAL MODELLING & SOFTWARE
+OI Iwanaga, Takuya/0000-0001-8173-0870; Hester, Erich/0000-0002-7510-5136
+SN 1364-8152
+EI 1873-6726
+PD FEB
+PY 2019
+VL 112
+BP 82
+EP 94
+DI 10.1016/j.envsoft.2018.11.011
+UT WOS:000453923900008
+ER
+
+PT J
+AU Baskerville, R
+   Baiyere, A
+   Gregor, S
+   Hevner, A
+   Rossi, M
+AF Baskerville, Richard
+   Baiyere, Abayomi
+   Gregor, Shirley
+   Hevner, Alan
+   Rossi, Matti
+TI Design Science Research Contributions: Finding a Balance between
+   Artifact and Theory
+SO JOURNAL OF THE ASSOCIATION FOR INFORMATION SYSTEMS
+SN 1536-9323
+EI 1558-3457
+PY 2018
+VL 19
+IS 5
+BP 358
+EP 376
+DI 10.17705/1jais.00495
+UT WOS:000462247300001
+ER
+
+PT J
+AU Demetis, DS
+   Lee, AS
+AF Demetis, Dionysios S.
+   Lee, Allen S.
+TI Taking the first step with systems theorizing in information systems: A
+   response
+SO INFORMATION AND ORGANIZATION
+OI Demetis, Dionysios/0000-0002-3411-0609
+SN 1471-7727
+EI 1873-7919
+PD SEP
+PY 2017
+VL 27
+IS 3
+BP 163
+EP 170
+DI 10.1016/j.infoandorg.2017.06.003
+UT WOS:000412039100003
+ER
+
+EF

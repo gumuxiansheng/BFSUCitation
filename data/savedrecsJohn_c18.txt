@@ -1,0 +1,292 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Santos, SP
+   Belton, V
+   Howick, S
+   Pilkington, M
+AF Santos, Sergio P.
+   Belton, Valerie
+   Howick, Susan
+   Pilkington, Martin
+TI Measuring organisational performance using a mix of OR methods
+SO TECHNOLOGICAL FORECASTING AND SOCIAL CHANGE
+RI Santos, Sergio/A-9695-2011
+OI Santos, Sergio/0000-0001-9811-3799; howick, susan/0000-0002-0796-7981
+SN 0040-1625
+EI 1873-5509
+PD JUN
+PY 2018
+VL 131
+BP 18
+EP 30
+DI 10.1016/j.techfore.2017.07.028
+UT WOS:000430519300003
+ER
+
+PT J
+AU Sepehrirad, R
+   Rajabzadeh, A
+   Azar, A
+   Zarei, B
+AF Sepehrirad, Ramin
+   Rajabzadeh, Ali
+   Azar, Adel
+   Zarei, Behrouz
+TI A Soft Systems Methodology Approach to Occupational Cancer Control
+   Problem: a Case Study of the Ministry of Petroleum of Iran
+SO SYSTEMIC PRACTICE AND ACTION RESEARCH
+OI Rajabzadeh Ghatari, Ali/0000-0002-8470-3568
+SN 1094-429X
+EI 1573-9295
+PD DEC
+PY 2017
+VL 30
+IS 6
+BP 609
+EP 626
+DI 10.1007/s11213-017-9409-8
+UT WOS:000415349400003
+ER
+
+PT J
+AU Wang, W
+   Liu, WB
+   Mingers, J
+AF Wang, Wei
+   Liu, Wenbin
+   Mingers, John
+TI A systemic method for organisational stakeholder identification and
+   analysis using Soft Systems Methodology (SSM)
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+OI Mingers, John/0000-0002-4102-4696
+SN 0377-2217
+EI 1872-6860
+PD OCT 16
+PY 2015
+VL 246
+IS 2
+BP 562
+EP 574
+DI 10.1016/j.ejor.2015.05.014
+UT WOS:000357348600019
+ER
+
+PT J
+AU Yang, GL
+   Rousseau, R
+   Yang, LY
+   Liu, WB
+AF Yang, Guo-liang
+   Rousseau, Ronald
+   Yang, Li-ying
+   Liu, Wen-bin
+TI A study on directional returns to scale
+SO JOURNAL OF INFORMETRICS
+SN 1751-1577
+EI 1875-5879
+PD JUL
+PY 2014
+VL 8
+IS 3
+BP 628
+EP 641
+DI 10.1016/j.joi.2014.05.004
+UT WOS:000341376700016
+ER
+
+PT J
+AU Cronin, K
+   Midgley, G
+   Jackson, LS
+AF Cronin, Karen
+   Midgley, Gerald
+   Jackson, Laurie Skuba
+TI Issues Mapping: A problem structuring method for addressing science and
+   technology conflicts
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+SN 0377-2217
+EI 1872-6860
+PD FEB 16
+PY 2014
+VL 233
+IS 1
+BP 145
+EP 158
+DI 10.1016/j.ejor.2013.08.012
+UT WOS:000326359600014
+ER
+
+PT J
+AU Hamalainen, RP
+   Luoma, J
+   Saarinen, E
+AF Hamalainen, Raimo P.
+   Luoma, Jukka
+   Saarinen, Esa
+TI On the importance of behavioral operational research: The case of
+   understanding and communicating about dynamic systems
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+RI Saarinen, Esa/G-2407-2013
+SN 0377-2217
+PD AUG 1
+PY 2013
+VL 228
+IS 3
+BP 623
+EP 634
+DI 10.1016/j.ejor.2013.02.001
+UT WOS:000317944000015
+ER
+
+PT J
+AU Ferreira, JS
+AF Ferreira, J. Soeiro
+TI Multimethodology in Metaheuristics
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+OI Soeiro Ferreira, Jose/0000-0002-7552-9924
+SN 0160-5682
+EI 1476-9360
+PD JUN
+PY 2013
+VL 64
+IS 6
+BP 873
+EP 883
+DI 10.1057/jors.2012.88
+UT WOS:000318521000008
+ER
+
+PT J
+AU Kotiadis, K
+   Tako, AA
+   Rouwette, EAJA
+   Vasilakis, C
+   Brennan, J
+   Gandhi, P
+   Wegstapel, H
+   Sagias, F
+   Webb, P
+AF Kotiadis, K.
+   Tako, A. A.
+   Rouwette, E. A. J. A.
+   Vasilakis, C.
+   Brennan, J.
+   Gandhi, P.
+   Wegstapel, H.
+   Sagias, F.
+   Webb, P.
+TI Using a model of the performance measures in Soft Systems Methodology
+   (SSM) to take action: a case study in health care
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+OI Vasilakis, Christos/0000-0002-0391-0910; Tako, Antuela
+   A./0000-0003-3585-3620; Kotiadis, Kathy/0000-0001-8004-5708
+SN 0160-5682
+PD JAN
+PY 2013
+VL 64
+IS 1
+BP 125
+EP 137
+DI 10.1057/jors.2012.21
+UT WOS:000314086100011
+ER
+
+PT J
+AU Liu, WBB
+   Meng, W
+   Mingers, J
+   Tang, N
+   Wang, W
+AF Liu, Wenbin B.
+   Meng, Wei
+   Mingers, John
+   Tang, Ning
+   Wang, Wei
+TI Developing a performance management system using soft systems
+   methodology: A Chinese case study
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+OI Mingers, John/0000-0002-4102-4696
+SN 0377-2217
+EI 1872-6860
+PD DEC 1
+PY 2012
+VL 223
+IS 2
+BP 529
+EP 540
+DI 10.1016/j.ejor.2012.06.029
+UT WOS:000308521400024
+ER
+
+PT J
+AU Ishizaka, A
+   Balkenborg, D
+   Kaplan, T
+AF Ishizaka, A.
+   Balkenborg, D.
+   Kaplan, T.
+TI Influence of aggregation and measurement scale on ranking a compromise
+   alternative in AHP
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+OI Ishizaka, Alessio/0000-0002-2531-292X
+SN 0160-5682
+PD APR
+PY 2011
+VL 62
+IS 4
+BP 700
+EP 710
+DI 10.1057/jors.2010.23
+UT WOS:000288117900013
+ER
+
+PT J
+AU Mingers, J
+   White, L
+AF Mingers, John
+   White, Leroy
+TI A review of the recent contribution of systems thinking to operational
+   research and management science
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+RI YADAV, AVIKSHIT/F-1132-2019; Wang, Charles/B-5565-2011
+OI Wang, Charles/0000-0001-9331-8437; Mingers, John/0000-0002-4102-4696
+SN 0377-2217
+EI 1872-6860
+PD DEC 16
+PY 2010
+VL 207
+IS 3
+BP 1147
+EP 1161
+DI 10.1016/j.ejor.2009.12.019
+UT WOS:000283835900001
+ER
+
+PT J
+AU Liu, WB
+   Cheng, ZL
+   Mingers, J
+   Qi, L
+   Meng, W
+AF Liu, W. B.
+   Cheng, Z. L.
+   Mingers, J.
+   Qi, L.
+   Meng, W.
+TI The 3E methodology for developing performance indicators for public
+   sector organizations
+SO PUBLIC MONEY & MANAGEMENT
+OI Mingers, John/0000-0002-4102-4696
+SN 0954-0962
+PY 2010
+VL 30
+IS 5
+BP 305
+EP 312
+AR PII 925488752
+DI 10.1080/09540962.2010.509180
+UT WOS:000280771300011
+ER
+
+EF
