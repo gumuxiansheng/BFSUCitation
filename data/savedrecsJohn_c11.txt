@@ -1,0 +1,490 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU List, A
+   Peterson, EG
+   Alexander, PA
+   Loyens, SMM
+AF List, Alexandra
+   Peterson, Emily Grossnickle
+   Alexander, Patricia A.
+   Loyens, Sofie M. M.
+TI The role of educational context in beliefs about knowledge, information,
+   and truth: an exploratory study
+SO EUROPEAN JOURNAL OF PSYCHOLOGY OF EDUCATION
+SN 0256-2928
+EI 1878-5174
+PD OCT
+PY 2018
+VL 33
+IS 4
+BP 685
+EP 705
+DI 10.1007/s10212-017-0359-4
+UT WOS:000444388500008
+ER
+
+PT J
+AU Mingers, J
+   Standing, C
+AF Mingers, John
+   Standing, Craig
+TI What is information? Toward a theory of information as objective and
+   veridical
+SO JOURNAL OF INFORMATION TECHNOLOGY
+SN 0268-3962
+EI 1466-4437
+PD JUN
+PY 2018
+VL 33
+IS 2
+BP 85
+EP 104
+DI 10.1057/s41265-0170038-6
+UT WOS:000445906700001
+ER
+
+PT J
+AU Ali, I
+   Ul Musawir, A
+   Ali, M
+AF Ali, Imran
+   Ul Musawir, Ata
+   Ali, Murad
+TI Impact of knowledge sharing and absorptive capacity on project
+   performance: the moderating role of social processes
+SO JOURNAL OF KNOWLEDGE MANAGEMENT
+RI Ali, Imran/H-6512-2017
+OI Ali, Imran/0000-0002-7008-7514
+SN 1367-3270
+EI 1758-7484
+PY 2018
+VL 22
+IS 2
+BP 453
+EP 477
+DI 10.1108/JKM-10-2016-0449
+UT WOS:000428539300011
+ER
+
+PT J
+AU Cidik, MS
+   Boyd, D
+   Thurairajah, N
+AF Cidik, Mustafa Selcuk
+   Boyd, David
+   Thurairajah, Niraj
+TI Innovative Capability of Building Information Modeling in Construction
+   Design
+SO JOURNAL OF CONSTRUCTION ENGINEERING AND MANAGEMENT
+RI Mansuri, Lukman/R-8465-2017
+OI Thurairajah, Niraj/0000-0003-3391-1663; Boyd, David/0000-0002-3775-7125
+SN 0733-9364
+EI 1943-7862
+PD AUG
+PY 2017
+VL 143
+IS 8
+AR 04017047
+DI 10.1061/(ASCE)CO.1943-7862.0001337
+UT WOS:000403723700020
+ER
+
+PT J
+AU Kolonja, L
+   Stankovic, R
+   Obradovic, I
+   Kitanovic, O
+   Cvjetic, A
+AF Kolonja, Ljiljana
+   Stankovic, Ranka
+   Obradovic, Ivan
+   Kitanovic, Olivera
+   Cvjetic, Aleksandar
+TI Development of terminological resources for expert knowledge: a case
+   study in mining
+SO KNOWLEDGE MANAGEMENT RESEARCH & PRACTICE
+SN 1477-8238
+EI 1477-8246
+PD NOV
+PY 2016
+VL 14
+IS 4
+BP 445
+EP 456
+DI 10.1057/kmrp.2015.10
+UT WOS:000392689300003
+ER
+
+PT J
+AU Waheed, M
+   Kaur, K
+AF Waheed, Mehwish
+   Kaur, Kiran
+TI Knowledge quality: A review and a revised conceptual model
+SO INFORMATION DEVELOPMENT
+SN 0266-6669
+EI 1741-6469
+PD JUN
+PY 2016
+VL 32
+IS 3
+BP 271
+EP 284
+DI 10.1177/0266666914539694
+UT WOS:000375717000006
+ER
+
+PT J
+AU Grossnickle, EM
+   List, A
+   Alexander, PA
+AF Grossnickle, Emily M.
+   List, Alexandra
+   Alexander, Patricia A.
+TI Elementary and Middle School Students' Conceptions of Knowledge,
+   Information, and Truth
+SO JOURNAL OF EXPERIMENTAL EDUCATION
+SN 0022-0973
+EI 1940-0683
+PD OCT 2
+PY 2015
+VL 83
+IS 4
+BP 469
+EP 494
+DI 10.1080/00220973.2014.919571
+UT WOS:000359867600002
+ER
+
+PT J
+AU Rodriguez-Gomez, D
+   Gairin, J
+AF Rodriguez-Gomez, David
+   Gairin, Joaquin
+TI Unravelling knowledge creation and management in educational
+   organisations: barriers and enablers
+SO KNOWLEDGE MANAGEMENT RESEARCH & PRACTICE
+RI Rodriguez-Gomez, David/K-4380-2013
+OI Rodriguez-Gomez, David/0000-0001-9845-0744
+SN 1477-8238
+EI 1477-8246
+PD MAY
+PY 2015
+VL 13
+IS 2
+BP 149
+EP 159
+DI 10.1057/kmrp.2013.37
+UT WOS:000354910200003
+ER
+
+PT J
+AU Jonsson, A
+AF Jonsson, Anna
+TI Beyond knowledge management - understanding how to share knowledge
+   through logic and practice
+SO KNOWLEDGE MANAGEMENT RESEARCH & PRACTICE
+SN 1477-8238
+EI 1477-8246
+PD FEB
+PY 2015
+VL 13
+IS 1
+BP 45
+EP 58
+DI 10.1057/kmrp.2013.28
+UT WOS:000350300000004
+ER
+
+PT J
+AU Rechberg, IDW
+   Syed, J
+AF Rechberg, Isabel D. W.
+   Syed, Jawad
+TI Appropriation or participation of the individual in knowledge management
+SO MANAGEMENT DECISION
+SN 0025-1747
+EI 1758-6070
+PY 2014
+VL 52
+IS 3
+BP 426
+EP 445
+DI 10.1108/MD-04-2013-0223
+UT WOS:000340764600001
+ER
+
+PT J
+AU Walter, C
+   Ribiere, V
+AF Walter, Christian
+   Ribiere, Vincent
+TI A citation and co-citation analysis of 10 years of KM theory and
+   practices
+SO KNOWLEDGE MANAGEMENT RESEARCH & PRACTICE
+SN 1477-8238
+EI 1477-8246
+PD AUG
+PY 2013
+VL 11
+IS 3
+BP 221
+EP 229
+DI 10.1057/kmrp.2013.25
+UT WOS:000324224400001
+ER
+
+PT J
+AU Hastik, R
+   Geitner, C
+   Neuburger, M
+AF Hastik, Richard
+   Geitner, Clemens
+   Neuburger, Martina
+TI AMAZONIAN DARK EARTHS IN BOLIVIA? A SOIL STUDY OF ANTHROPOGENIC RING
+   DITCHES NEAR BAURES (EASTERN LLANOS DE MOJOS)
+SO ERDKUNDE
+RI Neuburger, Martina/G-1333-2015
+OI Neuburger, Martina/0000-0003-4767-3352
+SN 0014-0015
+PD APR-JUN
+PY 2013
+VL 67
+IS 2
+BP 137
+EP 149
+DI 10.3112/erdkunde.2013.02.03
+UT WOS:000324807900003
+ER
+
+PT J
+AU Hendriks, PHJ
+   Sousa, CAA
+AF Hendriks, Paul H. J.
+   Sousa, Celio A. A.
+TI Practices of management knowing in university research management
+SO JOURNAL OF ORGANIZATIONAL CHANGE MANAGEMENT
+OI Sousa, Celio A.A./0000-0001-9113-3180
+SN 0953-4814
+PY 2013
+VL 26
+IS 3
+BP 611
+EP 628
+DI 10.1108/09534811311328605
+UT WOS:000319487400009
+ER
+
+PT J
+AU Bloodgood, JM
+   Chilton, MA
+AF Bloodgood, James M.
+   Chilton, Michael A.
+TI Performance implications of matching adaption and innovation cognitive
+   style with explicit and tacit knowledge resources
+SO KNOWLEDGE MANAGEMENT RESEARCH & PRACTICE
+SN 1477-8238
+EI 1477-8246
+PD JUN
+PY 2012
+VL 10
+IS 2
+BP 106
+EP 117
+DI 10.1057/kmrp.2012.3
+UT WOS:000305101600002
+ER
+
+PT J
+AU Valkokari, K
+   Paasi, J
+   Rantala, T
+AF Valkokari, Katri
+   Paasi, Jaakko
+   Rantala, Tuija
+TI Managing knowledge within networked innovation
+SO KNOWLEDGE MANAGEMENT RESEARCH & PRACTICE
+SN 1477-8238
+PD MAR
+PY 2012
+VL 10
+IS 1
+BP 27
+EP 40
+DI 10.1057/kmrp.2011.39
+UT WOS:000300861100004
+ER
+
+PT J
+AU Alexander, PA
+   Winters, FI
+   Loughlin, SM
+   Grossnickle, EM
+AF Alexander, Patricia A.
+   Winters, Fielding I.
+   Loughlin, Sandra M.
+   Grossnickle, Emily M.
+TI Students' conceptions of knowledge, information, and truth
+SO LEARNING AND INSTRUCTION
+RI Alexander, Patricia/F-5186-2012
+SN 0959-4752
+PD FEB
+PY 2012
+VL 22
+IS 1
+BP 1
+EP 15
+DI 10.1016/j.learninstruc.2011.05.004
+UT WOS:000297781400001
+ER
+
+PT J
+AU Ross, A
+   Chiasson, M
+AF Ross, Alain
+   Chiasson, Mike
+TI Habermas and information systems research: New directions
+SO INFORMATION AND ORGANIZATION
+SN 1471-7727
+PD NOV
+PY 2011
+VL 21
+IS 3
+BP 123
+EP 141
+DI 10.1016/j.infoandorg.2011.06.001
+UT WOS:000296116300001
+ER
+
+PT J
+AU Sechi, G
+   Borri, D
+   De Lucia, C
+   Celmins, V
+AF Sechi, Guido
+   Borri, Dino
+   De Lucia, Caterina
+   Celmins, Viesturs
+TI Social capital as knowledge facilitator: evidence from Latvia
+SO KNOWLEDGE MANAGEMENT RESEARCH & PRACTICE
+OI Borri, Dino/0000-0002-8092-606X; Camarda, Domenico/0000-0001-6311-3289;
+   de lucia, caterina/0000-0001-9377-9233
+SN 1477-8238
+PD SEP
+PY 2011
+VL 9
+IS 3
+SI SI
+BP 245
+EP 255
+DI 10.1057/kmrp.2011.17
+UT WOS:000294658400007
+ER
+
+PT J
+AU Zhu, Z
+AF Zhu, Z.
+TI After paradim: why mixing-methodology theorising fails and how to make
+   it work again
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+SN 0160-5682
+PD APR
+PY 2011
+VL 62
+IS 4
+BP 784
+EP 798
+DI 10.1057/jors.2010.31
+UT WOS:000288117900022
+ER
+
+PT J
+AU Zhu, ZC
+AF Zhu, Zhichang
+TI Knowledge of the natural and the social: how are they different and what
+   do they have in common?
+SO KNOWLEDGE MANAGEMENT RESEARCH & PRACTICE
+RI Wang, Charles/B-5565-2011
+OI Wang, Charles/0000-0001-9331-8437
+SN 1477-8238
+PD JUN
+PY 2010
+VL 8
+IS 2
+BP 173
+EP 188
+DI 10.1057/kmrp.2010.6
+UT WOS:000282845900008
+ER
+
+PT J
+AU Wijnhoven, F
+   Schuur, P
+   Timmer, J
+AF Wijnhoven, Fons
+   Schuur, Peter
+   Timmer, Judith
+TI The Inventor game: game-theoretical analysis of knowledge-sharing
+   between inventors and employers
+SO KNOWLEDGE MANAGEMENT RESEARCH & PRACTICE
+RI Wang, Charles/B-5565-2011
+OI Wang, Charles/0000-0001-9331-8437; Wijnhoven, Fons/0000-0001-8231-7535;
+   schuur, peter/0000-0003-0856-8322
+SN 1477-8238
+PD MAR
+PY 2010
+VL 8
+IS 1
+BP 61
+EP 75
+DI 10.1057/kmrp.2009.38
+UT WOS:000282845800007
+ER
+
+PT J
+AU Peters, K
+   Maruster, L
+   Jorna, RJ
+AF Peters, Kristian
+   Maruster, Laura
+   Jorna, Rene J.
+TI Knowledge claim evaluation: a fundamental issue for knowledge management
+SO JOURNAL OF KNOWLEDGE MANAGEMENT
+SN 1367-3270
+PY 2010
+VL 14
+IS 2
+BP 243
+EP 257
+DI 10.1108/13673271011032382
+UT WOS:000277697200006
+ER
+
+PT J
+AU Edwards, JS
+   Ababneh, B
+   Hall, M
+   Shaw, D
+AF Edwards, J. S.
+   Ababneh, B.
+   Hall, M.
+   Shaw, D.
+TI Knowledge management: a review of the field and of OR's contribution
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+RI Wang, Charles/B-5565-2011; de Lima, Andreia/G-8040-2014
+OI Wang, Charles/0000-0001-9331-8437; Edwards, John S./0000-0003-3979-017X;
+   Hall, Matthew J/0000-0002-7762-9208
+SN 0160-5682
+EI 1476-9360
+PD MAY
+PY 2009
+VL 60
+SU 1
+BP S114
+EP S125
+DI 10.1057/jors.2008.168
+UT WOS:000265640900011
+ER
+
+EF

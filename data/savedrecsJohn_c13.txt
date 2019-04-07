@@ -1,0 +1,513 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Soheili, F
+   Khasseh, AA
+   Chelak, AM
+   Tavakolizadeh-Ravari, M
+AF Soheili, Faramarz
+   Khasseh, Ali Akbar
+   Chelak, Afshin Mousavi
+   Tavakolizadeh-Ravari, Mohammad
+TI An evaluation of information behaviour studies through the Scholarly
+   Capital Model
+SO LEARNED PUBLISHING
+SN 0953-1513
+EI 1741-4857
+PD APR
+PY 2018
+VL 31
+IS 2
+BP 121
+EP 129
+DI 10.1002/leap.1129
+UT WOS:000429568500004
+ER
+
+PT J
+AU Sims, MT
+   Checketts, JX
+   Wayant, C
+   Vassar, M
+AF Sims, Matthew T.
+   Checketts, Jake X.
+   Wayant, Cole
+   Vassar, Matt
+TI Requirements for trial registration and adherence to reporting
+   guidelines in critical care journals: a meta-epidemiological study of
+   journals' instructions for authors
+SO INTERNATIONAL JOURNAL OF EVIDENCE-BASED HEALTHCARE
+RI Wayant, Cole/X-3972-2018
+OI Wayant, Cole/0000-0001-8829-8179; Vassar, Ben
+   Matthew/0000-0003-2859-6152
+EI 1744-1609
+PD MAR
+PY 2018
+VL 16
+IS 1
+BP 55
+EP 65
+DI 10.1097/XEB.0000000000000120
+UT WOS:000452827200006
+PM 28863029
+ER
+
+PT J
+AU Haley, MR
+AF Haley, M. Ryan
+TI A moment-free nonparametric quantity-of-quality approach to optimal
+   portfolio selection: A role for endogenous shortfall and windfall
+   boundaries ?
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+SN 0160-5682
+EI 1476-9360
+PY 2018
+VL 69
+IS 10
+SI SI
+BP 1678
+EP 1687
+DI 10.1080/01605682.2018.1489356
+UT WOS:000452046800013
+ER
+
+PT J
+AU Perera, U
+   Wijewickrema, M
+AF Perera, Upeksha
+   Wijewickrema, Manjula
+TI Relationship between Journal-Ranking Metrics for a Multidisciplinary Set
+   of Journals
+SO PORTAL-LIBRARIES AND THE ACADEMY
+SN 1531-2542
+EI 1530-7131
+PD JAN
+PY 2018
+VL 18
+IS 1
+BP 35
+EP 58
+DI 10.1353/pla.2018.0003
+UT WOS:000429102000004
+ER
+
+PT J
+AU Bertoli-Barsotti, L
+   Lando, T
+AF Bertoli-Barsotti, Lucio
+   Lando, Tommaso
+TI A theoretical model of the relationship between the h-index and other
+   simple citation indicators
+SO SCIENTOMETRICS
+RI BERTOLI BARSOTTI, LUCIO/Q-1118-2016
+OI BERTOLI BARSOTTI, LUCIO/0000-0003-4508-3172; LANDO,
+   Tommaso/0000-0003-4288-0264
+SN 0138-9130
+EI 1588-2861
+PD JUN
+PY 2017
+VL 111
+IS 3
+BP 1415
+EP 1448
+DI 10.1007/s11192-017-2351-9
+UT WOS:000401747900009
+PM 28596626
+ER
+
+PT J
+AU Mingers, J
+   Yang, LY
+AF Mingers, John
+   Yang, Liying
+TI Evaluating journal quality: A review of journal citation indicators, and
+   ranking in business and management
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+OI Mingers, John/0000-0002-4102-4696
+SN 0377-2217
+EI 1872-6860
+PD FEB 16
+PY 2017
+VL 257
+IS 1
+BP 323
+EP 337
+DI 10.1016/j.ejor.2016.07.058
+UT WOS:000386738300027
+ER
+
+PT J
+AU Soheili, F
+   Khasseh, AA
+   Mousavi-Chelak, A
+AF Soheili, Faramarz
+   Khasseh, Ali Akbar
+   Mousavi-Chelak, Afshin
+TI The most influential researchers in information behaviour An integrative
+   view on influence indicators
+SO ASLIB JOURNAL OF INFORMATION MANAGEMENT
+RI soheili, faramarz/K-3104-2017
+OI soheili, faramarz/0000-0003-2581-7052; mousavi-chelak,
+   afshin/0000-0002-5614-1334
+SN 2050-3806
+EI 1758-3748
+PY 2017
+VL 69
+IS 2
+BP 215
+EP 229
+DI 10.1108/AJIM-01-2017-0027
+UT WOS:000404736200007
+ER
+
+PT J
+AU Rigby, J
+AF Rigby, John
+TI A long and winding road: 40 years of R&D Management
+SO R & D MANAGEMENT
+OI Rigby, John/0000-0001-9833-5965
+SN 0033-6807
+EI 1467-9310
+PD OCT
+PY 2016
+VL 46
+SU 3
+SI SI
+BP 1062
+EP 1083
+DI 10.1111/radm.12214
+UT WOS:000387214100009
+ER
+
+PT J
+AU Ryan, JC
+AF Ryan, James C.
+TI A validation of the individual annual h-index (hIa): application of the
+   hIa to a qualitatively and quantitatively different sample
+SO SCIENTOMETRICS
+OI ryan, james/0000-0001-5348-9055
+SN 0138-9130
+EI 1588-2861
+PD OCT
+PY 2016
+VL 109
+IS 1
+BP 577
+EP 590
+DI 10.1007/s11192-016-1972-8
+UT WOS:000382915800029
+ER
+
+PT J
+AU Tahira, M
+   Alias, RA
+   Bakri, A
+   Abrizah, A
+AF Tahira, Muzammil
+   Alias, Rose Alinda
+   Bakri, Aryati
+   Abrizah, A.
+TI Meso-level institutional and journal related indices for Malaysian
+   engineering research
+SO SCIENTOMETRICS
+CT 15th International Conference of the
+   International-Society-for-Scientometrics-and-Informetrics (ISSI) on
+   Scientometrics and Informetrics
+CY JUN 29-JUL 04, 2015
+CL Bogazici Univ, Istanbul, TURKEY
+SP Int Soc Scientometr & Informetr, Hacettepe Univ, Sci & Technol Res Council Turkey, Turkish Acad Network & Informat Ctr
+HO Bogazici Univ
+RI abdullah, abrizah/B-8125-2010; Haniza, Adnan/B-7945-2010
+OI abdullah, abrizah/0000-0002-8224-5268; 
+SN 0138-9130
+EI 1588-2861
+PD MAY
+PY 2016
+VL 107
+IS 2
+BP 521
+EP 535
+DI 10.1007/s11192-016-1850-4
+UT WOS:000376273600011
+ER
+
+PT J
+AU Cuellar, MJ
+   Takeda, H
+   Vidgen, R
+   Truex, D
+AF Cuellar, Michael J.
+   Takeda, Hirotoshi
+   Vidgen, Richard
+   Truex, Duane
+TI Ideational Influence, Connectedness, and Venue Representation: Making an
+   Assessment of Scholarly Capital
+SO JOURNAL OF THE ASSOCIATION FOR INFORMATION SYSTEMS
+OI Cuellar, Michael/0000-0002-3981-9625; Vidgen,
+   Richard/0000-0001-7578-8339
+SN 1536-9323
+EI 1558-3457
+PD FEB
+PY 2016
+VL 17
+IS 1
+BP 1
+EP 28
+UT WOS:000378142100001
+ER
+
+PT J
+AU Shen, CC
+   Hu, YH
+   Lin, WC
+   Tsai, CF
+   Ke, SW
+AF Shen, Cheng-Che
+   Hu, Ya-Han
+   Lin, Wei-Chao
+   Tsai, Chih-Fong
+   Ke, Shih-Wen
+TI Research impact of general and funded papers A citation analysis of two
+   ACM international conference proceeding series
+SO ONLINE INFORMATION REVIEW
+OI Hu, Ya-Han/0000-0002-3285-2983
+SN 1468-4527
+EI 1468-4535
+PY 2016
+VL 40
+IS 4
+BP 472
+EP 480
+DI 10.1108/OIR-08-2015-0249
+UT WOS:000382563200002
+ER
+
+PT J
+AU Mingers, J
+   Leydesdorff, L
+AF Mingers, John
+   Leydesdorff, Loet
+TI A review of theory and practice in scientometrics
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+RI Zuluaga Gaviria, Jennifer Daniela/T-2321-2017; Leydesdorff,
+   Loet/E-2903-2010
+OI Leydesdorff, Loet/0000-0002-7835-3098; Mingers, John/0000-0002-4102-4696
+SN 0377-2217
+EI 1872-6860
+PD OCT 1
+PY 2015
+VL 246
+IS 1
+BP 1
+EP 19
+DI 10.1016/j.ejor.2015.04.002
+UT WOS:000356742800001
+ER
+
+PT J
+AU Bertocchi, G
+   Gambardella, A
+   Jappelli, T
+   Nappi, CA
+   Peracchi, F
+AF Bertocchi, Graziella
+   Gambardella, Alfonso
+   Jappelli, Tullio
+   Nappi, Carmela A.
+   Peracchi, Franco
+TI Bibliometric evaluation vs. informed peer review: Evidence from Italy
+SO RESEARCH POLICY
+RI Bertocchi, Graziella/C-3565-2016; Peracchi, F/H-2645-2017
+OI Bertocchi, Graziella/0000-0003-1004-2362; Peracchi,
+   F/0000-0002-4532-6173
+SN 0048-7333
+EI 1873-7625
+PD MAR
+PY 2015
+VL 44
+IS 2
+BP 451
+EP 466
+DI 10.1016/j.respol.2014.08.004
+UT WOS:000348964800012
+ER
+
+PT J
+AU Xu, F
+   Liu, WB
+   Rousseau, R
+AF Xu, Fang
+   Liu, Wenbin
+   Rousseau, Ronald
+TI Introducing sub-impact factor (SIF-) sequences and an aggregated
+   SIF-indicator for journal ranking
+SO SCIENTOMETRICS
+SN 0138-9130
+EI 1588-2861
+PD FEB
+PY 2015
+VL 102
+IS 2
+BP 1577
+EP 1593
+DI 10.1007/s11192-014-1401-9
+UT WOS:000348324000025
+ER
+
+PT J
+AU Lin, WC
+   Tsai, CF
+   Ke, SW
+AF Lin, Wei-Chao
+   Tsai, Chih-Fong
+   Ke, Shih-Wen
+TI Correlation analysis for comparison of the citation impact of journals,
+   magazines, and conferences in computer science
+SO ONLINE INFORMATION REVIEW
+SN 1468-4527
+EI 1468-4535
+PY 2015
+VL 39
+IS 3
+BP 310
+EP 325
+DI 10.1108/OIR-11-2014-0273
+UT WOS:000357422500004
+ER
+
+PT J
+AU Law, R
+   Vu, HQ
+   Li, G
+AF Law, Rob
+   Vu, Huy Quan
+   Li, Gang
+TI Discovering Implicit Criteria Preferences Reflected in Tourism Journal
+   Ranking Lists using the Choquet Integral
+SO ASIA PACIFIC JOURNAL OF TOURISM RESEARCH
+OI LAW, Chun Hung Roberts/0000-0001-7199-3757
+SN 1094-1665
+EI 1741-6507
+PD JUN 3
+PY 2014
+VL 19
+IS 6
+BP 662
+EP 679
+DI 10.1080/10941665.2013.806938
+UT WOS:000334058300003
+ER
+
+PT J
+AU Haley, MR
+AF Haley, M. Ryan
+TI Ranking Top Economics and Finance Journals Using Microsoft Academic
+   Search Versus Google Scholar: How Does the New Publish or Perish Option
+   Compare?
+SO JOURNAL OF THE ASSOCIATION FOR INFORMATION SCIENCE AND TECHNOLOGY
+SN 2330-1635
+EI 2330-1643
+PD MAY
+PY 2014
+VL 65
+IS 5
+BP 1079
+EP 1084
+DI 10.1002/asi.23080
+UT WOS:000335583800016
+ER
+
+PT J
+AU Tsai, CF
+AF Tsai, Chih-Fong
+TI Citation impact analysis of top ranked computer science journals and
+   their rankings
+SO JOURNAL OF INFORMETRICS
+SN 1751-1577
+EI 1875-5879
+PD APR
+PY 2014
+VL 8
+IS 2
+BP 318
+EP 328
+DI 10.1016/j.joi.2014.01.002
+UT WOS:000335609900003
+ER
+
+PT J
+AU Tsai, CF
+   Hu, YH
+   Ke, SWG
+AF Tsai, Chih-Fong
+   Hu, Ya-Han
+   Ke, Shih-Wen George
+TI A Borda count approach to combine subjective and objective based MIS
+   journal rankings
+SO ONLINE INFORMATION REVIEW
+OI Hu, Ya-Han/0000-0002-3285-2983
+SN 1468-4527
+EI 1468-4535
+PY 2014
+VL 38
+IS 4
+BP 469
+EP 483
+DI 10.1108/OIR-11-2013-0253
+UT WOS:000342001700002
+ER
+
+PT J
+AU Sangwal, K
+AF Sangwal, Keshra
+TI Citation and impact factor distributions of scientific journals
+   published in individual countries
+SO JOURNAL OF INFORMETRICS
+SN 1751-1577
+EI 1875-5879
+PY 2013
+VL 7
+IS 2
+BP 487
+EP 504
+DI 10.1016/j.joi.2013.01.011
+UT WOS:000318377100026
+ER
+
+PT J
+AU Brown, T
+AF Brown, Ted
+TI How does the CJOT measure up? Taking journal quality metrics into
+   account
+SO CANADIAN JOURNAL OF OCCUPATIONAL THERAPY-REVUE CANADIENNE D ERGOTHERAPIE
+OI Brown, Ted/0000-0001-9403-5877
+SN 0008-4174
+PD OCT
+PY 2012
+VL 79
+IS 4
+BP 195
+EP 196
+DI 10.2182/cjot.2012.79.4.1
+UT WOS:000309854400001
+PM 23210369
+ER
+
+PT J
+AU Law, R
+AF Law, Rob
+TI THE USEFULNESS OF IMPACT FACTORS TO TOURISM JOURNALS
+SO ANNALS OF TOURISM RESEARCH
+OI LAW, Chun Hung Roberts/0000-0001-7199-3757
+SN 0160-7383
+PD JUL
+PY 2012
+VL 39
+IS 3
+BP 1722
+EP 1724
+DI 10.1016/j.annals.2012.05.024
+UT WOS:000307144100027
+ER
+
+EF

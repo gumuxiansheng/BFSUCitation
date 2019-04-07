@@ -1,0 +1,811 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Smith, CM
+   Shaw, D
+AF Smith, Chris M.
+   Shaw, Duncan
+TI The characteristics of problem structuring methods: A literature review
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+OI Smith, Christopher/0000-0001-8016-2437
+SN 0377-2217
+EI 1872-6860
+PD APR 16
+PY 2019
+VL 274
+IS 2
+BP 403
+EP 416
+DI 10.1016/j.ejor.2018.05.003
+UT WOS:000457512200001
+ER
+
+PT J
+AU Castellini, MA
+   Paucar-Caceres, A
+AF Alejandra Castellini, Maria
+   Paucar-Caceres, Alberto
+TI A Conceptual Framework for Integrating Methodologies in Management:
+   Partial Results of a Systemic Intervention in a Textile SME in Argentina
+SO SYSTEMS RESEARCH AND BEHAVIORAL SCIENCE
+SN 1092-7026
+EI 1099-1743
+PD JAN-FEB
+PY 2019
+VL 36
+IS 1
+BP 20
+EP 35
+DI 10.1002/sres.2552
+UT WOS:000454783100002
+ER
+
+PT J
+AU Kotiadis, K
+   Tako, AA
+AF Kotiadis, K.
+   Tako, A. A.
+TI Facilitated post-model coding in discrete event simulation (DES): A case
+   study in healthcare
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+OI Kotiadis, Kathy/0000-0001-8004-5708
+SN 0377-2217
+EI 1872-6860
+PD MAY 1
+PY 2018
+VL 266
+IS 3
+BP 1120
+EP 1133
+DI 10.1016/j.ejor.2017.10.047
+UT WOS:000423636700025
+ER
+
+PT J
+AU Small, A
+   Wainwright, D
+AF Small, Adrian
+   Wainwright, David
+TI Privacy and security of electronic patient records - Tailoring
+   multimethodology to explore the socio-political problems associated with
+   Role Based Access Control systems
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+RI Small, Adrian/E-1702-2014
+OI Small, Adrian/0000-0001-5154-0080
+SN 0377-2217
+EI 1872-6860
+PD FEB 16
+PY 2018
+VL 265
+IS 1
+BP 344
+EP 360
+DI 10.1016/j.ejor.2017.07.041
+UT WOS:000415775300027
+ER
+
+PT J
+AU Zolfagharian, M
+   Romme, AGL
+   Walrave, B
+AF Zolfagharian, Mohammadreza
+   Romme, A. Georges L.
+   Walrave, Bob
+TI Why, when, and how to combine system dynamics with other methods:
+   Towards an evidence-based framework
+SO JOURNAL OF SIMULATION
+OI Romme, Georges/0000-0002-3997-1192; Walrave, Bob/0000-0002-7349-3737
+SN 1747-7778
+EI 1747-7786
+PY 2018
+VL 12
+IS 2
+SI SI
+BP 98
+EP 114
+DI 10.1080/17477778.2017.1418639
+UT WOS:000432552700003
+ER
+
+PT J
+AU Abuabara, L
+   Paucar-Caceres, A
+   Belderrain, MCN
+   Burrowes-Cromwell, T
+AF Abuabara, Leila
+   Paucar-Caceres, Alberto
+   Neyra Belderrain, Mischel Carmen
+   Burrowes-Cromwell, Toni
+TI A systemic framework based on Soft OR approaches to support teamwork
+   strategy: An aviation manufacturer Brazilian company case
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+SN 0160-5682
+EI 1476-9360
+PY 2018
+VL 69
+IS 2
+BP 220
+EP 234
+DI 10.1057/s41274-017-0204-9
+UT WOS:000425127300005
+ER
+
+PT J
+AU Tavella, E
+AF Tavella, Elena
+TI On Novice Facilitators Doing ResearchResearch in Problem Structuring
+   Methods as Autoethnography
+SO SYSTEMS RESEARCH AND BEHAVIORAL SCIENCE
+SN 1092-7026
+EI 1099-1743
+PD JAN-FEB
+PY 2018
+VL 35
+IS 1
+BP 58
+EP 75
+DI 10.1002/sres.2438
+UT WOS:000419755100004
+ER
+
+PT J
+AU Marttunen, M
+   Lienert, J
+   Belton, V
+AF Marttunen, Mika
+   Lienert, Judit
+   Belton, Valerie
+TI Structuring problems for Multi-Criteria Decision Analysis in practice: A
+   literature review of method combinations
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+RI Lienert, Judit/B-1138-2013; Marttunen, Mika/G-3134-2019
+OI Lienert, Judit/0000-0003-1925-3895; Marttunen, Mika/0000-0001-9494-4181
+SN 0377-2217
+EI 1872-6860
+PD NOV 16
+PY 2017
+VL 263
+IS 1
+BP 1
+EP 17
+DI 10.1016/j.ejor.2017.04.041
+UT WOS:000405157300001
+ER
+
+PT J
+AU Mustajoki, J
+   Marttunen, M
+AF Mustajoki, Jyri
+   Marttunen, Mika
+TI Comparison of multi-criteria decision analytical software for supporting
+   environmental planning processes
+SO ENVIRONMENTAL MODELLING & SOFTWARE
+RI Marttunen, Mika/G-3134-2019
+OI Marttunen, Mika/0000-0001-9494-4181
+SN 1364-8152
+EI 1873-6726
+PD JUL
+PY 2017
+VL 93
+BP 78
+EP 91
+DI 10.1016/j.envsoft.2017.02.026
+UT WOS:000403512500006
+ER
+
+PT J
+AU Howick, S
+   Ackermann, F
+   Walls, L
+   Quigley, J
+   Houghton, T
+AF Howick, Susan
+   Ackermann, Fran
+   Walls, Lesley
+   Quigley, John
+   Houghton, Tom
+TI Learning from mixed OR method practice: The NINES case study
+SO OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE
+OI howick, susan/0000-0002-0796-7981
+SN 0305-0483
+PD JUN
+PY 2017
+VL 69
+BP 70
+EP 81
+DI 10.1016/j.omega.2016.08.003
+UT WOS:000396959700006
+ER
+
+PT J
+AU Morgan, JS
+   Howick, S
+   Belton, V
+AF Morgan, Jennifer Sian
+   Howick, Susan
+   Belton, Valerie
+TI A toolkit of designs for mixing Discrete Event Simulation and System
+   Dynamics
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+OI howick, susan/0000-0002-0796-7981
+SN 0377-2217
+EI 1872-6860
+PD MAR 16
+PY 2017
+VL 257
+IS 3
+BP 907
+EP 918
+DI 10.1016/j.ejor.2016.08.016
+UT WOS:000389098100018
+ER
+
+PT J
+AU Lowe, D
+   Martingale, L
+   Yearworth, M
+AF Lowe, David
+   Martingale, Louise
+   Yearworth, Mike
+TI Guiding interventions in a multi-organisational context: combining the
+   Viable System Model and Hierarchical Process Modelling for use as a
+   Problem Structuring Method
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+RI Yearworth, Mike/A-9463-2012
+OI Yearworth, Mike/0000-0002-8468-0335
+SN 0160-5682
+EI 1476-9360
+PD DEC
+PY 2016
+VL 67
+IS 12
+BP 1481
+EP 1495
+DI 10.1057/jors.2016.6
+UT WOS:000393386700005
+ER
+
+PT J
+AU Henao, F
+   Franco, LA
+AF Henao, Felipe
+   Franco, L. Alberto
+TI Unpacking multimethodology: Impacts of a community development
+   intervention
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+OI Franco, Luis Alberto/0000-0001-6231-8565
+SN 0377-2217
+EI 1872-6860
+PD SEP 16
+PY 2016
+VL 253
+IS 3
+BP 681
+EP 696
+DI 10.1016/j.ejor.2016.02.044
+UT WOS:000376544700013
+ER
+
+PT J
+AU Jones, W
+   Sooriyabandara, M
+   Yearworth, M
+   Doufexi, A
+   Wilson, RE
+AF Jones, William
+   Sooriyabandara, Mahesh
+   Yearworth, Mike
+   Doufexi, Angela
+   Wilson, R. Eddie
+TI Planning For 5G: A Problem Structuring Approach for Survival in the
+   Telecoms Industry
+SO SYSTEMS ENGINEERING
+RI Yearworth, Mike/A-9463-2012
+OI Yearworth, Mike/0000-0002-8468-0335; Doufexi,
+   Angela/0000-0003-0133-6676; Jones, William/0000-0003-2999-9025
+SN 1098-1241
+EI 1520-6858
+PD JUL
+PY 2016
+VL 19
+IS 4
+BP 301
+EP 321
+DI 10.1002/sys.21354
+UT WOS:000384670500001
+ER
+
+PT J
+AU Monks, T
+AF Monks, Thomas
+TI Operational research as implementation science: definitions, challenges
+   and research priorities
+SO IMPLEMENTATION SCIENCE
+OI Monks, Thomas/0000-0003-2631-4481
+SN 1748-5908
+PD JUN 6
+PY 2016
+VL 11
+AR 81
+DI 10.1186/s13012-016-0444-0
+UT WOS:000377741100001
+PM 27268021
+ER
+
+PT J
+AU White, L
+AF White, Leroy
+TI Behavioural operational research: Towards a framework for understanding
+   behaviour in OR interventions
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+SN 0377-2217
+EI 1872-6860
+PD MAR 16
+PY 2016
+VL 249
+IS 3
+BP 827
+EP 841
+DI 10.1016/j.ejor.2015.07.032
+UT WOS:000370463500005
+ER
+
+PT J
+AU Pessoa, LAM
+   Lins, MPE
+   da Silva, ACM
+   Fiszman, R
+AF Monteiro Pessoa, Leonardo Antonio
+   Estellita Lins, Marcos Pereira
+   Moreira da Silva, Angela Cristina
+   Fiszman, Roberto
+TI Integrating soft and hard operational research to improve surgical
+   centre management at a university hospital
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+RI Pessoa, Leonardo/G-6131-2012
+OI Pessoa, Leonardo/0000-0002-0776-8384
+SN 0377-2217
+EI 1872-6860
+PD SEP 16
+PY 2015
+VL 245
+IS 3
+BP 851
+EP 861
+DI 10.1016/j.ejor.2015.04.007
+UT WOS:000356642500020
+ER
+
+PT J
+AU Tako, AA
+   Kotiadis, K
+AF Tako, Antuela A.
+   Kotiadis, Kathy
+TI PartiSim: A multi-methodology framework to support facilitated
+   simulation modelling in healthcare
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+OI Tako, Antuela A./0000-0003-3585-3620; Kotiadis,
+   Kathy/0000-0001-8004-5708
+SN 0377-2217
+EI 1872-6860
+PD JUL 16
+PY 2015
+VL 244
+IS 2
+BP 555
+EP 564
+DI 10.1016/j.ejor.2015.01.046
+UT WOS:000352331300018
+ER
+
+PT J
+AU Moizer, J
+   Carter, D
+   Liu, SF
+AF Moizer, Jonathan
+   Carter, David
+   Liu, Shaofeng
+TI Planning robust policing futures: modelling using multimethodology
+SO INDUSTRIAL MANAGEMENT & DATA SYSTEMS
+SN 0263-5577
+EI 1758-5783
+PY 2015
+VL 115
+IS 3
+BP 462
+EP 482
+DI 10.1108/IMDS-11-2014-0336
+UT WOS:000354647900004
+ER
+
+PT J
+AU Shukla, N
+   Keast, JE
+   Ceglarek, D
+AF Shukla, Nagesh
+   Keast, John E.
+   Ceglarek, Darek
+TI Improved workflow modelling using role activity diagram-based modelling
+   with application to a radiology service case study
+SO COMPUTER METHODS AND PROGRAMS IN BIOMEDICINE
+OI Ceglarek, Darek/0000-0003-0788-4673
+SN 0169-2607
+EI 1872-7565
+PD OCT
+PY 2014
+VL 116
+IS 3
+BP 274
+EP 298
+DI 10.1016/j.cmpb.2014.05.005
+UT WOS:000339961000010
+PM 24962645
+ER
+
+PT J
+AU Robinson, S
+   Worthington, C
+   Burgess, N
+   Radnor, ZJ
+AF Robinson, Stewart
+   Worthington, Claire
+   Burgess, Nicola
+   Radnor, Zoe J.
+TI Facilitated modelling with discrete-event simulation: Reality or myth?
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+OI Robinson, Stewart/0000-0002-6016-0167
+SN 0377-2217
+EI 1872-6860
+PD APR 1
+PY 2014
+VL 234
+IS 1
+BP 231
+EP 240
+DI 10.1016/j.ejor.2012.12.024
+UT WOS:000330148600021
+ER
+
+PT J
+AU Small, A
+   Wainwright, D
+AF Small, Adrian
+   Wainwright, David
+TI SSM and technology management: Developing multimethodology through
+   practice
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+RI Small, Adrian/E-1702-2014
+OI Small, Adrian/0000-0001-5154-0080
+SN 0377-2217
+EI 1872-6860
+PD MAR 16
+PY 2014
+VL 233
+IS 3
+BP 660
+EP 673
+DI 10.1016/j.ejor.2013.08.049
+UT WOS:000328180200019
+ER
+
+PT J
+AU Yearworth, M
+   Edwards, G
+AF Yearworth, Michael
+   Edwards, Gordon
+TI On the Desirability of Integrating Research Methods into Overall Systems
+   Approaches in the Training of Engineers: Analysis Using SSM
+SO SYSTEMS RESEARCH AND BEHAVIORAL SCIENCE
+RI Yearworth, Mike/A-9463-2012
+OI Yearworth, Mike/0000-0002-8468-0335
+SN 1092-7026
+EI 1099-1743
+PD JAN
+PY 2014
+VL 31
+IS 1
+BP 47
+EP 66
+DI 10.1002/sres.2167
+UT WOS:000331128900006
+ER
+
+PT J
+AU Yearworth, M
+   White, L
+AF Yearworth, Mike
+   White, Leroy
+TI The uses of qualitative data in multimethodology: Developing causal loop
+   diagrams during the coding process
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+RI Yearworth, Mike/A-9463-2012
+OI Yearworth, Mike/0000-0002-8468-0335
+SN 0377-2217
+PD NOV 16
+PY 2013
+VL 231
+IS 1
+BP 151
+EP 161
+DI 10.1016/j.ejor.2013.05.002
+UT WOS:000322055500014
+ER
+
+PT J
+AU Ferreira, JS
+AF Ferreira, J. Soeiro
+TI Multimethodology in Metaheuristics
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+OI Soeiro Ferreira, Jose/0000-0002-7552-9924
+SN 0160-5682
+EI 1476-9360
+PD JUN
+PY 2013
+VL 64
+IS 6
+BP 873
+EP 883
+DI 10.1057/jors.2012.88
+UT WOS:000318521000008
+ER
+
+PT J
+AU Georgiou, I
+AF Georgiou, Ion
+TI Messing about in transformations: Structured systemic planning for
+   systemic solutions to systemic problems
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+SN 0377-2217
+EI 1872-6860
+PD DEC 1
+PY 2012
+VL 223
+IS 2
+BP 392
+EP 406
+DI 10.1016/j.ejor.2012.06.010
+UT WOS:000308521400010
+ER
+
+PT J
+AU Watson, RB
+AF Watson, Richard B.
+TI Suggestions for New Application Areas for Soft Systems Methodology in
+   the Information Age
+SO SYSTEMIC PRACTICE AND ACTION RESEARCH
+CT 8th World Congress of the
+   Action-Learning-and-Action-Research-Association
+CY SEP 06-09, 2010
+CL Melbourne, AUSTRALIA
+SP Act Learning & Act Res Assoc
+SN 1094-429X
+EI 1573-9295
+PD OCT
+PY 2012
+VL 25
+IS 5
+BP 441
+EP 456
+DI 10.1007/s11213-012-9233-0
+UT WOS:000308952000005
+ER
+
+PT J
+AU Hammer, RJ
+   Edwards, JS
+   Tapinos, E
+AF Hammer, R. J.
+   Edwards, J. S.
+   Tapinos, E.
+TI Examining the strategy development process through the lens of complex
+   adaptive systems theory
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+OI Edwards, John S./0000-0003-3979-017X
+SN 0160-5682
+EI 1476-9360
+PD JUL
+PY 2012
+VL 63
+IS 7
+BP 909
+EP 919
+DI 10.1057/jors.2011.97
+UT WOS:000305083500005
+ER
+
+PT J
+AU Howick, S
+   Ackermann, F
+AF Howick, Susan
+   Ackermann, Fran
+TI Mixing OR methods in practice: Past, present and future directions
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+RI Ackermann, Fran/G-2657-2014
+OI Ackermann, Fran/0000-0003-2381-6611; howick, susan/0000-0002-0796-7981
+SN 0377-2217
+EI 1872-6860
+PD DEC 16
+PY 2011
+VL 215
+IS 3
+BP 503
+EP 511
+DI 10.1016/j.ejor.2011.03.013
+UT WOS:000295301200001
+ER
+
+PT J
+AU Franco, LA
+   Lord, E
+AF Franco, L. Alberto
+   Lord, Ewan
+TI Understanding multi-methodology: Evaluating the perceived impact of
+   mixing methods for group budgetary decisions
+SO OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE
+OI Franco, Luis Alberto/0000-0001-6231-8565
+SN 0305-0483
+PD JUN
+PY 2011
+VL 39
+IS 3
+BP 362
+EP 372
+DI 10.1016/j.omega.2010.06.008
+UT WOS:000283902400013
+ER
+
+PT J
+AU Howick, S
+   Eden, C
+AF Howick, S.
+   Eden, C.
+TI Supporting strategic conversations: the significance of a quantitative
+   model building process
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+OI howick, susan/0000-0002-0796-7981; Eden, Colin/0000-0002-6449-2046
+SN 0160-5682
+PD MAY
+PY 2011
+VL 62
+IS 5
+BP 868
+EP 878
+DI 10.1057/jors.2010.103
+UT WOS:000289151300006
+ER
+
+PT J
+AU Zhu, Z
+AF Zhu, Z.
+TI After paradim: why mixing-methodology theorising fails and how to make
+   it work again
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+SN 0160-5682
+PD APR
+PY 2011
+VL 62
+IS 4
+BP 784
+EP 798
+DI 10.1057/jors.2010.31
+UT WOS:000288117900022
+ER
+
+PT J
+AU Harwood, SA
+AF Harwood, S. A.
+TI Mixing methodologies and paradigmatic commensurability
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+SN 0160-5682
+PD APR
+PY 2011
+VL 62
+IS 4
+BP 806
+EP 809
+DI 10.1057/jors.2010.152
+UT WOS:000288117900024
+ER
+
+PT J
+AU Champion, D
+   Wilson, JM
+AF Champion, D.
+   Wilson, J. M.
+TI The impact of contingency factors on validation of problem structuring
+   methods
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+SN 0160-5682
+PD SEP
+PY 2010
+VL 61
+IS 9
+BP 1420
+EP 1431
+DI 10.1057/jors.2009.94
+UT WOS:000280735000009
+ER
+
+PT J
+AU Stephens, A
+   Jacobson, C
+   King, C
+AF Stephens, Anne
+   Jacobson, Chris
+   King, Christine
+TI Describing a Feminist-systems Theory
+SO SYSTEMS RESEARCH AND BEHAVIORAL SCIENCE
+RI Stephens, Anne/C-4109-2017; Jacobson, Christine/C-4951-2012
+OI Stephens, Anne/0000-0002-1929-4999; 
+SN 1092-7026
+PD SEP-OCT
+PY 2010
+VL 27
+IS 5
+BP 553
+EP 566
+DI 10.1002/sres.1061
+UT WOS:000282488600007
+ER
+
+PT J
+AU Dees, RA
+   Dabkowski, MF
+   Parnell, GS
+AF Dees, Robert A.
+   Dabkowski, Matthew F.
+   Parnell, Gregory S.
+TI Decision-Focused Transformation of Additive Value Models to Improve
+   Communication
+SO DECISION ANALYSIS
+SN 1545-8490
+PD JUN
+PY 2010
+VL 7
+IS 2
+BP 172
+EP 184
+DI 10.1287/deca.1090.0168
+UT WOS:000278687700003
+ER
+
+PT J
+AU Lehaney, B
+   Malindzak, D
+   Khan, Z
+AF Lehaney, B.
+   Malindzak, D.
+   Khan, Z.
+TI Simulation modelling for problem understanding: a case study in the East
+   Slovakia Coal Industry
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+RI malindzak, dusan/S-3957-2017
+SN 0160-5682
+PD OCT
+PY 2008
+VL 59
+IS 10
+BP 1332
+EP 1339
+DI 10.1057/palgrave.jors.2602451
+UT WOS:000259198900005
+ER
+
+PT J
+AU Keys, P
+AF Keys, Paul
+TI Reducing the process lacuna in operational research by taking a
+   knowledge work perspective
+SO SYSTEMS RESEARCH AND BEHAVIORAL SCIENCE
+SN 1092-7026
+PD MAY-JUN
+PY 2007
+VL 24
+IS 3
+BP 285
+EP 296
+DI 10.1002/sres.825
+UT WOS:000248801200003
+ER
+
+EF

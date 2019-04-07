@@ -1,0 +1,1185 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Ryazanova, O
+   McNamara, P
+   Aguinis, H
+AF Ryazanova, Olga
+   McNamara, Peter
+   Aguinis, Herman
+TI Research performance as a quality signal in international labor markets:
+   Visibility of business schools worldwide through a global research
+   performance system
+SO JOURNAL OF WORLD BUSINESS
+SN 1090-9516
+EI 1878-5573
+PD NOV
+PY 2017
+VL 52
+IS 6
+BP 831
+EP 841
+DI 10.1016/j.jwb.2017.09.003
+UT WOS:000414882500009
+ER
+
+PT J
+AU Mirc, N
+   Rouzies, A
+   Teerikangas, S
+AF Mirc, Nicola
+   Rouzies, Audrey
+   Teerikangas, Satu
+TI Do Academics Actually Collaborate in the Study of Interdisciplinary
+   Phenomena? A Look at Half a Century of Research on Mergers and
+   Acquisitions
+SO EUROPEAN MANAGEMENT REVIEW
+SN 1740-4754
+EI 1740-4762
+PD FAL
+PY 2017
+VL 14
+IS 3
+BP 333
+EP 357
+DI 10.1111/emre.12110
+UT WOS:000414936100007
+ER
+
+PT J
+AU Walters, WH
+AF Walters, William H.
+TI Composite journal rankings in library and information science: A factor
+   analytic approach
+SO JOURNAL OF ACADEMIC LIBRARIANSHIP
+RI Walters, William/K-8188-2012
+OI Walters, William/0000-0001-9490-4032
+SN 0099-1333
+EI 1879-1999
+PD SEP
+PY 2017
+VL 43
+IS 5
+BP 434
+EP 442
+DI 10.1016/j.acalib.2017.06.005
+UT WOS:000412153500008
+ER
+
+PT J
+AU Walters, WH
+AF Walters, William H.
+TI Do subjective journal ratings represent whole journals or typical
+   articles? Unweighted or weighted citation impact?
+SO JOURNAL OF INFORMETRICS
+RI Walters, William/K-8188-2012
+OI Walters, William/0000-0001-9490-4032
+SN 1751-1577
+EI 1875-5879
+PD AUG
+PY 2017
+VL 11
+IS 3
+BP 730
+EP 744
+DI 10.1016/j.joi.2017.05.001
+UT WOS:000410528900013
+ER
+
+PT J
+AU Williams, SR
+   Leatham, KR
+AF Williams, Steven R.
+   Leatham, Keith R.
+TI Journal Quality in Mathematics Education
+SO JOURNAL FOR RESEARCH IN MATHEMATICS EDUCATION
+SN 0021-8251
+EI 1945-2306
+PD JUL
+PY 2017
+VL 48
+IS 4
+BP 369
+EP 396
+DI 10.5951/jresematheduc.48.4.0369
+UT WOS:000403994600003
+ER
+
+PT J
+AU Rosenthal, EC
+   Weiss, HJ
+AF Rosenthal, Edward C.
+   Weiss, Howard J.
+TI A data envelopment analysis approach for ranking journals
+SO OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE
+SN 0305-0483
+PD JUL
+PY 2017
+VL 70
+BP 135
+EP 147
+DI 10.1016/j.omega.2016.09.006
+UT WOS:000401383000009
+ER
+
+PT J
+AU Hassan, NR
+   Loebbecke, C
+AF Hassan, Nik R.
+   Loebbecke, Claudia
+TI Engaging scientometrics in information systems
+SO JOURNAL OF INFORMATION TECHNOLOGY
+SN 0268-3962
+EI 1466-4437
+PD MAR
+PY 2017
+VL 32
+IS 1
+BP 85
+EP 109
+DI 10.1057/jit.2015.29
+UT WOS:000400566300006
+ER
+
+PT J
+AU Mahmood, K
+AF Mahmood, Khalid
+TI Correlation Between Perception-Based Journal Rankings and the Journal
+   Impact Factor (JIF): A Systematic Review and Meta-Analysis
+SO SERIALS REVIEW
+RI Mahmood, Khalid/B-1160-2008
+OI Mahmood, Khalid/0000-0003-1601-7168
+SN 0098-7913
+EI 1879-095X
+PY 2017
+VL 43
+IS 2
+BP 120
+EP 129
+DI 10.1080/00987913.2017.1290483
+UT WOS:000404722900002
+ER
+
+PT J
+AU Hyun, J
+   Hahn, K
+   Leslie, CA
+AF Hyun, Jonghan
+   Hahn, Kim
+   Leslie, Catherine Amoroso
+TI An Analysis of Individual and Institutional Contributions to the Fashion
+   Marketing Forum From 2004 to 2014
+SO CLOTHING AND TEXTILES RESEARCH JOURNAL
+OI Hyun, Jonghan/0000-0002-1707-9830
+SN 0887-302X
+EI 1940-2473
+PD JUL
+PY 2016
+VL 34
+IS 3
+BP 179
+EP 195
+DI 10.1177/0887302X16632907
+UT WOS:000378877400002
+ER
+
+PT J
+AU Tuselmann, H
+   Sinkovics, RR
+   Pishchulov, G
+AF Tueselmann, Heinz
+   Sinkovics, Rudolf R.
+   Pishchulov, Grigory
+TI Revisiting the standing of international business journals in the
+   competitive landscape
+SO JOURNAL OF WORLD BUSINESS
+RI Sinkovics, Rudolf/F-4092-2010; Pishchulov, Grigory/M-9405-2016
+OI Sinkovics, Rudolf/0000-0002-4471-5054; Pishchulov,
+   Grigory/0000-0001-8787-1869
+SN 1090-9516
+EI 1878-5573
+PD JUN
+PY 2016
+VL 51
+IS 4
+BP 487
+EP 498
+DI 10.1016/j.jwb.2016.01.006
+UT WOS:000378955200001
+ER
+
+PT J
+AU Ronda-Pupo, GA
+   Guerras-Martin, LA
+AF Armando Ronda-Pupo, Guillermo
+   Angel Guerras-Martin, Luis
+TI Collaboration network of knowledge creation and dissemination on
+   Management research: ranking the leading institutions
+SO SCIENTOMETRICS
+RI Ronda-Pupo, Guillermo/F-9512-2014
+OI Ronda-Pupo, Guillermo/0000-0002-9049-8249
+SN 0138-9130
+EI 1588-2861
+PD JUN
+PY 2016
+VL 107
+IS 3
+BP 917
+EP 939
+DI 10.1007/s11192-016-1924-3
+UT WOS:000376273700002
+ER
+
+PT J
+AU Olavarrieta, S
+AF Olavarrieta, Sergio
+TI USING EXPERT JUDGMENTS TO RANK 45 LATIN AMERICAN BUSINESS JOURNALS
+SO RAE-REVISTA DE ADMINISTRACAO DE EMPRESAS
+OI Olavarrieta, Sergio/0000-0001-7055-7320
+SN 0034-7590
+PD MAY-JUN
+PY 2016
+VL 56
+IS 3
+BP 302
+EP 314
+DI 10.1590/S0034-759020160304
+UT WOS:000377152600004
+ER
+
+PT J
+AU Bradshaw, CJA
+   Brook, BW
+AF Bradshaw, Corey J. A.
+   Brook, Barry W.
+TI How to Rank Journals
+SO PLOS ONE
+RI Bradshaw, Corey/A-1311-2008; Brook, Barry/G-2686-2011
+OI Bradshaw, Corey/0000-0002-5328-7741; Brook, Barry/0000-0002-2491-1517
+SN 1932-6203
+PD MAR 1
+PY 2016
+VL 11
+IS 3
+AR e0149852
+DI 10.1371/journal.pone.0149852
+UT WOS:000371434500063
+PM 26930052
+ER
+
+PT J
+AU Macdonald, S
+   Steen, J
+   Shazi, R
+AF Macdonald, Stuart
+   Steen, John
+   Shazi, Rahmat
+TI Aiming for Excellence: Reflections on the Advanced Institute of
+   Management Research and its Elite
+SO BRITISH JOURNAL OF MANAGEMENT
+SN 1045-3172
+EI 1467-8551
+PD FEB
+PY 2016
+VL 27
+IS 2
+BP 438
+EP 454
+DI 10.1111/1467-8551.12147
+UT WOS:000373769000013
+ER
+
+PT J
+AU Van Fleet, DD
+   Hutt, RW
+AF Van Fleet, David D.
+   Hutt, Roger W.
+TI Journal Lists: A Theoretical and Empirical Analysis
+SO INTERNATIONAL FOOD AND AGRIBUSINESS MANAGEMENT REVIEW
+SN 1559-2448
+PY 2016
+VL 19
+IS 3
+BP 171
+EP 189
+UT WOS:000385296900008
+ER
+
+PT J
+AU Vana, L
+   Hochreiter, R
+   Hornik, K
+AF Vana, Laura
+   Hochreiter, Ronald
+   Hornik, Kurt
+TI Computing a journal meta-ranking using paired comparisons and adaptive
+   lasso estimators
+SO SCIENTOMETRICS
+RI Hornik, Kurt/S-8548-2017
+OI Hornik, Kurt/0000-0003-4198-9911; Hochreiter, Ronald/0000-0002-7120-8939
+SN 0138-9130
+EI 1588-2861
+PD JAN
+PY 2016
+VL 106
+IS 1
+BP 229
+EP 251
+DI 10.1007/s11192-015-1772-6
+UT WOS:000368075800013
+ER
+
+PT J
+AU Tuselmann, H
+   Sinkovics, RR
+   Pishchulov, G
+AF Tueselmann, Heinz
+   Sinkovics, Rudolf R.
+   Pishchulov, Grigory
+TI Towards a consolidation of worldwide journal rankings - A classification
+   using random forests and aggregate rating via data envelopment analysis
+SO OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE
+RI Sinkovics, Rudolf/F-4092-2010; Pishchulov, Grigory/M-9405-2016
+OI Sinkovics, Rudolf/0000-0002-4471-5054; Pishchulov,
+   Grigory/0000-0001-8787-1869
+SN 0305-0483
+PD MAR
+PY 2015
+VL 51
+BP 11
+EP 23
+DI 10.1016/j.omega.2014.08.002
+UT WOS:000346548700002
+ER
+
+PT J
+AU Rowlinson, M
+   Harvey, C
+   Kelly, A
+   Morris, H
+   Todeva, E
+AF Rowlinson, Michael
+   Harvey, Charles
+   Kelly, Aidan
+   Morris, Huw
+   Todeva, Emanuela
+TI Accounting for research quality: Research audits and the journal
+   rankings debate
+SO CRITICAL PERSPECTIVES ON ACCOUNTING
+OI Todeva, Emanuela/0000-0003-3494-1303
+SN 1045-2354
+PD FEB
+PY 2015
+VL 26
+BP 2
+EP 22
+DI 10.1016/j.cpa.2013.05.012
+UT WOS:000350085400002
+ER
+
+PT J
+AU Iyengar, K
+   Balijepally, V
+AF Iyengar, Kishen
+   Balijepally, Venugopal
+TI Ranking journals using the dominance hierarchy procedure: an
+   illustration with IS journals
+SO SCIENTOMETRICS
+SN 0138-9130
+EI 1588-2861
+PD JAN
+PY 2015
+VL 102
+IS 1
+BP 5
+EP 23
+DI 10.1007/s11192-014-1444-y
+UT WOS:000347297400002
+ER
+
+PT J
+AU Schubert, A
+AF Schubert, Andras
+TI X-centage: a Hirsch-inspired indicator for distributions of
+   percentage-valued variables and its use for measuring
+   heterodisciplinarity
+SO SCIENTOMETRICS
+RI Schubert, Andras/H-8045-2015
+OI Schubert, Andras/0000-0001-8348-1775
+SN 0138-9130
+EI 1588-2861
+PD JAN
+PY 2015
+VL 102
+IS 1
+BP 307
+EP 332
+DI 10.1007/s11192-014-1281-z
+UT WOS:000347297400017
+ER
+
+PT J
+AU Beets, SD
+   Kelton, AS
+   Lewis, BR
+AF Beets, S. Douglas
+   Kelton, Andrea S.
+   Lewis, Bruce R.
+TI An assessment of accounting journal quality based on departmental lists
+SO SCIENTOMETRICS
+SN 0138-9130
+EI 1588-2861
+PD JAN
+PY 2015
+VL 102
+IS 1
+BP 315
+EP 332
+DI 10.1007/s11192-014-1353-0
+UT WOS:000411125300001
+ER
+
+PT J
+AU Peters, K
+   Daniels, K
+   Hodgkinson, GP
+   Haslam, SA
+AF Peters, Kim
+   Daniels, Kevin
+   Hodgkinson, Gerard P.
+   Haslam, S. Alexander
+TI Experts' Judgments of Management Journal Quality: An Identity Concerns
+   Model
+SO JOURNAL OF MANAGEMENT
+OI Peters, Kim/0000-0001-8091-8636; Haslam, Alex/0000-0001-9523-7921;
+   Hodgkinson, Gerard P./0000-0003-4824-4920
+SN 0149-2063
+EI 1557-1211
+PD NOV
+PY 2014
+VL 40
+IS 7
+BP 1785
+EP 1812
+DI 10.1177/0149206311434532
+UT WOS:000342940100001
+ER
+
+PT J
+AU Ronda-Pupo, GA
+   Diaz-Contreras, C
+AF Armando Ronda-Pupo, Guillermo
+   Diaz-Contreras, Carlos
+TI RELATIONSHIP BETWEEN THE IMPACT OF LATIN AMERICAN ARTICLES ON MANAGEMENT
+   AND THE LANGUAGE IN WHICH THEY APPEAR
+SO INTERCIENCIA
+RI Ronda-Pupo, Guillermo/F-9512-2014
+OI Ronda-Pupo, Guillermo/0000-0002-9049-8249
+SN 0378-1844
+PD SEP
+PY 2014
+VL 39
+IS 9
+BP 620
+EP 627
+UT WOS:000342887200003
+ER
+
+PT J
+AU Law, R
+   Vu, HQ
+   Li, G
+AF Law, Rob
+   Vu, Huy Quan
+   Li, Gang
+TI Discovering Implicit Criteria Preferences Reflected in Tourism Journal
+   Ranking Lists using the Choquet Integral
+SO ASIA PACIFIC JOURNAL OF TOURISM RESEARCH
+OI LAW, Chun Hung Roberts/0000-0001-7199-3757
+SN 1094-1665
+EI 1741-6507
+PD JUN 3
+PY 2014
+VL 19
+IS 6
+BP 662
+EP 679
+DI 10.1080/10941665.2013.806938
+UT WOS:000334058300003
+ER
+
+PT J
+AU Theussl, S
+   Reutterer, T
+   Hornik, K
+AF Theussl, Stefan
+   Reutterer, Thomas
+   Hornik, Kurt
+TI How to derive consensus among various marketing journal rankings?
+SO JOURNAL OF BUSINESS RESEARCH
+CT 4th German-French-Austrian conference on quantitative marketing
+CY SEP 16-18, 2010
+CL Vienna, AUSTRIA
+RI Hornik, Kurt/S-8548-2017
+OI Hornik, Kurt/0000-0003-4198-9911
+SN 0148-2963
+EI 1873-7978
+PD MAY
+PY 2014
+VL 67
+IS 5
+BP 998
+EP 1006
+DI 10.1016/j.jbusres.2013.08.006
+UT WOS:000333775900051
+ER
+
+PT J
+AU Netland, TH
+   Aspelund, A
+AF Netland, Torbjorn H.
+   Aspelund, Arild
+TI Multi-plant improvement programmes: a literature review and research
+   agenda
+SO INTERNATIONAL JOURNAL OF OPERATIONS & PRODUCTION MANAGEMENT
+RI Netland, Torbjorn/C-4944-2013
+OI Netland, Torbjorn/0000-0001-7382-1051
+SN 0144-3577
+EI 1758-6593
+PY 2014
+VL 34
+IS 3
+BP 390
+EP 418
+DI 10.1108/IJOPM-02-2012-0087
+UT WOS:000332819000005
+ER
+
+PT J
+AU Lowry, PB
+   Moody, GD
+   Gaskin, J
+   Galletta, DF
+   Humpherys, SL
+   Barlow, JB
+   Wilson, DW
+AF Lowry, Paul Benjamin
+   Moody, Gregory D.
+   Gaskin, James
+   Galletta, Dennis F.
+   Humpherys, Sean L.
+   Barlow, Jordan B.
+   Wilson, David W.
+TI EVALUATING JOURNAL QUALITY AND THE ASSOCIATION FOR INFORMATION SYSTEMS
+   SENIOR SCHOLARS' JOURNAL BASKET VIA BIBLIOMETRIC MEASURES: DO EXPERT
+   JOURNAL ASSESSMENTS ADD VALUE?
+SO MIS QUARTERLY
+RI Lowry, Paul/A-2790-2008
+OI Lowry, Paul/0000-0002-0187-5808
+SN 0276-7783
+PD DEC
+PY 2013
+VL 37
+IS 4
+BP 993
+EP +
+DI 10.25300/MISQ/2013/37.4.01
+UT WOS:000329756800002
+ER
+
+PT J
+AU Currie, RR
+   Pandher, G
+AF Currie, Russell R.
+   Pandher, Gurupdesh
+TI Management Education Journals' Rank and Tier by Active Scholars
+SO ACADEMY OF MANAGEMENT LEARNING & EDUCATION
+SN 1537-260X
+PD JUN
+PY 2013
+VL 12
+IS 2
+BP 194
+EP 218
+DI 10.5465/amle.2010.0184
+UT WOS:000322287500004
+ER
+
+PT J
+AU Haley, MR
+AF Haley, M. Ryan
+TI Rank variability of the Publish or Perish metrics for economics and
+   finance journals
+SO APPLIED ECONOMICS LETTERS
+SN 1350-4851
+PD JUN 1
+PY 2013
+VL 20
+IS 9
+BP 830
+EP 836
+DI 10.1080/13504851.2012.697115
+UT WOS:000321172500003
+ER
+
+PT J
+AU Harzing, AW
+   Metz, I
+AF Harzing, Anne-Wil
+   Metz, Isabel
+TI Practicing what We Preach The Geographic Diversity of Editorial Boards
+SO MANAGEMENT INTERNATIONAL REVIEW
+RI Metz, Isabel/C-9189-2015; Harzing, Anne-Wil/C-7472-2014
+OI Metz, Isabel/0000-0002-9367-2468; Harzing, Anne-Wil/0000-0003-1509-3003
+SN 0938-8249
+PD APR
+PY 2013
+VL 53
+IS 2
+BP 169
+EP 187
+DI 10.1007/s11575-011-0124-x
+UT WOS:000317015900001
+ER
+
+PT J
+AU Rao, S
+   Iyengar, D
+   Goldsby, TJ
+AF Rao, Shashank
+   Iyengar, Deepak
+   Goldsby, Thomas J.
+TI On the measurement and benchmarking of research impact among active
+   logistics scholars
+SO INTERNATIONAL JOURNAL OF PHYSICAL DISTRIBUTION & LOGISTICS MANAGEMENT
+SN 0960-0035
+EI 1758-664X
+PY 2013
+VL 43
+IS 10
+BP 814
+EP 832
+DI 10.1108/IJPDLM-07-2012-0207
+UT WOS:000326315400002
+ER
+
+PT J
+AU Basole, RC
+   Seuss, CD
+   Rouse, WB
+AF Basole, Rahul C.
+   Seuss, C. David
+   Rouse, William B.
+TI IT innovation adoption by enterprises: Knowledge discovery through text
+   analytics
+SO DECISION SUPPORT SYSTEMS
+RI Mishra, deepa/O-7001-2016
+SN 0167-9236
+PD JAN
+PY 2013
+VL 54
+IS 2
+BP 1044
+EP 1054
+DI 10.1016/j.dss.2012.10.029
+UT WOS:000317448900021
+ER
+
+PT J
+AU Amara, N
+   Landry, R
+AF Amara, Nabil
+   Landry, Rejean
+TI Counting citations in the field of business and management: why use
+   Google Scholar rather than the Web of Science
+SO SCIENTOMETRICS
+SN 0138-9130
+EI 1588-2861
+PD DEC
+PY 2012
+VL 93
+IS 3
+BP 553
+EP 581
+DI 10.1007/s11192-012-0729-2
+UT WOS:000310964500001
+ER
+
+PT J
+AU Mingers, J
+   Watson, K
+   Scaparra, MP
+AF Mingers, John
+   Watson, Kate
+   Scaparra, Maria Paola
+TI Estimating Business and Management journal quality from the 2008
+   Research Assessment Exercise in the UK
+SO INFORMATION PROCESSING & MANAGEMENT
+OI Scaparra, Maria/0000-0002-2725-5439; Mingers, John/0000-0002-4102-4696
+SN 0306-4573
+PD NOV
+PY 2012
+VL 48
+IS 6
+BP 1078
+EP 1093
+DI 10.1016/j.ipm.2012.01.008
+UT WOS:000309794000005
+ER
+
+PT J
+AU Mingers, J
+   Macri, F
+   Petrovici, D
+AF Mingers, John
+   Macri, Frederico
+   Petrovici, Dan
+TI Using the h-index to measure the quality of journals in the field of
+   business and management
+SO INFORMATION PROCESSING & MANAGEMENT
+OI Mingers, John/0000-0002-4102-4696
+SN 0306-4573
+PD MAR
+PY 2012
+VL 48
+IS 2
+BP 234
+EP 241
+DI 10.1016/j.ipm.2011.03.009
+UT WOS:000301625900004
+ER
+
+PT J
+AU Metz, I
+   Harzing, AW
+AF Metz, Isabel
+   Harzing, Anne-Wil
+TI An update of gender diversity in editorial boards: a longitudinal study
+   of management journals
+SO PERSONNEL REVIEW
+RI Metz, Isabel/C-9189-2015; Harzing, Anne-Wil/C-7472-2014
+OI Metz, Isabel/0000-0002-9367-2468; Harzing, Anne-Wil/0000-0003-1509-3003
+SN 0048-3486
+EI 1758-6933
+PY 2012
+VL 41
+IS 3
+BP 283
+EP 300
+DI 10.1108/00483481211212940
+UT WOS:000305100800002
+ER
+
+PT J
+AU Serenko, A
+   Dohan, M
+AF Serenko, Alexander
+   Dohan, Michael
+TI Comparing the expert survey and citation impact journal ranking methods:
+   Example from the field of Artificial Intelligence
+SO JOURNAL OF INFORMETRICS
+SN 1751-1577
+PD OCT
+PY 2011
+VL 5
+IS 4
+BP 629
+EP 648
+DI 10.1016/j.joi.2011.06.002
+UT WOS:000296524200014
+ER
+
+PT J
+AU Herrmann, R
+   Berg, E
+   Dabbert, S
+   Pochtrager, S
+   Salhofer, K
+AF Herrmann, Roland
+   Berg, Ernst
+   Dabbert, Stephan
+   Poechtrager, Siegfried
+   Salhofer, Klaus
+TI Going Beyond Impact Factors: A Survey-based Journal Ranking by
+   Agricultural Economists
+SO JOURNAL OF AGRICULTURAL ECONOMICS
+SN 0021-857X
+EI 1477-9552
+PD SEP
+PY 2011
+VL 62
+IS 3
+BP 710
+EP 732
+DI 10.1111/j.1477-9552.2011.00308.x
+UT WOS:000293629700012
+ER
+
+PT J
+AU Dos Santos, BL
+   Holsapple, CW
+   Ye, Q
+AF Dos Santos, Brian L.
+   Holsapple, Clyde W.
+   Ye, Qian
+TI The Intellectual Influence of Entrepreneurship Journals: A Network
+   Analysis
+SO ENTREPRENEURSHIP THEORY AND PRACTICE
+RI holsapple, c/A-6342-2013
+OI holsapple, c/0000-0002-4934-175X; Ye, Qian/0000-0002-4979-0061
+SN 1042-2587
+PD JUL
+PY 2011
+VL 35
+IS 4
+BP 735
+EP 754
+DI 10.1111/j.1540-6520.2010.00392.x
+UT WOS:000292694000006
+ER
+
+PT J
+AU Kurbel, K
+   Krybus, I
+   Stankov, I
+AF Kurbel, Karl
+   Krybus, Ilja
+   Stankov, Ivo
+TI REVIEWING CRITERIA OF INFORMATION SYSTEMS, COMPUTER SCIENCE AND
+   ENGINEERING JOURNALS
+SO JOURNAL OF COMPUTER INFORMATION SYSTEMS
+SN 0887-4417
+PD SUM
+PY 2011
+VL 51
+IS 4
+BP 74
+EP 80
+UT WOS:000294037500008
+ER
+
+PT J
+AU Taylor, J
+AF Taylor, Jim
+TI The Assessment of Research Quality in UK Universities: Peer Review or
+   Metrics?
+SO BRITISH JOURNAL OF MANAGEMENT
+SN 1045-3172
+PD JUN
+PY 2011
+VL 22
+IS 2
+BP 202
+EP 217
+DI 10.1111/j.1467-8551.2010.00722.x
+UT WOS:000290580600002
+ER
+
+PT J
+AU Mixon, FG
+   Upadhyaya, KP
+AF Mixon, Franklin G., Jr.
+   Upadhyaya, Kamal P.
+TI ASSESSING THE RELATIVE IMPACTS OF ECONOMIC EDUCATION SCHOLARSHIP: AN
+   APPLICATION OF THE HARZING DATABASE
+SO BULLETIN OF ECONOMIC RESEARCH
+SN 0307-3378
+EI 1467-8586
+PD APR
+PY 2011
+VL 63
+IS 2
+BP 166
+EP 176
+DI 10.1111/j.1467-8586.2009.00331.x
+UT WOS:000288458000003
+ER
+
+PT J
+AU Zhang, C
+   Liu, X
+   Xu, YJ
+   Wang, YW
+AF Zhang, Cheng
+   Liu, Xu
+   Xu, Yunjie (Calvin)
+   Wang, Youwei
+TI Quality-Structure Index: A New Metric to Measure Scientific Journal
+   Influence
+SO JOURNAL OF THE AMERICAN SOCIETY FOR INFORMATION SCIENCE AND TECHNOLOGY
+RI Zhang, Cheng/A-1230-2009; Xu, Yunjie/E-9466-2011
+OI Zhang, Cheng/0000-0002-8277-5138; 
+SN 1532-2882
+PD APR
+PY 2011
+VL 62
+IS 4
+BP 643
+EP 653
+DI 10.1002/asi.21487
+UT WOS:000288525000004
+ER
+
+PT J
+AU Mingers, J
+   Lipitakis, EAECG
+AF Mingers, John
+   Lipitakis, Evangelia A. E. C. G.
+TI Counting the citations: a comparison of Web of Science and Google
+   Scholar in the field of business and management
+SO SCIENTOMETRICS
+OI Mingers, John/0000-0002-4102-4696; Lipitakis,
+   Evangelia/0000-0002-9506-4319
+SN 0138-9130
+PD NOV
+PY 2010
+VL 85
+IS 2
+BP 613
+EP 625
+DI 10.1007/s11192-010-0270-0
+UT WOS:000282048200018
+ER
+
+PT J
+AU Serenko, A
+AF Serenko, Alexander
+TI The development of an AI journal ranking based on the revealed
+   preference approach
+SO JOURNAL OF INFORMETRICS
+SN 1751-1577
+EI 1875-5879
+PD OCT
+PY 2010
+VL 4
+IS 4
+BP 447
+EP 459
+DI 10.1016/j.joi.2010.04.001
+UT WOS:000281616200001
+ER
+
+PT J
+AU Mingers, J
+   Xu, F
+AF Mingers, John
+   Xu, Fang
+TI The drivers of citations in management science journals
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+OI Mingers, John/0000-0002-4102-4696
+SN 0377-2217
+PD SEP 1
+PY 2010
+VL 205
+IS 2
+BP 422
+EP 430
+DI 10.1016/j.ejor.2009.12.008
+UT WOS:000276030200020
+ER
+
+PT J
+AU Metz, I
+   Harzing, AW
+AF Metz, Isabel
+   Harzing, Anne-Wil
+TI Gender Diversity in Editorial Boards of Management Journals
+SO ACADEMY OF MANAGEMENT LEARNING & EDUCATION
+RI Harzing, Anne-Wil/C-7472-2014; Metz, Isabel/C-9189-2015
+OI Harzing, Anne-Wil/0000-0003-1509-3003; Metz, Isabel/0000-0002-9367-2468
+SN 1537-260X
+PD DEC
+PY 2009
+VL 8
+IS 4
+BP 540
+EP 557
+DI 10.5465/AMLE.2009.47785472
+UT WOS:000273270700006
+ER
+
+PT J
+AU Mingers, J
+AF Mingers, J.
+TI Measuring the research contribution of management academics using the
+   Hirsch-index
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+OI Mingers, John/0000-0002-4102-4696
+SN 0160-5682
+PD SEP
+PY 2009
+VL 60
+IS 9
+BP 1143
+EP 1153
+DI 10.1057/jors.2008.94
+UT WOS:000268641100001
+ER
+
+PT J
+AU White, HD
+   Boell, SK
+   Yu, H
+   Davis, M
+   Wilson, CS
+   Cole, FTH
+AF White, Howard D.
+   Boell, Sebastian K.
+   Yu, Hairong
+   Davis, Mari
+   Wilson, Concepcion S.
+   Cole, Fletcher T. H.
+TI Libcitations: A Measure for Comparative Assessment of Book Publications
+   in the Humanities and Social Sciences
+SO JOURNAL OF THE AMERICAN SOCIETY FOR INFORMATION SCIENCE AND TECHNOLOGY
+RI Wilson, Concepcion/M-8784-2014; Boell, Sebastian/F-6506-2010
+OI Boell, Sebastian/0000-0002-4013-7066; White, Howard/0000-0003-4839-6617
+SN 1532-2882
+PD JUN
+PY 2009
+VL 60
+IS 6
+BP 1083
+EP 1096
+DI 10.1002/asi.21045
+UT WOS:000266303800001
+ER
+
+PT J
+AU Gill, G
+   Bhattacherjee, A
+AF Gill, Grandon
+   Bhattacherjee, Anol
+TI WHOM ARE WE INFORMING? ISSUES AND RECOMMENDATIONS FOR MIS RESEARCH FROM
+   AN INFORMING SCIENCES PERSPECTIVE
+SO MIS QUARTERLY
+SN 0276-7783
+PD JUN
+PY 2009
+VL 33
+IS 2
+BP 217
+EP 235
+UT WOS:000267558500002
+ER
+
+PT J
+AU Goode, S
+   Gregor, S
+AF Goode, Sigi
+   Gregor, Shirley
+TI Rethinking organisational size in IS research: meaning, measurement and
+   redevelopment
+SO EUROPEAN JOURNAL OF INFORMATION SYSTEMS
+SN 0960-085X
+EI 1476-9344
+PD FEB
+PY 2009
+VL 18
+IS 1
+BP 4
+EP 25
+DI 10.1057/ejis.2009.2
+UT WOS:000264892800001
+ER
+
+PT J
+AU Bontis, N
+   Serenko, A
+AF Bontis, Nick
+   Serenko, Alexander
+TI A follow-up ranking of academic journals
+SO JOURNAL OF KNOWLEDGE MANAGEMENT
+RI Wang, Charles/B-5565-2011
+OI Wang, Charles/0000-0001-9331-8437
+SN 1367-3270
+EI 1758-7484
+PY 2009
+VL 13
+IS 1
+BP 16
+EP 26
+DI 10.1108/13673270910931134
+UT WOS:000272700400002
+ER
+
+PT J
+AU Harzing, AW
+   van der Wal, R
+AF Harzing, Anne-Wil
+   van der Wal, Ron
+TI A Google Scholar h-Index for Journals: An Alternative Metric to Measure
+   Journal Impact in Economics and Business
+SO JOURNAL OF THE AMERICAN SOCIETY FOR INFORMATION SCIENCE AND TECHNOLOGY
+RI Harzing, Anne-Wil/C-7472-2014
+OI Harzing, Anne-Wil/0000-0003-1509-3003
+SN 1532-2882
+EI 1532-2890
+PD JAN
+PY 2009
+VL 60
+IS 1
+BP 41
+EP 46
+DI 10.1002/asi.20953
+UT WOS:000262424900006
+ER
+
+PT J
+AU Truex, D
+   Cuellar, M
+   Takeda, H
+AF Truex, Duane
+   Cuellar, Michael
+   Takeda, Hirotoshi
+TI Assessing Scholarly Influence: Using the Hirsch Indices to Reframe the
+   Discourse
+SO JOURNAL OF THE ASSOCIATION FOR INFORMATION SYSTEMS
+OI Cuellar, Michael/0000-0002-3981-9625
+SN 1536-9323
+PY 2009
+VL 10
+IS 7
+BP 560
+EP 594
+UT WOS:000269971700002
+ER
+
+PT J
+AU Dwivedi, YK
+   Kuljis, J
+AF Dwivedi, Yogesh K.
+   Kuljis, Jasna
+TI Profile of IS research published in the European Journal of Information
+   Systems
+SO EUROPEAN JOURNAL OF INFORMATION SYSTEMS
+RI Dwivedi, Yogesh/A-5362-2008
+OI Dwivedi, Yogesh/0000-0002-5547-9990
+SN 0960-085X
+PD DEC
+PY 2008
+VL 17
+IS 6
+BP 678
+EP 693
+DI 10.1057/ejis.2008.57
+UT WOS:000262201100009
+ER
+
+PT J
+AU Segalla, M
+AF Segalla, Michael
+TI Publishing in the right place or publishing the right thing: journal
+   targeting and citations' strategies for promotion and tenure committees
+SO EUROPEAN JOURNAL OF INTERNATIONAL MANAGEMENT
+SN 1751-6757
+PY 2008
+VL 2
+IS 2
+BP 122
+EP 127
+DI 10.1504/EJIM.2008.017765
+UT WOS:000257538100003
+ER
+
+EF

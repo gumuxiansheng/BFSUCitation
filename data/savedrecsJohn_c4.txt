@@ -1,0 +1,1205 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Smith, CM
+   Shaw, D
+AF Smith, Chris M.
+   Shaw, Duncan
+TI The characteristics of problem structuring methods: A literature review
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+OI Smith, Christopher/0000-0001-8016-2437
+SN 0377-2217
+EI 1872-6860
+PD APR 16
+PY 2019
+VL 274
+IS 2
+BP 403
+EP 416
+DI 10.1016/j.ejor.2018.05.003
+UT WOS:000457512200001
+ER
+
+PT J
+AU Tavella, E
+   Lami, I
+AF Tavella, Elena
+   Lami, Isabella
+TI Negotiating perspectives and values through soft OR in the context of
+   urban renewal
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+SN 0160-5682
+EI 1476-9360
+PD JAN 2
+PY 2019
+VL 70
+IS 1
+BP 136
+EP 161
+DI 10.1080/01605682.2018.1427433
+UT WOS:000458555100010
+ER
+
+PT J
+AU Pournader, M
+   Kach, A
+   Fahimnia, B
+   Sarkis, J
+AF Pournader, Mehrdokht
+   Kach, Andrew
+   Fahimnia, Behnam
+   Sarkis, Joseph
+TI Outsourcing performance quality assessment using data envelopment
+   analytics
+SO INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+RI Sarkis, Joseph/F-4508-2014; Pournader, Mehrdokht/0000-0002-6935-4320
+OI Sarkis, Joseph/0000-0003-0143-804X; Pournader,
+   Mehrdokht/0000-0002-6935-4320
+SN 0925-5273
+EI 1873-7579
+PD JAN
+PY 2019
+VL 207
+BP 173
+EP 182
+DI 10.1016/j.ijpe.2016.07.004
+UT WOS:000454973200013
+ER
+
+PT J
+AU Eden, C
+   Ackermann, F
+AF Eden, Colin
+   Ackermann, Fran
+TI Theory into practice, practice to theory: Action research in method
+   development
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+RI Ackermann, Fran/G-2657-2014
+OI Ackermann, Fran/0000-0003-2381-6611
+SN 0377-2217
+EI 1872-6860
+PD DEC 16
+PY 2018
+VL 271
+IS 3
+BP 1145
+EP 1155
+DI 10.1016/j.ejor.2018.05.061
+UT WOS:000442060500025
+ER
+
+PT J
+AU Todella, E
+   Lami, IM
+   Armando, A
+AF Todella, Elena
+   Lami, Isabella Maria
+   Armando, Alessandro
+TI Experimental Use of Strategic Choice Approach (SCA) by Individuals as an
+   Architectural Design Tool
+SO GROUP DECISION AND NEGOTIATION
+SN 0926-2644
+EI 1572-9907
+PD OCT
+PY 2018
+VL 27
+IS 5
+SI SI
+BP 811
+EP 826
+DI 10.1007/s10726-018-9567-9
+UT WOS:000444600200006
+ER
+
+PT J
+AU Johnson, MP
+   Midgley, G
+   Wright, J
+   Chichirau, G
+AF Johnson, Michael P.
+   Midgley, Gerald
+   Wright, Jason
+   Chichirau, George
+TI Community Operational Research: Innovations, internationalization and
+   agenda-setting applications
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+SN 0377-2217
+EI 1872-6860
+PD AUG 1
+PY 2018
+VL 268
+IS 3
+SI SI
+BP 761
+EP 770
+DI 10.1016/j.ejor.2018.03.004
+UT WOS:000431164000001
+ER
+
+PT J
+AU Midgley, G
+   Johnson, MP
+   Chichirau, G
+AF Midgley, Gerald
+   Johnson, Michael P.
+   Chichirau, George
+TI What is Community Operational Research?
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+SN 0377-2217
+EI 1872-6860
+PD AUG 1
+PY 2018
+VL 268
+IS 3
+SI SI
+BP 771
+EP 783
+DI 10.1016/j.ejor.2017.08.014
+UT WOS:000431164000002
+ER
+
+PT J
+AU Goulding, C
+   Kelemen, M
+   Kiyomiya, T
+AF Goulding, Christina
+   Kelemen, Mihaela
+   Kiyomiya, Toru
+TI Community based response to the Japanese tsunami: A bottom-up approach
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+SN 0377-2217
+EI 1872-6860
+PD AUG 1
+PY 2018
+VL 268
+IS 3
+SI SI
+BP 887
+EP 903
+DI 10.1016/j.ejor.2017.11.066
+UT WOS:000431164000011
+ER
+
+PT J
+AU Wang, YL
+   Touboulic, A
+   O'Neill, M
+AF Wang, Yingli
+   Touboulic, Anne
+   O'Neill, Martin
+TI An exploration of solutions for improving access to affordable fresh
+   food with disadvantaged Welsh communities
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+OI Wang, Yingli/0000-0001-5630-9558
+SN 0377-2217
+EI 1872-6860
+PD AUG 1
+PY 2018
+VL 268
+IS 3
+SI SI
+BP 1021
+EP 1039
+DI 10.1016/j.ejor.2017.11.065
+UT WOS:000431164000021
+ER
+
+PT J
+AU Johnson, MP
+   Midgley, G
+   Chichirau, G
+AF Johnson, Michael P.
+   Midgley, Gerald
+   Chichirau, George
+TI Emerging trends and new frontiers in community operational research
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+OI Johnson, Michael/0000-0002-4466-5886
+SN 0377-2217
+EI 1872-6860
+PD AUG 1
+PY 2018
+VL 268
+IS 3
+SI SI
+BP 1178
+EP 1191
+DI 10.1016/j.ejor.2017.11.032
+UT WOS:000431164000032
+ER
+
+PT J
+AU Bernardo, H
+   Gaspar, A
+   Antunes, CH
+AF Bernardo, Hermano
+   Gaspar, Adelio
+   Antunes, Carlos Henggeler
+TI A Combined Value Focused Thinking-Soft Systems Methodology Approach to
+   Structure Decision Support for Energy Performance Assessment of School
+   Buildings
+SO SUSTAINABILITY
+OI Henggeler Antunes, Carlos/0000-0003-4754-2168; Bernardo,
+   Hermano/0000-0002-5290-6424
+SN 2071-1050
+PD JUL
+PY 2018
+VL 10
+IS 7
+AR 2295
+DI 10.3390/su10072295
+UT WOS:000440947600186
+ER
+
+PT J
+AU Small, A
+   Wainwright, D
+AF Small, Adrian
+   Wainwright, David
+TI Privacy and security of electronic patient records - Tailoring
+   multimethodology to explore the socio-political problems associated with
+   Role Based Access Control systems
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+RI Small, Adrian/E-1702-2014
+OI Small, Adrian/0000-0001-5154-0080
+SN 0377-2217
+EI 1872-6860
+PD FEB 16
+PY 2018
+VL 265
+IS 1
+BP 344
+EP 360
+DI 10.1016/j.ejor.2017.07.041
+UT WOS:000415775300027
+ER
+
+PT J
+AU Ji, BY
+   Liu, YM
+   Jin, ZY
+AF Ji, Boya
+   Liu, Yuming
+   Jin, Zhanyong
+TI An evaluation of the design and construction of energy management
+   platform for public buildings based on WSR system approach
+SO KYBERNETES
+SN 0368-492X
+EI 1758-7883
+PY 2018
+VL 47
+IS 8
+BP 1549
+EP 1568
+DI 10.1108/K-07-2017-0265
+UT WOS:000446478800003
+ER
+
+PT J
+AU Sepehrirad, R
+   Rajabzadeh, A
+   Azar, A
+   Zarei, B
+AF Sepehrirad, Ramin
+   Rajabzadeh, Ali
+   Azar, Adel
+   Zarei, Behrouz
+TI A Soft Systems Methodology Approach to Occupational Cancer Control
+   Problem: a Case Study of the Ministry of Petroleum of Iran
+SO SYSTEMIC PRACTICE AND ACTION RESEARCH
+OI Rajabzadeh Ghatari, Ali/0000-0002-8470-3568
+SN 1094-429X
+EI 1573-9295
+PD DEC
+PY 2017
+VL 30
+IS 6
+BP 609
+EP 626
+DI 10.1007/s11213-017-9409-8
+UT WOS:000415349400003
+ER
+
+PT J
+AU Groop, J
+   Ketokivi, M
+   Gupta, M
+   Holmstrom, J
+AF Groop, Johan
+   Ketokivi, Mikko
+   Gupta, Mahesh
+   Holmstrorm, Jan
+TI Improving home care: Knowledge creation through engagement and design
+SO JOURNAL OF OPERATIONS MANAGEMENT
+RI Holmstrom, Jan/E-7230-2012
+OI Holmstrom, Jan/0000-0002-2596-0337
+SN 0272-6963
+EI 1873-1317
+PD NOV
+PY 2017
+VL 53-56
+BP 9
+EP 22
+DI 10.1016/j.jom.2017.11.001
+UT WOS:000418781600002
+ER
+
+PT J
+AU Scozzi, B
+   Bellantuono, N
+   Pontrandolfo, P
+AF Scozzi, Barbara
+   Bellantuono, Nicola
+   Pontrandolfo, Pierpaolo
+TI Managing Open Innovation in Urban Labs
+SO GROUP DECISION AND NEGOTIATION
+OI Scozzi, Barbara/0000-0001-7359-4469
+SN 0926-2644
+EI 1572-9907
+PD SEP
+PY 2017
+VL 26
+IS 5
+SI SI
+BP 857
+EP 874
+DI 10.1007/s10726-017-9524-z
+UT WOS:000410181900002
+ER
+
+PT J
+AU Pournader, M
+   Kach, A
+   Hajiagha, SHR
+   Emrouznejad, A
+AF Pournader, Mehrdokht
+   Kach, Andrew
+   Hajiagha, Seyed Hossein Razavi
+   Emrouznejad, Ali
+TI Investigating the impact of behavioral factors on supply network
+   efficiency: insights from banking's corporate bond networks
+SO ANNALS OF OPERATIONS RESEARCH
+RI Emrouznejad, Ali/C-6707-2018; Pournader, Mehrdokht/0000-0002-6935-4320
+OI Emrouznejad, Ali/0000-0001-8094-4244; Pournader,
+   Mehrdokht/0000-0002-6935-4320
+SN 0254-5330
+EI 1572-9338
+PD JUL
+PY 2017
+VL 254
+IS 1-2
+BP 277
+EP 302
+DI 10.1007/s10479-017-2457-8
+UT WOS:000404290300014
+ER
+
+PT J
+AU Freeman, R
+   Yearworth, M
+AF Freeman, Rachel
+   Yearworth, Mike
+TI Climate change and cities: problem structuring methods and critical
+   perspectives on low-carbon districts
+SO ENERGY RESEARCH & SOCIAL SCIENCE
+RI Yearworth, Mike/A-9463-2012; Freeman, Rachel/C-5099-2016
+OI Yearworth, Mike/0000-0002-8468-0335; Freeman, Rachel/0000-0002-6620-8504
+SN 2214-6296
+EI 2214-6326
+PD MAR
+PY 2017
+VL 25
+BP 48
+EP 64
+DI 10.1016/j.erss.2016.11.009
+UT WOS:000397201300007
+ER
+
+PT J
+AU Bell, S
+   Mahroum, S
+   Yassin, N
+AF Bell, Simon
+   Mahroum, Sami
+   Yassin, Nasser
+TI Towards understanding problem structuring and groups with triple task
+   methodology 'e'
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+SN 0160-5682
+EI 1476-9360
+PD FEB
+PY 2017
+VL 68
+IS 2
+BP 192
+EP 206
+DI 10.1057/s41274-016-0017-2
+UT WOS:000394519900007
+ER
+
+PT J
+AU Cancer, V
+   Zizek, SS
+AF Cancer, Vesna
+   Zizek, Simona Sarotar
+TI A multiple-criteria approach to human resource management assessment in
+   organizations with respect to industry
+SO KYBERNETES
+SN 0368-492X
+EI 1758-7883
+PY 2017
+VL 46
+IS 3
+BP 419
+EP 432
+DI 10.1108/K-09-2016-0236
+UT WOS:000401121200003
+ER
+
+PT J
+AU Zeleznik, D
+   Kokol, P
+   Vosner, HB
+AF Zeleznik, Danica
+   Kokol, Peter
+   Vosner, Helena Blazun
+TI Adapting nurse competence to future patient needs using Checkland's Soft
+   Systems Methodology
+SO NURSE EDUCATION TODAY
+SN 0260-6917
+EI 1532-2793
+PD JAN
+PY 2017
+VL 48
+BP 106
+EP 110
+DI 10.1016/j.nedt.2016.09.015
+UT WOS:000389730600017
+PM 27744237
+ER
+
+PT J
+AU Cunha, AAR
+   Morais, DC
+AF Cunha, Annielli A. R.
+   Morais, Danielle C.
+TI Analysing the use of cognitive maps in an experiment on a group decision
+   process
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+RI Morais, Danielle/G-9697-2012
+OI Morais, Danielle/0000-0003-4430-8122
+SN 0160-5682
+EI 1476-9360
+PD DEC
+PY 2016
+VL 67
+IS 12
+BP 1459
+EP 1468
+DI 10.1057/jors.2016.19
+UT WOS:000393386700003
+ER
+
+PT J
+AU Lowe, D
+   Martingale, L
+   Yearworth, M
+AF Lowe, David
+   Martingale, Louise
+   Yearworth, Mike
+TI Guiding interventions in a multi-organisational context: combining the
+   Viable System Model and Hierarchical Process Modelling for use as a
+   Problem Structuring Method
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+RI Yearworth, Mike/A-9463-2012
+OI Yearworth, Mike/0000-0002-8468-0335
+SN 0160-5682
+EI 1476-9360
+PD DEC
+PY 2016
+VL 67
+IS 12
+BP 1481
+EP 1495
+DI 10.1057/jors.2016.6
+UT WOS:000393386700005
+ER
+
+PT J
+AU Hales, DN
+   Chakravorty, SS
+AF Hales, Douglas N.
+   Chakravorty, Satya S.
+TI Creating high reliability organizations using mindfulness
+SO JOURNAL OF BUSINESS RESEARCH
+SN 0148-2963
+EI 1873-7978
+PD AUG
+PY 2016
+VL 69
+IS 8
+BP 2873
+EP 2881
+DI 10.1016/j.jbusres.2015.12.056
+UT WOS:000377726600027
+ER
+
+PT J
+AU Jones, W
+   Sooriyabandara, M
+   Yearworth, M
+   Doufexi, A
+   Wilson, RE
+AF Jones, William
+   Sooriyabandara, Mahesh
+   Yearworth, Mike
+   Doufexi, Angela
+   Wilson, R. Eddie
+TI Planning For 5G: A Problem Structuring Approach for Survival in the
+   Telecoms Industry
+SO SYSTEMS ENGINEERING
+RI Yearworth, Mike/A-9463-2012
+OI Yearworth, Mike/0000-0002-8468-0335; Doufexi,
+   Angela/0000-0003-0133-6676; Jones, William/0000-0003-2999-9025
+SN 1098-1241
+EI 1520-6858
+PD JUL
+PY 2016
+VL 19
+IS 4
+BP 301
+EP 321
+DI 10.1002/sys.21354
+UT WOS:000384670500001
+ER
+
+PT J
+AU Walworth, T
+   Yearworth, M
+   Shrieves, L
+   Sillitto, H
+AF Walworth, Thomas
+   Yearworth, Mike
+   Shrieves, Laura
+   Sillitto, Hillary
+TI Estimating Project Performance through a System Dynamics Learning Model
+SO SYSTEMS ENGINEERING
+RI Yearworth, Mike/A-9463-2012
+OI Yearworth, Mike/0000-0002-8468-0335
+SN 1098-1241
+EI 1520-6858
+PD JUL
+PY 2016
+VL 19
+IS 4
+BP 334
+EP 350
+DI 10.1002/sys.21349
+UT WOS:000384670500003
+ER
+
+PT J
+AU Houghton, L
+   Crump, L
+AF Houghton, Luke
+   Crump, Larry
+TI Temporal Events and Problem Structuring
+SO SYSTEMS RESEARCH AND BEHAVIORAL SCIENCE
+SN 1092-7026
+EI 1099-1743
+PD MAY-JUN
+PY 2016
+VL 33
+IS 3
+BP 324
+EP 340
+DI 10.1002/sres.2355
+UT WOS:000379955400003
+ER
+
+PT J
+AU Becker, KH
+AF Becker, Kai Helge
+TI An outlook on behavioural OR - Three tasks, three pitfalls, one
+   definition
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+SN 0377-2217
+EI 1872-6860
+PD MAR 16
+PY 2016
+VL 249
+IS 3
+BP 806
+EP 815
+DI 10.1016/j.ejor.2015.09.055
+UT WOS:000370463500003
+ER
+
+PT J
+AU Luoma, J
+AF Luoma, Jukka
+TI Model-based organizational decision making: A behavioral lens
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+SN 0377-2217
+EI 1872-6860
+PD MAR 16
+PY 2016
+VL 249
+IS 3
+BP 816
+EP 826
+DI 10.1016/j.ejor.2015.08.039
+UT WOS:000370463500004
+ER
+
+PT J
+AU White, L
+AF White, Leroy
+TI Behavioural operational research: Towards a framework for understanding
+   behaviour in OR interventions
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+SN 0377-2217
+EI 1872-6860
+PD MAR 16
+PY 2016
+VL 249
+IS 3
+BP 827
+EP 841
+DI 10.1016/j.ejor.2015.07.032
+UT WOS:000370463500005
+ER
+
+PT J
+AU Franco, LA
+   Rouwette, EAJA
+   Korzilius, H
+AF Franco, L. Alberto
+   Rouwette, Etienne A. J. A.
+   Korzilius, Hubert
+TI Different paths to consensus? The impact of need for closure on
+   model-supported group conflict management
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+OI Franco, Luis Alberto/0000-0001-6231-8565
+SN 0377-2217
+EI 1872-6860
+PD MAR 16
+PY 2016
+VL 249
+IS 3
+BP 878
+EP 889
+DI 10.1016/j.ejor.2015.06.056
+UT WOS:000370463500009
+ER
+
+PT J
+AU White, L
+   Burger, K
+   Yearworth, M
+AF White, Leroy
+   Burger, Katharina
+   Yearworth, Mike
+TI Understanding behaviour in problem structuring methods interventions
+   with activity theory
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+RI Yearworth, Mike/A-9463-2012
+OI Yearworth, Mike/0000-0002-8468-0335; Burger,
+   Katharina/0000-0002-4348-5381
+SN 0377-2217
+EI 1872-6860
+PD MAR 16
+PY 2016
+VL 249
+IS 3
+BP 983
+EP 1004
+DI 10.1016/j.ejor.2015.07.044
+UT WOS:000370463500018
+ER
+
+PT J
+AU Keller, N
+   Katsikopoulos, KV
+AF Keller, Niklas
+   Katsikopoulos, Konstantinos V.
+TI On the role of psychological heuristics in operational research; and a
+   demonstration in military stability operations
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+SN 0377-2217
+EI 1872-6860
+PD MAR 16
+PY 2016
+VL 249
+IS 3
+BP 1063
+EP 1073
+DI 10.1016/j.ejor.2015.07.023
+UT WOS:000370463500024
+ER
+
+PT J
+AU Tavella, E
+   Papadopoulos, T
+AF Tavella, Elena
+   Papadopoulos, Thanos
+TI Novice facilitators and the use of scripts for managing facilitated
+   modelling workshops
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+RI Tavella, Elena/A-8361-2015
+OI Tavella, Elena/0000-0001-7511-7199
+SN 0160-5682
+EI 1476-9360
+PD DEC
+PY 2015
+VL 66
+IS 12
+BP 1967
+EP 1986
+DI 10.1057/jors.2015.7
+UT WOS:000365894000003
+ER
+
+PT J
+AU Wang, W
+   Liu, WB
+   Mingers, J
+AF Wang, Wei
+   Liu, Wenbin
+   Mingers, John
+TI A systemic method for organisational stakeholder identification and
+   analysis using Soft Systems Methodology (SSM)
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+OI Mingers, John/0000-0002-4102-4696
+SN 0377-2217
+EI 1872-6860
+PD OCT 16
+PY 2015
+VL 246
+IS 2
+BP 562
+EP 574
+DI 10.1016/j.ejor.2015.05.014
+UT WOS:000357348600019
+ER
+
+PT J
+AU Ranyard, JC
+   Fildes, R
+   Hu, TI
+AF Ranyard, J. C.
+   Fildes, R.
+   Hu, Tun-I
+TI Reassessing the scope of OR practice: The Influences of Problem
+   Structuring Methods and the Analytics Movement
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+SN 0377-2217
+EI 1872-6860
+PD AUG 16
+PY 2015
+VL 245
+IS 1
+BP 1
+EP 13
+DI 10.1016/j.ejor.2015.01.058
+UT WOS:000354585000001
+ER
+
+PT J
+AU Houghton, L
+   Tuffley, D
+AF Houghton, Luke
+   Tuffley, David
+TI Towards a Methodology of Wicked Problem Exploration through Concept
+   Shifting and Tension Point Analysis
+SO SYSTEMS RESEARCH AND BEHAVIORAL SCIENCE
+OI Tuffley, David/0000-0003-0132-9804
+SN 1092-7026
+EI 1099-1743
+PD MAY-JUN
+PY 2015
+VL 32
+IS 3
+BP 283
+EP 297
+DI 10.1002/sres.2223
+UT WOS:000353995200003
+ER
+
+PT J
+AU Baykasoglu, A
+   Golcuk, I
+AF Baykasoglu, Adil
+   Golcuk, Ilker
+TI Development of a novel multiple-attribute decision making model via
+   fuzzy cognitive maps and hierarchical fuzzy TOPSIS
+SO INFORMATION SCIENCES
+RI Baykasoglu, Adil/G-4311-2010; golcuk, ilker/B-2116-2015
+OI Baykasoglu, Adil/0000-0002-4952-7239; golcuk, ilker/0000-0002-8430-7952
+SN 0020-0255
+EI 1872-6291
+PD APR 20
+PY 2015
+VL 301
+BP 75
+EP 98
+DI 10.1016/j.ins.2014.12.048
+UT WOS:000350929100006
+ER
+
+PT J
+AU Mingers, J
+AF Mingers, John
+TI Helping business schools engage with real problems: The contribution of
+   critical realism and systems thinking
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+SN 0377-2217
+EI 1872-6860
+PD APR 1
+PY 2015
+VL 242
+IS 1
+BP 316
+EP 331
+DI 10.1016/j.ejor.2014.10.058
+UT WOS:000348687900028
+ER
+
+PT J
+AU Myllyviita, T
+   Hujala, T
+   Kangas, A
+   Eyvindson, K
+   Sironen, S
+   Leskinen, P
+   Kurttila, M
+AF Myllyviita, Tanja
+   Hujala, Teppo
+   Kangas, Annika
+   Eyvindson, Kyle
+   Sironen, Susanna
+   Leskinen, Pekka
+   Kurttila, Mikko
+TI Mixing methods - assessment of potential benefits for natural resources
+   planning
+SO SCANDINAVIAN JOURNAL OF FOREST RESEARCH
+OI Hujala, Teppo/0000-0002-7905-7602; Eyvindson, Kyle/0000-0003-0647-1594
+SN 0282-7581
+EI 1651-1891
+PD NOV 1
+PY 2014
+VL 29
+SU 1
+SI SI
+BP 20
+EP 29
+DI 10.1080/02827581.2013.859297
+UT WOS:000345373600003
+ER
+
+PT J
+AU Holsapple, C
+   Lee-Post, A
+   Pakath, R
+AF Holsapple, Clyde
+   Lee-Post, Anita
+   Pakath, Ram
+TI A unified foundation for business analytics
+SO DECISION SUPPORT SYSTEMS
+RI Mishra, deepa/O-7001-2016
+SN 0167-9236
+EI 1873-5797
+PD AUG
+PY 2014
+VL 64
+BP 130
+EP 141
+DI 10.1016/j.dss.2014.05.013
+UT WOS:000341557500012
+ER
+
+PT J
+AU Small, A
+   Wainwright, D
+AF Small, Adrian
+   Wainwright, David
+TI SSM and technology management: Developing multimethodology through
+   practice
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+RI Small, Adrian/E-1702-2014
+OI Small, Adrian/0000-0001-5154-0080
+SN 0377-2217
+EI 1872-6860
+PD MAR 16
+PY 2014
+VL 233
+IS 3
+BP 660
+EP 673
+DI 10.1016/j.ejor.2013.08.049
+UT WOS:000328180200019
+ER
+
+PT J
+AU Cronin, K
+   Midgley, G
+   Jackson, LS
+AF Cronin, Karen
+   Midgley, Gerald
+   Jackson, Laurie Skuba
+TI Issues Mapping: A problem structuring method for addressing science and
+   technology conflicts
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+SN 0377-2217
+EI 1872-6860
+PD FEB 16
+PY 2014
+VL 233
+IS 1
+BP 145
+EP 158
+DI 10.1016/j.ejor.2013.08.012
+UT WOS:000326359600014
+ER
+
+PT J
+AU Kato, H
+   Shiroyama, H
+   Nakagawa, Y
+AF Kato, Hironori
+   Shiroyama, Hideaki
+   Nakagawa, Yoshinori
+TI Public policy structuring incorporating reciprocal expectation analysis
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+RI Kato, Hironori/C-7369-2012
+SN 0377-2217
+EI 1872-6860
+PD FEB 16
+PY 2014
+VL 233
+IS 1
+BP 171
+EP 183
+DI 10.1016/j.ejor.2013.08.019
+UT WOS:000326359600016
+ER
+
+PT J
+AU Soltani, E
+   Ahmed, PK
+   Liao, YY
+   Anosike, PU
+AF Soltani, Ebrahim
+   Ahmed, Pervaiz K.
+   Liao, Ying Ying
+   Anosike, Paschal U.
+TI Qualitative middle-range research in operations management The need for
+   theory-driven empirical inquiry
+SO INTERNATIONAL JOURNAL OF OPERATIONS & PRODUCTION MANAGEMENT
+OI Anosike, Paschal/0000-0001-9287-1046; Soltani,
+   Ebrahim/0000-0002-8925-2858
+SN 0144-3577
+EI 1758-6593
+PY 2014
+VL 34
+IS 8
+BP 1003
+EP 1027
+DI 10.1108/IJOPM-11-2012-0486
+UT WOS:000341871200002
+ER
+
+PT J
+AU Yearworth, M
+   Edwards, G
+AF Yearworth, Michael
+   Edwards, Gordon
+TI On the Desirability of Integrating Research Methods into Overall Systems
+   Approaches in the Training of Engineers: Analysis Using SSM
+SO SYSTEMS RESEARCH AND BEHAVIORAL SCIENCE
+RI Yearworth, Mike/A-9463-2012
+OI Yearworth, Mike/0000-0002-8468-0335
+SN 1092-7026
+EI 1099-1743
+PD JAN
+PY 2014
+VL 31
+IS 1
+BP 47
+EP 66
+DI 10.1002/sres.2167
+UT WOS:000331128900006
+ER
+
+PT J
+AU Franco, LA
+AF Franco, L. Alberto
+TI Rethinking Soft OR interventions: Models as boundary objects
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+RI chen, zhu/K-5923-2013
+OI Franco, Luis Alberto/0000-0001-6231-8565
+SN 0377-2217
+EI 1872-6860
+PD DEC 16
+PY 2013
+VL 231
+IS 3
+BP 720
+EP 733
+DI 10.1016/j.ejor.2013.06.033
+UT WOS:000323360500018
+ER
+
+PT J
+AU Sarotar-Zizek, S
+   Milfelner, B
+   Cancer, V
+AF Sarotar-Zizek, Simona
+   Milfelner, Borut
+   Cancer, Vesna
+TI Measurement of Employees Subjective Well-Being as an Aim of Social
+   Responsibility
+SO SYSTEMIC PRACTICE AND ACTION RESEARCH
+OI Milfelner, Borut/0000-0003-4469-3972
+SN 1094-429X
+EI 1573-9295
+PD DEC
+PY 2013
+VL 26
+IS 6
+SI SI
+BP 549
+EP 560
+DI 10.1007/s11213-013-9303-y
+UT WOS:000327461200008
+ER
+
+PT J
+AU Hamalainen, RP
+   Luoma, J
+   Saarinen, E
+AF Hamalainen, Raimo P.
+   Luoma, Jukka
+   Saarinen, Esa
+TI On the importance of behavioral operational research: The case of
+   understanding and communicating about dynamic systems
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+RI Saarinen, Esa/G-2407-2013
+SN 0377-2217
+PD AUG 1
+PY 2013
+VL 228
+IS 3
+BP 623
+EP 634
+DI 10.1016/j.ejor.2013.02.001
+UT WOS:000317944000015
+ER
+
+PT J
+AU Espinosa, A
+   Walker, J
+AF Espinosa, Angela
+   Walker, J.
+TI Complexity management in practice: A Viable System Model intervention in
+   an Irish eco-community
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+SN 0377-2217
+PD FEB 16
+PY 2013
+VL 225
+IS 1
+BP 118
+EP 129
+DI 10.1016/j.ejor.2012.09.015
+UT WOS:000311463000012
+ER
+
+PT J
+AU Watson, RB
+AF Watson, Richard B.
+TI Suggestions for New Application Areas for Soft Systems Methodology in
+   the Information Age
+SO SYSTEMIC PRACTICE AND ACTION RESEARCH
+CT 8th World Congress of the
+   Action-Learning-and-Action-Research-Association
+CY SEP 06-09, 2010
+CL Melbourne, AUSTRALIA
+SP Act Learning & Act Res Assoc
+SN 1094-429X
+EI 1573-9295
+PD OCT
+PY 2012
+VL 25
+IS 5
+BP 441
+EP 456
+DI 10.1007/s11213-012-9233-0
+UT WOS:000308952000005
+ER
+
+PT J
+AU Qian, FB
+   Gribkovskaia, I
+   Laporte, G
+   Halskau, O
+AF Qian, Fubin
+   Gribkovskaia, Irina
+   Laporte, Gilbert
+   Halskau, Oyvind, Sr.
+TI Passenger and pilot risk minimization in offshore helicopter
+   transportation
+SO OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE
+OI Gribkovskaia, Irina/0000-0002-0078-3426
+SN 0305-0483
+PD OCT
+PY 2012
+VL 40
+IS 5
+BP 584
+EP 593
+DI 10.1016/j.omega.2011.11.003
+UT WOS:000301614100009
+ER
+
+PT J
+AU Ackermann, F
+AF Ackermann, Fran
+TI Problem structuring methods 'in the Dock': Arguing the case for Soft OR
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+RI Ackermann, Fran/G-2657-2014
+OI Ackermann, Fran/0000-0003-2381-6611
+SN 0377-2217
+EI 1872-6860
+PD JUN 16
+PY 2012
+VL 219
+IS 3
+BP 652
+EP 658
+DI 10.1016/j.ejor.2011.11.014
+UT WOS:000302199300017
+ER
+
+PT J
+AU Morais, DC
+   de Almeida, AT
+AF Morais, Danielle C.
+   de Almeida, Adiel Teixeira
+TI Group decision making on water resources based on analysis of individual
+   rankings
+SO OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE
+RI de Almeida, Adiel/G-9541-2012; Morais, Danielle/G-9697-2012
+OI de Almeida, Adiel/0000-0002-2757-1968; Morais,
+   Danielle/0000-0003-4430-8122
+SN 0305-0483
+PD JAN
+PY 2012
+VL 40
+IS 1
+BP 42
+EP 52
+DI 10.1016/j.omega.2011.03.005
+UT WOS:000292473800005
+ER
+
+EF

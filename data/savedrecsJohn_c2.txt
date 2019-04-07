@@ -1,0 +1,1223 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Melchiorsen, PM
+AF Melchiorsen, Poul Meier
+TI Bibliometric differences - a case study in bibliometric evaluation
+   across SSH and STEM
+SO JOURNAL OF DOCUMENTATION
+RI Melchiorsen, Poul Meier/N-4543-2015
+OI Melchiorsen, Poul Meier/0000-0002-3751-9821
+SN 0022-0418
+EI 1758-7379
+PD MAR 6
+PY 2019
+VL 75
+IS 2
+BP 366
+EP 378
+DI 10.1108/JD-07-2018-0108
+UT WOS:000458989700008
+ER
+
+PT J
+AU Hou, JH
+   Yang, XC
+AF Hou, Jianhua
+   Yang, Xiucai
+TI From the United States to China: the transfer of research centres in
+   Information Science
+SO CURRENT SCIENCE
+SN 0011-3891
+PD FEB 10
+PY 2019
+VL 116
+IS 3
+BP 422
+EP 436
+DI 10.18520/cs/v116/i3/422-436
+UT WOS:000457871900024
+ER
+
+PT J
+AU Shen, ZS
+   Yang, LY
+   Di, ZR
+   Wu, JS
+AF Shen, Zhesi
+   Yang, Liying
+   Di, Zengru
+   Wu, Jinshan
+TI Large enough sample size to rank two groups of data reliably according
+   to their means
+SO SCIENTOMETRICS
+SN 0138-9130
+EI 1588-2861
+PD FEB
+PY 2019
+VL 118
+IS 2
+BP 653
+EP 671
+DI 10.1007/s11192-018-2995-0
+UT WOS:000458190700014
+ER
+
+PT J
+AU Bobadilla, J
+   Gutierrez, A
+   Patricio, MA
+   Bojorque, RX
+AF Bobadilla, Jesus
+   Gutierrez, Abraham
+   Angel Patricio, Miguel
+   Xavier Bojorque, Rodolfo
+TI Analysis of scientific production based on trending research topics. An
+   Artificial Intelligence case study
+SO REVISTA ESPANOLA DE DOCUMENTACION CIENTIFICA
+OI GUTIERREZ RODRIGUEZ, ABRAHAM/0000-0001-6974-7514
+SN 0210-0614
+EI 1988-4621
+PD JAN-MAR
+PY 2019
+VL 42
+IS 1
+AR e228
+DI 10.3989/redc.2019.1.1583
+UT WOS:000460302600006
+ER
+
+PT J
+AU Kossmeier, M
+   Heinze, G
+AF Kossmeier, Michael
+   Heinze, Georg
+TI Predicting future citation counts of scientific manuscripts submitted
+   for publication: a cohort study in transplantology
+SO TRANSPLANT INTERNATIONAL
+OI Heinze, Georg/0000-0003-1147-8491
+SN 0934-0874
+EI 1432-2277
+PD JAN
+PY 2019
+VL 32
+IS 1
+BP 6
+EP 15
+DI 10.1111/tri.13292
+UT WOS:000453748500002
+PM 29907979
+ER
+
+PT J
+AU Abrahams, B
+   Sitas, N
+   Esler, KJ
+AF Abrahams, B.
+   Sitas, N.
+   Esler, K. J.
+TI Exploring the dynamics of research collaborations by mapping social
+   networks in invasion science
+SO JOURNAL OF ENVIRONMENTAL MANAGEMENT
+RI ; Esler, Karen/A-1640-2008
+OI Abrahams, Brent/0000-0002-5919-4052; Esler, Karen/0000-0001-6510-727X
+SN 0301-4797
+EI 1095-8630
+PD JAN 1
+PY 2019
+VL 229
+BP 27
+EP 37
+DI 10.1016/j.jenvman.2018.06.051
+UT WOS:000451935800003
+PM 29934131
+ER
+
+PT J
+AU Chen, XJ
+   Xue, CQ
+AF Chen, Xiaojiao
+   Xue, Chengqi
+TI Network Visual Exploration for the Cooperation Map of Courses in
+   Different Major Curricula
+SO EDUCATIONAL SCIENCES-THEORY & PRACTICE
+SN 2630-5984
+EI 2148-7561
+PD DEC
+PY 2018
+VL 18
+IS 6
+BP 2874
+EP 2884
+DI 10.12738/estp.2018.6.187
+UT WOS:000454523700028
+ER
+
+PT J
+AU Chen, Q
+   de Soto, BG
+   Adey, BT
+AF Chen, Qian
+   de Soto, Borja Garcia
+   Adey, Bryan T.
+TI Construction automation: Research areas, industry concerns and
+   suggestions for advancement
+SO AUTOMATION IN CONSTRUCTION
+OI Garcia de Soto, Borja/0000-0002-9613-8105; CHEN,
+   QIAN/0000-0002-5899-9342
+SN 0926-5805
+EI 1872-7891
+PD OCT
+PY 2018
+VL 94
+BP 22
+EP 38
+DI 10.1016/j.autcon.2018.05.028
+UT WOS:000443663900003
+ER
+
+PT J
+AU Tibana-Herrera, G
+   Fernandez-Bajon, MT
+   De-Moya-Anegon, F
+AF Tibana-Herrera, Gerardo
+   Fernandez-Bajon, Maria-Teresa
+   De-Moya-Anegon, Felix
+TI OUTPUT, COLLABORATION AND IMPACT OF E-LEARNING RESEARCH: BIBLIOMETRIC
+   ANALYSIS AND VISUALIZATIONS AT THE COUNTRY AND INSTITUTIONAL LEVEL
+   (SCOPUS 2003-2016)
+SO PROFESIONAL DE LA INFORMACION
+OI de Moya Anegon, Felix/0000-0002-0255-8628
+SN 1386-6710
+PD SEP-OCT
+PY 2018
+VL 27
+IS 5
+BP 1082
+EP 1096
+DI 10.3145/epi.2018.sep.12
+UT WOS:000445537400012
+ER
+
+PT J
+AU Mahieu, R
+   van Eck, NJ
+   van Putten, D
+   van den Hoven, J
+AF Mahieu, Rene
+   van Eck, Nees Jan
+   van Putten, David
+   van den Hoven, Jeroen
+TI From dignity to security protocols: a scientometric analysis of digital
+   ethics
+SO ETHICS AND INFORMATION TECHNOLOGY
+SN 1388-1957
+EI 1572-8439
+PD SEP
+PY 2018
+VL 20
+IS 3
+BP 175
+EP 187
+DI 10.1007/s10676-018-9457-5
+UT WOS:000443836500004
+ER
+
+PT J
+AU Friedmacher, F
+   Pakarinen, MP
+   Rintala, RJ
+AF Friedmacher, Florian
+   Pakarinen, Mikko P.
+   Rintala, Risto J.
+TI Congenital diaphragmatic hernia: a scientometric analysis of the global
+   research activity and collaborative networks
+SO PEDIATRIC SURGERY INTERNATIONAL
+SN 0179-0358
+EI 1437-9813
+PD SEP
+PY 2018
+VL 34
+IS 9
+BP 907
+EP 917
+DI 10.1007/s00383-018-4304-7
+UT WOS:000442203300001
+PM 30019129
+ER
+
+PT J
+AU Rashidi, N
+   Meihami, H
+AF Rashidi, Naser
+   Meihami, Hussein
+TI Informetrics of Scientometrics abstracts: a rhetorical move analysis of
+   the research abstracts published in Scientometrics journal
+SO SCIENTOMETRICS
+OI Meihami, Hussein/0000-0003-4680-9860
+SN 0138-9130
+EI 1588-2861
+PD SEP
+PY 2018
+VL 116
+IS 3
+BP 1975
+EP 1994
+DI 10.1007/s11192-018-2795-6
+UT WOS:000442007200026
+ER
+
+PT J
+AU Abramo, G
+AF Abramo, Giovanni
+TI Revisiting the scientometric conceptualization of impact and its
+   measurement
+SO JOURNAL OF INFORMETRICS
+SN 1751-1577
+EI 1875-5879
+PD AUG
+PY 2018
+VL 12
+IS 3
+BP 590
+EP 597
+DI 10.1016/j.joi.2018.05.001
+UT WOS:000442670600003
+ER
+
+PT J
+AU Jappe, A
+   Pithan, D
+   Heinze, T
+AF Jappe, Arlette
+   Pithan, David
+   Heinze, Thomas
+TI Does bibliometric research confer legitimacy to research assessment
+   practice? A sociological study of reputational control, 1972-2016
+SO PLOS ONE
+SN 1932-6203
+PD JUN 14
+PY 2018
+VL 13
+IS 6
+AR e0199031
+DI 10.1371/journal.pone.0199031
+UT WOS:000435424900078
+PM 29902239
+ER
+
+PT J
+AU Qiu, HH
+   Liu, LG
+AF Qiu, Hong-Hua
+   Liu, Lu-Ge
+TI A Study on the Evolution of Carbon Capture and Storage Technology Based
+   on Knowledge Mapping
+SO ENERGIES
+OI qiu, hong hua/0000-0001-5526-2786
+SN 1996-1073
+PD MAY
+PY 2018
+VL 11
+IS 5
+AR 1103
+DI 10.3390/en11051103
+UT WOS:000435610300081
+ER
+
+PT J
+AU Praus, P
+AF Praus, Petr
+TI Statistical evaluation of research performance of young university
+   scholars: A case study
+SO TRANSINFORMACAO
+RI Praus, Petr/B-9909-2018
+OI Praus, Petr/0000-0002-1336-4108
+SN 0103-3786
+PD MAY-AUG
+PY 2018
+VL 30
+IS 2
+BP 167
+EP 177
+DI 10.1590/2318-08892018000200003
+UT WOS:000434827600003
+ER
+
+PT J
+AU Haunschild, R
+   Schier, H
+   Marx, W
+   Bornman, L
+AF Haunschild, Robin
+   Schier, Hermann
+   Marx, Werner
+   Bornman, Lutz
+TI Algorithmically generated subject categories based on citation
+   relations: An empirical micro study using papers on overall water
+   splitting
+SO JOURNAL OF INFORMETRICS
+RI Haunschild, Robin/A-9925-2010; Marx, Werner/G-6801-2012
+OI Haunschild, Robin/0000-0001-7025-7256; Marx, Werner/0000-0002-1763-5753
+SN 1751-1577
+EI 1875-5879
+PD MAY
+PY 2018
+VL 12
+IS 2
+BP 436
+EP 447
+DI 10.1016/j.joi.2018.03.004
+UT WOS:000433891600004
+ER
+
+PT J
+AU Bornmann, L
+   Haunschild, R
+AF Bornmann, Lutz
+   Haunschild, Robin
+TI Measuring Individual Performance with Comprehensive Bibliometric Reports
+   as an Alternative to h-Index Values
+SO JOURNAL OF KOREAN MEDICAL SCIENCE
+RI Haunschild, Robin/A-9925-2010; Bornmann, Lutz/A-3926-2008
+OI Haunschild, Robin/0000-0001-7025-7256; Bornmann,
+   Lutz/0000-0003-0810-7091
+SN 1011-8934
+EI 1598-6357
+PD APR 30
+PY 2018
+VL 33
+IS 18
+AR UNSP e138
+DI 10.3346/jkms.2018.33.e138
+UT WOS:000432466000005
+PM 29713257
+ER
+
+PT J
+AU Campanario, JM
+AF Miguel Campanario, Juan
+TI Are leaders really leading? Journals that are first in Web of Science
+   subject categories in the context of their groups
+SO SCIENTOMETRICS
+SN 0138-9130
+EI 1588-2861
+PD APR
+PY 2018
+VL 115
+IS 1
+BP 111
+EP 130
+DI 10.1007/s11192-018-2660-7
+UT WOS:000426807700006
+ER
+
+PT J
+AU Damar, HT
+   Bilik, O
+   Ozdagoglu, G
+   Ozdagoglu, A
+   Damar, M
+AF Damar, Hale Turhan
+   Bilik, Ozlem
+   Ozdagoglu, Guzin
+   Ozdagoglu, Askin
+   Damar, Muhammet
+TI Evaluating the nursing academicians in Turkey in the scope of Web of
+   Science: scientometrics of original articles
+SO SCIENTOMETRICS
+OI Ozdagoglu, Guzin/0000-0003-3055-3055
+SN 0138-9130
+EI 1588-2861
+PD APR
+PY 2018
+VL 115
+IS 1
+BP 539
+EP 562
+DI 10.1007/s11192-018-2641-x
+UT WOS:000426807700027
+ER
+
+PT J
+AU Hou, JH
+   Yang, XC
+AF Hou, Jianhua
+   Yang, Xiucai
+TI The spatial-temporal transfer of scientometrics research topics based on
+   citation analysis
+SO MALAYSIAN JOURNAL OF LIBRARY & INFORMATION SCIENCE
+SN 1394-6234
+PY 2018
+VL 23
+IS 3
+BP 49
+EP 68
+DI 10.22452/mjlis.vol23no3.4
+UT WOS:000454535800004
+ER
+
+PT J
+AU Frohlich, K
+   Hassink, R
+AF Froehlich, Klaas
+   Hassink, Robert
+TI Regional resilience: a stretched concept?
+SO EUROPEAN PLANNING STUDIES
+OI Hassink, Robert/0000-0001-7524-4577
+SN 0965-4313
+EI 1469-5944
+PY 2018
+VL 26
+IS 9
+SI SI
+BP 1763
+EP 1778
+DI 10.1080/09654313.2018.1494137
+UT WOS:000441639200005
+ER
+
+PT J
+AU Salatino, M
+AF Salatino, Maximiliano
+TI Beyond Indexing: Social Sciences Publication Circuits in Argentina and
+   Brazil
+SO DADOS-REVISTA DE CIENCIAS SOCIAIS
+SN 0011-5258
+EI 1678-4588
+PD JAN-MAR
+PY 2018
+VL 61
+IS 1
+BP 255
+EP 287
+DI 10.1590/001152582018152
+UT WOS:000433131900008
+ER
+
+PT J
+AU Bornmann, L
+   Butz, A
+   Wohlrabe, K
+AF Bornmann, Lutz
+   Butz, Alexander
+   Wohlrabe, Klaus
+TI What are the top five journals in economics? A new meta-ranking
+SO APPLIED ECONOMICS
+RI Wohlrabe, Klaus/R-9102-2016
+OI Wohlrabe, Klaus/0000-0002-5651-2641
+SN 0003-6846
+EI 1466-4283
+PY 2018
+VL 50
+IS 6
+BP 659
+EP 675
+DI 10.1080/00036846.2017.1332753
+UT WOS:000427199600005
+ER
+
+PT J
+AU Correia, A
+   Paredes, H
+   Fonseca, B
+AF Correia, Antonio
+   Paredes, Hugo
+   Fonseca, Benjamim
+TI Scientometric analysis of scientific publications in CSCW
+SO SCIENTOMETRICS
+RI ; Paredes, Hugo/D-8347-2010
+OI Fonseca, Benjamim/0000-0002-0850-9755; Correia,
+   Antonio/0000-0002-2736-3835; Paredes, Hugo/0000-0002-4274-4783
+SN 0138-9130
+EI 1588-2861
+PD JAN
+PY 2018
+VL 114
+IS 1
+BP 31
+EP 89
+DI 10.1007/s11192-017-2562-0
+UT WOS:000419397900003
+ER
+
+PT J
+AU Mingers, J
+   O'Hanley, JR
+   Okunola, M
+AF Mingers, John
+   O'Hanley, Jesse R.
+   Okunola, Musbaudeen
+TI Using Google Scholar institutional level data to evaluate the quality of
+   university research
+SO SCIENTOMETRICS
+OI Mingers, John/0000-0002-4102-4696
+SN 0138-9130
+EI 1588-2861
+PD DEC
+PY 2017
+VL 113
+IS 3
+BP 1627
+EP 1643
+DI 10.1007/s11192-017-2532-6
+UT WOS:000415715100019
+ER
+
+PT J
+AU Bornmann, L
+   Ye, AY
+   Ye, FY
+AF Bornmann, Lutz
+   Ye, Adam Y.
+   Ye, Fred Y.
+TI Sequence analysis of annually normalized citation counts: an empirical
+   analysis based on the characteristic scores and scales (CSS) method
+SO SCIENTOMETRICS
+RI Bornmann, Lutz/A-3926-2008
+OI Bornmann, Lutz/0000-0003-0810-7091; Ye, Yongxin/0000-0002-1542-0740
+SN 0138-9130
+EI 1588-2861
+PD DEC
+PY 2017
+VL 113
+IS 3
+BP 1665
+EP 1680
+DI 10.1007/s11192-017-2521-9
+UT WOS:000415715100021
+ER
+
+PT J
+AU Colavizza, G
+AF Colavizza, Giovanni
+TI The structural role of the core literature in history
+SO SCIENTOMETRICS
+OI Colavizza, Giovanni/0000-0002-9806-084X
+SN 0138-9130
+EI 1588-2861
+PD DEC
+PY 2017
+VL 113
+IS 3
+BP 1787
+EP 1809
+DI 10.1007/s11192-017-2550-4
+UT WOS:000415715100027
+ER
+
+PT J
+AU Merigo, JM
+   Yang, JB
+AF Merigo, Jose M.
+   Yang, Jian-Bo
+TI A bibliometric analysis of operations research and management science
+SO OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE
+RI Yang, Jian-Bo/C-2411-2015; Yang, Jian-Bo/D-8047-2016; Merigo, Jose
+   M./G-3614-2010
+OI Merigo, Jose M./0000-0002-4672-6961
+SN 0305-0483
+PD DEC
+PY 2017
+VL 73
+BP 37
+EP 48
+DI 10.1016/j.omega.2016.12.004
+UT WOS:000412964700004
+ER
+
+PT J
+AU Barnes, C
+AF Barnes, Cameron
+TI The h-index Debate: An Introduction for Librarians
+SO JOURNAL OF ACADEMIC LIBRARIANSHIP
+OI Barnes, Cameron/0000-0002-9756-0439
+SN 0099-1333
+EI 1879-1999
+PD NOV
+PY 2017
+VL 43
+IS 6
+BP 487
+EP 494
+DI 10.1016/j.acalib.2017.08.013
+UT WOS:000414384300003
+ER
+
+PT J
+AU Mohabbati-Kalejahi, N
+   Yazdi, MAA
+   Megahed, FM
+   Schaefer, SY
+   Boyd, LA
+   Lang, CE
+   Lohse, KR
+AF Mohabbati-Kalejahi, Nasrin
+   Yazdi, Mohammad Ali Alamdar
+   Megahed, Fadel M.
+   Schaefer, Sydney Y.
+   Boyd, Lara A.
+   Lang, Catherine E.
+   Lohse, Keith R.
+TI Streamlining science with structured data archives: insights from stroke
+   rehabilitation
+SO SCIENTOMETRICS
+OI Megahed, Fadel/0000-0003-2194-5110
+SN 0138-9130
+EI 1588-2861
+PD NOV
+PY 2017
+VL 113
+IS 2
+BP 969
+EP 983
+DI 10.1007/s11192-017-2482-z
+UT WOS:000412920200016
+ER
+
+PT J
+AU Campanario, JM
+AF Miguel Campanario, Juan
+TI JIF-Plots: using plots of citations versus citable items as a tool to
+   study journals and subject categories and discover new scientometric
+   relationships
+SO SCIENTOMETRICS
+SN 0138-9130
+EI 1588-2861
+PD NOV
+PY 2017
+VL 113
+IS 2
+BP 1141
+EP 1154
+DI 10.1007/s11192-017-2506-8
+UT WOS:000412920200024
+ER
+
+PT J
+AU Besancenot, D
+   Huynh, K
+   Serranito, F
+AF Besancenot, Damien
+   Kim Huynh
+   Serranito, Francisco
+TI Co-authorship and research productivity in economics: Assessing the
+   assortative matching hypothesis
+SO ECONOMIC MODELLING
+SN 0264-9993
+EI 1873-6122
+PD NOV
+PY 2017
+VL 66
+BP 61
+EP 80
+DI 10.1016/j.econmod.2017.05.018
+UT WOS:000411542400005
+ER
+
+PT J
+AU Laengle, S
+   Merigo, JM
+   Miranda, J
+   Slowinski, R
+   Bomze, I
+   Borgonovo, E
+   Dyson, RG
+   Oliveira, JF
+   Teunter, R
+AF Laengle, Sigifredo
+   Merigo, Jose M.
+   Miranda, Jaime
+   Slowinski, Roman
+   Bomze, Immanuel
+   Borgonovo, Emanuele
+   Dyson, Robert G.
+   Oliveira, Jose Fernando
+   Teunter, Ruud
+TI Forty years of the European Journal of Operational Research: A
+   bibliometric overview
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+RI Oliveira, Jose Fernando/C-3820-2018; Slowinski, Roman/A-5751-2013;
+   Merigo, Jose M./G-3614-2010
+OI Oliveira, Jose Fernando/0000-0002-4061-1311; Slowinski,
+   Roman/0000-0002-5200-7795; Dyson, Robert/0000-0002-4131-3674; Merigo,
+   Jose M./0000-0002-4672-6961
+SN 0377-2217
+EI 1872-6860
+PD NOV 1
+PY 2017
+VL 262
+IS 3
+BP 803
+EP 816
+DI 10.1016/j.ejor.2017.04.027
+UT WOS:000403732700001
+ER
+
+PT J
+AU Katchanov, YL
+   Markova, YV
+AF Katchanov, Yurij L.
+   Markova, Yulia V.
+TI The "space of physics journals": topological structure and the Journal
+   Impact Factor
+SO SCIENTOMETRICS
+RI Katchanov, Yurij/G-1566-2012
+OI Katchanov, Yurij/0000-0001-6836-5549; Markova, Yulia/0000-0001-8202-8370
+SN 0138-9130
+EI 1588-2861
+PD OCT
+PY 2017
+VL 113
+IS 1
+BP 313
+EP 333
+DI 10.1007/s11192-017-2471-2
+UT WOS:000412527000016
+ER
+
+PT J
+AU Favaretto, JER
+   Francisco, ED
+AF Ricciardi Favaretto, Jose Eduardo
+   Francisco, Eduardo De Rezende
+TI Exploring the archive of RAE-Revista de Administracao de Empresas
+   (1961-2016) in the light of bibliometrics, text mining, social network
+   and geoanalysis
+SO RAE-REVISTA DE ADMINISTRACAO DE EMPRESAS
+RI Singh, Moirangthem Lokendro/L-4609-2018
+OI Singh, Moirangthem Lokendro/0000-0002-8385-214X
+SN 2178-938X
+PD JUL-AUG
+PY 2017
+VL 57
+IS 4
+BP 365
+EP 390
+DI 10.1590/S0034-759020170407
+UT WOS:000410770000007
+ER
+
+PT J
+AU Jurajda, S
+   Kozubek, S
+   Munich, D
+   Skoda, S
+AF Jurajda, Stepan
+   Kozubek, Stanislav
+   Munich, Daniel
+   Skoda, Samuel
+TI Scientific publication performance in post-communist countries: still
+   lagging far behind
+SO SCIENTOMETRICS
+RI MUNICH, Daniel/B-8891-2008; Jurajda, Stepan/H-2886-2014
+OI MUNICH, Daniel/0000-0001-7698-4358; Jurajda, Stepan/0000-0001-6176-2656
+SN 0138-9130
+EI 1588-2861
+PD JUL
+PY 2017
+VL 112
+IS 1
+BP 315
+EP 328
+DI 10.1007/s11192-017-2389-8
+UT WOS:000403466900016
+ER
+
+PT J
+AU Vaz, CR
+   Rauen, TRS
+   Lezana, AGR
+AF Vaz, Caroline Rodrigues
+   Shoeninger Rauen, Tania Regina
+   Rojas Lezana, Alvaro Guillermo
+TI Sustainability and Innovation in the Automotive Sector: A Structured
+   Content Analysis
+SO SUSTAINABILITY
+SN 2071-1050
+PD JUN
+PY 2017
+VL 9
+IS 6
+AR 880
+DI 10.3390/su9060880
+UT WOS:000404133200011
+ER
+
+PT J
+AU Liao, H
+   Mariani, MS
+   Medo, M
+   Zhang, YC
+   Zhou, MY
+AF Liao, Hao
+   Mariani, Manuel Sebastian
+   Medo, Matus
+   Zhang, Yi-Cheng
+   Zhou, Ming-Yang
+TI Ranking in evolving complex networks
+SO PHYSICS REPORTS-REVIEW SECTION OF PHYSICS LETTERS
+SN 0370-1573
+EI 1873-6270
+PD MAY 19
+PY 2017
+VL 689
+BP 1
+EP 54
+DI 10.1016/j.physrep.2017.05.001
+UT WOS:000406169800001
+ER
+
+PT J
+AU Mingers, J
+   Yang, LY
+AF Mingers, John
+   Yang, Liying
+TI Evaluating journal quality: A review of journal citation indicators, and
+   ranking in business and management
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+OI Mingers, John/0000-0002-4102-4696
+SN 0377-2217
+EI 1872-6860
+PD FEB 16
+PY 2017
+VL 257
+IS 1
+BP 323
+EP 337
+DI 10.1016/j.ejor.2016.07.058
+UT WOS:000386738300027
+ER
+
+PT J
+AU Avena, MJ
+   Barbosa, DA
+AF Avena, Magdalena Jose
+   Barbosa, Dulce Aparecida
+TI Bibliometric indicators of the nursing journals according to the index
+   databases
+SO REVISTA DA ESCOLA DE ENFERMAGEM DA USP
+SN 0080-6234
+EI 1980-220X
+PY 2017
+VL 51
+AR UNSP e03262
+DI 10.1590/S1980-220X2017014603262
+UT WOS:000417220100001
+ER
+
+PT J
+AU Bonaccorsi, A
+   Cicero, T
+   Haddawy, P
+   Hassan, SU
+AF Bonaccorsi, Andrea
+   Cicero, Tindaro
+   Haddawy, Peter
+   Hassan, Saeed-UL
+TI Explaining the transatlantic gap in research excellence
+SO SCIENTOMETRICS
+RI cicero, tindaro/F-6404-2019; Hassan, Saeed-Ul/G-1889-2016
+OI cicero, tindaro/0000-0003-1926-8317; Hassan,
+   Saeed-Ul/0000-0002-6509-9190; Bonaccorsi, Andrea/0000-0001-7425-9988
+SN 0138-9130
+EI 1588-2861
+PD JAN
+PY 2017
+VL 110
+IS 1
+BP 217
+EP 241
+DI 10.1007/s11192-016-2180-2
+UT WOS:000393748300012
+ER
+
+PT J
+AU Sahoo, BK
+   Singh, R
+   Mishra, B
+   Sankaran, K
+AF Sahoo, Biresh K.
+   Singh, Ramadhar
+   Mishra, Bineet
+   Sankaran, Krithiga
+TI Research productivity in management schools of India during 1968-2015: A
+   directional benefit-of-doubt model analysis
+SO OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE
+RI Sahoo, Biresh/K-6814-2015
+OI Sahoo, Biresh/0000-0002-7964-9536
+SN 0305-0483
+PD JAN
+PY 2017
+VL 66
+BP 118
+EP 139
+DI 10.1016/j.omega.2016.02.004
+PN A
+UT WOS:000387524000010
+ER
+
+PT J
+AU Hicks, DJ
+AF Hicks, Daniel J.
+TI Bibliometrics for Social Validation
+SO PLoS One
+RI Singh, Moirangthem Lokendro/L-4609-2018
+OI Singh, Moirangthem Lokendro/0000-0002-8385-214X; Hicks,
+   Daniel/0000-0001-7945-4416
+SN 1932-6203
+PD DEC 22
+PY 2016
+VL 11
+IS 12
+AR e0168597
+DI 10.1371/journal.pone.0168597
+UT WOS:000392843200069
+PM 28005974
+ER
+
+PT J
+AU Leydesdorff, L
+   Wouters, P
+   Bornmann, L
+AF Leydesdorff, Loet
+   Wouters, Paul
+   Bornmann, Lutz
+TI Professional and citizen bibliometrics: complementarities and
+   ambivalences in the development and use of indicators-a state-of-the-art
+   report
+SO SCIENTOMETRICS
+RI Zuluaga Gaviria, Jennifer Daniela/T-2321-2017; Singh, Moirangthem
+   Lokendro/L-4609-2018; Leydesdorff, Loet/E-2903-2010
+OI Singh, Moirangthem Lokendro/0000-0002-8385-214X; Leydesdorff,
+   Loet/0000-0002-7835-3098
+SN 0138-9130
+EI 1588-2861
+PD DEC
+PY 2016
+VL 109
+IS 3
+BP 2129
+EP 2150
+DI 10.1007/s11192-016-2150-8
+UT WOS:000389336100039
+PM 27942086
+ER
+
+PT J
+AU Cortes, LM
+   Mora-Valencia, A
+   Perote, J
+AF Cortes, Lina M.
+   Mora-Valencia, Andres
+   Perote, Javier
+TI The productivity of top researchers: a semi-nonparametric approach
+SO SCIENTOMETRICS
+OI , andres/0000-0001-9381-8319; Perote, Javier/0000-0002-9122-4370
+SN 0138-9130
+EI 1588-2861
+PD NOV
+PY 2016
+VL 109
+IS 2
+BP 891
+EP 915
+DI 10.1007/s11192-016-2072-5
+UT WOS:000386373000014
+ER
+
+PT J
+AU Blazquez-Ruiz, J
+   Guerrero-Bote, VP
+   Moya-Anegon, F
+AF Blazquez-Ruiz, Jesus
+   Guerrero-Bote, Vicente P.
+   Moya-Anegon, Felix
+TI New Scientometric-Based Knowledge Map of Food Science Research (2003 to
+   2014)
+SO COMPREHENSIVE REVIEWS IN FOOD SCIENCE AND FOOD SAFETY
+RI Guerrero-Bote, Vicente P./E-7546-2016
+OI Guerrero-Bote, Vicente P./0000-0003-4821-9768
+SN 1541-4337
+PD NOV
+PY 2016
+VL 15
+IS 6
+BP 1040
+EP 1055
+DI 10.1111/1541-4337.12223
+UT WOS:000385850300004
+ER
+
+PT J
+AU Medo, M
+   Cimini, G
+AF Medo, Matus
+   Cimini, Giulio
+TI Model-based evaluation of scientific impact indicators
+SO PHYSICAL REVIEW E
+OI Medo, Matus/0000-0001-8865-9085; CIMINI, Giulio/0000-0001-5698-8597
+SN 2470-0045
+EI 2470-0053
+PD SEP 16
+PY 2016
+VL 94
+IS 3
+AR 032312
+DI 10.1103/PhysRevE.94.032312
+UT WOS:000383342700004
+PM 27739778
+ER
+
+PT J
+AU D'Antonio-Maceiras, S
+AF D'Antonio-Maceiras, Sergio
+TI Sleeping beauties analysis: A reflection from the solutionism
+   perspective
+SO PROFESIONAL DE LA INFORMACION
+RI D'Antonio Maceiras, Sergio/F-4231-2016
+OI D'Antonio Maceiras, Sergio/0000-0001-8320-0902
+SN 1386-6710
+PD SEP-OCT
+PY 2016
+VL 25
+IS 5
+BP 747
+EP 757
+DI 10.3145/epi.2016.sep.05
+UT WOS:000388376700005
+ER
+
+PT J
+AU Bornmann, L
+   Haunschild, R
+AF Bornmann, Lutz
+   Haunschild, Robin
+TI Citation score normalized by cited references (CSNCR): The introduction
+   of a new citation impact indicator
+SO JOURNAL OF INFORMETRICS
+RI Bornmann, Lutz/A-3926-2008; Haunschild, Robin/A-9925-2010
+OI Bornmann, Lutz/0000-0003-0810-7091; Haunschild,
+   Robin/0000-0001-7025-7256
+SN 1751-1577
+EI 1875-5879
+PD AUG
+PY 2016
+VL 10
+IS 3
+BP 875
+EP 887
+DI 10.1016/j.joi.2016.07.002
+UT WOS:000382314900014
+ER
+
+PT J
+AU Tuselmann, H
+   Sinkovics, RR
+   Pishchulov, G
+AF Tueselmann, Heinz
+   Sinkovics, Rudolf R.
+   Pishchulov, Grigory
+TI Revisiting the standing of international business journals in the
+   competitive landscape
+SO JOURNAL OF WORLD BUSINESS
+RI Sinkovics, Rudolf/F-4092-2010; Pishchulov, Grigory/M-9405-2016
+OI Sinkovics, Rudolf/0000-0002-4471-5054; Pishchulov,
+   Grigory/0000-0001-8787-1869
+SN 1090-9516
+EI 1878-5573
+PD JUN
+PY 2016
+VL 51
+IS 4
+BP 487
+EP 498
+DI 10.1016/j.jwb.2016.01.006
+UT WOS:000378955200001
+ER
+
+PT J
+AU Cudina, JN
+   Ossa, JC
+AF Nikola Cudina, Jean
+   Cesar Ossa, Julio
+TI THE TOP 100 HIGH-IMPACT PAPERS IN COLOMBIAN PSYCHOLOGY: a bibliometric
+   study from WoS y Scopus
+SO INFORMACAO & SOCIEDADE-ESTUDOS
+OI Cudina, Jean Nikola/0000-0003-4004-7615
+SN 0104-0146
+EI 1809-4783
+PD MAY-AUG
+PY 2016
+VL 26
+IS 2
+BP 137
+EP 154
+UT WOS:000389049600011
+ER
+
+PT J
+AU Waltman, L
+AF Waltman, Ludo
+TI A review of the literature on citation impact indicators
+SO JOURNAL OF INFORMETRICS
+SN 1751-1577
+EI 1875-5879
+PD MAY
+PY 2016
+VL 10
+IS 2
+BP 365
+EP 391
+DI 10.1016/j.joi.2016.02.007
+UT WOS:000377413800004
+ER
+
+PT J
+AU Markova, YV
+   Shmatko, NA
+   Katchanov, YL
+AF Markova, Yulia V.
+   Shmatko, Natalia A.
+   Katchanov, Yurij L.
+TI Synchronous international scientific mobility in the space of
+   affiliations: evidence from Russia
+SO SPRINGERPLUS
+RI Shmatko, Natalia/J-9666-2012; Katchanov, Yurij/G-1566-2012
+OI Shmatko, Natalia/0000-0001-5369-0752; Katchanov,
+   Yurij/0000-0001-6836-5549; Markova, Yulia/0000-0001-8202-8370
+SN 2193-1801
+PD APR 19
+PY 2016
+VL 5
+AR 480
+DI 10.1186/s40064-016-2127-3
+UT WOS:000375701400001
+PM 27217995
+ER
+
+PT J
+AU Ennas, G
+   Biggio, B
+   Di Guardo, M
+AF Ennas, Gianfranco
+   Biggio, Battista
+   Di Guardo, Maria Chiara
+TI Data-driven journal meta-ranking in business and management
+SO SCIENTOMETRICS
+RI Biggio, Battista/M-5931-2016
+OI Biggio, Battista/0000-0001-7752-509X; Ennas,
+   Gianfranco/0000-0001-6366-0768
+SN 0138-9130
+EI 1588-2861
+PD DEC
+PY 2015
+VL 105
+IS 3
+BP 1911
+EP 1929
+DI 10.1007/s11192-015-1751-y
+UT WOS:000365130100029
+ER
+
+EF

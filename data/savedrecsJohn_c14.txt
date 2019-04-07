@@ -1,0 +1,498 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Mingers, J
+   Standing, C
+AF Mingers, John
+   Standing, Craig
+TI Why things happen - Developing the critical realist view of causal
+   mechanisms
+SO INFORMATION AND ORGANIZATION
+OI Mingers, John/0000-0002-4102-4696
+SN 1471-7727
+EI 1873-7919
+PD SEP
+PY 2017
+VL 27
+IS 3
+BP 171
+EP 189
+DI 10.1016/j.infoandorg.2017.07.001
+UT WOS:000412039100004
+ER
+
+PT J
+AU Nemorin, S
+   Gandy, OH
+AF Nemorin, Selena
+   Gandy, Oscar H., Jr.
+TI Exploring Neuromarketing and Its Reliance on Remote Sensing: Social and
+   Ethical Concerns
+SO INTERNATIONAL JOURNAL OF COMMUNICATION
+SN 1932-8036
+PY 2017
+VL 11
+BP 4824
+EP 4844
+UT WOS:000457610100060
+ER
+
+PT J
+AU Cuellar, MJ
+AF Cuellar, Michael J.
+TI Critical Realism as a Sociomaterial Stream of Research
+SO DATA BASE FOR ADVANCES IN INFORMATION SYSTEMS
+OI Cuellar, Michael/0000-0002-3981-9625
+SN 0095-0033
+PD NOV
+PY 2016
+VL 47
+IS 4
+BP 60
+EP 66
+UT WOS:000391440000006
+ER
+
+PT J
+AU Mingers, J
+AF Mingers, John
+TI Helping business schools engage with real problems: The contribution of
+   critical realism and systems thinking
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+SN 0377-2217
+EI 1872-6860
+PD APR 1
+PY 2015
+VL 242
+IS 1
+BP 316
+EP 331
+DI 10.1016/j.ejor.2014.10.058
+UT WOS:000348687900028
+ER
+
+PT J
+AU Modell, S
+AF Modell, Sven
+TI Theoretical triangulation and pluralism in accounting research: a
+   critical realist critique
+SO ACCOUNTING AUDITING & ACCOUNTABILITY JOURNAL
+SN 0951-3574
+EI 1758-4205
+PY 2015
+VL 28
+IS 7
+BP 1138
+EP 1150
+DI 10.1108/AAAJ-10-2014-1841
+UT WOS:000363421100005
+ER
+
+PT J
+AU Lockett, A
+   McWilliams, A
+   Van Fleet, DD
+AF Lockett, Andy
+   McWilliams, Abagail
+   Van Fleet, David D.
+TI Reordering Our Priorities by Putting Phenomena before Design: Escaping
+   the Straitjacket of Null Hypothesis Significance Testing
+SO BRITISH JOURNAL OF MANAGEMENT
+OI Van Fleet, David/0000-0001-7317-2944
+SN 1045-3172
+EI 1467-8551
+PD OCT
+PY 2014
+VL 25
+IS 4
+BP 863
+EP 873
+DI 10.1111/1467-8551.12063
+UT WOS:000342815900014
+ER
+
+PT J
+AU Alvarez, SA
+   Barney, JB
+   McBride, R
+   Wuebker, R
+AF Alvarez, Sharon A.
+   Barney, Jay B.
+   McBride, Russ
+   Wuebker, Robert
+TI Realism in the Study of Entrepreneurship
+SO ACADEMY OF MANAGEMENT REVIEW
+SN 0363-7425
+EI 1930-3807
+PD APR
+PY 2014
+VL 39
+IS 2
+BP 227
+EP 231
+DI 10.5465/amr.2013.0244
+UT WOS:000335204500006
+ER
+
+PT J
+AU Eastwood, J
+   Kemp, L
+   Jalaludin, B
+AF Eastwood, John
+   Kemp, Lynn
+   Jalaludin, Bin
+TI Explaining ecological clusters of maternal depression in South Western
+   Sydney
+SO BMC PREGNANCY AND CHILDBIRTH
+OI Kemp, Lynn/0000-0002-0348-1837
+SN 1471-2393
+PD JAN 24
+PY 2014
+VL 14
+AR 47
+DI 10.1186/1471-2393-14-47
+UT WOS:000331219700004
+PM 24460690
+ER
+
+PT J
+AU Eastwood, JG
+   Jalaludin, BB
+   Kemp, LA
+AF Eastwood, John G.
+   Jalaludin, Bin B.
+   Kemp, Lynn A.
+TI Realist explanatory theory building method for social epidemiology: a
+   protocol for a mixed method multilevel study of neighbourhood context
+   and postnatal depression
+SO SPRINGERPLUS
+OI Kemp, Lynn/0000-0002-0348-1837
+SN 2193-1801
+PD JAN 5
+PY 2014
+VL 3
+AR 12
+DI 10.1186/2193-1801-3-12
+UT WOS:000358906900001
+PM 24422187
+ER
+
+PT J
+AU Rotaru, K
+   Churilov, L
+   Flitman, A
+AF Rotaru, Kristian
+   Churilov, Leonid
+   Flitman, Andrew
+TI Can critical realism enable a journey from description to understanding
+   in operations and supply chain management?
+SO SUPPLY CHAIN MANAGEMENT-AN INTERNATIONAL JOURNAL
+SN 1359-8546
+EI 1758-6852
+PY 2014
+VL 19
+IS 2
+BP 117
+EP 125
+DI 10.1108/SCM-11-2013-0417
+UT WOS:000334323700001
+ER
+
+PT J
+AU Mingers, J
+   Mutch, A
+   Willcocks, L
+AF Mingers, John
+   Mutch, Alistair
+   Willcocks, Leslie
+TI CRITICAL REALISM IN INFORMATION SYSTEMS RESEARCH
+SO MIS QUARTERLY
+OI Mingers, John/0000-0002-4102-4696
+SN 0276-7783
+PD SEP
+PY 2013
+VL 37
+IS 3
+BP 795
+EP 802
+DI 10.25300/MISQ/2013/37:3.3
+UT WOS:000329756000007
+ER
+
+PT J
+AU Nedzinskas, S
+   Pundziene, A
+   Buoziute-Rafanaviciene, S
+   Pilkiene, M
+AF Nedzinskas, Sarunas
+   Pundziene, Asta
+   Buoziute-Rafanaviciene, Solveiga
+   Pilkiene, Margarita
+TI The impact of dynamic capabilities on SME performance in a volatile
+   environment as moderated by organizational inertia
+SO BALTIC JOURNAL OF MANAGEMENT
+SN 1746-5265
+EI 1746-5273
+PY 2013
+VL 8
+IS 4
+BP 376
+EP 396
+DI 10.1108/BJM-01-2013-0003
+UT WOS:000325842400001
+ER
+
+PT J
+AU Zhu, Z
+AF Zhu, Z.
+TI After paradim: why mixing-methodology theorising fails and how to make
+   it work again
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+SN 0160-5682
+PD APR
+PY 2011
+VL 62
+IS 4
+BP 784
+EP 798
+DI 10.1057/jors.2010.31
+UT WOS:000288117900022
+ER
+
+PT J
+AU Harwood, SA
+AF Harwood, S. A.
+TI Mixing methodologies and paradigmatic commensurability
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+SN 0160-5682
+PD APR
+PY 2011
+VL 62
+IS 4
+BP 806
+EP 809
+DI 10.1057/jors.2010.152
+UT WOS:000288117900024
+ER
+
+PT J
+AU Mingers, J
+AF Mingers, J.
+TI Clarification or confusion: response to Harwood
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+SN 0160-5682
+PD APR
+PY 2011
+VL 62
+IS 4
+BP 809
+EP 811
+DI 10.1057/jors.2010.166
+UT WOS:000288117900025
+ER
+
+PT J
+AU Jackson, MC
+AF Jackson, M. C.
+TI The multi-methodology debate: a response to Harwood
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+SN 0160-5682
+PD APR
+PY 2011
+VL 62
+IS 4
+BP 811
+EP 813
+DI 10.1057/jors.2010.167
+UT WOS:000288117900026
+ER
+
+PT J
+AU Miller, KD
+   Tsang, EWK
+AF Miller, Kent D.
+   Tsang, Eric W. K.
+TI TESTING MANAGEMENT THEORIES: CRITICAL REALIST PHILOSOPHY AND RESEARCH
+   METHODS
+SO STRATEGIC MANAGEMENT JOURNAL
+SN 0143-2095
+EI 1097-0266
+PD FEB
+PY 2011
+VL 32
+IS 2
+BP 139
+EP 158
+DI 10.1002/smj.868
+UT WOS:000285792900002
+ER
+
+PT J
+AU Alvarez, SA
+   Barney, JB
+AF Alvarez, Sharon A.
+   Barney, Jay B.
+TI Entrepreneurship and Epistemology: The Philosophical Underpinnings of
+   the Study of Entrepreneurial Opportunities
+SO ACADEMY OF MANAGEMENT ANNALS
+SN 1941-6067
+PY 2010
+VL 4
+BP 557
+EP 583
+DI 10.1080/19416520.2010.495521
+UT WOS:000286416100010
+ER
+
+PT J
+AU Model, S
+AF Model, Sven
+TI In defence of triangulation: A critical realist approach to mixed
+   methods research in management accounting
+SO MANAGEMENT ACCOUNTING RESEARCH
+CT 30th Annual Congress of the European-Accounting-Association
+CY 2007
+CL Lisbon, PORTUGAL
+SP European Accounting Assoc
+SN 1044-5005
+EI 1096-1224
+PD SEP
+PY 2009
+VL 20
+IS 3
+BP 208
+EP 221
+DI 10.1016/j.mar.2009.04.001
+UT WOS:000269577600004
+ER
+
+PT J
+AU Vitale, DC
+   Armenakis, AA
+   Feild, HS
+AF Vitale, Dean C.
+   Armenakis, Achilles A.
+   Feild, Hubert S.
+TI Integrating qualitative and quantitative methods for organizational
+   diagnosis - Possible priming effects?
+SO JOURNAL OF MIXED METHODS RESEARCH
+SN 1558-6898
+PD JAN
+PY 2008
+VL 2
+IS 1
+BP 87
+EP 105
+DI 10.1177/1558689807309968
+UT WOS:000259069600005
+ER
+
+PT J
+AU Mar-Molinero, C
+   Mingers, J
+AF Mar-Molinero, C.
+   Mingers, J.
+TI An evaluation of the limitations of, and alternatives to, the Co-Plot
+   methodology
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+OI Mingers, John/0000-0002-4102-4696
+SN 0160-5682
+PD JUL
+PY 2007
+VL 58
+IS 7
+BP 874
+EP 886
+DI 10.1057/palgrave.jors.2602228
+UT WOS:000246922300004
+ER
+
+PT J
+AU Wood, M
+AF Wood, Michael
+TI Statistics and management science
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+SN 0160-5682
+PD NOV
+PY 2006
+VL 57
+IS 11
+BP 1369
+EP 1370
+DI 10.1057/palgrave.jors.2602236
+UT WOS:000241588500011
+ER
+
+PT J
+AU Jackson, MC
+AF Jackson, Mike C.
+TI John Mingers is a critical realist imperialist
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+SN 0160-5682
+PD NOV
+PY 2006
+VL 57
+IS 11
+BP 1370
+EP 1371
+DI 10.1057/palgrave.jors.2602233
+UT WOS:000241588500012
+ER
+
+PT J
+AU Ormerod, R
+AF Ormerod, Richard
+TI The OR approach to forecasting: comments on Mingers' paper
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+RI Ormerod, Richard/F-2877-2013
+SN 0160-5682
+PD NOV
+PY 2006
+VL 57
+IS 11
+BP 1371
+EP 1373
+DI 10.1057/palgrave.jors.2602237
+UT WOS:000241588500013
+ER
+
+PT J
+AU Chiasson, M
+   Fildes, R
+   Pidd, M
+AF Chiasson, Mike
+   Fildes, Robert
+   Pidd, Mike
+TI Intelligent thinking instead of critical realism?
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+SN 0160-5682
+PD NOV
+PY 2006
+VL 57
+IS 11
+BP 1373
+EP 1375
+DI 10.1057/palgrave.jors.2602234
+UT WOS:000241588500014
+ER
+
+PT J
+AU Mingers, J
+AF Mingers, John
+TI Intelligent thinking instead of critical realism? Response from the
+   author: Intelligence and realism in OR
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+OI Mingers, John/0000-0002-4102-4696
+SN 0160-5682
+EI 1476-9360
+PD NOV
+PY 2006
+VL 57
+IS 11
+BP 1375
+EP 1379
+DI 10.1057/palgrave.jors.2602238
+UT WOS:000241588500015
+ER
+
+EF

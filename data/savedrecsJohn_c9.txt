@@ -1,0 +1,618 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Heeks, R
+   Ospina, AV
+AF Heeks, Richard
+   Ospina, Angelica V.
+TI Conceptualising the link between information systems and resilience: A
+   developing country field study
+SO INFORMATION SYSTEMS JOURNAL
+OI Heeks, Richard/0000-0002-4551-2208
+SN 1350-1917
+EI 1365-2575
+PD JAN
+PY 2019
+VL 29
+IS 1
+BP 70
+EP 96
+DI 10.1111/isj.12177
+UT WOS:000452626400004
+ER
+
+PT J
+AU Mejias, RJ
+   Reinig, BA
+   Dennis, AR
+   MacKenzie, SB
+AF Mejias, Roberto J.
+   Reinig, Bruce A.
+   Dennis, Alan R.
+   MacKenzie, Scott B.
+TI Observation versus Perception in the Conceptualization and Measurement
+   of Participation Equality in Computer-Mediated Communication
+SO DECISION SCIENCES
+OI Reinig, Bruce/0000-0002-0666-214X
+SN 0011-7315
+EI 1540-5915
+PD AUG
+PY 2018
+VL 49
+IS 4
+BP 593
+EP 624
+DI 10.1111/deci.12292
+UT WOS:000442986900001
+ER
+
+PT J
+AU Liu, GY
+   Gao, P
+   Chen, F
+   Yu, J
+   Zhang, Y
+AF Liu, Guanyu
+   Gao, Ping
+   Chen, Feng
+   Yu, Jiang
+   Zhang, Yue
+TI Technological innovation systems and IT industry sustainability in
+   China: A case study of mobile system innovation
+SO TELEMATICS AND INFORMATICS
+SN 0736-5853
+PD AUG
+PY 2018
+VL 35
+IS 5
+BP 1144
+EP 1165
+DI 10.1016/j.tele.2018.01.012
+UT WOS:000438480500005
+ER
+
+PT J
+AU Leidner, DE
+   Gonzalez, E
+   Koch, H
+AF Leidner, Dorothy E.
+   Gonzalez, Ester
+   Koch, Hope
+TI An affordance perspective of enterprise social media and organizational
+   socialization
+SO JOURNAL OF STRATEGIC INFORMATION SYSTEMS
+OI Koch, Hope/0000-0003-0169-8626; Gonzalez, Ester/0000-0002-5888-5302;
+   Leidner, Dorothy/0000-0002-7159-6273
+SN 0963-8687
+EI 1873-1198
+PD JUN
+PY 2018
+VL 27
+IS 2
+BP 117
+EP 138
+DI 10.1016/j.jsis.2018.03.003
+UT WOS:000438325500002
+ER
+
+PT J
+AU Durcikova, A
+   Lee, AS
+   Brown, SA
+AF Durcikova, Alexandra
+   Lee, Allen S.
+   Brown, Susan A.
+TI MAKING RIGOROUS RESEARCH RELEVANT: INNOVATING STATISTICAL ACTION
+   RESEARCH
+SO MIS QUARTERLY
+SN 0276-7783
+PD MAR
+PY 2018
+VL 42
+IS 1
+BP 241
+EP +
+DI 10.25300/MISQ/2018/14146
+UT WOS:000425847700013
+ER
+
+PT J
+AU Krancher, O
+   Luther, P
+   Jost, M
+AF Krancher, Oliver
+   Luther, Pascal
+   Jost, Marc
+TI Key Affordances of Platform-as-a-Service: Self-Organization and
+   Continuous Feedback
+SO JOURNAL OF MANAGEMENT INFORMATION SYSTEMS
+SN 0742-1222
+EI 1557-928X
+PY 2018
+VL 35
+IS 3
+BP 776
+EP 812
+DI 10.1080/07421222.2018.1481636
+UT WOS:000448730500004
+ER
+
+PT J
+AU Shaw, D
+   Smith, CM
+   Scully, J
+AF Shaw, Duncan
+   Smith, Chris M.
+   Scully, Judy
+TI Why did Brexit happen? Using causal mapping to analyse secondary,
+   longitudinal data
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+OI Smith, Christopher/0000-0001-8016-2437; Scully, Judy/0000-0002-0968-0941
+SN 0377-2217
+EI 1872-6860
+PD DEC 16
+PY 2017
+VL 263
+IS 3
+BP 1019
+EP 1032
+DI 10.1016/j.ejor.2017.05.051
+UT WOS:000407665700022
+ER
+
+PT J
+AU Durach, CF
+   Kembro, J
+   Wieland, A
+AF Durach, Christian F.
+   Kembro, Joakim
+   Wieland, Andreas
+TI A NEW PARADIGM FOR SYSTEMATIC LITERATURE REVIEWS IN SUPPLY CHAIN
+   MANAGEMENT
+SO JOURNAL OF SUPPLY CHAIN MANAGEMENT
+RI Durach, Christian F./E-8946-2013
+OI Durach, Christian F./0000-0003-4818-0648; Wieland,
+   Andreas/0000-0003-0010-4240
+SN 1523-2409
+EI 1745-493X
+PD OCT
+PY 2017
+VL 53
+IS 4
+BP 67
+EP 85
+DI 10.1111/jscm.12145
+UT WOS:000413151600004
+ER
+
+PT J
+AU Uppstrom, E
+   Lonn, CM
+AF Uppstrom, Elfin
+   Lonn, Carl-Mikael
+TI Explaining value co-creation and co-destruction in e-government using
+   boundary object theory
+SO GOVERNMENT INFORMATION QUARTERLY
+SN 0740-624X
+EI 1872-9517
+PD SEP
+PY 2017
+VL 34
+IS 3
+BP 406
+EP 420
+DI 10.1016/j.giq.2017.08.001
+UT WOS:000418210300006
+ER
+
+PT J
+AU Mingers, J
+   Standing, C
+AF Mingers, John
+   Standing, Craig
+TI Why things happen - Developing the critical realist view of causal
+   mechanisms
+SO INFORMATION AND ORGANIZATION
+OI Mingers, John/0000-0002-4102-4696
+SN 1471-7727
+EI 1873-7919
+PD SEP
+PY 2017
+VL 27
+IS 3
+BP 171
+EP 189
+DI 10.1016/j.infoandorg.2017.07.001
+UT WOS:000412039100004
+ER
+
+PT J
+AU Muller, SD
+   Mathiassen, L
+   Saunders, CS
+   Kraemmergaard, P
+AF Mueller, Sune Dueholm
+   Mathiassen, Lars
+   Saunders, Carol S.
+   Kraemmergaard, Pernille
+TI Political Maneuvering During Business Process Transformation: A
+   Pluralist Approach
+SO JOURNAL OF THE ASSOCIATION FOR INFORMATION SYSTEMS
+SN 1536-9323
+EI 1558-3457
+PD MAR
+PY 2017
+VL 18
+IS 3
+BP 173
+EP 205
+UT WOS:000400645400001
+ER
+
+PT J
+AU Mingers, J
+AF Mingers, John
+TI Back to the future: A critique of Demetis and Lee's "Crafting theory to
+   satisfy the requirements of systems science"
+SO INFORMATION AND ORGANIZATION
+OI Mingers, John/0000-0002-4102-4696
+SN 1471-7727
+EI 1873-7919
+PD MAR
+PY 2017
+VL 27
+IS 1
+BP 67
+EP 71
+DI 10.1016/j.infoandorg.2017.01.003
+UT WOS:000398751600006
+ER
+
+PT J
+AU Cuellar, MJ
+AF Cuellar, Michael J.
+TI Critical Realism as a Sociomaterial Stream of Research
+SO DATA BASE FOR ADVANCES IN INFORMATION SYSTEMS
+OI Cuellar, Michael/0000-0002-3981-9625
+SN 0095-0033
+PD NOV
+PY 2016
+VL 47
+IS 4
+BP 60
+EP 66
+UT WOS:000391440000006
+ER
+
+PT J
+AU Pare, G
+   Tate, M
+   Johnstone, D
+   Kitsiou, S
+AF Pare, Guy
+   Tate, Mary
+   Johnstone, David
+   Kitsiou, Spyros
+TI Contextualizing the twin concepts of systematicity and transparency in
+   information systems literature reviews
+SO EUROPEAN JOURNAL OF INFORMATION SYSTEMS
+OI Kitsiou, Spyros/0000-0002-5281-321X
+SN 0960-085X
+EI 1476-9344
+PD NOV
+PY 2016
+VL 25
+IS 6
+BP 493
+EP 508
+DI 10.1057/s4I303-016-0020-3
+UT WOS:000390830700003
+ER
+
+PT J
+AU Weerakkody, V
+   Omar, A
+   El-Haddadeh, R
+   Al-Busaidy, M
+AF Weerakkody, Vishanth
+   Omar, Amizan
+   El-Haddadeh, Ramzi
+   Al-Busaidy, Moaman
+TI Digitally-enabled service transformation in the public sector: The lure
+   of institutional pressure and strategic response towards change
+SO GOVERNMENT INFORMATION QUARTERLY
+SN 0740-624X
+EI 1872-9517
+PD OCT
+PY 2016
+VL 33
+IS 4
+BP 658
+EP 668
+DI 10.1016/j.giq.2016.06.006
+UT WOS:000391081600006
+ER
+
+PT J
+AU Jackson, P
+   Runde, J
+   Dobson, P
+   Richter, N
+AF Jackson, Paul
+   Runde, Jochen
+   Dobson, Philip
+   Richter, Nancy
+TI Identifying mechanisms influencing the emergence and success of
+   innovation within national economies: a realist approach
+SO POLICY SCIENCES
+OI Jackson, Paul/0000-0002-6973-8703; Runde, Jochen/0000-0001-9596-5144
+SN 0032-2687
+EI 1573-0891
+PD SEP
+PY 2016
+VL 49
+IS 3
+BP 233
+EP 256
+DI 10.1007/s11077-015-9237-6
+UT WOS:000387861100002
+ER
+
+PT J
+AU White, L
+AF White, Leroy
+TI Behavioural operational research: Towards a framework for understanding
+   behaviour in OR interventions
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+SN 0377-2217
+EI 1872-6860
+PD MAR 16
+PY 2016
+VL 249
+IS 3
+BP 827
+EP 841
+DI 10.1016/j.ejor.2015.07.032
+UT WOS:000370463500005
+ER
+
+PT J
+AU Bygstad, B
+   Munkvold, BE
+   Volkoff, O
+AF Bygstad, Bendik
+   Munkvold, Bjorn Erik
+   Volkoff, Olga
+TI Identifying generative mechanisms through affordances: a framework for
+   critical realist data analysis
+SO JOURNAL OF INFORMATION TECHNOLOGY
+SN 0268-3962
+EI 1466-4437
+PD MAR
+PY 2016
+VL 31
+IS 1
+BP 83
+EP 96
+DI 10.1057/jit.2015.13
+UT WOS:000369133500005
+ER
+
+PT J
+AU Greenhalgh, T
+   Shaw, S
+   Wherton, J
+   Hughes, G
+   Lynch, J
+   A'Court, C
+   Hinder, S
+   Fahy, N
+   Byrne, E
+   Finlayson, A
+   Sorell, T
+   Procter, R
+   Stones, R
+AF Greenhalgh, Trisha
+   Shaw, Sara
+   Wherton, Joe
+   Hughes, Gemma
+   Lynch, Jenni
+   A'Court, Christine
+   Hinder, Sue
+   Fahy, Nick
+   Byrne, Emma
+   Finlayson, Alexander
+   Sorell, Tom
+   Procter, Rob
+   Stones, Rob
+TI SCALS: a fourth-generation study of assisted living technologies in
+   their organisational, social, political and policy context
+SO BMJ OPEN
+RI Fahy, Nick/R-1804-2018; Greenhalgh, Trisha/B-1825-2015
+OI Fahy, Nick/0000-0003-4957-0189; Greenhalgh, Trisha/0000-0003-2369-8088;
+   Wherton, Joseph/0000-0001-7701-4783; Shaw, Sara/0000-0002-7014-4793;
+   Hughes, Gemma/0000-0003-2930-1125; A'Court,
+   Christine/0000-0003-1829-3860; Lynch, Jennifer/0000-0002-2601-7498;
+   Hinder, Susan/0000-0001-8451-2027
+SN 2044-6055
+PY 2016
+VL 6
+IS 2
+AR e010208
+DI 10.1136/bmjopen-2015-010208
+UT WOS:000381514500102
+PM 26880671
+ER
+
+PT J
+AU Deng, X
+   Wang, TW
+   Galliers, RD
+AF Deng, Xuefei (Nancy)
+   Wang, Tawei
+   Galliers, Robert D.
+TI More than providing 'solutions': towards an understanding of
+   customer-oriented citizenship behaviours of IS professionals
+SO INFORMATION SYSTEMS JOURNAL
+SN 1350-1917
+EI 1365-2575
+PD SEP
+PY 2015
+VL 25
+IS 5
+BP 489
+EP 530
+DI 10.1111/isj.12051
+UT WOS:000358125700004
+ER
+
+PT J
+AU Mingers, J
+AF Mingers, John
+TI Helping business schools engage with real problems: The contribution of
+   critical realism and systems thinking
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+SN 0377-2217
+EI 1872-6860
+PD APR 1
+PY 2015
+VL 242
+IS 1
+BP 316
+EP 331
+DI 10.1016/j.ejor.2014.10.058
+UT WOS:000348687900028
+ER
+
+PT J
+AU Zhao, DL
+   Zuo, MY
+   Deng, XF
+AF Zhao, Dali
+   Zuo, Meiyun
+   Deng, Xuefei (Nancy)
+TI Examining the factors influencing cross-project knowledge transfer: An
+   empirical study of IT services firms in China
+SO INTERNATIONAL JOURNAL OF PROJECT MANAGEMENT
+SN 0263-7863
+EI 1873-4634
+PD FEB
+PY 2015
+VL 33
+IS 2
+BP 325
+EP 340
+DI 10.1016/j.ijproman.2014.05.003
+UT WOS:000348747000008
+ER
+
+PT J
+AU Coombs, CR
+AF Coombs, Crispin R.
+TI When planned IS/IT project benefits are not realized: a study of
+   inhibitors and facilitators to benefits realization
+SO INTERNATIONAL JOURNAL OF PROJECT MANAGEMENT
+SN 0263-7863
+EI 1873-4634
+PD FEB
+PY 2015
+VL 33
+IS 2
+BP 363
+EP 379
+DI 10.1016/j.ijproman.2014.06.012
+UT WOS:000348747000011
+ER
+
+PT J
+AU Aakhus, M
+   Agerfalk, PJ
+   Lyytinen, K
+   Te'eni, D
+AF Aakhus, Mark
+   Agerfalk, Par J.
+   Lyytinen, Kalle
+   Te'eni, Dov
+TI SYMBOLIC ACTION RESEARCH IN INFORMATION SYSTEMS: INTRODUCTION TO THE
+   SPECIAL ISSUE
+SO MIS QUARTERLY
+OI Aakhus, Mark/0000-0002-5414-147X
+SN 0276-7783
+PD DEC
+PY 2014
+VL 38
+IS 4
+BP 1187
+EP 1200
+DI 10.25300/MISQ/2014/38:4.3
+UT WOS:000348600300012
+ER
+
+PT J
+AU Cecez-Kecmanovic, D
+   Galliers, RD
+   Henfridsson, O
+   Newell, S
+   Vidgen, R
+AF Cecez-Kecmanovic, Dubravka
+   Galliers, Robert D.
+   Henfridsson, Ola
+   Newell, Sue
+   Vidgen, Richard
+TI THE SOCIOMATERIALITY OF INFORMATION SYSTEMS: CURRENT STATUS, FUTURE
+   DIRECTIONS
+SO MIS QUARTERLY
+OI Vidgen, Richard/0000-0001-7578-8339
+SN 0276-7783
+PD SEP
+PY 2014
+VL 38
+IS 3
+BP 809
+EP 830
+DI 10.25300/MISQ/2014/38:3.3
+UT WOS:000344971100002
+ER
+
+PT J
+AU Galliers, RD
+   Jarvenpaa, SL
+AF Galliers, R. D.
+   Jarvenpaa, S. L.
+TI Untitled
+SO JOURNAL OF STRATEGIC INFORMATION SYSTEMS
+SN 0963-8687
+EI 1873-1198
+PD JUN
+PY 2014
+VL 23
+IS 2
+BP 93
+EP 94
+DI 10.1016/j.jsis.2014.04.001
+UT WOS:000337208100001
+ER
+
+PT J
+AU Daniel, EM
+   Ward, JM
+   Franken, A
+AF Daniel, Elizabeth M.
+   Ward, John M.
+   Franken, Arnoud
+TI A dynamic capabilities perspective of IS project portfolio management
+SO JOURNAL OF STRATEGIC INFORMATION SYSTEMS
+OI Daniel, Elizabeth/0000-0001-8106-5364
+SN 0963-8687
+EI 1873-1198
+PD JUN
+PY 2014
+VL 23
+IS 2
+BP 95
+EP 111
+DI 10.1016/j.jsis.2014.03.001
+UT WOS:000337208100002
+ER
+
+EF

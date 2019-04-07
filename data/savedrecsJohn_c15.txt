@@ -1,0 +1,549 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Love, J
+   Hirschheim, R
+AF Love, James
+   Hirschheim, Rudy
+TI Crowdsourcing of information systems research
+SO EUROPEAN JOURNAL OF INFORMATION SYSTEMS
+SN 0960-085X
+EI 1476-9344
+PD MAY
+PY 2017
+VL 26
+IS 3
+BP 315
+EP 332
+DI 10.1057/s41303-017-0036-3
+UT WOS:000401870900008
+ER
+
+PT J
+AU Farooq, M
+   Khan, HU
+   Iqbal, S
+   Munir, EU
+   Shahzad, A
+AF Farooq, Muhammed
+   Khan, Hikat Ullah
+   Iqbal, Saqib
+   Munir, Ehsan Ullah
+   Shahzad, Ajmal
+TI DS-Index: Ranking Authors Distinctively in an Academic Network
+SO IEEE ACCESS
+OI Iqbal, Saqib/0000-0001-8311-6129
+SN 2169-3536
+PY 2017
+VL 5
+BP 19588
+EP 19596
+DI 10.1109/ACCESS.2017.2744798
+UT WOS:000412776800032
+ER
+
+PT J
+AU Capkun, V
+   Deville, A
+   Martinez, I
+AF Capkun, Vedran
+   Deville, Aude
+   Martinez, Isabelle
+TI The contribution to the CCA field: a necessary condition for publication
+SO COMPTABILITE CONTROLE AUDIT
+SN 1262-2788
+PD DEC
+PY 2016
+VL 22
+IS 3
+BP 5
+EP 7
+DI 10.3917/cca.223.0005
+UT WOS:000402621500001
+ER
+
+PT J
+AU Yan, ZB
+   Wu, Q
+   Li, XC
+AF Yan, Zhenbin
+   Wu, Qiang
+   Li, Xingchen
+TI Do Hirsch-type indices behave the same in assessing single publications?
+   An empirical study of 29 bibliometric indicators
+SO SCIENTOMETRICS
+OI YAN, Zhenbin/0000-0002-2192-0346; Wu, Qiang/0000-0002-1308-1669
+SN 0138-9130
+EI 1588-2861
+PD DEC
+PY 2016
+VL 109
+IS 3
+BP 1815
+EP 1833
+DI 10.1007/s11192-016-2147-3
+UT WOS:000389336100020
+ER
+
+PT J
+AU Hodge, DR
+   Kremer, KP
+   Vaughn, MG
+AF Hodge, David R.
+   Kremer, Kristen P.
+   Vaughn, Michael G.
+TI High-Impact Social Work Scholars: A Bibliometric Examination of SSWR and
+   AASWSW Fellows
+SO RESEARCH ON SOCIAL WORK PRACTICE
+SN 1049-7315
+EI 1552-7581
+PD NOV
+PY 2016
+VL 26
+IS 7
+BP 751
+EP 761
+DI 10.1177/1049731516645929
+UT WOS:000384826800002
+ER
+
+PT J
+AU Asgari, N
+   Nikbakhsh, E
+   Hill, A
+   Farahani, RZ
+AF Asgari, Nasrin
+   Nikbakhsh, Ehsan
+   Hill, Alex
+   Farahani, Reza Zanjirani
+TI Supply chain management 1982-2015: a review
+SO IMA JOURNAL OF MANAGEMENT MATHEMATICS
+SN 1471-678X
+EI 1471-6798
+PD JUL
+PY 2016
+VL 27
+IS 3
+BP 353
+EP 379
+DI 10.1093/imaman/dpw004
+UT WOS:000379773900001
+ER
+
+PT J
+AU Cuellar, MJ
+   Takeda, H
+   Vidgen, R
+   Truex, D
+AF Cuellar, Michael J.
+   Takeda, Hirotoshi
+   Vidgen, Richard
+   Truex, Duane
+TI Ideational Influence, Connectedness, and Venue Representation: Making an
+   Assessment of Scholarly Capital
+SO JOURNAL OF THE ASSOCIATION FOR INFORMATION SYSTEMS
+OI Cuellar, Michael/0000-0002-3981-9625; Vidgen,
+   Richard/0000-0001-7578-8339
+SN 1536-9323
+EI 1558-3457
+PD FEB
+PY 2016
+VL 17
+IS 1
+BP 1
+EP 28
+UT WOS:000378142100001
+ER
+
+PT J
+AU Rao, S
+   Iyengar, D
+   Goldsby, TJ
+AF Rao, Shashank
+   Iyengar, Deepak
+   Goldsby, Thomas J.
+TI On the measurement and benchmarking of research impact among active
+   logistics scholars
+SO INTERNATIONAL JOURNAL OF PHYSICAL DISTRIBUTION & LOGISTICS MANAGEMENT
+SN 0960-0035
+EI 1758-664X
+PY 2013
+VL 43
+IS 10
+BP 814
+EP 832
+DI 10.1108/IJPDLM-07-2012-0207
+UT WOS:000326315400002
+ER
+
+PT J
+AU Ho, MHC
+   Liu, JS
+AF Ho, Mei Hsiu-Ching
+   Liu, John S.
+TI The motivations for knowledge transfer across borders: the diffusion of
+   data envelopment analysis (DEA) methodology
+SO SCIENTOMETRICS
+SN 0138-9130
+PD JAN
+PY 2013
+VL 94
+IS 1
+BP 397
+EP 421
+DI 10.1007/s11192-012-0705-x
+UT WOS:000313016300023
+ER
+
+PT J
+AU Liu, JS
+   Lu, LYY
+   Lu, WM
+   Lin, BJY
+AF Liu, John S.
+   Lu, Louis Y. Y.
+   Lu, Wen-Min
+   Lin, Bruce J. Y.
+TI Data envelopment analysis 1978-2010: A citation-based literature survey
+SO OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE
+RI Lu, Wen-Min/A-2837-2012
+OI Lu, Wen-Min/0000-0003-2410-8502
+SN 0305-0483
+PD JAN
+PY 2013
+VL 41
+IS 1
+SI SI
+BP 3
+EP 15
+DI 10.1016/j.omega.2010.12.006
+UT WOS:000309433200002
+ER
+
+PT J
+AU Beverungen, A
+   Bohm, S
+   Land, C
+AF Beverungen, Armin
+   Boehm, Steffen
+   Land, Christopher
+TI The poverty of journal publishing
+SO ORGANIZATION
+RI Boehm, Steffen/K-6217-2013
+OI Boehm, Steffen/0000-0002-0888-1362; Land,
+   Christopher/0000-0001-7277-0985
+SN 1350-5084
+EI 1461-7323
+PD NOV
+PY 2012
+VL 19
+IS 6
+BP 929
+EP 938
+DI 10.1177/1350508412448858
+UT WOS:000311477900017
+ER
+
+PT J
+AU Hodge, DR
+   Lacasse, JR
+   Benson, O
+AF Hodge, David R.
+   Lacasse, Jeffrey R.
+   Benson, Odessa
+TI Influential Publications in Social Work Discourse: The 100 Most Highly
+   Cited Articles in Disciplinary Journals: 200009
+SO BRITISH JOURNAL OF SOCIAL WORK
+SN 0045-3102
+PD JUN
+PY 2012
+VL 42
+IS 4
+BP 765
+EP 782
+DI 10.1093/bjsw/bcr093
+UT WOS:000305640500011
+ER
+
+PT J
+AU Bornmann, L
+   Marx, W
+AF Bornmann, Lutz
+   Marx, Werner
+TI HistCite analysis of papers constituting the h index research front
+SO JOURNAL OF INFORMETRICS
+RI Bornmann, Lutz/A-3926-2008; Marx, Werner/G-6801-2012
+OI Bornmann, Lutz/0000-0003-0810-7091; Marx, Werner/0000-0002-1763-5753
+SN 1751-1577
+EI 1875-5879
+PD APR
+PY 2012
+VL 6
+IS 2
+BP 285
+EP 288
+DI 10.1016/j.joi.2011.11.001
+UT WOS:000301364100012
+ER
+
+PT J
+AU Zhang, L
+   Thijs, B
+   Glanzel, W
+AF Zhang, Lin
+   Thijs, Bart
+   Glaenzel, Wolfgang
+TI The diffusion of H-related literature
+SO JOURNAL OF INFORMETRICS
+RI Glanzel, Wolfgang/A-6280-2008; Thijs, Bart/C-2995-2008; Zhang,
+   Lin/M-3007-2017
+OI Glanzel, Wolfgang/0000-0001-7529-5198; Thijs, Bart/0000-0003-0446-8332;
+   Zhang, Lin/0000-0003-0526-9677
+SN 1751-1577
+EI 1875-5879
+PD OCT
+PY 2011
+VL 5
+IS 4
+BP 583
+EP 593
+DI 10.1016/j.joi.2011.05.004
+UT WOS:000296524200010
+ER
+
+PT J
+AU Hodge, DR
+   Lacasse, JR
+AF Hodge, David R.
+   Lacasse, Jeffrey R.
+TI RANKING DISCIPLINARY JOURNALS WITH THE GOOGLE SCHOLAR H-INDEX: A NEW
+   TOOL FOR CONSTRUCTING CASES FOR TENURE, PROMOTION, AND OTHER
+   PROFESSIONAL DECISIONS
+SO JOURNAL OF SOCIAL WORK EDUCATION
+SN 1043-7797
+EI 2163-5811
+PD FAL
+PY 2011
+VL 47
+IS 3
+BP 579
+EP 596
+DI 10.5175/JSWE.2011.201000024
+UT WOS:000296821200013
+ER
+
+PT J
+AU Bornmann, L
+   Mutz, R
+   Hug, SE
+   Daniel, HD
+AF Bornmann, Lutz
+   Mutz, Ruediger
+   Hug, Sven E.
+   Daniel, Hans-Dieter
+TI A multilevel meta-analysis of studies reporting correlations between the
+   h index and 37 different h index variants
+SO JOURNAL OF INFORMETRICS
+RI Hug, Sven E./G-7810-2015; Bornmann, Lutz/A-3926-2008; Mutz,
+   Ruediger/A-2226-2009; Daniel, Hans-Dieter/A-2419-2013
+OI Hug, Sven E./0000-0002-7624-9529; Bornmann, Lutz/0000-0003-0810-7091; 
+SN 1751-1577
+EI 1875-5879
+PD JUL
+PY 2011
+VL 5
+IS 3
+BP 346
+EP 359
+DI 10.1016/j.joi.2011.01.006
+UT WOS:000291032500003
+ER
+
+PT J
+AU Hodge, DR
+   Lacasse, JR
+AF Hodge, David R.
+   Lacasse, Jeffrey R.
+TI Evaluating Journal Quality: Is the H-Index a Better Measure Than Impact
+   Factors?
+SO RESEARCH ON SOCIAL WORK PRACTICE
+OI Lacasse, Jeffrey/0000-0002-5448-8721
+SN 1049-7315
+EI 1552-7581
+PD MAR
+PY 2011
+VL 21
+IS 2
+BP 222
+EP 230
+DI 10.1177/1049731510369141
+UT WOS:000287131000007
+ER
+
+PT J
+AU Franceschini, F
+   Maisano, D
+AF Franceschini, Fiorenzo
+   Maisano, Domenico
+TI Bibliometric positioning of scientific manufacturing journals: a
+   comparative analysis
+SO SCIENTOMETRICS
+RI MAISANO, Domenico/B-4301-2010
+OI MAISANO, Domenico/0000-0002-8154-4469
+SN 0138-9130
+EI 1588-2861
+PD FEB
+PY 2011
+VL 86
+IS 2
+BP 463
+EP 485
+DI 10.1007/s11192-010-0301-x
+UT WOS:000286496200016
+ER
+
+PT J
+AU Garcia-Perez, MA
+AF Garcia-Perez, Miguel A.
+TI Accuracy and Completeness of Publication and Citation Records in the Web
+   of Science, PsycINFO, and Google Scholar: A Case Study for the
+   Computation of h Indices in Psychology
+SO JOURNAL OF THE AMERICAN SOCIETY FOR INFORMATION SCIENCE AND TECHNOLOGY
+RI Garcia-Perez, Miguel Angel/F-7043-2011
+OI Garcia-Perez, Miguel Angel/0000-0003-2669-4429
+SN 1532-2882
+PD OCT
+PY 2010
+VL 61
+IS 10
+BP 2070
+EP 2085
+DI 10.1002/asi.21372
+UT WOS:000282778400009
+ER
+
+PT J
+AU Franceschini, F
+   Maisano, D
+AF Franceschini, Fiorenzo
+   Maisano, Domenico
+TI A Survey of Quality Engineering-Management Journals by Bibliometric
+   Indicators
+SO QUALITY AND RELIABILITY ENGINEERING INTERNATIONAL
+RI MAISANO, Domenico/B-4301-2010
+OI MAISANO, Domenico/0000-0002-8154-4469
+SN 0748-8017
+EI 1099-1638
+PD OCT
+PY 2010
+VL 26
+IS 6
+BP 593
+EP 604
+DI 10.1002/qre.1083
+UT WOS:000283103100008
+ER
+
+PT J
+AU Franceschini, F
+   Maisano, D
+   Perotti, A
+   Proto, A
+AF Franceschini, Fiorenzo
+   Maisano, Domenico
+   Perotti, Anna
+   Proto, Andrea
+TI Analysis of the ch-index: an indicator to evaluate the diffusion of
+   scientific research output by citers
+SO SCIENTOMETRICS
+RI MAISANO, Domenico/B-4301-2010
+OI MAISANO, Domenico/0000-0002-8154-4469
+SN 0138-9130
+EI 1588-2861
+PD OCT
+PY 2010
+VL 85
+IS 1
+BP 203
+EP 217
+DI 10.1007/s11192-010-0165-0
+UT WOS:000280947400016
+ER
+
+PT J
+AU Franceschini, F
+   Maisano, DA
+AF Franceschini, Fiorenzo
+   Maisano, Domenico A.
+TI Analysis of the Hirsch index's operational properties
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+RI MAISANO, Domenico/B-4301-2010
+OI MAISANO, Domenico/0000-0002-8154-4469
+SN 0377-2217
+EI 1872-6860
+PD JUN 1
+PY 2010
+VL 203
+IS 2
+BP 494
+EP 504
+DI 10.1016/j.ejor.2009.08.001
+UT WOS:000272588200022
+ER
+
+PT J
+AU Saad, G
+AF Saad, Gad
+TI Applying the h-index in exploring bibliometric properties of elite
+   marketing scholars
+SO SCIENTOMETRICS
+SN 0138-9130
+PD MAY
+PY 2010
+VL 83
+IS 2
+BP 423
+EP 433
+DI 10.1007/s11192-009-0069-z
+UT WOS:000276499500007
+ER
+
+PT J
+AU Ormerod, RJ
+AF Ormerod, R. J.
+TI Research contribution: Citation and content analysis
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+RI Ormerod, Richard/F-2877-2013
+SN 0160-5682
+PD APR
+PY 2010
+VL 61
+IS 4
+BP 705
+EP 707
+DI 10.1057/jors.2009.166
+UT WOS:000275445300018
+ER
+
+PT J
+AU Franceschini, F
+   Maisano, D
+AF Franceschini, Fiorenzo
+   Maisano, Domenico
+TI The Hirsch spectrum: A novel tool for analyzing scientific journals
+SO JOURNAL OF INFORMETRICS
+RI MAISANO, Domenico/B-4301-2010
+OI MAISANO, Domenico/0000-0002-8154-4469
+SN 1751-1577
+EI 1875-5879
+PD JAN
+PY 2010
+VL 4
+IS 1
+BP 64
+EP 73
+DI 10.1016/j.joi.2009.08.003
+UT WOS:000272631100007
+ER
+
+EF

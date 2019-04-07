@@ -1,0 +1,1244 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Amara, N
+   Olmos-Penuela, J
+   Fernandez-de-Lucio, I
+AF Amara, Nabil
+   Olmos-Penuela, Julia
+   Fernandez-de-Lucio, Ignacio
+TI Overcoming the "lost before translation" problem: An exploratory study
+SO RESEARCH POLICY
+SN 0048-7333
+EI 1873-7625
+PD FEB
+PY 2019
+VL 48
+IS 1
+BP 22
+EP 36
+DI 10.1016/j.respol.2018.07.016
+UT WOS:000454466400003
+ER
+
+PT J
+AU Alvarez-Garcia, J
+   Duran-Sanchez, A
+   del Rio-Rama, MD
+   Garcia-Velez, DF
+AF Alvarez-Garcia, Jose
+   Duran-Sanchez, Amador
+   de la Cruz del Rio-Rama, Maria
+   Fernando Garcia-Velez, Diego
+TI Active Ageing: Mapping of Scientific Coverage
+SO INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH
+OI Garcia-Velez, Diego Fernando/0000-0003-2481-0027; Alvarez-Garcia,
+   Jose/0000-0002-0056-5488; Duran Sanchez, Amador/0000-0003-2919-8519; Del
+   Rio-Rama, Maria de la Cruz/0000-0002-9396-9341
+SN 1660-4601
+PD DEC
+PY 2018
+VL 15
+IS 12
+AR 2727
+DI 10.3390/ijerph15122727
+UT WOS:000456527000118
+PM 30513943
+ER
+
+PT J
+AU Martin-Martin, A
+   Orduna-Malea, E
+   Thelwall, M
+   Lopez-Cozar, ED
+AF Martin-Martin, Alberto
+   Orduna-Malea, Enrique
+   Thelwall, Mike
+   Delgado Lopez-Cozar, Emilio
+TI Google Scholar, Web of Science, and Scopus: A systematic comparison of
+   citations in 252 subject categories
+SO JOURNAL OF INFORMETRICS
+RI Delgado Lopez-Cozar, Emilio/I-8406-2012; Martin-Martin,
+   Alberto/G-3982-2014; Thelwall, Mike/C-1449-2013; Orduna Malea,
+   Enrique/D-1867-2009
+OI Delgado Lopez-Cozar, Emilio/0000-0002-8184-551X; Martin-Martin,
+   Alberto/0000-0002-0360-186X; Thelwall, Mike/0000-0001-6065-205X; Orduna
+   Malea, Enrique/0000-0002-1989-8477
+SN 1751-1577
+EI 1875-5879
+PD NOV
+PY 2018
+VL 12
+IS 4
+BP 1160
+EP 1177
+DI 10.1016/j.joi.2018.09.002
+UT WOS:000451074800012
+ER
+
+PT J
+AU Onyancha, OB
+   Ngulube, P
+   Maluleka, J
+   Mokwatlo, K
+AF Onyancha, Omwoyo Bosire
+   Ngulube, Patrick
+   Maluleka, Jan
+   Mokwatlo, Koketso
+TI Towards a Uniform Terminology for Indigenous Knowledge Concepts:
+   Informetrics Perspectives
+SO AFRICAN JOURNAL OF LIBRARY ARCHIVES AND INFORMATION SCIENCE
+SN 0795-4778
+PD OCT
+PY 2018
+VL 28
+IS 2
+BP 155
+EP 167
+UT WOS:000454675700002
+ER
+
+PT J
+AU Martin-Martin, A
+   Orduna-Malea, E
+   Lopez-Cozar, E
+AF Martin-Martin, Alberto
+   Orduna-Malea, Enrique
+   Delgado Lopez-Cozar, Emilio
+TI Coverage of highly-cited documents in Google Scholar, Web of Science,
+   and Scopus: a multidisciplinary comparison
+SO SCIENTOMETRICS
+RI Delgado Lopez-Cozar, Emilio/I-8406-2012; Orduna-Malea,
+   Enrique/D-1867-2009; Martin-Martin, Alberto/G-3982-2014
+OI Delgado Lopez-Cozar, Emilio/0000-0002-8184-551X; Orduna-Malea,
+   Enrique/0000-0002-1989-8477; Martin-Martin, Alberto/0000-0002-0360-186X
+SN 0138-9130
+EI 1588-2861
+PD SEP
+PY 2018
+VL 116
+IS 3
+BP 2175
+EP 2188
+DI 10.1007/s11192-018-2820-9
+UT WOS:000442007200038
+ER
+
+PT J
+AU Soriano, AS
+   Alvarez, CL
+   Valdes, RMT
+AF Santa Soriano, Alba
+   Lorenzo Alvarez, Carolina
+   Torres Valdes, Rosa Maria
+TI Bibliometric analysis to identify an emerging research area: Public
+   Relations Intelligence-a challenge to strengthen technological
+   observatories in the network society
+SO SCIENTOMETRICS
+CT 8th International Seminar on the Quantitative and Qualitative Study of
+   Science and Technology in honour of Gilberto Sotolongo Aguilar
+CY NOV 02-03, 2016
+CL Havana, CUBA
+SP Cuban Int Informat Conf
+RI ; Torres-Valdes, Rosa-Maria/I-4253-2017
+OI Santa Soriano, Alba/0000-0002-9853-8882; Lorenzo Alvarez,
+   Carolina/0000-0003-1378-1873; Torres-Valdes,
+   Rosa-Maria/0000-0002-4618-1527
+SN 0138-9130
+EI 1588-2861
+PD JUN
+PY 2018
+VL 115
+IS 3
+BP 1591
+EP 1614
+DI 10.1007/s11192-018-2651-8
+UT WOS:000437262800029
+ER
+
+PT J
+AU Bornmann, L
+   Butz, A
+   Wohlrabe, K
+AF Bornmann, Lutz
+   Butz, Alexander
+   Wohlrabe, Klaus
+TI What are the top five journals in economics? A new meta-ranking
+SO APPLIED ECONOMICS
+RI Wohlrabe, Klaus/R-9102-2016
+OI Wohlrabe, Klaus/0000-0002-5651-2641
+SN 0003-6846
+EI 1466-4283
+PY 2018
+VL 50
+IS 6
+BP 659
+EP 675
+DI 10.1080/00036846.2017.1332753
+UT WOS:000427199600005
+ER
+
+PT J
+AU Chen, CF
+   Li, Q
+   Deng, ZQ
+   Chiu, K
+   Wang, P
+AF Chen, Chuanfu
+   Li, Qiao
+   Deng, Zhiqing
+   Chiu, Kuei
+   Wang, Ping
+TI The preferences of Chinese LIS journal articles in citing works outside
+   the discipline
+SO JOURNAL OF DOCUMENTATION
+OI chen, chuan fu/0000-0003-1163-7691
+SN 0022-0418
+EI 1758-7379
+PY 2018
+VL 74
+IS 1
+BP 99
+EP 118
+DI 10.1108/JD-04-2017-0057
+UT WOS:000419191300006
+ER
+
+PT J
+AU Mingers, J
+   O'Hanley, JR
+   Okunola, M
+AF Mingers, John
+   O'Hanley, Jesse R.
+   Okunola, Musbaudeen
+TI Using Google Scholar institutional level data to evaluate the quality of
+   university research
+SO SCIENTOMETRICS
+OI Mingers, John/0000-0002-4102-4696
+SN 0138-9130
+EI 1588-2861
+PD DEC
+PY 2017
+VL 113
+IS 3
+BP 1627
+EP 1643
+DI 10.1007/s11192-017-2532-6
+UT WOS:000415715100019
+ER
+
+PT J
+AU Halevi, G
+   Moed, H
+   Bar-Ilan, J
+AF Halevi, Gali
+   Moed, Henk
+   Bar-Ilan, Judit
+TI Suitability of Google Scholar as a source of scientific information and
+   as a source of data for scientific evaluation-Review of the Literature
+SO JOURNAL OF INFORMETRICS
+RI Bar-Ilan, Judit/B-3452-2009
+OI Bar-Ilan, Judit/0000-0002-8796-5248; Halevi, Gali/0000-0003-1967-4147
+SN 1751-1577
+EI 1875-5879
+PD AUG
+PY 2017
+VL 11
+IS 3
+BP 823
+EP 834
+DI 10.1016/j.joi.2017.06.005
+UT WOS:000410528900021
+ER
+
+PT J
+AU Garousi, V
+   Fernandes, JM
+AF Garousi, Vahid
+   Fernandes, Joao M.
+TI Quantity versus impact of software engineering papers: a quantitative
+   study
+SO SCIENTOMETRICS
+OI Garousi, Vahid/0000-0001-6590-7576; Fernandes, Joao
+   M./0000-0003-1174-1966
+SN 0138-9130
+EI 1588-2861
+PD AUG
+PY 2017
+VL 112
+IS 2
+BP 963
+EP 1006
+DI 10.1007/s11192-017-2419-6
+UT WOS:000405275500013
+ER
+
+PT J
+AU Mingers, J
+   Meyer, M
+AF Mingers, John
+   Meyer, Martin
+TI Normalizing Google Scholar data for use in research evaluation
+SO SCIENTOMETRICS
+OI Meyer, Martin/0000-0002-5598-9480; Mingers, John/0000-0002-4102-4696
+SN 0138-9130
+EI 1588-2861
+PD AUG
+PY 2017
+VL 112
+IS 2
+BP 1111
+EP 1121
+DI 10.1007/s11192-017-2415-x
+UT WOS:000405275500021
+PM 28781396
+ER
+
+PT J
+AU Ronda-Pupo, GA
+AF Armando Ronda-Pupo, Guillermo
+TI The effect of document types and sizes on the scaling relationship
+   between citations and co-authorship patterns in management journals
+SO SCIENTOMETRICS
+RI Ronda-Pupo, Guillermo/F-9512-2014
+OI Ronda-Pupo, Guillermo/0000-0002-9049-8249
+SN 0138-9130
+EI 1588-2861
+PD MAR
+PY 2017
+VL 110
+IS 3
+BP 1191
+EP 1207
+DI 10.1007/s11192-016-2231-8
+UT WOS:000394339500006
+ER
+
+PT J
+AU Mingers, J
+   Yang, LY
+AF Mingers, John
+   Yang, Liying
+TI Evaluating journal quality: A review of journal citation indicators, and
+   ranking in business and management
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+OI Mingers, John/0000-0002-4102-4696
+SN 0377-2217
+EI 1872-6860
+PD FEB 16
+PY 2017
+VL 257
+IS 1
+BP 323
+EP 337
+DI 10.1016/j.ejor.2016.07.058
+UT WOS:000386738300027
+ER
+
+PT J
+AU Russo-Spena, T
+   Tregua, M
+   Bifulco, F
+AF Russo-Spena, Tiziana
+   Tregua, Marco
+   Bifulco, Francesco
+TI Searching through the jungle of innovation conceptualisations System,
+   network and ecosystem perspectives
+SO JOURNAL OF SERVICE THEORY AND PRACTICE
+OI TREGUA, Marco/0000-0003-1579-7676; Russo-Spena,
+   Tiziana/0000-0002-1732-6029
+SN 2055-6225
+PY 2017
+VL 27
+IS 5
+SI SI
+BP 977
+EP 1005
+DI 10.1108/JSTP-10-2015-0224
+UT WOS:000409817300004
+ER
+
+PT J
+AU Sun, YT
+   Xia, BS
+AF Sun, Yutao
+   Xia, Belle Selene
+TI The scholarly communication of economic knowledge: a citation analysis
+   of Google Scholar
+SO SCIENTOMETRICS
+OI Sun, Yutao/0000-0002-7936-8267
+SN 0138-9130
+EI 1588-2861
+PD DEC
+PY 2016
+VL 109
+IS 3
+BP 1965
+EP 1978
+DI 10.1007/s11192-016-2140-x
+UT WOS:000389336100027
+ER
+
+PT J
+AU Ronda-Pupo, GA
+   Katz, JS
+AF Armando Ronda-Pupo, Guillermo
+   Katz, J. Sylvan
+TI The Power-Law Relationship Between Citation-Based Performance and
+   Collaboration in Articles in Management Journals: A Scale-Independent
+   Approach
+SO JOURNAL OF THE ASSOCIATION FOR INFORMATION SCIENCE AND TECHNOLOGY
+RI Ronda-Pupo, Guillermo/F-9512-2014
+OI Ronda-Pupo, Guillermo/0000-0002-9049-8249
+SN 2330-1635
+EI 2330-1643
+PD OCT
+PY 2016
+VL 67
+IS 10
+BP 2565
+EP 2572
+DI 10.1002/asi.23575
+UT WOS:000384509100019
+ER
+
+PT J
+AU Prins, AAM
+   Costas, R
+   van Leeuwen, TN
+   Wouters, PF
+AF Prins, Ad A. M.
+   Costas, Rodrigo
+   van Leeuwen, Thed N.
+   Wouters, Paul F.
+TI Using Google Scholar in research evaluation of humanities and social
+   science programs: A comparison with Web of Science data
+SO RESEARCH EVALUATION
+CT 19th International Conference on Science and Technology Indicators (STI)
+CY SEP 03-05, 2014
+CL Leiden, NETHERLANDS
+SP Leiden Univ, Ctr Sci & Technol Studies
+SN 0958-2029
+EI 1471-5449
+PD JUL
+PY 2016
+VL 25
+IS 3
+BP 264
+EP 270
+DI 10.1093/reseval/rvv049
+UT WOS:000383508200005
+ER
+
+PT J
+AU Gorjizadeh, D
+   Eftekhar, A
+AF Gorjizadeh, Davood
+   Eftekhar, Azar
+TI A Scientometric Analysis of Scholarly Publication in the Fields of
+   Management, Operations, Economics, and Business from Iran
+SO JOURNAL OF SCHOLARLY PUBLISHING
+SN 1198-9742
+EI 1710-1166
+PD JUL
+PY 2016
+VL 47
+IS 4
+BP 347
+EP 361
+DI 10.3138/jsp.47.4.347
+UT WOS:000380393000004
+ER
+
+PT J
+AU Ronda-Pupo, GA
+   Guerras-Martin, LA
+AF Armando Ronda-Pupo, Guillermo
+   Angel Guerras-Martin, Luis
+TI Collaboration network of knowledge creation and dissemination on
+   Management research: ranking the leading institutions
+SO SCIENTOMETRICS
+RI Ronda-Pupo, Guillermo/F-9512-2014
+OI Ronda-Pupo, Guillermo/0000-0002-9049-8249
+SN 0138-9130
+EI 1588-2861
+PD JUN
+PY 2016
+VL 107
+IS 3
+BP 917
+EP 939
+DI 10.1007/s11192-016-1924-3
+UT WOS:000376273700002
+ER
+
+PT J
+AU Waltman, L
+AF Waltman, Ludo
+TI A review of the literature on citation impact indicators
+SO JOURNAL OF INFORMETRICS
+SN 1751-1577
+EI 1875-5879
+PD MAY
+PY 2016
+VL 10
+IS 2
+BP 365
+EP 391
+DI 10.1016/j.joi.2016.02.007
+UT WOS:000377413800004
+ER
+
+PT J
+AU Moed, HF
+   Bar-Ilan, J
+   Halevi, G
+AF Moed, Henk F.
+   Bar-Ilan, Judit
+   Halevi, Gali
+TI A new methodology for comparing Google Scholar and Scopus
+SO JOURNAL OF INFORMETRICS
+RI Bar-Ilan, Judit/B-3452-2009
+OI Bar-Ilan, Judit/0000-0002-8796-5248; Halevi, Gali/0000-0003-1967-4147
+SN 1751-1577
+EI 1875-5879
+PD MAY
+PY 2016
+VL 10
+IS 2
+BP 533
+EP 551
+DI 10.1016/j.joi.2016.04.017
+UT WOS:000377413800014
+ER
+
+PT J
+AU Harzing, AW
+   Alakangas, S
+AF Harzing, Anne-Wil
+   Alakangas, Satu
+TI Google Scholar, Scopus and the Web of Science: a longitudinal and
+   cross-disciplinary comparison
+SO SCIENTOMETRICS
+RI Alakangas, Satu/K-3350-2013; Harzing, Anne-Wil/C-7472-2014
+OI Alakangas, Satu/0000-0002-9967-3664; Harzing,
+   Anne-Wil/0000-0003-1509-3003
+SN 0138-9130
+EI 1588-2861
+PD FEB
+PY 2016
+VL 106
+IS 2
+BP 787
+EP 804
+DI 10.1007/s11192-015-1798-9
+UT WOS:000369017300015
+ER
+
+PT J
+AU Muller, H
+   Dilger, A
+AF Mueller, Harry
+   Dilger, Alexander
+TI How the Research Field Affect's the Citation Success - An Empirical
+   Analysis for German Business Administration
+SO BETRIEBSWIRTSCHAFTLICHE FORSCHUNG UND PRAXIS
+SN 0340-5370
+PD JAN-FEB
+PY 2016
+VL 68
+IS 1
+BP 36
+EP 52
+UT WOS:000370990800003
+ER
+
+PT J
+AU Mongeon, P
+   Paul-Hus, A
+AF Mongeon, Philippe
+   Paul-Hus, Adele
+TI The journal coverage of Web of Science and Scopus: a comparative
+   analysis
+SO SCIENTOMETRICS
+OI Mongeon, Philippe/0000-0003-1021-059X; Paul-Hus,
+   Adele/0000-0002-4572-5385
+SN 0138-9130
+EI 1588-2861
+PD JAN
+PY 2016
+VL 106
+IS 1
+BP 213
+EP 228
+DI 10.1007/s11192-015-1765-5
+UT WOS:000368075800012
+ER
+
+PT J
+AU Mingers, J
+   Leydesdorff, L
+AF Mingers, John
+   Leydesdorff, Loet
+TI A review of theory and practice in scientometrics
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+RI Zuluaga Gaviria, Jennifer Daniela/T-2321-2017; Leydesdorff,
+   Loet/E-2903-2010
+OI Leydesdorff, Loet/0000-0002-7835-3098; Mingers, John/0000-0002-4102-4696
+SN 0377-2217
+EI 1872-6860
+PD OCT 1
+PY 2015
+VL 246
+IS 1
+BP 1
+EP 19
+DI 10.1016/j.ejor.2015.04.002
+UT WOS:000356742800001
+ER
+
+PT J
+AU Thelwall, M
+   Kousha, K
+AF Thelwall, Mike
+   Kousha, Kayvan
+TI WEB INDICATORS FOR RESEARCH EVALUATION. PART 1: CITATIONS AND LINKS TO
+   ACADEMIC ARTICLES FROM THE WEB
+SO PROFESIONAL DE LA INFORMACION
+SN 1386-6710
+PD SEP-OCT
+PY 2015
+VL 24
+IS 5
+BP 587
+EP 606
+DI 10.3145/epi.2015.sep.08
+UT WOS:000362965200008
+ER
+
+PT J
+AU Krampen, G
+   Weiland, P
+   Wiesenhutter, J
+AF Krampen, Guenter
+   Weiland, Peter
+   Wiesenhuetter, Juergen
+TI Citation success of different publication types: a case study on all
+   references in psychology publications from the German-speaking countries
+   (D-A-CH-L-L) in 2009, 2010, and 2011
+SO SCIENTOMETRICS
+OI Weiland, Peter/0000-0003-2488-7497
+SN 0138-9130
+EI 1588-2861
+PD SEP
+PY 2015
+VL 104
+IS 3
+BP 827
+EP 840
+DI 10.1007/s11192-015-1573-y
+UT WOS:000359143200011
+ER
+
+PT J
+AU Mingers, J
+   Leydesdorff, L
+AF Mingers, John
+   Leydesdorff, Loet
+TI Identifying research fields within business and management: a journal
+   cross-citation analysis
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+RI Zuluaga Gaviria, Jennifer Daniela/T-2321-2017
+SN 0160-5682
+EI 1476-9360
+PD AUG
+PY 2015
+VL 66
+IS 8
+BP 1370
+EP 1384
+DI 10.1057/jors.2014.113
+UT WOS:000359173300012
+ER
+
+PT J
+AU Stirbu, S
+   Thirion, P
+   Schmitz, S
+   Haesbroeck, G
+   Greco, N
+AF Stirbu, Simona
+   Thirion, Paul
+   Schmitz, Serge
+   Haesbroeck, Gentiane
+   Greco, Ninfa
+TI The Utility of Google Scholar When Searching Geographical Literature:
+   Comparison With Three Commercial Bibliographic Databases
+SO JOURNAL OF ACADEMIC LIBRARIANSHIP
+OI Thirion, Paul/0000-0002-2736-4707
+SN 0099-1333
+EI 1879-1999
+PD MAY
+PY 2015
+VL 41
+IS 3
+BP 322
+EP 329
+DI 10.1016/j.acalib.2015.02.013
+UT WOS:000354663200014
+ER
+
+PT J
+AU Amara, N
+   Landry, R
+   Halilem, N
+AF Amara, Nabil
+   Landry, Rejean
+   Halilem, Norrin
+TI What can university administrators do to increase the publication and
+   citation scores of their faculty members?
+SO SCIENTOMETRICS
+RI Halilem, Norrin/H-2653-2017
+OI Halilem, Norrin/0000-0001-7970-4884
+SN 0138-9130
+EI 1588-2861
+PD MAY
+PY 2015
+VL 103
+IS 2
+BP 489
+EP 530
+DI 10.1007/s11192-015-1537-2
+UT WOS:000352995000009
+ER
+
+PT J
+AU Driedger, SM
+   Weimer, J
+AF Driedger, S. Michelle
+   Weimer, Jade
+TI Factiva and Canadian Newsstand Major Dailies Comparing retrieval
+   reliability between academic institutions
+SO ONLINE INFORMATION REVIEW
+SN 1468-4527
+EI 1468-4535
+PY 2015
+VL 39
+IS 3
+BP 346
+EP 359
+DI 10.1108/OIR-11-2014-0276
+UT WOS:000357422500006
+ER
+
+PT J
+AU Makkonen, T
+AF Makkonen, Teemu
+TI Scientific collaboration in the Danish-German border region of Southern
+   Jutland-Schleswig
+SO GEOGRAFISK TIDSSKRIFT-DANISH JOURNAL OF GEOGRAPHY
+OI Makkonen, Teemu/0000-0002-1065-1806
+SN 0016-7223
+EI 1903-2471
+PY 2015
+VL 115
+IS 1
+BP 27
+EP 38
+DI 10.1080/00167223.2015.1011180
+UT WOS:000354042500003
+ER
+
+PT J
+AU Abrizah, A
+   Thelwall, M
+AF Abrizah, A.
+   Thelwall, Mike
+TI Can the Impact of Non-Western Academic Books be Measured? An
+   Investigation of Google Books and Google Scholar for Malaysia
+SO JOURNAL OF THE ASSOCIATION FOR INFORMATION SCIENCE AND TECHNOLOGY
+RI abdullah, abrizah/B-8125-2010
+OI abdullah, abrizah/0000-0002-8224-5268
+SN 2330-1635
+EI 2330-1643
+PD DEC
+PY 2014
+VL 65
+IS 12
+BP 2498
+EP 2508
+DI 10.1002/asi.23145
+UT WOS:000345441600010
+ER
+
+PT J
+AU Mingers, J
+AF Mingers, John
+TI Problems with the SNIP indicator
+SO JOURNAL OF INFORMETRICS
+SN 1751-1577
+EI 1875-5879
+PD OCT
+PY 2014
+VL 8
+IS 4
+BP 890
+EP 894
+DI 10.1016/j.joi.2014.09.004
+UT WOS:000345527400009
+ER
+
+PT J
+AU Breuer, W
+   Nadler, C
+AF Breuer, Wolfgang
+   Nadler, Claudia
+TI Research Performance Measurement in Business Administration: The Link
+   between Journal Rankings and Direct Citations Depending on Article and
+   Author Age
+SO BETRIEBSWIRTSCHAFTLICHE FORSCHUNG UND PRAXIS
+SN 0340-5370
+PD SEP-OCT
+PY 2014
+VL 66
+IS 5
+BP 556
+EP 576
+UT WOS:000343789100005
+ER
+
+PT J
+AU Noblejas, CJ
+   Rodriguez, AP
+AF Jimenez Noblejas, Cristina
+   Perianes Rodriguez, Antonio
+TI Information retrieval and visualization in Web of Science and Scopus: a
+   practical approach
+SO INVESTIGACION BIBLIOTECOLOGICA
+RI Perianes-Rodriguez, Antonio/A-1917-2010
+OI Perianes-Rodriguez, Antonio/0000-0002-1188-3481
+SN 0187-358X
+PD SEP-DEC
+PY 2014
+VL 28
+IS 64
+BP 15
+EP 31
+UT WOS:000343742100002
+ER
+
+PT J
+AU Michayluk, D
+   Zurbruegg, R
+AF Michayluk, David
+   Zurbruegg, Ralf
+TI Do lead articles signal higher quality in the digital age? Evidence from
+   finance journals
+SO SCIENTOMETRICS
+OI Michayluk, David/0000-0001-9020-0855
+SN 0138-9130
+EI 1588-2861
+PD FEB
+PY 2014
+VL 98
+IS 2
+BP 961
+EP 973
+DI 10.1007/s11192-013-1115-4
+UT WOS:000330622600011
+ER
+
+PT J
+AU de Winter, JCF
+   Zadpoor, AA
+   Dodou, D
+AF de Winter, Joost C. F.
+   Zadpoor, Amir A.
+   Dodou, Dimitra
+TI The expansion of Google Scholar versus Web of Science: a longitudinal
+   study
+SO SCIENTOMETRICS
+RI Zadpoor, Amir A/A-8510-2008
+OI de Winter, Joost/0000-0002-1281-8200; Dodou,
+   Dimitra/0000-0002-9428-3261; Zadpoor, Amir Abbas/0000-0003-3234-2112
+SN 0138-9130
+EI 1588-2861
+PD FEB
+PY 2014
+VL 98
+IS 2
+BP 1547
+EP 1565
+DI 10.1007/s11192-013-1089-2
+UT WOS:000330622600048
+ER
+
+PT J
+AU Rahimi, S
+   Chandrakumar, V
+AF Rahimi, Shahin
+   Chandrakumar, V.
+TI A comparison of citation coverage of traditional and web citation
+   databases in medical science
+SO MALAYSIAN JOURNAL OF LIBRARY & INFORMATION SCIENCE
+SN 1394-6234
+PY 2014
+VL 19
+IS 3
+BP 1
+EP 11
+UT WOS:000350037200001
+ER
+
+PT J
+AU Krampen, G
+   Schui, G
+   Ferring, D
+   Bauer, HPW
+AF Krampen, Guenter
+   Schui, Gabriel
+   Ferring, Dieter
+   Bauer, Hans P. W.
+TI Characteristics of the most frequently cited English-language journal
+   publications 1981-2010 of psychology from the German-speaking countries
+SO PSYCHOLOGISCHE RUNDSCHAU
+SN 0033-3042
+EI 2190-6238
+PY 2014
+VL 65
+IS 3
+BP 159
+EP 168
+DI 10.1026/0033-3042/a000196
+UT WOS:000339270100006
+ER
+
+PT J
+AU Urquhart, C
+   Dunn, S
+AF Urquhart, Christine
+   Dunn, Sara
+TI A bibliometric approach demonstrates the impact of a social care data
+   set on research and policy
+SO HEALTH INFORMATION AND LIBRARIES JOURNAL
+SN 1471-1834
+EI 1471-1842
+PD DEC
+PY 2013
+VL 30
+IS 4
+BP 294
+EP 302
+DI 10.1111/hir.12040
+UT WOS:000330250300005
+PM 24251891
+ER
+
+PT J
+AU Sangwal, K
+AF Sangwal, Keshra
+TI Some citation-related characteristics of scientific journals published
+   in individual countries
+SO SCIENTOMETRICS
+SN 0138-9130
+EI 1588-2861
+PD DEC
+PY 2013
+VL 97
+IS 3
+BP 719
+EP 741
+DI 10.1007/s11192-013-1053-1
+UT WOS:000327219900012
+ER
+
+PT J
+AU Osca-Lluch, J
+   Miguel, S
+   Gonzalez, C
+   Penaranda-Ortega, M
+   Quinones-Vidal, E
+AF Osca-Lluch, Julia
+   Miguel, Sandra
+   Gonzalez, Claudia
+   Penaranda-Ortega, Maria
+   Quinones-Vidal, Elena
+TI Coverage and overlap of the Web of Science and Scopus in the analysis of
+   the Spanish scientific activity in Psychology
+SO ANALES DE PSICOLOGIA
+SN 0212-9728
+EI 1695-2294
+PD OCT
+PY 2013
+VL 29
+IS 3
+BP 1025
+EP 1031
+DI 10.6018/analesps.29.3.154911
+UT WOS:000322500500041
+ER
+
+PT J
+AU Mingers, J
+   Lipitakis, EAECG
+AF Mingers, John
+   Lipitakis, Evangelia A. E. C. G.
+TI Evaluating a department's research: Testing the Leiden methodology in
+   business and management
+SO INFORMATION PROCESSING & MANAGEMENT
+OI Mingers, John/0000-0002-4102-4696; Lipitakis,
+   Evangelia/0000-0002-9506-4319
+SN 0306-4573
+EI 1873-5371
+PD MAY
+PY 2013
+VL 49
+IS 3
+BP 587
+EP 595
+DI 10.1016/j.ipm.2012.11.002
+UT WOS:000317529900001
+ER
+
+PT J
+AU D'Este, P
+   Tang, P
+   Mahdi, S
+   Neely, A
+   Sanchez-Barrioluengo, M
+AF D'Este, Pablo
+   Tang, Puay
+   Mahdi, Surya
+   Neely, Andy
+   Sanchez-Barrioluengo, Mabel
+TI The pursuit of academic excellence and business engagement: is it
+   irreconcilable?
+SO SCIENTOMETRICS
+OI Neely, Andrew David/0000-0001-8220-5242; Sanchez Barrioluengo,
+   Mabel/0000-0002-6241-030X; D'Este, Pablo/0000-0002-4040-8209
+SN 0138-9130
+EI 1588-2861
+PD MAY
+PY 2013
+VL 95
+IS 2
+BP 481
+EP 502
+DI 10.1007/s11192-013-0955-2
+UT WOS:000317746900001
+ER
+
+PT J
+AU Harzing, AW
+AF Harzing, Anne-Wil
+TI A preliminary test of Google Scholar as a source for citation data: a
+   longitudinal study of Nobel prize winners
+SO SCIENTOMETRICS
+RI Harzing, Anne-Wil/C-7472-2014
+OI Harzing, Anne-Wil/0000-0003-1509-3003
+SN 0138-9130
+PD MAR
+PY 2013
+VL 94
+IS 3
+BP 1057
+EP 1075
+DI 10.1007/s11192-012-0777-7
+UT WOS:000314753500017
+ER
+
+PT J
+AU Sangwal, K
+AF Sangwal, Keshra
+TI Citation and impact factor distributions of scientific journals
+   published in individual countries
+SO JOURNAL OF INFORMETRICS
+SN 1751-1577
+EI 1875-5879
+PY 2013
+VL 7
+IS 2
+BP 487
+EP 504
+DI 10.1016/j.joi.2013.01.011
+UT WOS:000318377100026
+ER
+
+PT J
+AU Patel, VM
+   Ashrafian, H
+   Almoudaris, A
+   Makanjuola, J
+   Bucciarelli-Ducci, C
+   Darzi, A
+   Athanasiou, T
+AF Patel, Vanash M.
+   Ashrafian, Hutan
+   Almoudaris, Alex
+   Makanjuola, Jonathan
+   Bucciarelli-Ducci, Chiara
+   Darzi, Ara
+   Athanasiou, Thanos
+TI Measuring Academic Performance for Healthcare Researchers with the H
+   Index: Which Search Tool Should Be Used?
+SO MEDICAL PRINCIPLES AND PRACTICE
+OI Bucciarelli-Ducci, Chiara/0000-0002-2515-0852
+SN 1011-7571
+EI 1423-0151
+PY 2013
+VL 22
+IS 2
+BP 178
+EP 183
+DI 10.1159/000341756
+UT WOS:000314751000011
+PM 22964880
+ER
+
+PT J
+AU Brumback, RA
+AF Brumback, Roger A.
+TI "3 . . 2 . . 1 . . Impact [Factor]: Target [Academic Career]
+   Destroyed!": Just Another Statistical Casualty
+SO JOURNAL OF CHILD NEUROLOGY
+SN 0883-0738
+EI 1708-8283
+PD DEC
+PY 2012
+VL 27
+IS 12
+BP 1565
+EP 1576
+DI 10.1177/0883073812465014
+UT WOS:000311515900011
+PM 23183597
+ER
+
+PT J
+AU Amara, N
+   Landry, R
+AF Amara, Nabil
+   Landry, Rejean
+TI Counting citations in the field of business and management: why use
+   Google Scholar rather than the Web of Science
+SO SCIENTOMETRICS
+SN 0138-9130
+EI 1588-2861
+PD DEC
+PY 2012
+VL 93
+IS 3
+BP 553
+EP 581
+DI 10.1007/s11192-012-0729-2
+UT WOS:000310964500001
+ER
+
+PT J
+AU Seiler, C
+   Wohlrabe, K
+AF Seiler, Christian
+   Wohlrabe, Klaus
+TI Ranking economists on the basis of many indicators: An alternative
+   approach using RePEc data
+SO JOURNAL OF INFORMETRICS
+RI Seiler, Christian/B-2622-2010; Wohlrabe, Klaus/R-9102-2016
+OI Seiler, Christian/0000-0002-0566-9702; Wohlrabe,
+   Klaus/0000-0002-5651-2641
+SN 1751-1577
+PD JUL
+PY 2012
+VL 6
+IS 3
+BP 389
+EP 402
+DI 10.1016/j.joi.2012.01.007
+UT WOS:000303660100005
+ER
+
+PT J
+AU Clermont, M
+   Dyckhoff, H
+AF Clermont, Marcel
+   Dyckhoff, Harald
+TI Acquisition of economic journals in literature databases
+SO BETRIEBSWIRTSCHAFTLICHE FORSCHUNG UND PRAXIS
+RI Dyckhoff, Harald/K-1222-2015
+OI Dyckhoff, Harald/0000-0002-9791-6140
+SN 0340-5370
+PD MAY-JUN
+PY 2012
+VL 64
+IS 3
+BP 324
+EP 346
+UT WOS:000307485400006
+ER
+
+PT J
+AU Mingers, J
+   Macri, F
+   Petrovici, D
+AF Mingers, John
+   Macri, Frederico
+   Petrovici, Dan
+TI Using the h-index to measure the quality of journals in the field of
+   business and management
+SO INFORMATION PROCESSING & MANAGEMENT
+OI Mingers, John/0000-0002-4102-4696
+SN 0306-4573
+PD MAR
+PY 2012
+VL 48
+IS 2
+BP 234
+EP 241
+DI 10.1016/j.ipm.2011.03.009
+UT WOS:000301625900004
+ER
+
+PT J
+AU Tol, RSJ
+AF Tol, Richard S. J.
+TI Shapley values for assessing research production and impact of schools
+   and scholars
+SO SCIENTOMETRICS
+RI Tol, Richard/D-5245-2011
+OI Tol, Richard/0000-0002-8012-3988
+SN 0138-9130
+EI 1588-2861
+PD MAR
+PY 2012
+VL 90
+IS 3
+BP 763
+EP 780
+DI 10.1007/s11192-011-0555-y
+UT WOS:000300325800002
+ER
+
+PT J
+AU Kousha, K
+   Thelwall, M
+   Rezaie, S
+AF Kousha, Kayvan
+   Thelwall, Mike
+   Rezaie, Somayeh
+TI Assessing the Citation Impact of Books: The Role of Google Books, Google
+   Scholar, and Scopus
+SO JOURNAL OF THE AMERICAN SOCIETY FOR INFORMATION SCIENCE AND TECHNOLOGY
+RI Thelwall, Mike/C-1449-2013
+OI Thelwall, Mike/0000-0001-6065-205X; Kousha, Kayvan/0000-0003-4827-971X
+SN 1532-2882
+EI 1532-2890
+PD NOV
+PY 2011
+VL 62
+IS 11
+BP 2147
+EP 2164
+DI 10.1002/asi.21608
+UT WOS:000296453900006
+ER
+
+EF

@@ -1,0 +1,1084 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Hall, J
+   Martin, BR
+AF Hall, Jeremy
+   Martin, Ben R.
+TI Towards a taxonomy of research misconduct: The case of business school
+   research
+SO RESEARCH POLICY
+SN 0048-7333
+EI 1873-7625
+PD MAR
+PY 2019
+VL 48
+IS 2
+SI SI
+BP 414
+EP 427
+DI 10.1016/j.respol.2018.03.006
+UT WOS:000456638400002
+ER
+
+PT J
+AU Tweedie, D
+   Wild, D
+   Rhodes, C
+   Martinov-Bennie, N
+AF Tweedie, Dale
+   Wild, David
+   Rhodes, Carl
+   Martinov-Bennie, Nonna
+TI How Does Performance Management Affect Workers? Beyond Human Resource
+   Management and Its Critique
+SO INTERNATIONAL JOURNAL OF MANAGEMENT REVIEWS
+OI Martinov-Bennie, Nonna/0000-0003-4697-9261; Rhodes,
+   Carl/0000-0002-6571-2872; Tweedie, Dale/0000-0001-7887-1680
+SN 1460-8545
+EI 1468-2370
+PD JAN
+PY 2019
+VL 21
+IS 1
+BP 76
+EP 96
+DI 10.1111/ijmr.12177
+UT WOS:000457227200004
+ER
+
+PT J
+AU Duan, L
+   Nasri, F
+   Paknejad, J
+AF Duan, Lian
+   Nasri, Farrokh
+   Paknejad, Javad
+TI A data-driven method for rating management information systems journals
+   in the same scale of the Association of Business Schools Journal Guide
+SO EXPERT SYSTEMS
+SN 0266-4720
+EI 1468-0394
+PD DEC
+PY 2018
+VL 35
+IS 6
+AR e12309
+DI 10.1111/exsy.12309
+UT WOS:000452316700006
+ER
+
+PT J
+AU Aissaoui, R
+   Geringer, MJ
+AF Aissaoui, Rachida
+   Geringer, Michael J.
+TI International business research output and rankings of Asia-Pacific
+   universities: A 40-year time-series analysis
+SO ASIA PACIFIC JOURNAL OF MANAGEMENT
+SN 0217-4561
+EI 1572-9958
+PD DEC
+PY 2018
+VL 35
+IS 4
+BP 993
+EP 1023
+DI 10.1007/s10490-017-9536-x
+UT WOS:000451053400007
+ER
+
+PT J
+AU Brooks, C
+   Schopohl, L
+AF Brooks, Chris
+   Schopohl, Lisa
+TI Topics and trends in finance research: What is published, who publishes
+   it and what gets cited?
+SO BRITISH ACCOUNTING REVIEW
+SN 0890-8389
+PD NOV
+PY 2018
+VL 50
+IS 6
+SI SI
+BP 615
+EP 637
+DI 10.1016/j.bar.2018.02.001
+UT WOS:000453498900005
+ER
+
+PT J
+AU Xu, XH
+   Chen, XF
+   Jia, F
+   Brown, S
+   Gong, Y
+   Xu, YF
+AF Xu, Xinhan
+   Chen, Xiangfeng
+   Jia, Fu
+   Brown, Steve
+   Gong, Yu
+   Xu, Yifan
+TI Supply chain finance: A systematic literature review and bibliometric
+   analysis
+SO INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+OI Gong, Yu/0000-0002-5411-376X
+SN 0925-5273
+EI 1873-7579
+PD OCT
+PY 2018
+VL 204
+BP 160
+EP 173
+DI 10.1016/j.ijpe.2018.08.003
+UT WOS:000446289700013
+ER
+
+PT J
+AU Lee, B
+AF Lee, Bill
+TI A New Forum for Advancing Understanding of Research Methods and Practice
+SO EUROPEAN MANAGEMENT REVIEW
+SN 1740-4754
+EI 1740-4762
+PD SEP
+PY 2018
+VL 15
+IS 2
+BP 201
+EP 204
+DI 10.1111/emre.12316
+UT WOS:000444946200005
+ER
+
+PT J
+AU Kothiyal, N
+   Bell, E
+   Clarke, C
+AF Kothiyal, Nivedita
+   Bell, Emma
+   Clarke, Caroline
+TI MOVING BEYOND MIMICRY: DEVELOPING HYBRID SPACES IN INDIAN BUSINESS
+   SCHOOLS
+SO ACADEMY OF MANAGEMENT LEARNING & EDUCATION
+OI Bell, Emma/0000-0001-9026-7224
+SN 1537-260X
+PD JUN
+PY 2018
+VL 17
+IS 2
+BP 137
+EP 154
+DI 10.5465/amle.2015.0137
+UT WOS:000436641500002
+ER
+
+PT J
+AU Tonelli, MJ
+   Zambaldi, F
+AF Tonelli, Maria Jose
+   Zambaldi, Felipe
+TI RESPONSIBLE SCIENCE AND SOCIAL IMPACT OF RESEARCH IN ADMINISTRATION
+SO RAE-REVISTA DE ADMINISTRACAO DE EMPRESAS
+SN 0034-7590
+EI 2178-938X
+PD MAY-JUN
+PY 2018
+VL 58
+IS 3
+BP 215
+EP 216
+DI 10.1590/S0034-759020180301
+UT WOS:000435121100001
+ER
+
+PT J
+AU Serenko, A
+   Bontis, N
+AF Serenko, Alexander
+   Bontis, Nick
+TI A critical evaluation of expert survey-based journal rankings: The role
+   of personal research interests
+SO JOURNAL OF THE ASSOCIATION FOR INFORMATION SCIENCE AND TECHNOLOGY
+SN 2330-1635
+EI 2330-1643
+PD MAY
+PY 2018
+VL 69
+IS 5
+BP 749
+EP 752
+DI 10.1002/asi.23985
+UT WOS:000430126400011
+ER
+
+PT J
+AU Mowbray, PK
+AF Mowbray, Paula K.
+TI Giving a voice to managers: forging the desire line through the creation
+   of informal employee voice channels and productive resistance
+SO INTERNATIONAL JOURNAL OF HUMAN RESOURCE MANAGEMENT
+OI Mowbray, Paula/0000-0003-1048-2552
+SN 0958-5192
+EI 1466-4399
+PY 2018
+VL 29
+IS 5
+SI SI
+BP 941
+EP 969
+DI 10.1080/09585192.2017.1396552
+UT WOS:000441784200010
+ER
+
+PT J
+AU Paisey, C
+   Paisey, NJ
+AF Paisey, Catriona
+   Paisey, Nicholas J.
+TI Talent management in academia: the effect of discipline and context on
+   recruitment
+SO STUDIES IN HIGHER EDUCATION
+SN 0307-5079
+EI 1470-174X
+PY 2018
+VL 43
+IS 7
+BP 1196
+EP 1214
+DI 10.1080/03075079.2016.1239251
+UT WOS:000435708200008
+ER
+
+PT J
+AU Symon, G
+   Cassell, C
+   Johnson, P
+AF Symon, Gillian
+   Cassell, Catherine
+   Johnson, Phil
+TI Evaluative Practices in Qualitative Management Research: A Critical
+   Review
+SO INTERNATIONAL JOURNAL OF MANAGEMENT REVIEWS
+SN 1460-8545
+EI 1468-2370
+PD JAN
+PY 2018
+VL 20
+IS 1
+BP 134
+EP 154
+DI 10.1111/ijmr.12120
+UT WOS:000422712700007
+ER
+
+PT J
+AU Mingers, J
+   O'Hanley, JR
+   Okunola, M
+AF Mingers, John
+   O'Hanley, Jesse R.
+   Okunola, Musbaudeen
+TI Using Google Scholar institutional level data to evaluate the quality of
+   university research
+SO SCIENTOMETRICS
+OI Mingers, John/0000-0002-4102-4696
+SN 0138-9130
+EI 1588-2861
+PD DEC
+PY 2017
+VL 113
+IS 3
+BP 1627
+EP 1643
+DI 10.1007/s11192-017-2532-6
+UT WOS:000415715100019
+ER
+
+PT J
+AU Hyun, E
+AF Hyun, Eunjung
+TI How Third-Party CSR Evaluation Matters: Keeping Up with Rivals in CSR
+   Performance Ratings of Korean Firms, 2011-2015
+SO SUSTAINABILITY
+SN 2071-1050
+PD NOV
+PY 2017
+VL 9
+IS 11
+AR 2137
+DI 10.3390/su9112137
+UT WOS:000416793400214
+ER
+
+PT J
+AU Alakavuklar, ON
+   Dickson, AG
+   Stablein, R
+AF Alakavuklar, Ozan Nadir
+   Dickson, Andrew G.
+   Stablein, Ralph
+TI The Alienation of Scholarship in Modern Business Schools: From
+   MarxistMaterial Relations to the Lacanian Subject
+SO ACADEMY OF MANAGEMENT LEARNING & EDUCATION
+OI Alakavuklar, Ozan Nadir/0000-0002-9515-5237
+SN 1537-260X
+PD SEP 1
+PY 2017
+VL 16
+IS 3
+BP 454
+EP 468
+DI 10.5465/amle.2015.0004
+UT WOS:000412132100007
+ER
+
+PT J
+AU Bristow, A
+   Robinson, S
+   Ratle, O
+AF Bristow, Alexandra
+   Robinson, Sarah
+   Ratle, Olivier
+TI Being an Early-Career CMS Academic in the Context of Insecurity and
+   "Excellence': The Dialectics of Resistance and Compliance
+SO ORGANIZATION STUDIES
+OI Bristow, Alexandra/0000-0002-8744-5293
+SN 0170-8406
+EI 1741-3044
+PD SEP
+PY 2017
+VL 38
+IS 9
+SI SI
+BP 1185
+EP 1207
+DI 10.1177/0170840616685361
+UT WOS:000410953100002
+ER
+
+PT J
+AU Petersen, J
+   Hattke, F
+   Vogel, R
+AF Petersen, Jessica
+   Hattke, Fabian
+   Vogel, Rick
+TI Editorial governance and journal impact: a study of management and
+   business journals
+SO SCIENTOMETRICS
+OI Vogel, Rick/0000-0002-1361-5085
+SN 0138-9130
+EI 1588-2861
+PD SEP
+PY 2017
+VL 112
+IS 3
+BP 1593
+EP 1614
+DI 10.1007/s11192-017-2434-7
+UT WOS:000406497200022
+ER
+
+PT J
+AU Bell, E
+   Kothiyal, N
+   Willmott, H
+AF Bell, Emma
+   Kothiyal, Nivedita
+   Willmott, Hugh
+TI Methodology-as-Technique and the Meaning of Rigour in Globalized
+   Management Research
+SO BRITISH JOURNAL OF MANAGEMENT
+OI Bell, Emma/0000-0001-9026-7224
+SN 1045-3172
+EI 1467-8551
+PD JUL
+PY 2017
+VL 28
+IS 3
+BP 534
+EP 550
+DI 10.1111/1467-8551.12205
+UT WOS:000406927000011
+ER
+
+PT J
+AU Lugosi, P
+   Jameson, S
+AF Lugosi, Peter
+   Jameson, Stephanie
+TI Challenges in hospitality management education: Perspectives from the
+   United Kingdom
+SO JOURNAL OF HOSPITALITY AND TOURISM MANAGEMENT
+OI Lugosi, Peter/0000-0002-7611-128X
+SN 1447-6770
+EI 1839-5260
+PD JUN
+PY 2017
+VL 31
+BP 163
+EP 172
+DI 10.1016/j.jhtm.2016.12.001
+UT WOS:000405614200018
+ER
+
+PT J
+AU Paisey, C
+   Paisey, NJ
+AF Paisey, Catriona
+   Paisey, Nicholas J.
+TI The decline of the professionally-qualified accounting academic:
+   Recruitment into the accounting academic community
+SO ACCOUNTING FORUM
+SN 0155-9982
+EI 1467-6303
+PD JUN
+PY 2017
+VL 41
+IS 2
+BP 57
+EP 76
+DI 10.1016/j.accfor.2017.02.001
+UT WOS:000403269500001
+ER
+
+PT J
+AU Chen, L
+   Holsapple, CW
+   Hsiao, SH
+   Ke, ZH
+   Oh, JY
+   Yang, ZG
+AF Chen, Liang
+   Holsapple, Clyde W.
+   Hsiao, Shih-Hui (Steven)
+   Ke, Zhihong
+   Oh, Jae-Young
+   Yang, Zhiguo
+TI Knowledge-Dissemination Channels: Analytics of Stature Evaluation
+SO JOURNAL OF THE ASSOCIATION FOR INFORMATION SCIENCE AND TECHNOLOGY
+SN 2330-1635
+EI 2330-1643
+PD APR
+PY 2017
+VL 68
+IS 4
+BP 911
+EP 930
+DI 10.1002/asi.23725
+UT WOS:000396413900008
+ER
+
+PT J
+AU Schwarz, GM
+   Cummings, C
+   Cummings, TG
+AF Schwarz, Gavin M.
+   Cummings, Chailin
+   Cummings, Thomas G.
+TI Devolution of Researcher Care in Organization Studies and the Moderation
+   of Organizational Knowledge
+SO ACADEMY OF MANAGEMENT LEARNING & EDUCATION
+SN 1537-260X
+PD MAR 1
+PY 2017
+VL 16
+IS 1
+BP 70
+EP 83
+DI 10.5465/amle.2014.0167
+UT WOS:000398905600005
+ER
+
+PT J
+AU Mingers, J
+   Yang, LY
+AF Mingers, John
+   Yang, Liying
+TI Evaluating journal quality: A review of journal citation indicators, and
+   ranking in business and management
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+OI Mingers, John/0000-0002-4102-4696
+SN 0377-2217
+EI 1872-6860
+PD FEB 16
+PY 2017
+VL 257
+IS 1
+BP 323
+EP 337
+DI 10.1016/j.ejor.2016.07.058
+UT WOS:000386738300027
+ER
+
+PT J
+AU Bell, E
+   Bridgman, T
+AF Bell, Emma
+   Bridgman, Todd
+TI Why management learning matters
+SO MANAGEMENT LEARNING
+RI Bridgman, Todd/F-4351-2015
+OI Bridgman, Todd/0000-0003-3120-0075
+SN 1350-5076
+EI 1461-7307
+PD FEB
+PY 2017
+VL 48
+IS 1
+BP 3
+EP 6
+DI 10.1177/1350507616679058
+UT WOS:000396914400001
+ER
+
+PT J
+AU Arquero, JL
+   Jimenez-Cardoso, SM
+   Laffarga-Briones, J
+AF Luis Arquero, Jose
+   Manuel Jimenez-Cardoso, Sergio
+   Laffarga-Briones, Joaquina
+TI Research patterns of successful accounting academics in Spain
+SO SPANISH JOURNAL OF FINANCE AND ACCOUNTING-REVISTA ESPANOLA DE
+   FINANCIACION Y CONTABILIDA
+SN 0210-2412
+EI 2332-0753
+PY 2017
+VL 46
+IS 3
+BP 327
+EP 368
+DI 10.1080/02102412.2017.1287462
+UT WOS:000423869200004
+ER
+
+PT J
+AU McCarthy, G
+   Song, XL
+   Jayasuriya, K
+AF McCarthy, Greg
+   Song, Xianlin
+   Jayasuriya, Kanishka
+TI The proletarianisation of academic labour in Australia
+SO HIGHER EDUCATION RESEARCH & DEVELOPMENT
+OI Song, Xianlin/0000-0002-2241-9190; Jayasuriya,
+   kanishka/0000-0002-0010-1229
+SN 0729-4360
+EI 1469-8366
+PY 2017
+VL 36
+IS 5
+BP 1017
+EP 1030
+DI 10.1080/07294360.2016.1263936
+UT WOS:000402043800011
+ER
+
+PT J
+AU Johnston, J
+   Reeves, A
+AF Johnston, James
+   Reeves, Alan
+TI Assessing research performance in UK universities using the case of the
+   economics and econometrics unit of assessment in the 1992-2014 research
+   evaluation exercises
+SO RESEARCH EVALUATION
+SN 0958-2029
+EI 1471-5449
+PD JAN
+PY 2017
+VL 26
+IS 1
+BP 28
+EP 40
+DI 10.1093/reseval/rvw021
+UT WOS:000396415700003
+ER
+
+PT J
+AU Rigby, J
+AF Rigby, John
+TI A long and winding road: 40 years of R&D Management
+SO R & D MANAGEMENT
+OI Rigby, John/0000-0001-9833-5965
+SN 0033-6807
+EI 1467-9310
+PD OCT
+PY 2016
+VL 46
+SU 3
+SI SI
+BP 1062
+EP 1083
+DI 10.1111/radm.12214
+UT WOS:000387214100009
+ER
+
+PT J
+AU Cassell, C
+AF Cassell, Catherine
+TI European qualitative research: A celebration of diversity and a
+   cautionary tale
+SO EUROPEAN MANAGEMENT JOURNAL
+SN 0263-2373
+EI 1873-5681
+PD OCT
+PY 2016
+VL 34
+IS 5
+BP 453
+EP 456
+DI 10.1016/j.emj.2016.06.013
+UT WOS:000385602700001
+ER
+
+PT J
+AU Tuselmann, H
+   Sinkovics, RR
+   Pishchulov, G
+AF Tueselmann, Heinz
+   Sinkovics, Rudolf R.
+   Pishchulov, Grigory
+TI Revisiting the standing of international business journals in the
+   competitive landscape
+SO JOURNAL OF WORLD BUSINESS
+RI Sinkovics, Rudolf/F-4092-2010; Pishchulov, Grigory/M-9405-2016
+OI Sinkovics, Rudolf/0000-0002-4471-5054; Pishchulov,
+   Grigory/0000-0001-8787-1869
+SN 1090-9516
+EI 1878-5573
+PD JUN
+PY 2016
+VL 51
+IS 4
+BP 487
+EP 498
+DI 10.1016/j.jwb.2016.01.006
+UT WOS:000378955200001
+ER
+
+PT J
+AU Tahtinen, J
+   Ryan, A
+   Holmlund, M
+AF Tahtinen, Jaana
+   Ryan, Annmarie
+   Holmlund, Maria
+TI How to develop theory and keep our jobs? The role of academic
+   "gatherings' in our theory development practice
+SO MARKETING THEORY
+SN 1470-5931
+EI 1741-301X
+PD JUN
+PY 2016
+VL 16
+IS 2
+BP 250
+EP 256
+DI 10.1177/1470593115608077
+UT WOS:000376307400006
+ER
+
+PT J
+AU de Rijcke, S
+   Wouters, PF
+   Rushforth, AD
+   Franssen, TP
+   Hammarfelt, B
+AF de Rijcke, Sarah
+   Wouters, Paul F.
+   Rushforth, Alex D.
+   Franssen, Thomas P.
+   Hammarfelt, Bjorn
+TI Evaluation practices and effects of indicator use-a literature review
+SO RESEARCH EVALUATION
+RI ; Rushforth, Alexander/P-3189-2016
+OI de Rijcke, Sarah/0000-0003-4652-0362; Hammarfelt,
+   Bjorn/0000-0002-1504-8395; Rushforth, Alexander/0000-0003-3352-943X;
+   Franssen, Thomas/0000-0002-4852-8862
+SN 0958-2029
+EI 1471-5449
+PD APR
+PY 2016
+VL 25
+IS 2
+BP 161
+EP 169
+DI 10.1093/reseval/rvv038
+UT WOS:000381274300005
+ER
+
+PT J
+AU Cuellar, MJ
+   Takeda, H
+   Vidgen, R
+   Truex, D
+AF Cuellar, Michael J.
+   Takeda, Hirotoshi
+   Vidgen, Richard
+   Truex, Duane
+TI Ideational Influence, Connectedness, and Venue Representation: Making an
+   Assessment of Scholarly Capital
+SO JOURNAL OF THE ASSOCIATION FOR INFORMATION SYSTEMS
+OI Cuellar, Michael/0000-0002-3981-9625; Vidgen,
+   Richard/0000-0001-7578-8339
+SN 1536-9323
+EI 1558-3457
+PD FEB
+PY 2016
+VL 17
+IS 1
+BP 1
+EP 28
+UT WOS:000378142100001
+ER
+
+PT J
+AU Harzing, AW
+   Alakangas, S
+AF Harzing, Anne-Wil
+   Alakangas, Satu
+TI Google Scholar, Scopus and the Web of Science: a longitudinal and
+   cross-disciplinary comparison
+SO SCIENTOMETRICS
+RI Alakangas, Satu/K-3350-2013; Harzing, Anne-Wil/C-7472-2014
+OI Alakangas, Satu/0000-0002-9967-3664; Harzing,
+   Anne-Wil/0000-0003-1509-3003
+SN 0138-9130
+EI 1588-2861
+PD FEB
+PY 2016
+VL 106
+IS 2
+BP 787
+EP 804
+DI 10.1007/s11192-015-1798-9
+UT WOS:000369017300015
+ER
+
+PT J
+AU Tadajewski, M
+AF Tadajewski, Mark
+TI Academic labour, journal ranking lists and the politics of knowledge
+   production in marketing
+SO JOURNAL OF MARKETING MANAGEMENT
+OI Tadajewski, Mark/0000-0003-0879-272X
+SN 0267-257X
+EI 1472-1376
+PD JAN 2
+PY 2016
+VL 32
+IS 1-2
+BP 1
+EP 18
+DI 10.1080/0267257X.2015.1120508
+UT WOS:000367747400001
+ER
+
+PT J
+AU van Witteloostuijn, A
+AF van Witteloostuijn, Arjen
+TI REGULAR ISSUE PAPER What happened to Popperian falsification? Publishing
+   neutral and negative findings Moving away from biased publication
+   practices
+SO CROSS CULTURAL & STRATEGIC MANAGEMENT
+SN 2059-5794
+PY 2016
+VL 23
+IS 3
+BP 481
+EP 508
+DI 10.1108/CCSM-03-2016-0084
+UT WOS:000381212200006
+ER
+
+PT J
+AU Turk, K
+AF Tuerk, Kulno
+TI PERFORMANCE MANAGEMENT OF ACADEMIC STAFF AND ITS EFFECTIVENESS TO
+   TEACHING AND RESEARCH - BASED ON THE EXAMPLE OF ESTONIAN UNIVERSITIES
+SO TRAMES-JOURNAL OF THE HUMANITIES AND SOCIAL SCIENCES
+SN 1406-0922
+EI 1736-7514
+PY 2016
+VL 20
+IS 1
+BP 17
+EP 36
+DI 10.3176/tr.2016.1.02
+UT WOS:000372303200002
+ER
+
+PT J
+AU Martinsons, MG
+AF Martinsons, Maris G.
+TI Research of information systems: from parochial to international,
+   towards global or glocal?
+SO INFORMATION SYSTEMS JOURNAL
+OI Martinsons, Maris/0000-0001-9112-2676
+SN 1350-1917
+EI 1365-2575
+PD JAN
+PY 2016
+VL 26
+IS 1
+BP 3
+EP 19
+DI 10.1111/isj.12089
+UT WOS:000367014800002
+ER
+
+PT J
+AU Clarke, CA
+   Knights, D
+AF Clarke, Caroline A.
+   Knights, David
+TI Careering through academia: Securing identities or engaging ethical
+   subjectivities?
+SO HUMAN RELATIONS
+OI Knights, David/0000-0003-0072-0393
+SN 0018-7267
+EI 1741-282X
+PD DEC
+PY 2015
+VL 68
+IS 12
+BP 1865
+EP 1888
+DI 10.1177/0018726715570978
+UT WOS:000364969100003
+ER
+
+PT J
+AU Harley, B
+AF Harley, Bill
+TI PROVOCATION SERIES PAPER The one best way? 'Scientific' research on HRM
+   and the threat to critical scholarship
+SO HUMAN RESOURCE MANAGEMENT JOURNAL
+SN 0954-5395
+EI 1748-8583
+PD NOV
+PY 2015
+VL 25
+IS 4
+BP 399
+EP 407
+DI 10.1111/1748-8583.12082
+UT WOS:000368300900001
+ER
+
+PT J
+AU Aagaard, K
+AF Aagaard, Kaare
+TI How incentives trickle down: Local use of a national bibliometric
+   indicator system
+SO SCIENCE AND PUBLIC POLICY
+SN 0302-3427
+EI 1471-5430
+PD OCT
+PY 2015
+VL 42
+IS 5
+BP 725
+EP 737
+DI 10.1093/scipol/scu087
+UT WOS:000363980600009
+ER
+
+PT J
+AU Mingers, J
+   Leydesdorff, L
+AF Mingers, John
+   Leydesdorff, Loet
+TI A review of theory and practice in scientometrics
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+RI Zuluaga Gaviria, Jennifer Daniela/T-2321-2017; Leydesdorff,
+   Loet/E-2903-2010
+OI Leydesdorff, Loet/0000-0002-7835-3098; Mingers, John/0000-0002-4102-4696
+SN 0377-2217
+EI 1872-6860
+PD OCT 1
+PY 2015
+VL 246
+IS 1
+BP 1
+EP 19
+DI 10.1016/j.ejor.2015.04.002
+UT WOS:000356742800001
+ER
+
+PT J
+AU Vogel, R
+   Masal, D
+AF Vogel, Rick
+   Masal, Doris
+TI PUBLIC LEADERSHIP A review of the literature and framework for future
+   research
+SO PUBLIC MANAGEMENT REVIEW
+SN 1471-9037
+EI 1471-9045
+PD SEP 14
+PY 2015
+VL 17
+IS 8
+BP 1165
+EP 1189
+DI 10.1080/14719037.2014.895031
+UT WOS:000357015000006
+ER
+
+PT J
+AU Mingers, J
+   Leydesdorff, L
+AF Mingers, John
+   Leydesdorff, Loet
+TI Identifying research fields within business and management: a journal
+   cross-citation analysis
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+RI Zuluaga Gaviria, Jennifer Daniela/T-2321-2017
+SN 0160-5682
+EI 1476-9360
+PD AUG
+PY 2015
+VL 66
+IS 8
+BP 1370
+EP 1384
+DI 10.1057/jors.2014.113
+UT WOS:000359173300012
+ER
+
+PT J
+AU Tourish, D
+AF Tourish, Dennis
+TI Some announcements, reaffirming the critical ethos of Leadership, and
+   what we look for in submissions
+SO LEADERSHIP
+SN 1742-7150
+EI 1742-7169
+PD MAY
+PY 2015
+VL 11
+IS 2
+BP 135
+EP 141
+DI 10.1177/1742715015577889
+UT WOS:000357979400001
+ER
+
+PT J
+AU Mingers, J
+AF Mingers, John
+TI Helping business schools engage with real problems: The contribution of
+   critical realism and systems thinking
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+SN 0377-2217
+EI 1872-6860
+PD APR 1
+PY 2015
+VL 242
+IS 1
+BP 316
+EP 331
+DI 10.1016/j.ejor.2014.10.058
+UT WOS:000348687900028
+ER
+
+PT J
+AU Prasad, A
+AF Prasad, Ajnesh
+TI Liminal transgressions, or where should the critical academy go from
+   here? Reimagining the future of doctoral education to engender research
+   sustainability
+SO CRITICAL PERSPECTIVES ON ACCOUNTING
+SN 1045-2354
+PD FEB
+PY 2015
+VL 26
+BP 108
+EP 116
+DI 10.1016/j.cpa.2014.09.006
+UT WOS:000350085400010
+ER
+
+PT J
+AU Agyemang, G
+   Broadbent, J
+AF Agyemang, Gloria
+   Broadbent, Jane
+TI Management control systems and research management in universities An
+   empirical and conceptual exploration
+SO ACCOUNTING AUDITING & ACCOUNTABILITY JOURNAL
+SN 0951-3574
+EI 1758-4205
+PY 2015
+VL 28
+IS 7
+BP 1018
+EP 1046
+DI 10.1108/AAAJ-11-2013-1531
+UT WOS:000363421100001
+ER
+
+PT J
+AU Butler, N
+   Spoelstra, S
+AF Butler, Nick
+   Spoelstra, Sverre
+TI The Regime of Excellence and the Erosion of Ethos in Critical Management
+   Studies
+SO BRITISH JOURNAL OF MANAGEMENT
+SN 1045-3172
+EI 1467-8551
+PD JUL
+PY 2014
+VL 25
+IS 3
+BP 538
+EP 550
+DI 10.1111/1467-8551.12053
+UT WOS:000339510100009
+ER
+
+PT J
+AU Alvesson, M
+   Sandberg, J
+AF Alvesson, Mats
+   Sandberg, Joergen
+TI Habitat and Habitus: Boxed-in versus Box-Breaking Research
+SO ORGANIZATION STUDIES
+SN 0170-8406
+EI 1741-3044
+PD JUL
+PY 2014
+VL 35
+IS 7
+BP 967
+EP 987
+DI 10.1177/0170840614530916
+UT WOS:000337958000002
+ER
+
+PT J
+AU Willmott, H
+AF Willmott, Hugh
+TI "The Substitution of One Piece of Nonsense for Another': Reflections on
+   Resistance, Gaming, and Subjugation
+SO JOURNAL OF MANAGEMENT STUDIES
+SN 0022-2380
+EI 1467-6486
+PD MAY
+PY 2013
+VL 50
+IS 3
+BP 443
+EP 473
+DI 10.1111/joms.12019
+UT WOS:000317978300005
+ER
+
+EF

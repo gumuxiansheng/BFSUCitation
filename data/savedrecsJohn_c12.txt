@@ -1,0 +1,709 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Min, C
+   Ding, Y
+   Li, J
+   Bu, Y
+   Pei, L
+   Sun, JJ
+AF Min, Chao
+   Ding, Ying
+   Li, Jiang
+   Bu, Yi
+   Pei, Lei
+   Sun, Jianjun
+TI Innovation or imitation: The diffusion of citations
+SO JOURNAL OF THE ASSOCIATION FOR INFORMATION SCIENCE AND TECHNOLOGY
+RI Min, Chao/N-9175-2015
+OI Min, Chao/0000-0002-0627-995X; Bu, Yi/0000-0003-2549-4580
+SN 2330-1635
+EI 2330-1643
+PD OCT
+PY 2018
+VL 69
+IS 10
+BP 1271
+EP 1282
+DI 10.1002/asi.24047
+UT WOS:000445851400008
+ER
+
+PT J
+AU Jang, W
+   Kwon, H
+   Park, Y
+   Lee, H
+AF Jang, Wooseok
+   Kwon, Heeyeul
+   Park, Yongtae
+   Lee, Hakyeon
+TI Predicting the degree of interdisciplinarity in academic fields: the
+   case of nanotechnology
+SO SCIENTOMETRICS
+SN 0138-9130
+EI 1588-2861
+PD JUL
+PY 2018
+VL 116
+IS 1
+BP 231
+EP 254
+DI 10.1007/s11192-018-2749-z
+UT WOS:000438126800010
+ER
+
+PT J
+AU Merigo, JM
+   Yang, JB
+AF Merigo, Jose M.
+   Yang, Jian-Bo
+TI A bibliometric analysis of operations research and management science
+SO OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE
+RI Yang, Jian-Bo/C-2411-2015; Yang, Jian-Bo/D-8047-2016; Merigo, Jose
+   M./G-3614-2010
+OI Merigo, Jose M./0000-0002-4672-6961
+SN 0305-0483
+PD DEC
+PY 2017
+VL 73
+BP 37
+EP 48
+DI 10.1016/j.omega.2016.12.004
+UT WOS:000412964700004
+ER
+
+PT J
+AU Laengle, S
+   Merigo, JM
+   Miranda, J
+   Slowinski, R
+   Bomze, I
+   Borgonovo, E
+   Dyson, RG
+   Oliveira, JF
+   Teunter, R
+AF Laengle, Sigifredo
+   Merigo, Jose M.
+   Miranda, Jaime
+   Slowinski, Roman
+   Bomze, Immanuel
+   Borgonovo, Emanuele
+   Dyson, Robert G.
+   Oliveira, Jose Fernando
+   Teunter, Ruud
+TI Forty years of the European Journal of Operational Research: A
+   bibliometric overview
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+RI Oliveira, Jose Fernando/C-3820-2018; Slowinski, Roman/A-5751-2013;
+   Merigo, Jose M./G-3614-2010
+OI Oliveira, Jose Fernando/0000-0002-4061-1311; Slowinski,
+   Roman/0000-0002-5200-7795; Dyson, Robert/0000-0002-4131-3674; Merigo,
+   Jose M./0000-0002-4672-6961
+SN 0377-2217
+EI 1872-6860
+PD NOV 1
+PY 2017
+VL 262
+IS 3
+BP 803
+EP 816
+DI 10.1016/j.ejor.2017.04.027
+UT WOS:000403732700001
+ER
+
+PT J
+AU Golosovsky, M
+AF Golosovsky, Michael
+TI Power-law citation distributions are not scale-free
+SO PHYSICAL REVIEW E
+RI Golosovsky, Michael/L-8303-2013
+OI Golosovsky, Michael/0000-0003-3814-4539
+SN 2470-0045
+EI 2470-0053
+PD SEP 5
+PY 2017
+VL 96
+IS 3
+AR 032306
+DI 10.1103/PhysRevE.96.032306
+UT WOS:000409261800009
+PM 29347034
+ER
+
+PT J
+AU Zhang, L
+   Glanzel, W
+AF Zhang, Lin
+   Glanzel, Wolfgang
+TI A citation-based cross-disciplinary study on literature ageing: part
+   II-diachronous aspects
+SO SCIENTOMETRICS
+RI Zhang, Lin/M-3007-2017; Glanzel, Wolfgang/A-6280-2008
+OI Zhang, Lin/0000-0003-0526-9677; Glanzel, Wolfgang/0000-0001-7529-5198
+SN 0138-9130
+EI 1588-2861
+PD JUN
+PY 2017
+VL 111
+IS 3
+BP 1559
+EP 1572
+DI 10.1007/s11192-017-2288-z
+UT WOS:000401747900016
+ER
+
+PT J
+AU Guan, JC
+   Yan, Y
+   Zhang, JJ
+AF Guan, Jiancheng
+   Yan, Yan
+   Zhang, Jing Jing
+TI The impact of collaboration and knowledge networks on citations
+SO JOURNAL OF INFORMETRICS
+SN 1751-1577
+EI 1875-5879
+PD MAY
+PY 2017
+VL 11
+IS 2
+BP 407
+EP 422
+DI 10.1016/j.joi.2017.02.007
+UT WOS:000403857200005
+ER
+
+PT J
+AU Jang, HJ
+   Woo, HG
+   Lee, C
+AF Jang, Hyun Jin
+   Woo, Han-Gyun
+   Lee, Changyong
+TI Hawkes process-based technology impact analysis
+SO JOURNAL OF INFORMETRICS
+RI Lee, Changyong/W-6486-2018
+OI Lee, Changyong/0000-0002-1636-9481
+SN 1751-1577
+EI 1875-5879
+PD MAY
+PY 2017
+VL 11
+IS 2
+BP 511
+EP 529
+DI 10.1016/j.joi.2017.03.007
+UT WOS:000403857200012
+ER
+
+PT J
+AU Murmann, JP
+AF Murmann, Johann
+TI More Exploration and Less Exploitation: Cultivating Blockbuster Papers
+   for MOR
+SO MANAGEMENT AND ORGANIZATION REVIEW
+OI Murmann, Johann Peter/0000-0003-1631-3012
+SN 1740-8776
+EI 1740-8784
+PD MAR
+PY 2017
+VL 13
+IS 1
+BP 5
+EP 13
+DI 10.1017/mor.2017.8
+UT WOS:000398134900002
+ER
+
+PT J
+AU Ronda-Pupo, GA
+AF Armando Ronda-Pupo, Guillermo
+TI The effect of document types and sizes on the scaling relationship
+   between citations and co-authorship patterns in management journals
+SO SCIENTOMETRICS
+RI Ronda-Pupo, Guillermo/F-9512-2014
+OI Ronda-Pupo, Guillermo/0000-0002-9049-8249
+SN 0138-9130
+EI 1588-2861
+PD MAR
+PY 2017
+VL 110
+IS 3
+BP 1191
+EP 1207
+DI 10.1007/s11192-016-2231-8
+UT WOS:000394339500006
+ER
+
+PT J
+AU McKinnon, AC
+AF McKinnon, Alan C.
+TI Starry-eyed II: the logistics journal ranking debate revisited
+SO INTERNATIONAL JOURNAL OF PHYSICAL DISTRIBUTION & LOGISTICS MANAGEMENT
+OI McKinnon, Alan/0000-0002-6480-7984
+SN 0960-0035
+EI 1758-664X
+PY 2017
+VL 47
+IS 6
+BP 431
+EP 446
+DI 10.1108/IJPDLM-02-2017-0097
+UT WOS:000407285000002
+ER
+
+PT J
+AU Lee, C
+   Kim, J
+   Noh, M
+   Woo, HG
+   Gang, K
+AF Lee, Changyong
+   Kim, Juram
+   Noh, Meansun
+   Woo, Han-Gyun
+   Gang, Kwangwook
+TI Patterns of technology life cycles: stochastic analysis based on patent
+   citations
+SO TECHNOLOGY ANALYSIS & STRATEGIC MANAGEMENT
+RI Lee, Changyong/W-6486-2018
+OI Lee, Changyong/0000-0002-1636-9481
+SN 0953-7325
+EI 1465-3990
+PD JAN
+PY 2017
+VL 29
+IS 1
+BP 53
+EP 67
+DI 10.1080/09537325.2016.1194974
+UT WOS:000388523300004
+ER
+
+PT J
+AU Bertoli-Barsotti, L
+   Lando, T
+AF Bertoli-Barsotti, Lucio
+   Lando, Tommaso
+TI On a formula for the h-index
+SO JOURNAL OF INFORMETRICS
+RI BERTOLI-BARSOTTI, LUCIO/Q-1118-2016
+OI BERTOLI-BARSOTTI, LUCIO/0000-0003-4508-3172; LANDO,
+   Tommaso/0000-0003-4288-0264
+SN 1751-1577
+EI 1875-5879
+PD OCT
+PY 2015
+VL 9
+IS 4
+BP 762
+EP 776
+DI 10.1016/j.joi.2015.07.004
+UT WOS:000367612600007
+ER
+
+PT J
+AU Mingers, J
+   Leydesdorff, L
+AF Mingers, John
+   Leydesdorff, Loet
+TI A review of theory and practice in scientometrics
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+RI Zuluaga Gaviria, Jennifer Daniela/T-2321-2017; Leydesdorff,
+   Loet/E-2903-2010
+OI Leydesdorff, Loet/0000-0002-7835-3098; Mingers, John/0000-0002-4102-4696
+SN 0377-2217
+EI 1872-6860
+PD OCT 1
+PY 2015
+VL 246
+IS 1
+BP 1
+EP 19
+DI 10.1016/j.ejor.2015.04.002
+UT WOS:000356742800001
+ER
+
+PT J
+AU Mingers, J
+   Leydesdorff, L
+AF Mingers, John
+   Leydesdorff, Loet
+TI Identifying research fields within business and management: a journal
+   cross-citation analysis
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+RI Zuluaga Gaviria, Jennifer Daniela/T-2321-2017
+SN 0160-5682
+EI 1476-9360
+PD AUG
+PY 2015
+VL 66
+IS 8
+BP 1370
+EP 1384
+DI 10.1057/jors.2014.113
+UT WOS:000359173300012
+ER
+
+PT J
+AU Li, SB
+   Sivadas, E
+   Johnson, MS
+AF Li, Shibo
+   Sivadas, Eugene
+   Johnson, Mark S.
+TI Explaining article influence: capturing article citability and its
+   dynamic effects
+SO JOURNAL OF THE ACADEMY OF MARKETING SCIENCE
+SN 0092-0703
+EI 1552-7824
+PD JAN
+PY 2015
+VL 43
+IS 1
+BP 52
+EP 72
+DI 10.1007/s11747-014-0392-7
+UT WOS:000348345800004
+ER
+
+PT J
+AU Li, J
+   Ye, FY
+AF Li, Jiang
+   Ye, Fred Y.
+TI A probe into the citation patterns of high-quality and high-impact
+   publications
+SO MALAYSIAN JOURNAL OF LIBRARY & INFORMATION SCIENCE
+SN 1394-6234
+PY 2014
+VL 19
+IS 2
+BP 17
+EP 33
+UT WOS:000341233600002
+ER
+
+PT J
+AU Mingers, J
+   Willmott, H
+AF Mingers, John
+   Willmott, Hugh
+TI Taylorizing business school research: On the "one best way' performative
+   effects of journal ranking lists
+SO HUMAN RELATIONS
+OI Mingers, John/0000-0002-4102-4696
+SN 0018-7267
+EI 1741-282X
+PD AUG
+PY 2013
+VL 66
+IS 8
+BP 1051
+EP 1073
+DI 10.1177/0018726712467048
+UT WOS:000322506300002
+ER
+
+PT J
+AU Mingers, J
+   Lipitakis, EAECG
+AF Mingers, John
+   Lipitakis, Evangelia A. E. C. G.
+TI Evaluating a department's research: Testing the Leiden methodology in
+   business and management
+SO INFORMATION PROCESSING & MANAGEMENT
+OI Mingers, John/0000-0002-4102-4696; Lipitakis,
+   Evangelia/0000-0002-9506-4319
+SN 0306-4573
+EI 1873-5371
+PD MAY
+PY 2013
+VL 49
+IS 3
+BP 587
+EP 595
+DI 10.1016/j.ipm.2012.11.002
+UT WOS:000317529900001
+ER
+
+PT J
+AU Rao, S
+   Iyengar, D
+   Goldsby, TJ
+AF Rao, Shashank
+   Iyengar, Deepak
+   Goldsby, Thomas J.
+TI On the measurement and benchmarking of research impact among active
+   logistics scholars
+SO INTERNATIONAL JOURNAL OF PHYSICAL DISTRIBUTION & LOGISTICS MANAGEMENT
+SN 0960-0035
+EI 1758-664X
+PY 2013
+VL 43
+IS 10
+BP 814
+EP 832
+DI 10.1108/IJPDLM-07-2012-0207
+UT WOS:000326315400002
+ER
+
+PT J
+AU Groesser, SN
+AF Groesser, Stefan N.
+TI Dynamics of Journal Impact Factors
+SO SYSTEMS RESEARCH AND BEHAVIORAL SCIENCE
+SN 1092-7026
+EI 1099-1743
+PD NOV-DEC
+PY 2012
+VL 29
+IS 6
+SI SI
+BP 624
+EP 644
+DI 10.1002/sres.2142
+UT WOS:000311396600008
+ER
+
+PT J
+AU Golosovsky, M
+   Solomon, S
+AF Golosovsky, M.
+   Solomon, S.
+TI Runaway events dominate the heavy tail of citation distributions
+SO EUROPEAN PHYSICAL JOURNAL-SPECIAL TOPICS
+RI Golosovsky, Michael/L-8303-2013; Golosovsky, Michael/E-1401-2012
+OI Golosovsky, Michael/0000-0003-3814-4539; 
+SN 1951-6355
+PD MAY
+PY 2012
+VL 205
+IS 1
+BP 303
+EP 311
+DI 10.1140/epjst/e2012-01576-4
+UT WOS:000303337700018
+ER
+
+PT J
+AU Mingers, J
+   Macri, F
+   Petrovici, D
+AF Mingers, John
+   Macri, Frederico
+   Petrovici, Dan
+TI Using the h-index to measure the quality of journals in the field of
+   business and management
+SO INFORMATION PROCESSING & MANAGEMENT
+OI Mingers, John/0000-0002-4102-4696
+SN 0306-4573
+PD MAR
+PY 2012
+VL 48
+IS 2
+BP 234
+EP 241
+DI 10.1016/j.ipm.2011.03.009
+UT WOS:000301625900004
+ER
+
+PT J
+AU Lee, C
+   Cho, Y
+   Seol, H
+   Park, Y
+AF Lee, Changyong
+   Cho, Yangrae
+   Seol, Hyeonju
+   Park, Yongtae
+TI A stochastic patent citation analysis approach to assessing future
+   technological impacts
+SO TECHNOLOGICAL FORECASTING AND SOCIAL CHANGE
+RI Lee, Changyong/W-6486-2018
+OI Lee, Changyong/0000-0002-1636-9481
+SN 0040-1625
+EI 1873-5509
+PD JAN
+PY 2012
+VL 79
+IS 1
+BP 16
+EP 29
+DI 10.1016/j.techfore.2011.06.009
+UT WOS:000298823100002
+ER
+
+PT J
+AU Bouabid, H
+AF Bouabid, Hamid
+TI Revisiting citation aging: a model for citation distribution and
+   life-cycle prediction
+SO SCIENTOMETRICS
+SN 0138-9130
+EI 1588-2861
+PD JUL
+PY 2011
+VL 88
+IS 1
+BP 199
+EP 211
+DI 10.1007/s11192-011-0370-5
+UT WOS:000292210200013
+ER
+
+PT J
+AU Mingers, J
+   Lipitakis, EAECG
+AF Mingers, John
+   Lipitakis, Evangelia A. E. C. G.
+TI Counting the citations: a comparison of Web of Science and Google
+   Scholar in the field of business and management
+SO SCIENTOMETRICS
+OI Mingers, John/0000-0002-4102-4696; Lipitakis,
+   Evangelia/0000-0002-9506-4319
+SN 0138-9130
+PD NOV
+PY 2010
+VL 85
+IS 2
+BP 613
+EP 625
+DI 10.1007/s11192-010-0270-0
+UT WOS:000282048200018
+ER
+
+PT J
+AU Mingers, J
+   Xu, F
+AF Mingers, John
+   Xu, Fang
+TI The drivers of citations in management science journals
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+OI Mingers, John/0000-0002-4102-4696
+SN 0377-2217
+PD SEP 1
+PY 2010
+VL 205
+IS 2
+BP 422
+EP 430
+DI 10.1016/j.ejor.2009.12.008
+UT WOS:000276030200020
+ER
+
+PT J
+AU Baumgartner, H
+AF Baumgartner, Hans
+TI Bibliometric reflections on the history of consumer research
+SO JOURNAL OF CONSUMER PSYCHOLOGY
+RI Baumgartner, Hans/A-4198-2008
+SN 1057-7408
+PD JUL
+PY 2010
+VL 20
+IS 3
+BP 233
+EP 238
+DI 10.1016/j.jcps.2010.06.002
+UT WOS:000281930500002
+ER
+
+PT J
+AU Costas, R
+   van Leeuwen, TN
+   van Raan, AFJ
+AF Costas, Rodrigo
+   van Leeuwen, Thed N.
+   van Raan, Anthony F. J.
+TI Is Scientific Literature Subject to a 'Sell-By-Date'? A General
+   Methodology to Analyze the 'Durability' of Scientific Documents
+SO JOURNAL OF THE AMERICAN SOCIETY FOR INFORMATION SCIENCE AND TECHNOLOGY
+SN 1532-2882
+PD FEB
+PY 2010
+VL 61
+IS 2
+BP 329
+EP 339
+DI 10.1002/asi.21244
+UT WOS:000274038400009
+ER
+
+PT J
+AU Mingers, J
+AF Mingers, J.
+TI Exploring the dynamics of journal citations: Modelling with s-curves
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+OI Mingers, John/0000-0002-4102-4696
+SN 0160-5682
+EI 1476-9360
+PD AUG
+PY 2008
+VL 59
+IS 8
+BP 1013
+EP 1025
+DI 10.1057/palgrave.jors.2602428
+UT WOS:000257551000001
+ER
+
+PT J
+AU Burrell, QL
+AF Burrell, Quentin L.
+TI Time-dependent aspects of co-concentration in informetrics
+SO SCIENTOMETRICS
+SN 0138-9130
+EI 1588-2861
+PD NOV
+PY 2007
+VL 73
+IS 2
+BP 161
+EP 174
+DI 10.1007/s11192-007-1688-x
+UT WOS:000250198400005
+ER
+
+PT J
+AU Mingers, J
+   Harzing, AW
+AF Mingers, John
+   Harzing, Anne-Wil
+TI Ranking journals in business and management: a statistical analysis of
+   the harzing data set
+SO EUROPEAN JOURNAL OF INFORMATION SYSTEMS
+RI Harzing, Anne-Wil/C-7472-2014
+OI Harzing, Anne-Wil/0000-0003-1509-3003; Mingers, John/0000-0002-4102-4696
+SN 0960-085X
+PD AUG
+PY 2007
+VL 16
+IS 4
+BP 303
+EP 316
+DI 10.1057/palgrave.ejis.3000696
+UT WOS:000250383400002
+ER
+
+PT J
+AU Nadarajah, S
+   Kotz, S
+AF Nadarajah, Saralees
+   Kotz, Samuel
+TI Models for citation behavior
+SO SCIENTOMETRICS
+SN 0138-9130
+EI 1588-2861
+PD AUG
+PY 2007
+VL 72
+IS 2
+BP 291
+EP 305
+DI 10.1007/s11192-007-1717-9
+UT WOS:000248080300008
+ER
+
+EF

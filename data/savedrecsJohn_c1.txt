@@ -1,0 +1,2025 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Smith, Chris M.
+   Shaw, Duncan
+TI The characteristics of problem structuring methods: A literature review
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+VL 274
+IS 2
+BP 403
+EP 416
+DI 10.1016/j.ejor.2018.05.003
+PD APR 16 2019
+PY 2019
+OI Smith, Christopher/0000-0001-8016-2437
+ZB 0
+ZR 0
+TC 1
+ZS 0
+Z8 0
+Z9 1
+SN 0377-2217
+EI 1872-6860
+UT WOS:000457512200001
+ER
+
+PT J
+AU Rebs, Tobias
+   Brandenburg, Marcus
+   Seuring, Stefan
+TI System dynamics modeling for sustainable supply chain management: A
+   literature review and systems thinking approach
+SO JOURNAL OF CLEANER PRODUCTION
+VL 208
+BP 1265
+EP 1280
+DI 10.1016/j.jclepro.2018.10.100
+PD JAN 20 2019
+PY 2019
+Z8 0
+ZR 0
+ZB 0
+TC 0
+ZS 0
+Z9 0
+SN 0959-6526
+EI 1879-1786
+UT WOS:000451362200114
+ER
+
+PT J
+AU Cormier, Roland
+   Elliott, Michael
+   Rice, Jake
+TI Putting on a bow-tie to sort out who does what and why in the complex
+   arena of marine policy and management
+SO SCIENCE OF THE TOTAL ENVIRONMENT
+VL 648
+BP 293
+EP 305
+DI 10.1016/j.scitotenv.2018.08.168
+PD JAN 15 2019
+PY 2019
+ZB 1
+Z8 0
+TC 2
+ZR 0
+ZS 0
+Z9 2
+SN 0048-9697
+EI 1879-1026
+UT WOS:000447805500028
+PM 30121029
+ER
+
+PT J
+AU Tavella, Elena
+   Lami, Isabella
+TI Negotiating perspectives and values through soft OR in the context of
+   urban renewal
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+VL 70
+IS 1
+BP 136
+EP 161
+DI 10.1080/01605682.2018.1427433
+PD JAN 2 2019
+PY 2019
+Z8 0
+ZB 0
+ZR 0
+ZS 0
+TC 3
+Z9 3
+SN 0160-5682
+EI 1476-9360
+UT WOS:000458555100010
+ER
+
+PT J
+AU Alejandra Castellini, Maria
+   Paucar-Caceres, Alberto
+TI A Conceptual Framework for Integrating Methodologies in Management:
+   Partial Results of a Systemic Intervention in a Textile SME in Argentina
+SO SYSTEMS RESEARCH AND BEHAVIORAL SCIENCE
+VL 36
+IS 1
+BP 20
+EP 35
+DI 10.1002/sres.2552
+PD JAN-FEB 2019
+PY 2019
+ZB 0
+ZR 0
+TC 0
+ZS 0
+Z8 0
+Z9 0
+SN 1092-7026
+EI 1099-1743
+UT WOS:000454783100002
+ER
+
+PT J
+AU Gretter, Alessandro
+   Ciolli, Marco
+   Scolozzi, Rocco
+TI Governing mountain landscapes collectively: local responses to emerging
+   challenges within a systems thinking perspective
+SO LANDSCAPE RESEARCH
+VL 43
+IS 8
+SI SI
+BP 1117
+EP 1130
+DI 10.1080/01426397.2018.1503239
+PD NOV 17 2018
+PY 2018
+RI Scolozzi, Rocco/; Ciolli, Marco/D-8613-2014
+OI Scolozzi, Rocco/0000-0001-6368-5113; Ciolli, Marco/0000-0001-8370-9039
+Z8 0
+TC 0
+ZS 0
+ZB 0
+ZR 0
+Z9 0
+SN 0142-6397
+EI 1469-9710
+UT WOS:000447377000009
+ER
+
+PT J
+AU Sellitto, Miguel Afonso
+   Pereira, Guilherme Schreiber
+   Marques, Rafael
+   Lacerda, Daniel Pacheco
+TI Systemic Understanding of Coopetitive Behaviour in a Latin American
+   Technological Park
+SO SYSTEMIC PRACTICE AND ACTION RESEARCH
+VL 31
+IS 5
+BP 479
+EP 494
+DI 10.1007/s11213-017-9439-2
+PD OCT 2018
+PY 2018
+ZR 0
+Z8 0
+ZS 0
+TC 1
+ZB 0
+Z9 1
+SN 1094-429X
+EI 1573-9295
+UT WOS:000443442300002
+ER
+
+PT J
+AU Serrano, Rosiane
+   Rodrigues, Luis Henrique
+   Lacerda, Daniel Pacheco
+   Paraboni, Priscila Bonalume
+TI Systems Thinking and Scenario Planning: Application in the Clothing
+   Sector
+SO SYSTEMIC PRACTICE AND ACTION RESEARCH
+VL 31
+IS 5
+BP 509
+EP 537
+DI 10.1007/s11213-017-9438-3
+PD OCT 2018
+PY 2018
+RI Lacerda, Daniel/G-1553-2013
+OI Lacerda, Daniel/0000-0002-8011-3376
+ZB 0
+ZR 0
+ZS 0
+Z8 0
+TC 0
+Z9 0
+SN 1094-429X
+EI 1573-9295
+UT WOS:000443442300004
+ER
+
+PT J
+AU Wang, Yingli
+   Touboulic, Anne
+   O'Neill, Martin
+TI An exploration of solutions for improving access to affordable fresh
+   food with disadvantaged Welsh communities
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+VL 268
+IS 3
+SI SI
+BP 1021
+EP 1039
+DI 10.1016/j.ejor.2017.11.065
+PD AUG 1 2018
+PY 2018
+OI Wang, Yingli/0000-0001-5630-9558
+ZB 0
+TC 2
+Z8 0
+ZS 0
+ZR 0
+Z9 2
+SN 0377-2217
+EI 1872-6860
+UT WOS:000431164000021
+ER
+
+PT J
+AU Espinosa, A.
+   Duque, C.
+TI Complexity management and multi-scale governance: A case study in an
+   Amazonian indigenous association
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+VL 268
+IS 3
+SI SI
+BP 1006
+EP 1020
+DI 10.1016/j.ejor.2017.07.049
+PD AUG 1 2018
+PY 2018
+ZB 0
+ZR 0
+TC 4
+ZS 0
+Z8 0
+Z9 4
+SN 0377-2217
+EI 1872-6860
+UT WOS:000431164000020
+ER
+
+PT J
+AU Mwiti, Fredah
+   Goulding, Christina
+TI Strategies for community improvement to tackle poverty and gender
+   issues: An ethnography of community based organizations ('Chamas') and
+   women's interventions in the Nairobi slums
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+VL 268
+IS 3
+SI SI
+BP 875
+EP 886
+DI 10.1016/j.ejor.2017.12.009
+PD AUG 1 2018
+PY 2018
+TC 2
+ZB 0
+ZS 0
+Z8 0
+ZR 0
+Z9 2
+SN 0377-2217
+EI 1872-6860
+UT WOS:000431164000010
+ER
+
+PT J
+AU Bernardo, Hermano
+   Gaspar, Adelio
+   Antunes, Carlos Henggeler
+TI A Combined Value Focused Thinking-Soft Systems Methodology Approach to
+   Structure Decision Support for Energy Performance Assessment of School
+   Buildings
+SO SUSTAINABILITY
+VL 10
+IS 7
+AR 2295
+DI 10.3390/su10072295
+PD JUL 2018
+PY 2018
+OI Henggeler Antunes, Carlos/0000-0003-4754-2168; Bernardo,
+   Hermano/0000-0002-5290-6424
+TC 0
+ZR 0
+ZB 0
+ZS 0
+Z8 0
+Z9 0
+SN 2071-1050
+UT WOS:000440947600186
+ER
+
+PT J
+AU Little, Miles
+   Lipworth, Wendy
+   Kerridge, Ian
+TI An Archeology of Corruption in Medicine
+SO CAMBRIDGE QUARTERLY OF HEALTHCARE ETHICS
+VL 27
+IS 3
+BP 525
+EP 535
+DI 10.1017/S0963180117000925
+PD JUL 2018
+PY 2018
+OI Lipworth, Wendy/0000-0002-0234-657X; Kerridge, Ian/0000-0001-7445-4660
+ZR 0
+ZS 0
+ZB 0
+Z8 0
+TC 0
+Z9 0
+SN 0963-1801
+EI 1469-2147
+UT WOS:000434386500020
+PM 29845925
+ER
+
+PT J
+AU Mann, Carolyn
+   Sherren, Kate
+TI Holistic Management and Adaptive Grazing: A Trainers' View
+SO SUSTAINABILITY
+VL 10
+IS 6
+AR 1848
+DI 10.3390/su10061848
+PD JUN 2018
+PY 2018
+OI Sherren, Kate/0000-0003-1576-9878
+TC 2
+ZS 0
+Z8 0
+ZB 1
+ZR 0
+Z9 2
+SN 2071-1050
+UT WOS:000436570100160
+ER
+
+PT J
+AU Glassburner, Aaron, V
+   Nowicki, David R.
+   Sauser, Brian
+   Randall, Wesley S.
+   Dickens, John M.
+TI Theory of Paradox Within Service-Dominant Logic
+SO SERVICE SCIENCE
+VL 10
+IS 2
+BP 111
+EP 123
+DI 10.1287/serv.2018.0206
+PD JUN 2018
+PY 2018
+Z8 0
+TC 0
+ZS 0
+ZR 0
+ZB 0
+Z9 0
+SN 2164-3962
+EI 2164-3970
+UT WOS:000442349300001
+ER
+
+PT J
+AU Serrano, Rosiane
+   Lacerda, Daniel Pacheco
+   Cassel, Ricardo Augusto
+   Rodrigues, Luis Henrique
+   Soares, Priscila Ferraz
+TI Systemic Analysis of the Soccer (Football) Value Chain: Learning from
+   the Brazilian Context
+SO SYSTEMIC PRACTICE AND ACTION RESEARCH
+VL 31
+IS 3
+BP 269
+EP 291
+DI 10.1007/s11213-017-9425-8
+PD JUN 2018
+PY 2018
+RI CASSEL, RICARDO/J-4856-2015; Lacerda, Daniel/G-1553-2013
+OI CASSEL, RICARDO/0000-0002-9308-6434; Lacerda, Daniel/0000-0002-8011-3376
+TC 2
+ZR 0
+ZS 0
+Z8 0
+ZB 0
+Z9 2
+SN 1094-429X
+EI 1573-9295
+UT WOS:000431121000002
+ER
+
+PT J
+AU Soares, Carlos Alberto Pereira
+   Magalhães, Marcelo
+   Silva, Wainer
+   Mallman, Dorval
+TI Enterprise maturity and successful business process orientation projects
+X1 Madurez empresarial y el éxito de proyectos organizativos orientados a
+   procesos de negocio
+Y1 Maturidade empresarial e o sucesso de projetos organizacionais
+   orientados a processos de negócio
+SO Revista de Gestão dos Países de Língua Portuguesa
+VL 17
+IS 1
+BP 20
+EP 36
+PD 2018-04
+PY 2018
+ZB 0
+ZS 0
+Z8 0
+TC 0
+ZR 0
+Z9 0
+SN 1645-4464
+UT SCIELO:S1645-44642018000100003
+ER
+
+PT J
+AU Hanafizadeh, Payam
+   Mehrabioun, Mohammad
+TI Application of SSM in tackling problematical situations from
+   academicians' viewpoints
+SO SYSTEMIC PRACTICE AND ACTION RESEARCH
+VL 31
+IS 2
+BP 179
+EP 220
+DI 10.1007/s11213-017-9422-y
+PD APR 2018
+PY 2018
+OI Hanafizadeh, Payam/0000-0002-5233-987X
+TC 3
+ZB 0
+ZR 0
+Z8 0
+ZS 0
+Z9 3
+SN 1094-429X
+EI 1573-9295
+UT WOS:000426694600004
+ER
+
+PT J
+AU Nowicki, David
+   Sauser, Brian
+   Randall, Wesley
+   Lusch, Robert
+TI Service-Dominant Logic and Performance-Based Contracting: A Systems
+   Thinking Perspective
+SO SERVICE SCIENCE
+VL 10
+IS 1
+BP 12
+EP 24
+DI 10.1287/serv.2017.0185
+PD MAR 2018
+PY 2018
+ZR 0
+ZS 0
+TC 0
+Z8 0
+ZB 0
+Z9 0
+SN 2164-3962
+EI 2164-3970
+UT WOS:000442348800002
+ER
+
+PT J
+AU Small, Adrian
+   Wainwright, David
+TI Privacy and security of electronic patient records - Tailoring
+   multimethodology to explore the socio-political problems associated with
+   Role Based Access Control systems
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+VL 265
+IS 1
+BP 344
+EP 360
+DI 10.1016/j.ejor.2017.07.041
+PD FEB 16 2018
+PY 2018
+RI Small, Adrian/E-1702-2014
+OI Small, Adrian/0000-0001-5154-0080
+ZR 0
+Z8 0
+TC 1
+ZB 0
+ZS 0
+Z9 1
+SN 0377-2217
+EI 1872-6860
+UT WOS:000415775300027
+ER
+
+PT J
+AU Bischoff, Kathrin
+   Volkmann, Christine K.
+   Audretsch, David B.
+TI Stakeholder collaboration in entrepreneurship education: an analysis of
+   the entrepreneurial ecosystems of European higher educational
+   institutions
+SO JOURNAL OF TECHNOLOGY TRANSFER
+VL 43
+IS 1
+BP 20
+EP 46
+DI 10.1007/s10961-017-9581-0
+PD FEB 2018
+PY 2018
+TC 4
+ZS 0
+Z8 0
+ZR 0
+ZB 0
+Z9 4
+SN 0892-9912
+EI 1573-7047
+UT WOS:000424222000002
+ER
+
+PT J
+AU Ji, Boya
+   Liu, Yuming
+   Jin, Zhanyong
+TI An evaluation of the design and construction of energy management
+   platform for public buildings based on WSR system approach
+SO KYBERNETES
+VL 47
+IS 8
+BP 1549
+EP 1568
+DI 10.1108/K-07-2017-0265
+PD 2018
+PY 2018
+ZR 0
+Z8 0
+ZB 0
+TC 0
+ZS 0
+Z9 0
+SN 0368-492X
+EI 1758-7883
+UT WOS:000446478800003
+ER
+
+PT J
+AU Zolfagharian, Mohammadreza
+   Romme, A. Georges L.
+   Walrave, Bob
+TI Why, when, and how to combine system dynamics with other methods:
+   Towards an evidence-based framework
+SO JOURNAL OF SIMULATION
+VL 12
+IS 2
+SI SI
+BP 98
+EP 114
+DI 10.1080/17477778.2017.1418639
+PD 2018
+PY 2018
+OI Romme, Georges/0000-0002-3997-1192; Walrave, Bob/0000-0002-7349-3737
+TC 0
+ZR 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1747-7778
+EI 1747-7786
+UT WOS:000432552700003
+ER
+
+PT J
+AU Singh, Varinder
+   Singru, Pravin M.
+TI Graph theoretic structural modeling based new measures of complexity for
+   analysis of lean initiatives
+SO JOURNAL OF MANUFACTURING TECHNOLOGY MANAGEMENT
+VL 29
+IS 2
+BP 329
+EP 349
+DI 10.1108/JMTM-09-2017-0185
+PD 2018
+PY 2018
+OI Singh, Varinder/0000-0001-9871-4455
+TC 0
+ZB 0
+ZS 0
+Z8 0
+ZR 0
+Z9 0
+SN 1741-038X
+EI 1758-7786
+UT WOS:000426532000005
+ER
+
+PT J
+AU Gupta, Vipul
+   Narayanamurthy, Gopalakrishnan
+   Acharya, Padmanav
+TI Can lean lead to green? Assessment of radial tyre manufacturing
+   processes using system dynamics modelling
+SO COMPUTERS & OPERATIONS RESEARCH
+VL 89
+BP 284
+EP 306
+DI 10.1016/j.cor.2017.03.015
+PD JAN 2018
+PY 2018
+OI Narayanamurthy, Gopalakrishnan/0000-0002-3119-5248
+ZS 0
+Z8 0
+ZR 0
+TC 5
+ZB 0
+Z9 5
+SN 0305-0548
+EI 1873-765X
+UT WOS:000414886500024
+ER
+
+PT J
+AU Dean, Emma
+   Taylor, Mark J.
+   Francis, Hulya
+   Lisboa, Paulo
+   Appleton, Debbie
+   Jones, Mark
+TI A Methodological Framework for Geographic Information Systems
+   Development
+SO SYSTEMS RESEARCH AND BEHAVIORAL SCIENCE
+VL 34
+IS 6
+BP 759
+EP 772
+DI 10.1002/sres.2417
+PD NOV-DEC 2017
+PY 2017
+Z8 0
+ZR 0
+ZS 0
+TC 0
+ZB 0
+Z9 0
+SN 1092-7026
+EI 1099-1743
+UT WOS:000415338100008
+ER
+
+PT J
+AU van de Wetering, Rogier
+   Mikalef, Patrick
+   Helms, Remko
+TI Driving organizational sustainability-oriented innovation capabilities:
+   a complex adaptive systems perspective
+SO CURRENT OPINION IN ENVIRONMENTAL SUSTAINABILITY
+VL 28
+BP 71
+EP 79
+DI 10.1016/j.cosust.2017.08.006
+PD OCT 2017
+PY 2017
+OI Helms, Remko/0000-0002-3707-4201
+Z8 0
+ZB 0
+TC 1
+ZS 0
+ZR 0
+Z9 1
+SN 1877-3435
+EI 1877-3443
+UT WOS:000419699700011
+ER
+
+PT J
+AU Scozzi, Barbara
+   Bellantuono, Nicola
+   Pontrandolfo, Pierpaolo
+TI Managing Open Innovation in Urban Labs
+SO GROUP DECISION AND NEGOTIATION
+VL 26
+IS 5
+SI SI
+BP 857
+EP 874
+DI 10.1007/s10726-017-9524-z
+PD SEP 2017
+PY 2017
+OI Scozzi, Barbara/0000-0001-7359-4469
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 3
+Z9 3
+SN 0926-2644
+EI 1572-9907
+UT WOS:000410181900002
+ER
+
+PT J
+AU Venter, Carin
+   Goede, Roelien
+TI The Use of Critical Systems Heuristics to Surface and Reconcile Users'
+   Conflicting Visions for a Business Intelligence System
+SO SYSTEMIC PRACTICE AND ACTION RESEARCH
+VL 30
+IS 4
+BP 407
+EP 432
+DI 10.1007/s11213-016-9401-8
+PD AUG 2017
+PY 2017
+RI Goede, Roelien/L-7297-2015
+OI Goede, Roelien/0000-0001-7255-465X
+Z8 0
+ZB 0
+ZS 0
+ZR 0
+TC 3
+Z9 3
+SN 1094-429X
+EI 1573-9295
+UT WOS:000405529500005
+ER
+
+PT J
+AU Garcia-Nunes, Pedro Ivo
+   Souza, Romulo M.
+   da Silva, Ana Estela A.
+TI Mental Models Analysis and Comparison Based on Fuzzy Rules: A Case Study
+   of the Protests of June and July 2013 in Brazil
+SO IEEE TRANSACTIONS ON SYSTEMS MAN CYBERNETICS-SYSTEMS
+VL 47
+IS 8
+BP 2021
+EP 2033
+DI 10.1109/TSMC.2016.2598767
+PD AUG 2017
+PY 2017
+RI Garcia-Nunes, Pedro/I-1928-2014
+OI Garcia-Nunes, Pedro/0000-0002-5835-8035
+Z8 0
+ZB 1
+ZS 0
+TC 2
+ZR 0
+Z9 2
+SN 2168-2216
+UT WOS:000411096800022
+ER
+
+PT J
+AU de Lima, Diego Damasio
+   Lacerda, Daniel Pacheco
+   Sellitto, Miguel Afonso
+TI Systemic Analysis of the Brazilian Production Chain of Semiconductors:
+   Graphic Representation and Leverage Points
+SO SYSTEMIC PRACTICE AND ACTION RESEARCH
+VL 30
+IS 3
+BP 295
+EP 316
+DI 10.1007/s11213-016-9392-5
+PD JUN 2017
+PY 2017
+RI Lacerda, Daniel/G-1553-2013; Sellitto, Miguel/F-6639-2017
+OI Lacerda, Daniel/0000-0002-8011-3376; Sellitto,
+   Miguel/0000-0002-8561-9085
+ZS 0
+ZR 0
+ZB 0
+Z8 0
+TC 4
+Z9 4
+SN 1094-429X
+EI 1573-9295
+UT WOS:000401435600006
+ER
+
+PT J
+AU Gruner, Richard L.
+   Power, Damien
+TI Mimicking natural ecosystems to develop sustainable supply chains: A
+   theory of socio-ecological intergradation
+SO JOURNAL OF CLEANER PRODUCTION
+VL 149
+BP 251
+EP 264
+DI 10.1016/j.jclepro.2017.02.109
+PD APR 15 2017
+PY 2017
+OI Gruner, Richard/0000-0002-5176-8584
+ZB 0
+ZS 0
+ZR 0
+TC 7
+Z8 0
+Z9 7
+SN 0959-6526
+EI 1879-1786
+UT WOS:000403330200022
+ER
+
+PT J
+AU He, Shawei
+   Kilgour, D. Marc
+   Hipel, Keith W.
+TI A general hierarchical graph model for conflict resolution with
+   application to greenhouse gas emission disputes between USA and China
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+VL 257
+IS 3
+BP 919
+EP 932
+DI 10.1016/j.ejor.2016.08.014
+PD MAR 16 2017
+PY 2017
+Z8 1
+ZS 0
+TC 7
+ZB 0
+ZR 0
+Z9 7
+SN 0377-2217
+EI 1872-6860
+UT WOS:000389098100019
+ER
+
+PT J
+AU Mingers, John
+TI Back to the future: A critique of Demetis and Lee's "Crafting theory to
+   satisfy the requirements of systems science"
+SO INFORMATION AND ORGANIZATION
+VL 27
+IS 1
+BP 67
+EP 71
+DI 10.1016/j.infoandorg.2017.01.003
+PD MAR 2017
+PY 2017
+OI Mingers, John/0000-0002-4102-4696
+ZS 0
+TC 3
+ZB 0
+ZR 0
+Z8 0
+Z9 3
+SN 1471-7727
+EI 1873-7919
+UT WOS:000398751600006
+ER
+
+PT J
+AU Nabavi, Ehsan
+   Daniell, Katherine A.
+   Najafi, Husain
+TI Boundary matters: the potential of system dynamics to support
+   sustainability?
+SO JOURNAL OF CLEANER PRODUCTION
+VL 140
+SI SI
+BP 312
+EP 323
+DI 10.1016/j.jclepro.2016.03.032
+PN 1
+PD JAN 1 2017
+PY 2017
+OI Daniell, Katherine/0000-0002-8433-1012
+ZS 0
+Z8 0
+TC 18
+ZB 1
+ZR 0
+Z9 18
+SN 0959-6526
+EI 1879-1786
+UT WOS:000388775100029
+ER
+
+PT J
+AU Chen, Huey T.
+TI Interfacing theories of program with theories of evaluation for
+   advancing evaluation practice: Reductionism, systems thinking, and
+   pragmatic synthesis
+SO EVALUATION AND PROGRAM PLANNING
+VL 59
+BP 109
+EP 118
+DI 10.1016/j.evalprogplan.2016.05.012
+PD DEC 2016
+PY 2016
+TC 4
+Z8 0
+ZR 0
+ZS 0
+ZB 0
+Z9 4
+SN 0149-7189
+EI 1873-7870
+UT WOS:000385606400015
+PM 27346429
+ER
+
+PT J
+AU Vann-Sander, Sarah
+   Clifton, Julian
+   Harvey, Euan
+TI Can citizen science work? Perceptions of the role and utility of citizen
+   science in a marine policy and management context
+SO MARINE POLICY
+VL 72
+BP 82
+EP 93
+DI 10.1016/j.marpol.2016.06.026
+PD OCT 2016
+PY 2016
+OI Clifton, Julian/0000-0002-9795-0189
+ZB 5
+ZR 0
+Z8 0
+TC 9
+ZS 0
+Z9 9
+SN 0308-597X
+EI 1872-9460
+UT WOS:000383821500011
+ER
+
+PT J
+AU Koh, Eric H. Y.
+   Avvari, Mohan V.
+   Tan, Kim Hua
+TI An integrated framework for competency development: perspectives of risk
+   managers in banks
+SO SERVICE BUSINESS
+VL 10
+IS 3
+BP 581
+EP 602
+DI 10.1007/s11628-015-0283-0
+PD SEP 2016
+PY 2016
+OI Avvari, Mohan V/0000-0002-8829-7157; Tan, Kim Hua/0000-0003-4894-293X
+ZB 0
+TC 0
+ZS 0
+ZR 0
+Z8 0
+Z9 0
+SN 1862-8516
+EI 1862-8508
+UT WOS:000387350900006
+ER
+
+PT J
+AU Stolze, Hannah J.
+   Mollenkopf, Diane A.
+   Flint, Daniel J.
+TI What is the Right Supply Chain for Your Shopper? Exploring the Shopper
+   Service Ecosystem
+SO JOURNAL OF BUSINESS LOGISTICS
+VL 37
+IS 2
+BP 185
+EP 197
+DI 10.1111/jbl.12122
+PD JUN 2016
+PY 2016
+ZS 0
+TC 7
+ZB 0
+Z8 0
+ZR 0
+Z9 7
+SN 0735-3766
+EI 2158-1592
+UT WOS:000384430700009
+ER
+
+PT J
+AU Carlisle, Sheena
+   Johansen, Aleksander
+   Kunc, Martin
+TI Strategic foresight for (coastal) urban tourism market complexity: The
+   case of Bournemouth
+SO TOURISM MANAGEMENT
+VL 54
+BP 81
+EP 95
+DI 10.1016/j.tourman.2015.10.005
+PD JUN 2016
+PY 2016
+TC 7
+ZR 0
+ZB 0
+ZS 0
+Z8 0
+Z9 7
+SN 0261-5177
+EI 1879-3193
+UT WOS:000372560100008
+ER
+
+PT J
+AU Ha, Tuan M.
+   Bosch, Ockie J. H.
+   Nguyen, Nam C.
+TI Establishing an Evolutionary Learning Laboratory for Improving the
+   Quality of Life of Vietnamese Women in Small-scale Agriculture: Part II
+   - Systemic Interventions
+SO SYSTEMS RESEARCH AND BEHAVIORAL SCIENCE
+VL 33
+IS 3
+BP 341
+EP 359
+DI 10.1002/sres.2349
+PD MAY-JUN 2016
+PY 2016
+Z8 0
+ZS 0
+ZB 1
+TC 3
+ZR 0
+Z9 3
+SN 1092-7026
+EI 1099-1743
+UT WOS:000379955400004
+ER
+
+PT J
+AU Thompson, James P.
+   Howick, Susan
+   Belton, Valerie
+TI Critical Learning Incidents in system dynamics modelling engagements
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+VL 249
+IS 3
+BP 945
+EP 958
+DI 10.1016/j.ejor.2015.09.048
+PD MAR 16 2016
+PY 2016
+OI howick, susan/0000-0002-0796-7981; Thompson, James/0000-0003-4417-5200
+ZR 0
+TC 7
+Z8 1
+ZS 0
+ZB 0
+Z9 8
+SN 0377-2217
+EI 1872-6860
+UT WOS:000370463500015
+ER
+
+PT J
+AU De Marco, Alberto
+   Rafele, Carlo
+   Thaheem, Muhammad Jamaluddin
+TI Dynamic Management of Risk Contingency in Complex Design-Build Projects
+SO JOURNAL OF CONSTRUCTION ENGINEERING AND MANAGEMENT
+VL 142
+IS 2
+AR 04015080
+DI 10.1061/(ASCE)CO.1943-7862.0001052
+PD FEB 2016
+PY 2016
+OI De Marco, Alberto/0000-0002-4145-2287; Thaheem, Muhammad
+   Jamaluddin/0000-0001-6092-7842
+TC 4
+ZS 0
+ZR 0
+Z8 0
+ZB 0
+Z9 4
+SN 0733-9364
+EI 1943-7862
+UT WOS:000370079000018
+ER
+
+PT J
+AU Tuan, Nien-Tsu
+   Shaw, Corrinne
+TI Consideration of Ethics in Systemic Thinking
+SO SYSTEMIC PRACTICE AND ACTION RESEARCH
+VL 29
+IS 1
+BP 51
+EP 60
+DI 10.1007/s11213-015-9352-5
+PD FEB 2016
+PY 2016
+ZB 0
+ZS 0
+ZR 0
+Z8 0
+TC 5
+Z9 5
+SN 1094-429X
+EI 1573-9295
+UT WOS:000367856600003
+ER
+
+PT J
+AU Poutanen, Petro
+   Soliman, Wael
+   Stahle, Pirjo
+TI The complexity of innovation: an assessment and review of the complexity
+   perspective
+SO EUROPEAN JOURNAL OF INNOVATION MANAGEMENT
+VL 19
+IS 2
+BP 189
+EP 213
+DI 10.1108/EJIM-03-2014-0036
+PD 2016
+PY 2016
+RI Poutanen, Petro/T-3224-2018; Baagoe-Engels, Victoria/B-6504-2017
+OI Poutanen, Petro/0000-0001-7481-8495; 
+Z8 0
+TC 5
+ZS 0
+ZR 0
+ZB 0
+Z9 5
+SN 1460-1060
+EI 1758-7115
+UT WOS:000382538300003
+ER
+
+PT J
+AU Scott, Rodney J.
+   Cavana, Robert Y.
+   Cameron, Donald
+TI Client Perceptions of Reported Outcomes of Group Model Building in the
+   New Zealand Public Sector
+SO GROUP DECISION AND NEGOTIATION
+VL 25
+IS 1
+BP 77
+EP 101
+DI 10.1007/s10726-015-9433-y
+PD JAN 2016
+PY 2016
+OI Cavana, Robert/0000-0002-7344-6981
+ZR 0
+ZS 0
+Z8 0
+TC 5
+ZB 0
+Z9 5
+SN 0926-2644
+EI 1572-9907
+UT WOS:000368715300004
+ER
+
+PT J
+AU Parvan, Kiavash
+   Rahmandad, Hazhir
+   Haghani, Ali
+TI Inter-phase feedbacks in construction projects
+SO JOURNAL OF OPERATIONS MANAGEMENT
+VL 39-40
+SI SI
+BP 48
+EP 62
+DI 10.1016/j.jom.2015.07.005
+PD NOV 2015
+PY 2015
+OI Rahmandad, Hazhir/0000-0002-2784-9042
+Z8 0
+ZR 0
+ZS 2
+TC 13
+ZB 0
+Z9 13
+SN 0272-6963
+EI 1873-1317
+UT WOS:000366952200005
+ER
+
+PT J
+AU Dace, Elina
+   Muizniece, Indra
+   Blumberga, Andra
+   Kaczala, Fabio
+TI Searching for solutions to mitigate greenhouse gas emissions by
+   agricultural policy decisions - Application of system dynamics modeling
+   for the case of Latvia
+SO SCIENCE OF THE TOTAL ENVIRONMENT
+VL 527
+BP 80
+EP 90
+DI 10.1016/j.scitotenv.2015.04.088
+PD SEP 15 2015
+PY 2015
+OI Blumberga, Andra/0000-0002-4712-4794; Dace, Elina/0000-0002-7880-0820
+ZB 8
+ZR 0
+Z8 2
+ZS 0
+TC 25
+Z9 27
+SN 0048-9697
+EI 1879-1026
+UT WOS:000356225300009
+PM 25958357
+ER
+
+PT J
+AU Petrovic, Slavica P.
+TI SYSTEMIC INTERVENTION IN CREATIVE MANAGING PROBLEMS IN ENTERPRISES
+SO JOURNAL OF BUSINESS ECONOMICS AND MANAGEMENT
+VL 16
+IS 5
+BP 949
+EP 961
+DI 10.3846/16111699.2013.833546
+PD SEP 3 2015
+PY 2015
+ZR 0
+ZB 0
+Z8 0
+TC 0
+ZS 0
+Z9 0
+SN 1611-1699
+EI 2029-4433
+UT WOS:000363654800005
+ER
+
+PT J
+AU Davis, Anne Powel
+   Dent, Eric B.
+   Wharff, Deborah M.
+TI A Conceptual Model of Systems Thinking Leadership in Community Colleges
+SO SYSTEMIC PRACTICE AND ACTION RESEARCH
+VL 28
+IS 4
+BP 333
+EP 353
+DI 10.1007/s11213-015-9340-9
+PD AUG 2015
+PY 2015
+OI Dent, Eric/0000-0001-5844-5545
+ZR 0
+ZS 0
+ZB 0
+Z8 0
+TC 4
+Z9 4
+SN 1094-429X
+EI 1573-9295
+UT WOS:000358255200003
+ER
+
+PT J
+AU Scott, Rodney J.
+   Cavana, Robert Y.
+   Cameron, Donald
+TI Interpersonal success factors for strategy implementation: a case study
+   using group model building
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+VL 66
+IS 6
+BP 1023
+EP 1034
+DI 10.1057/jors.2014.70
+PD JUN 2015
+PY 2015
+OI Cavana, Robert/0000-0002-7344-6981
+ZB 0
+ZR 0
+TC 4
+ZS 0
+Z8 0
+Z9 4
+SN 0160-5682
+EI 1476-9360
+UT WOS:000355021600011
+ER
+
+PT J
+AU Preece, Gary
+   Shaw, Duncan
+   Hayashi, Haruo
+TI Application of the Viable System Model to analyse communications
+   structures: A case study of disaster response in Japan
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+VL 243
+IS 1
+BP 312
+EP 322
+DI 10.1016/j.ejor.2014.11.026
+PD MAY 16 2015
+PY 2015
+ZS 0
+Z8 0
+ZR 0
+TC 6
+ZB 0
+Z9 6
+SN 0377-2217
+EI 1872-6860
+UT WOS:000349592500028
+ER
+
+PT J
+AU Qudrat-Ullah, Hassan
+TI Independent power (or pollution) producers? Electricity reforms and IPPs
+   in Pakistan
+SO ENERGY
+VL 83
+BP 240
+EP 251
+DI 10.1016/j.energy.2015.02.018
+PD APR 1 2015
+PY 2015
+ZS 0
+TC 11
+ZB 0
+ZR 0
+Z8 0
+Z9 11
+SN 0360-5442
+EI 1873-6785
+UT WOS:000353731200021
+ER
+
+PT J
+AU Mingers, John
+TI Helping business schools engage with real problems: The contribution of
+   critical realism and systems thinking
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+VL 242
+IS 1
+BP 316
+EP 331
+DI 10.1016/j.ejor.2014.10.058
+PD APR 1 2015
+PY 2015
+ZR 0
+ZS 1
+ZB 0
+Z8 0
+TC 14
+Z9 15
+SN 0377-2217
+EI 1872-6860
+UT WOS:000348687900028
+ER
+
+PT J
+AU Artinger, Florian
+   Petersen, Malte
+   Gigerenzer, Gerd
+   Weibler, Juergen
+TI Heuristics as adaptive decision strategies in management
+SO JOURNAL OF ORGANIZATIONAL BEHAVIOR
+VL 36
+BP S33
+EP S52
+DI 10.1002/job.1950
+SU 1
+PD FEB 2015
+PY 2015
+ZS 0
+ZB 0
+TC 19
+ZR 0
+Z8 0
+Z9 19
+SN 0894-3796
+EI 1099-1379
+UT WOS:000348851600003
+ER
+
+PT J
+AU Srivastava, Samir K.
+   Chaudhuri, Atanu
+   Srivastava, Rajiv K.
+TI Propagation of risks and their impact on performance in fresh food
+   retail
+SO INTERNATIONAL JOURNAL OF LOGISTICS MANAGEMENT
+VL 26
+IS 3
+BP 568
+EP 602
+DI 10.1108/IJLM-02-2014-0032
+PD 2015
+PY 2015
+RI SRIVASTAVA, SAMIR/P-7551-2015; Chaudhuri, Atanu/
+OI SRIVASTAVA, SAMIR/0000-0002-8964-2442; Chaudhuri,
+   Atanu/0000-0002-6156-9634
+ZS 0
+ZB 0
+ZR 0
+TC 11
+Z8 0
+Z9 11
+SN 0957-4093
+EI 1758-6550
+UT WOS:000368530100007
+ER
+
+PT J
+AU Espinosa, Angela
+   Reficco, Ezequiel
+   Martinez, Andrea
+   Guzman, David
+TI A methodology for supporting strategy implementation based on the VSM: A
+   case study in a Latin-American multi-national
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+VL 240
+IS 1
+BP 202
+EP 212
+DI 10.1016/j.ejor.2014.06.014
+PD JAN 1 2015
+PY 2015
+OI Martinez L, Andrea C/0000-0002-5699-9699
+ZR 0
+ZB 1
+TC 9
+Z8 0
+ZS 0
+Z9 9
+SN 0377-2217
+EI 1872-6860
+UT WOS:000343380100017
+ER
+
+PT J
+AU Qudrat-Ullah, Hassan
+TI Green power in Ontario: A dynamic model-based analysis
+SO ENERGY
+VL 77
+SI SI
+BP 859
+EP 870
+DI 10.1016/j.energy.2014.09.072
+PD DEC 1 2014
+PY 2014
+ZB 2
+ZR 0
+Z8 0
+ZS 0
+TC 14
+Z9 14
+SN 0360-5442
+EI 1873-6785
+UT WOS:000346542500088
+ER
+
+PT J
+AU Cristancho, Sayra
+TI What can we learn from a soft sister? A complementary lens to the
+   systems engineering approach in medical education research
+SO MEDICAL EDUCATION
+VL 48
+IS 12
+BP 1139
+EP 1141
+DI 10.1111/medu.12617
+PD DEC 2014
+PY 2014
+ZR 0
+TC 6
+Z8 0
+ZB 0
+ZS 0
+Z9 6
+SN 0308-0110
+EI 1365-2923
+UT WOS:000345502500001
+PM 25413904
+ER
+
+PT J
+AU Bendoly, Elliot
+TI System Dynamics Understanding in Projects: Information Sharing,
+   Psychological Safety, and Performance Effects
+SO PRODUCTION AND OPERATIONS MANAGEMENT
+VL 23
+IS 8
+BP 1352
+EP 1369
+DI 10.1111/poms.12024
+PD AUG 2014
+PY 2014
+RI Bendoly, Elliot/D-7865-2015
+OI Bendoly, Elliot/0000-0002-0158-8403
+TC 22
+Z8 0
+ZB 0
+ZS 1
+ZR 0
+Z9 22
+SN 1059-1478
+EI 1937-5956
+UT WOS:000340565700008
+ER
+
+PT J
+AU Gunasekaran, Angappa
+   Irani, Zahir
+   Papadopoulos, Thanos
+TI Modelling and analysis of sustainable operations management: certain
+   investigations for research and applications
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+VL 65
+IS 6
+SI SI
+BP 806
+EP 823
+DI 10.1057/jors.2013.171
+PD JUN 2014
+PY 2014
+Z8 0
+ZB 1
+ZR 0
+TC 20
+ZS 0
+Z9 20
+SN 0160-5682
+EI 1476-9360
+UT WOS:000336834700002
+ER
+
+PT J
+AU Dace, Elina
+   Bazbauers, Gatis
+   Berzina, Alise
+   Davidsen, Pal I.
+TI System dynamics model for analyzing effects of eco-design policy on
+   packaging waste management system
+SO RESOURCES CONSERVATION AND RECYCLING
+VL 87
+BP 175
+EP 190
+DI 10.1016/j.resconrec.2014.04.004
+PD JUN 2014
+PY 2014
+OI Dace, Elina/0000-0002-7880-0820; Bazbauers, Gatis/0000-0001-6996-8472
+TC 27
+ZS 0
+Z8 0
+ZB 12
+ZR 0
+Z9 28
+SN 0921-3449
+EI 1879-0658
+UT WOS:000337775900018
+ER
+
+PT J
+AU Wolf Motta Morandi, Maria Isabel
+   Rodrigues, Luis Henrique
+   Lacerda, Daniel Pacheco
+   Pergher, Isaac
+TI Foreseeing Iron Ore Prices Using System Thinking and Scenario Planning
+SO SYSTEMIC PRACTICE AND ACTION RESEARCH
+VL 27
+IS 3
+BP 287
+EP 306
+DI 10.1007/s11213-013-9277-9
+PD JUN 2014
+PY 2014
+RI Lacerda, Daniel/G-1553-2013; Rodrigues, Luis/I-8556-2016; Morandi, Maria/J-2414-2018; Rodrigues, Luis/A-8615-2016
+OI Lacerda, Daniel/0000-0002-8011-3376; Rodrigues,
+   Luis/0000-0002-0426-9264; Morandi, Maria/0000-0003-1337-1487; 
+TC 7
+Z8 0
+ZR 0
+ZB 0
+ZS 0
+Z9 7
+SN 1094-429X
+EI 1573-9295
+UT WOS:000334435600006
+ER
+
+PT J
+AU Lehtonen, Olli
+   Tykkylainen, Markku
+TI Delphi path simulator for unveiling development opportunities in the
+   forest industries by contrasting forest management practices - The case
+   of North Karelia
+SO TECHNOLOGICAL FORECASTING AND SOCIAL CHANGE
+VL 84
+BP 171
+EP 185
+DI 10.1016/j.techfore.2013.08.005
+PD MAY 2014
+PY 2014
+TC 2
+ZB 1
+ZS 0
+ZR 0
+Z8 1
+Z9 3
+SN 0040-1625
+EI 1873-5509
+UT WOS:000336011800016
+ER
+
+PT J
+AU Ulengin, Fusun
+   Onsel, Sule
+   Aktas, Emel
+   Kabak, Ozgur
+   Ozaydin, Ozay
+TI A decision support methodology to enhance the competitiveness of the
+   Turkish automotive industry
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+VL 234
+IS 3
+BP 789
+EP 801
+DI 10.1016/j.ejor.2013.09.044
+PD MAY 1 2014
+PY 2014
+RI Ozaydin, Ozay/F-6185-2010; Aktas, Emel/A-8654-2008
+OI Ozaydin, Ozay/0000-0002-2202-8923; Aktas, Emel/0000-0003-3509-6703
+Z8 0
+ZR 0
+ZS 0
+TC 9
+ZB 0
+Z9 9
+SN 0377-2217
+EI 1872-6860
+UT WOS:000331419800021
+ER
+
+PT J
+AU Li, Ya
+   Zhu, Zhichang
+TI Soft OR in China: A critical report
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+VL 232
+IS 3
+BP 427
+EP 434
+DI 10.1016/j.ejor.2013.04.035
+PD FEB 1 2014
+PY 2014
+ZR 0
+TC 8
+ZB 1
+ZS 0
+Z8 0
+Z9 8
+SN 0377-2217
+EI 1872-6860
+UT WOS:000325598800001
+ER
+
+PT J
+AU Village, J.
+   Greig, M.
+   Salustri, F.
+   Zolfaghari, S.
+   Neumann, W. P.
+TI An ergonomics action research demonstration: integrating human factors
+   into assembly design processes
+SO ERGONOMICS
+VL 57
+IS 10
+BP 1574
+EP 1589
+DI 10.1080/00140139.2014.938128
+PD 2014
+PY 2014
+OI Greig, Michael/0000-0001-6354-8581; Salustri,
+   Filippo/0000-0002-3689-5112; Neumann, Patrick/0000-0002-1560-3870
+ZR 0
+ZS 0
+TC 6
+ZB 0
+Z8 0
+Z9 6
+SN 0014-0139
+EI 1366-5847
+UT WOS:000342284700011
+PM 25031026
+ER
+
+PT J
+AU Xu, F.
+   Li, X. X.
+   Meng, W.
+   Liu, W. B.
+   Mingers, J.
+TI Ranking academic impact of world national research institutes-by the
+   Chinese Academy of Sciences
+SO RESEARCH EVALUATION
+VL 22
+IS 5
+BP 337
+EP 350
+DI 10.1093/reseval/rvt007
+PD DEC 2013
+PY 2013
+OI Mingers, John/0000-0002-4102-4696
+ZB 1
+TC 3
+Z8 1
+ZR 0
+ZS 0
+Z9 4
+SN 0958-2029
+EI 1471-5449
+UT WOS:000326882300007
+ER
+
+PT J
+AU Yearworth, Mike
+   White, Leroy
+TI The uses of qualitative data in multimethodology: Developing causal loop
+   diagrams during the coding process
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+VL 231
+IS 1
+BP 151
+EP 161
+DI 10.1016/j.ejor.2013.05.002
+PD NOV 16 2013
+PY 2013
+RI Yearworth, Mike/A-9463-2012
+OI Yearworth, Mike/0000-0002-8468-0335
+TC 11
+ZR 0
+ZB 0
+Z8 0
+ZS 0
+Z9 11
+SN 0377-2217
+UT WOS:000322055500014
+ER
+
+PT J
+AU Espinosa, Angela
+   Walker, J.
+TI Complexity management in practice: A Viable System Model intervention in
+   an Irish eco-community
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+VL 225
+IS 1
+BP 118
+EP 129
+DI 10.1016/j.ejor.2012.09.015
+PD FEB 16 2013
+PY 2013
+ZS 0
+ZR 0
+Z8 0
+TC 24
+ZB 3
+Z9 24
+SN 0377-2217
+UT WOS:000311463000012
+ER
+
+PT J
+AU Alter, Steven
+TI Work System Theory: Overview of Core Concepts, Extensions, and
+   Challenges for the Future
+SO JOURNAL OF THE ASSOCIATION FOR INFORMATION SYSTEMS
+VL 14
+IS 2
+BP 72
+EP 121
+PD 2013
+PY 2013
+Z8 0
+TC 75
+ZB 0
+ZR 0
+ZS 0
+Z9 75
+SN 1536-9323
+EI 1558-3457
+UT WOS:000321818600002
+ER
+
+PT J
+AU Liu, Wenbin B.
+   Meng, Wei
+   Mingers, John
+   Tang, Ning
+   Wang, Wei
+TI Developing a performance management system using soft systems
+   methodology: A Chinese case study
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+VL 223
+IS 2
+BP 529
+EP 540
+DI 10.1016/j.ejor.2012.06.029
+PD DEC 1 2012
+PY 2012
+OI Mingers, John/0000-0002-4102-4696
+TC 9
+Z8 0
+ZB 0
+ZS 0
+ZR 0
+Z9 9
+SN 0377-2217
+EI 1872-6860
+UT WOS:000308521400024
+ER
+
+PT J
+AU Heyrani, Ali
+   Maleki, Mohammadreza
+   Marnani, Ahmad Barati
+   Ravaghi, Hamid
+   Sedaghat, Mojtaba
+   Jabbari, Mosadegh
+   Farsi, Davood
+   Khajavi, Abdoljavad
+   Abdi, Zhaleh
+TI Clinical governance implementation in a selected teaching emergency
+   department: a systems approach
+SO IMPLEMENTATION SCIENCE
+VL 7
+AR 84
+DI 10.1186/1748-5908-7-84
+PD SEP 10 2012
+PY 2012
+RI Farsi, Davood/Q-5092-2018; khajavi, Abdoljavad/I-5711-2017; Heyrani, Ali/K-7881-2017; Khajavi, Abdoljavad/
+OI Farsi, Davood/0000-0002-8366-2477; Heyrani, Ali/0000-0001-6355-5191;
+   Khajavi, Abdoljavad/0000-0001-6625-6998
+ZR 0
+ZB 0
+ZS 1
+TC 8
+Z8 0
+Z9 8
+SN 1748-5908
+UT WOS:000309157000001
+PM 22963589
+ER
+
+PT J
+AU Chai, Kah-Hin
+   Yeo, Catrina
+TI Overcoming energy efficiency barriers through systems approach-A
+   conceptual framework
+SO ENERGY POLICY
+VL 46
+BP 460
+EP 472
+DI 10.1016/j.enpol.2012.04.012
+PD JUL 2012
+PY 2012
+OI Chai, Kah Hin/0000-0002-0360-2184
+TC 70
+Z8 0
+ZS 0
+ZB 3
+ZR 0
+Z9 70
+SN 0301-4215
+UT WOS:000305592300045
+ER
+
+PT J
+AU Trutnevyte, Evelina
+   Stauffacher, Michael
+   Scholz, Roland W.
+TI Linking stakeholder visions with resource allocation scenarios and
+   multi-criteria assessment
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+VL 219
+IS 3
+BP 762
+EP 772
+DI 10.1016/j.ejor.2012.01.009
+PD JUN 16 2012
+PY 2012
+RI Stauffacher, Michael/A-1504-2009; Scholz, Roland/B-2076-2008; Trutnevyte, Evelina/B-1354-2010; Trutnevyte, Evelina/
+OI Stauffacher, Michael/0000-0001-9724-6741; Trutnevyte,
+   Evelina/0000-0002-1716-6192
+TC 28
+ZB 3
+ZR 0
+Z8 0
+ZS 0
+Z9 29
+SN 0377-2217
+EI 1872-6860
+UT WOS:000302199300027
+ER
+
+PT J
+AU Li, Ya
+   Zhu, Zhichang
+   Gerard, Catherine M.
+TI Learning from Conflict Resolution: An Opportunity to Systems Thinking
+SO SYSTEMS RESEARCH AND BEHAVIORAL SCIENCE
+VL 29
+IS 2
+SI SI
+BP 209
+EP 220
+DI 10.1002/sres.2107
+PD MAR-APR 2012
+PY 2012
+TC 6
+ZS 0
+ZB 0
+ZR 0
+Z8 0
+Z9 6
+SN 1092-7026
+EI 1099-1743
+UT WOS:000300985500009
+ER
+
+PT J
+AU Ghadge, Abhijeet
+   Dani, Samir
+   Kalawsky, Roy
+TI Supply chain risk management: present and future scope
+SO INTERNATIONAL JOURNAL OF LOGISTICS MANAGEMENT
+VL 23
+IS 3
+BP 313
+EP 339
+DI 10.1108/09574091211289200
+PD 2012
+PY 2012
+RI Ghadge, Abhijeet/B-2249-2012; Kalawsky, Roy/
+OI Ghadge, Abhijeet/0000-0002-0310-2761; Kalawsky, Roy/0000-0002-9023-8295
+ZB 0
+Z8 1
+ZS 2
+ZR 0
+TC 87
+Z9 90
+SN 0957-4093
+EI 1758-6550
+UT WOS:000312745800002
+ER
+
+PT J
+AU Kapsali, Maria
+TI Systems thinking in innovation project management: A match that works
+SO INTERNATIONAL JOURNAL OF PROJECT MANAGEMENT
+VL 29
+IS 4
+SI SI
+BP 396
+EP 407
+DI 10.1016/j.ijproman.2011.01.003
+PD MAY 2011
+PY 2011
+RI Kapsali, Maria/P-2165-2014
+OI Kapsali, Maria/0000-0002-4275-7541
+TC 40
+ZB 1
+ZS 1
+ZR 0
+Z8 0
+Z9 41
+SN 0263-7863
+UT WOS:000290370300005
+ER
+
+PT J
+AU Ma, Linwei
+   Liu, Pei
+   Fu, Feng
+   Li, Zheng
+   Ni, Weidou
+TI Integrated energy strategy for the sustainable development of China
+SO ENERGY
+VL 36
+IS 2
+BP 1143
+EP 1154
+DI 10.1016/j.energy.2010.11.035
+PD FEB 2011
+PY 2011
+RI Liu, Pei/C-4913-2011; Ma, Linwei/E-9140-2011; Li, Zheng/E-7840-2011
+OI Liu, Pei/0000-0002-6854-4333; Ma, Linwei/0000-0002-9090-0488; 
+ZS 0
+ZR 0
+Z8 4
+TC 65
+ZB 2
+Z9 68
+SN 0360-5442
+UT WOS:000288102600048
+ER
+
+EF

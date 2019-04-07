@@ -1,0 +1,476 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Abramo, G
+   D'Angelo, CA
+   Felici, G
+AF Abramo, Giovanni
+   D'Angelo, Ciriaco Andrea
+   Felici, Giovanni
+TI Predicting publication long-term impact through a combination of early
+   citations and journal impact factor
+SO JOURNAL OF INFORMETRICS
+AB The ability to predict the long-term impact of a scientific article soon after its publication is of great value towards accurate assessment of research performance. In this work we test the hypothesis that good predictions of long-term citation counts can be obtained through a combination of a publication's early citations and the impact factor of the hosting journal. The test is performed on a corpus of 123,128 WoS publications authored by Italian scientists, using linear regression models. The average accuracy of the prediction is good for citation time windows above two years, decreases for lowly-cited publications, and varies across disciplines. As expected, the role of the impact factor in the combination becomes negligible after only two years from publication. (C) 2018 Elsevier Ltd. All rights reserved.
+SN 1751-1577
+EI 1875-5879
+PD FEB
+PY 2019
+VL 13
+IS 1
+BP 32
+EP 49
+DI 10.1016/j.joi.2018.11.003
+UT WOS:000460550800003
+ER
+
+PT J
+AU Min, C
+   Ding, Y
+   Li, J
+   Bu, Y
+   Pei, L
+   Sun, JJ
+AF Min, Chao
+   Ding, Ying
+   Li, Jiang
+   Bu, Yi
+   Pei, Lei
+   Sun, Jianjun
+TI Innovation or imitation: The diffusion of citations
+SO JOURNAL OF THE ASSOCIATION FOR INFORMATION SCIENCE AND TECHNOLOGY
+AB Citations in scientific literature are important both for tracking the historical development of scientific ideas and for forecasting research trends. However, the diffusion mechanisms underlying the citation process remain poorly understood, despite the frequent and longstanding use of citation counts for assessment purposes within the scientific community. Here, we extend the study of citation dynamics to a more general diffusion process to understand how citation growth associates with different diffusion patterns. Using a classic diffusion model, we quantify and illustrate specific diffusion mechanisms which have been proven to exert a significant impact on the growth and decay of citation counts. Experiments reveal a positive relation between the low p and low q pattern and high scientific impact. A sharp citation peak produced by rapid change of citation counts, however, has a negative effect on future impact. In addition, we have suggested a simple indicator, saturation level, to roughly estimate an individual article's current stage in the life cycle and its potential to attract future attention. The proposed approach can also be extended to higher levels of aggregation (e.g., individual scientists, journals, institutions), providing further insights into the practice of scientific evaluation.
+RI Min, Chao/N-9175-2015
+OI Min, Chao/0000-0002-0627-995X; Bu, Yi/0000-0003-2549-4580
+SN 2330-1635
+EI 2330-1643
+PD OCT
+PY 2018
+VL 69
+IS 10
+BP 1271
+EP 1282
+DI 10.1002/asi.24047
+UT WOS:000445851400008
+ER
+
+PT J
+AU Abramo, G
+AF Abramo, Giovanni
+TI Revisiting the scientometric conceptualization of impact and its
+   measurement
+SO JOURNAL OF INFORMETRICS
+AB The development of scientometric indicators and methods for evaluative purposes, requires a multitude of assumptions, conventions, limitations, and caveats. Given this, we cannot permit ambiguities in the key concepts forming the basis of scientometric science itself, or research assessment exercises would rest on quicksand. This conceptual work attempts to spell out some principles leading to a clear definition of "impact" of research, and above all, of the appropriate scientometric indicator to measure it. The aim is to stimulate a discussion aimed at a definitive convergence on the meaning and measurement of a fundamental concept of the scientometric science. (C) 2018 Elsevier Ltd. All rights reserved.
+SN 1751-1577
+EI 1875-5879
+PD AUG
+PY 2018
+VL 12
+IS 3
+BP 590
+EP 597
+DI 10.1016/j.joi.2018.05.001
+UT WOS:000442670600003
+ER
+
+PT J
+AU Sugimoto, CR
+   Mostafa, J
+AF Sugimoto, Cassidy R.
+   Mostafa, Javed
+TI A note of concern and context: On careful use of terminologies
+SO JOURNAL OF THE ASSOCIATION FOR INFORMATION SCIENCE AND TECHNOLOGY
+SN 2330-1635
+EI 2330-1643
+PD MAR
+PY 2018
+VL 69
+IS 3
+BP 347
+EP 348
+DI 10.1002/asi.24014
+UT WOS:000424908800001
+ER
+
+PT J
+AU Thelwall, M
+   Nevill, T
+AF Thelwall, Mike
+   Nevill, Tamara
+TI Could scientists use Altmetric.com scores to predict longer term
+   citation counts?
+SO JOURNAL OF INFORMETRICS
+AB Altmetrics from Altmetric.com are widely used by publishers and researchers to give earlier evidence of attention than citation counts. This article assesses whether Altmetric.com scores are reliable early indicators of likely future impact and whether they may also reflect non-scholarly impacts. A preliminary factor analysis suggests that the main altmetric indicator of scholarly impact is Mendeley reader counts, with weaker news, informational and social network discussion/promotion dimensions in some fields. Based on a regression analysis of Altmetric.com data from November 2015 and Scopus citation counts from October 2017 for articles in 30 narrow fields, only Mendeley reader counts are consistent predictors of future citation impact. Most other Altmetric.com scores can help predict future impact in some fields. Overall, the results confirm that early Altmetric.com scores can predict later citation counts, although less well than journal impact factors, and the optimal strategy is to consider both Altmetric.com scores and journal impact factors. Altmetric.com scores can also reflect dimensions of non-scholarly impact in some fields. (C) 2018 Elsevier Ltd. All rights reserved.
+RI Thelwall, Mike/C-1449-2013
+OI Thelwall, Mike/0000-0001-6065-205X
+SN 1751-1577
+EI 1875-5879
+PD FEB
+PY 2018
+VL 12
+IS 1
+BP 237
+EP 248
+DI 10.1016/j.snb.2018.01.008
+UT WOS:000427479800017
+ER
+
+PT J
+AU Merigo, JM
+   Yang, JB
+AF Merigo, Jose M.
+   Yang, Jian-Bo
+TI A bibliometric analysis of operations research and management science
+SO OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE
+AB Bibliometric analysis is the quantitative study of bibliographic material. It provides a general picture of a research field that can be classified by papers, authors and journals. This paper presents a bibliometric overview of research published in operations research and management science in recent decades. The main objective of this study is to identify some of the most relevant research in this field and some of the newest trends according to the information found in the Web of Science database. Several classifications are made, including an analysis of the most influential journals, the two hundred most cited papers of all time and the most productive and influential authors. The results obtained are in accordance with the common wisdom, although some variations are found. Crown Copyright (C) 2016 Published by Elsevier Ltd. All rights reserved.
+RI Yang, Jian-Bo/C-2411-2015; Yang, Jian-Bo/D-8047-2016; Merigo, Jose
+   M./G-3614-2010
+OI Merigo, Jose M./0000-0002-4672-6961
+SN 0305-0483
+PD DEC
+PY 2017
+VL 73
+BP 37
+EP 48
+DI 10.1016/j.omega.2016.12.004
+UT WOS:000412964700004
+ER
+
+PT J
+AU Mingers, J
+   Leydesdorff, L
+AF Mingers, John
+   Leydesdorff, Loet
+TI A review of theory and practice in scientometrics
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+AB Scientometrics is the study of the quantitative aspects of the process of science as a communication system. It is centrally, but not only, concerned with the analysis of citations in the academic literature. In recent years it has come to play a major role in the measurement and evaluation of research performance. In this review we consider: the historical development of scientometrics, sources of citation data, citation metrics and the "laws" of scientometrics, normalisation, journal impact factors and other journal metrics, visualising and mapping science, evaluation and policy, and future developments. (C) 2015 Elsevier B.V. and Association of European Operational Research Societies (EURO) within the International Federation of Operational Research Societies (IFORS). All rights reserved.
+RI Zuluaga Gaviria, Jennifer Daniela/T-2321-2017; Leydesdorff,
+   Loet/E-2903-2010
+OI Leydesdorff, Loet/0000-0002-7835-3098; Mingers, John/0000-0002-4102-4696
+SN 0377-2217
+EI 1872-6860
+PD OCT 1
+PY 2015
+VL 246
+IS 1
+BP 1
+EP 19
+DI 10.1016/j.ejor.2015.04.002
+UT WOS:000356742800001
+ER
+
+PT J
+AU Chan, HF
+   Guillot, M
+   Page, L
+   Torgler, B
+AF Chan, Ho Fai
+   Guillot, Malka
+   Page, Lionel
+   Torgler, Benno
+TI The inner quality of an article: Will time tell?
+SO SCIENTOMETRICS
+AB In this paper, we assess whether quality survives the test of time in academia by comparing up to 80 years of academic journal article citations from two top journals, Econometrica and the American Economic Review. The research setting under analysis is analogous to a controlled real world experiment in that it involves a homogeneous task (trying to publish in top journals) by individuals with a homogenous job profile (academics) in a specific research environment (economics and econometrics). Comparing articles published concurrently in the same outlet at the same time (same issue) indicates that symbolic capital or power due to institutional affiliation or connection does seem to boost citation success at the beginning, giving those educated at or affiliated with leading universities an initial comparative advantage. Such advantage, however, does not hold in the long run: at a later stage, the publications of other researchers become as or even more successful.
+RI Torgler, Benno/J-1140-2012; Chan, Ho Fai/G-9541-2015
+OI Torgler, Benno/0000-0002-9809-963X; Chan, Ho Fai/0000-0002-7281-5212;
+   Page, Lionel/0000-0002-6020-9733
+SN 0138-9130
+EI 1588-2861
+PD JUL
+PY 2015
+VL 104
+IS 1
+BP 19
+EP 41
+DI 10.1007/s11192-015-1581-y
+UT WOS:000355948600002
+ER
+
+PT J
+AU Mingers, J
+AF Mingers, John
+TI Problems with the SNIP indicator
+SO JOURNAL OF INFORMETRICS
+SN 1751-1577
+EI 1875-5879
+PD OCT
+PY 2014
+VL 8
+IS 4
+BP 890
+EP 894
+DI 10.1016/j.joi.2014.09.004
+UT WOS:000345527400009
+ER
+
+PT J
+AU Mingers, J
+   Willmott, H
+AF Mingers, John
+   Willmott, Hugh
+TI Taylorizing business school research: On the "one best way' performative
+   effects of journal ranking lists
+SO HUMAN RELATIONS
+AB The article critically examines how work is shaped by performance measures. Its specific focus is upon the use of journal lists, rather than the detail of their construction, in conditioning the research activity of academics. It is argued that an effect of the one size fits all' logic of journal lists is to endorse and cultivate a research monoculture in which particular criteria, favoured by a given list, assume the status of a universal benchmark of performance (research quality'). The article demonstrates, with reference to the Association of Business Schools (ABS) Journal Guide', how use of a journal list can come to dominate and define the focus and trajectory of a field of research, with detrimental consequences for the development of scholarship.
+OI Mingers, John/0000-0002-4102-4696
+SN 0018-7267
+EI 1741-282X
+PD AUG
+PY 2013
+VL 66
+IS 8
+BP 1051
+EP 1073
+DI 10.1177/0018726712467048
+UT WOS:000322506300002
+ER
+
+PT J
+AU Mingers, J
+   Lipitakis, EAECG
+AF Mingers, John
+   Lipitakis, Evangelia A. E. C. G.
+TI Evaluating a department's research: Testing the Leiden methodology in
+   business and management
+SO INFORMATION PROCESSING & MANAGEMENT
+AB The Leiden methodology (LM), also sometimes called the "crown indicator", is a quantitative method for evaluating the research quality of a research group or academic department based on the citations received by the group in comparison to averages for the field. There have been a number of applications but these have mainly been in the hard sciences where the data on citations, provided by the ISI Web of Science (WoS), is more reliable. In the social sciences, including business and management, many journals and books are not included within WoS and so the LM has not been tested here. In this research study the LM has been applied on a dataset of over 3000 research publications from three UK business schools. The results show that the LM does indeed discriminate between the schools, and has a degree of concordance with other forms of evaluation, but that there are significant limitations and problems within this discipline. (C) 2012 Elsevier Ltd. All rights reserved.
+OI Mingers, John/0000-0002-4102-4696; Lipitakis,
+   Evangelia/0000-0002-9506-4319
+SN 0306-4573
+EI 1873-5371
+PD MAY
+PY 2013
+VL 49
+IS 3
+BP 587
+EP 595
+DI 10.1016/j.ipm.2012.11.002
+UT WOS:000317529900001
+ER
+
+PT J
+AU Siler, K
+AF Siler, Kyle
+TI Citation choice and innovation in science studies
+SO SCIENTOMETRICS
+AB What are the factors which render an article more likely to be cited? Using social network analysis of citations between published scholarly works, the nascent field around Social Studies of Science is examined from its incipience in 1971 until 2008. To gauge intellectual positioning, closeness centrality and orthodoxy rates are derived from bibliographic networks. Bibliographic orthodoxy is defined as the propensity of an article to cite other highly popular works. Orthodoxy and closeness centrality have differing effects on citation rates, varying across historical periods of development in the field. Effects were modest, but significant. In early time periods, articles with higher orthodoxy rates were cited more, but this effect dissipated over time. In contrast, citations associated with closeness centrality increased over time. Early SSS citation networks were smaller, less structurally cohesive and less modular than later networks. In contrast, later networks were larger, more structurally cohesive, more modular and less dense. These changes to the global SSS knowledge networks are linked to changes in the scientific reward structure ensconced in the network, particularly regarding orthodoxy and closeness centrality.
+SN 0138-9130
+EI 1588-2861
+PD APR
+PY 2013
+VL 95
+IS 1
+BP 385
+EP 415
+DI 10.1007/s11192-012-0881-8
+UT WOS:000316046000025
+ER
+
+PT J
+AU Rao, S
+   Iyengar, D
+   Goldsby, TJ
+AF Rao, Shashank
+   Iyengar, Deepak
+   Goldsby, Thomas J.
+TI On the measurement and benchmarking of research impact among active
+   logistics scholars
+SO INTERNATIONAL JOURNAL OF PHYSICAL DISTRIBUTION & LOGISTICS MANAGEMENT
+AB Purpose - Scholarly interest in carrying out impactful research continues to remain high. Yet, given that citations of scholarly work can never decrease with time, traditional measures of research impact (such as raw counts of citations) unwittingly discriminate against early career researchers and also make it hard to identify future high impact scholars. In the current study, the paper compares several commonly used measures of research impact to identify one that best normalizes for the effect of career stage. The measure thus applies equally across most career stages, providing a usable impact benchmark for logistics scholars irrespective of seniority level. The paper also aims to present benchmarks on that metric to help logistics scholars identify their research impact vis-d-vis their peers.
+   Design/methodology/approach - Bibliometric data on the research of 702 logistics scholars were collected and analyzed by dividing the scholars into different cohorts based on seniority. Comparisons of different citation metrics were then made.
+   Findings - The h-rate provides the most appropriate basis for comparing research impact across logistics scholars of various career stages. Benchmark h-rates are provided for scholars to identify their research impact.
+   Originality/value - The authors are unaware of any other work in the logistics field that measures the research impact of logistics scholars in this manner.
+SN 0960-0035
+EI 1758-664X
+PY 2013
+VL 43
+IS 10
+BP 814
+EP 832
+DI 10.1108/IJPDLM-07-2012-0207
+UT WOS:000326315400002
+ER
+
+PT J
+AU Sangwal, K
+AF Sangwal, Keshra
+TI Citation and impact factor distributions of scientific journals
+   published in individual countries
+SO JOURNAL OF INFORMETRICS
+AB The distributions of citations L, two- (IF2) and five-year impact factors (IF5), and citation half-lives lambda of journals published in different selected countries are analyzed using Langmuir-type relation: y(n) = y(0) {1 - alpha Kn/(1 + Kn)}, where y(n) denotes L-n, IF2(n) or IF5(n) of n-ranked journal, y(0) is the value of y(n) when journal rank n = 0, alpha is an empirical effectiveness parameter, and K is the Langmuir constant. It was found that: (1) the general features of the distribution of L-n, IF2(n) or IF5(n) of the journals published in different individual countries are similar to the results obtained before by the author from the analysis of the citation distribution data of papers of individual authors (K. Sangwal,Journal of Informetrics 7 (2013) 36-49), (2) in contrast to the theoretically expected value of the effectiveness parameter alpha = 1, the calculated values of alpha > 1 for journals published in different countries, (3) the trends of the distribution of cited half-lives lambda(n) of journals differ from those of L-n, IF2(n) and IF5(n) data for different countries, and show one, two or three linear regions, the longest linear regions with low slopes are observed in the case of countries publishing relatively high number of journals, and (4) the product of the Langmuir constant K and the number N of journals for the processes of citations and two- and five-year impact factors of journals published in different countries is constant for a process. The results suggest that: (1) the values of alpha > 1 are associated with a process that retards the generation of items (i.e. citations or impact factors), the difference (alpha - 1) being related to the dissemination of contents of the journals published by a country, and (2) the constancy of KN is related to the publication potential of a country. (c) 2013 Elsevier Ltd. All rights reserved.
+SN 1751-1577
+EI 1875-5879
+PY 2013
+VL 7
+IS 2
+BP 487
+EP 504
+DI 10.1016/j.joi.2013.01.011
+UT WOS:000318377100026
+ER
+
+PT J
+AU Mingers, J
+   Macri, F
+   Petrovici, D
+AF Mingers, John
+   Macri, Frederico
+   Petrovici, Dan
+TI Using the h-index to measure the quality of journals in the field of
+   business and management
+SO INFORMATION PROCESSING & MANAGEMENT
+AB This paper considers the use of the h-index as a measure of a journal's research quality and contribution. We study a sample of 455 journals in business and management all of which are included in the ISI Web of Science (WoS) and the Association of Business School's peer review journal ranking list. The h-index is compared with both the traditional impact factors, and with the peer review judgements. We also consider two sources of citation data the WoS itself and Google Scholar. The conclusions are that the h-index is preferable to the impact factor for a variety of reasons, especially the selective coverage of the impact factor and the fact that it disadvantages journals that publish many papers. Google Scholar is also preferred to WoS as a data source. However, the paper notes that it is not sufficient to use any single metric to properly evaluate research achievements. (C) 2011 Elsevier Ltd. All rights reserved.
+OI Mingers, John/0000-0002-4102-4696
+SN 0306-4573
+PD MAR
+PY 2012
+VL 48
+IS 2
+BP 234
+EP 241
+DI 10.1016/j.ipm.2011.03.009
+UT WOS:000301625900004
+ER
+
+PT J
+AU Levitt, JM
+   Thelwall, M
+AF Levitt, Jonathan M.
+   Thelwall, Mike
+TI A combined bibliometric indicator to predict article impact
+SO INFORMATION PROCESSING & MANAGEMENT
+AB In both the UK and Australia there has been a recent move to use citation analysis in the evaluation of the research of individuals. In particular, the future UK Research Excellence Framework (REF), proposes using citation data in the research evaluation of articles published as recently as the year prior to the evaluation. In response to this move, this research develops an indicator at the level of individual articles that, when normalized, can supplement peer review. The new hybrid indicator is the weighted sum of two indicators in common usage: the article's total number of citations in a citation window, and the Impact Factor of the journal in which the article was published. This research compares this new indicator with the article's total number of citations in a longer citation window (the standard indicator of article impact). For citation windows of 0 or 1 years, the correlation of the simplified weighted sum with long-term citation is substantially higher than the correlation of the standard indicator of article citation with long-term citation. Moreover, for citation windows of as long as 3 years the standard indicator of citation correlates significantly with the month of publication, in that articles published earlier in the year are on average more highly cited than those published later in the year. By contrast, the skewing of the simplified weighted sum towards articles published early in the year is considerably less than that of the standard indicator. (C) 2010 Elsevier Ltd. All rights reserved.
+RI Thelwall, Mike/C-1449-2013
+OI Thelwall, Mike/0000-0001-6065-205X
+SN 0306-4573
+PD MAR
+PY 2011
+VL 47
+IS 2
+BP 300
+EP 308
+DI 10.1016/j.ipm.2010.09.005
+UT WOS:000288407300012
+ER
+
+PT J
+AU Mingers, J
+   Xu, F
+AF Mingers, John
+   Xu, Fang
+TI The drivers of citations in management science journals
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+AB The number of citations is becoming an increasingly popular index for measuring the impact of a scholar's research or the quality of an academic department. One obvious question is: what are the factors that influence the number of citations that a paper receives? This study investigates the number of citations received by papers published in six well-known management science journals. It considers factors that relate to the author(s), the article itself, and the journal. The results show that the strongest factor is the journal itself; but other factors are also significant including the length of the paper, the number of references, the status of the first author's institution, and the type of paper, especially if it is a review. Overall, this study provides some insights into the determinants of a paper's impact that may be helpful for particular stakeholders to make important decisions. (C) 2009 Elsevier B.V. All rights reserved.
+OI Mingers, John/0000-0002-4102-4696
+SN 0377-2217
+PD SEP 1
+PY 2010
+VL 205
+IS 2
+BP 422
+EP 430
+DI 10.1016/j.ejor.2009.12.008
+UT WOS:000276030200020
+ER
+
+PT J
+AU Falagas, ME
+   Kouranos, VD
+   Michalopoulos, A
+   Rodopoulou, SP
+   Batsiou, MA
+   Karageorgopoulos, DE
+AF Falagas, M. E.
+   Kouranos, V. D.
+   Michalopoulos, A.
+   Rodopoulou, S. P.
+   Batsiou, M. A.
+   Karageorgopoulos, D. E.
+TI Comparison of the distribution of citations received by articles
+   published in high, moderate, and low impact factor journals in clinical
+   medicine
+SO INTERNAL MEDICINE JOURNAL
+AB Background:
+   Whether the journal impact factor (JIF) indicator reflects the number of citations to an average article of a journal in different subject categories is controversial. We sought to further investigate this issue in general and internal medicine journals.
+   Methods:
+   We selected to evaluate three journals of the above subject category, in each of three different JIF levels (high: 15.5-28.6, moderate: 4.4-4.9 and low: 1.6). Using the Scopus database, we retrieved the original research articles (after detailed screening) and review articles (as classified by Scopus) that were published in the selected journals in 2005 along with the number of citations they received in 2006 and 2007. We pooled the citations for articles of the same type in journals with the same JIF level into distinct variables.
+   Results:
+   There was no marked association between the distribution of citations per article published in general medical journals and their JIF. All distributions studied were skewed to the right (higher number of citations). Specifically, 16-22% of the original research articles accounted for 50% of the total citations to this type of article for all three categories of studied journals; 34-37% of original research articles accounted for 75% of citations. The respective values for review articles were 12-18% and 29-39%.
+   Conclusion:
+   The distribution of citations received by articles published in high, moderate and low impact factor journals in clinical medicine seems similar. The JIF is not an accurate indicator of the citations the average article receives; articles published in low impact factor journals can still be highly cited and vice versa.
+RI Karageorgopoulos, Drosos/K-9241-2018
+OI Karageorgopoulos, Drosos/0000-0002-9959-9978; Michalopoulos,
+   Argyris/0000-0002-6904-164X; Kouranos, Vasileios/0000-0002-2723-0928
+SN 1444-0903
+PD AUG
+PY 2010
+VL 40
+IS 8
+BP 587
+EP 591
+DI 10.1111/j.1445-5994.2010.02247.x
+UT WOS:000281064700008
+PM 20718883
+ER
+
+PT J
+AU Franceschini, F
+   Maisano, DA
+AF Franceschini, Fiorenzo
+   Maisano, Domenico A.
+TI Analysis of the Hirsch index's operational properties
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+AB The h-index is a relatively recent bibliometric indicator for assessing the research output of scientists, based on the publications and the corresponding citations. Due to the original characteristics of easy calculation and immediate intuitive meaning, this indicator has become very popular in the scientific community. Also, it received some criticism essentially because of its "low" accuracy. The contribution of this paper is to provide a detailed analysis of the h-index, from the point of view of the indicator operational properties. This work can be helpful to better understand the peculiarities and limits of h and avoid its misuse. Finally, we suggest an additional indicator (f) that complements h with the information related to the publication age, not compromising the original simplicity and immediacy of understanding. (C) 2009 Elsevier B.V. All rights reserved.
+RI MAISANO, Domenico/B-4301-2010
+OI MAISANO, Domenico/0000-0002-8154-4469
+SN 0377-2217
+EI 1872-6860
+PD JUN 1
+PY 2010
+VL 203
+IS 2
+BP 494
+EP 504
+DI 10.1016/j.ejor.2009.08.001
+UT WOS:000272588200022
+ER
+
+PT J
+AU De Visscher, A
+AF De Visscher, Alex
+TI An Index to Measure a Scientist's Specific Impact
+SO JOURNAL OF THE AMERICAN SOCIETY FOR INFORMATION SCIENCE AND TECHNOLOGY
+AB The specific impact index, or s-index, is introduced as a measure of a scientist's projected impact per paper. The index is complementary to other indices that measure overall impact as it can distinguish between authors maximizing the quantity of their output and authors maximizing the quality of their output. It also can be used to monitor career progress. The main advantage of the new index is that it reduces age bias from older papers that have more time to accumulate citations than do more recent papers. The index was tested on 24 scientists in different fields and of different statures. The overall projected impact estimated from the index correlates well with Hirsch's h-index squared (r(2) = 0.99). The impact of different aging models was evaluated as well.
+RI De Visscher, Alex/B-3618-2008
+OI De Visscher, Alex/0000-0002-2464-7605
+SN 1532-2882
+EI 1532-2890
+PD FEB
+PY 2010
+VL 61
+IS 2
+BP 319
+EP 328
+DI 10.1002/asi.21240
+UT WOS:000274038400008
+ER
+
+PT J
+AU Mingers, J
+AF Mingers, J.
+TI Measuring the research contribution of management academics using the
+   Hirsch-index
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+AB There is an increasing emphasis on the use of metrics for assessing the research contribution of academics, departments, journals or conferences. Contribution has two dimensions: quantity which can be measured by number/size of the outputs, and quality which is most easily measured by the number of citations. Recently, Hirsch proposed a new metric which is simple, combines both quality and quantity in one number, and is robust to measurement problems. This paper applies the Hirsch-index (h-index) to three groups of management academics-BAM Fellows, INFORMS Fellows and members of COPIOR-in order to evaluate the extent to which the h-index would serve as a reliable measure of the contribution of researchers in the management field. Journal of the Operational Research Society (2009) 60, 1143-1153. doi:10.1057/jors.2008.94 Published online 24 September 2008
+OI Mingers, John/0000-0002-4102-4696
+SN 0160-5682
+PD SEP
+PY 2009
+VL 60
+IS 9
+BP 1143
+EP 1153
+DI 10.1057/jors.2008.94
+UT WOS:000268641100001
+ER
+
+EF

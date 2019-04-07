@@ -1,0 +1,822 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Xie, J
+   Gong, KL
+   Cheng, Y
+   Ke, Q
+AF Xie, Juan
+   Gong, Kaile
+   Cheng, Ying
+   Ke, Qing
+TI The correlation between paper length and citations: a meta-analysis
+SO SCIENTOMETRICS
+SN 0138-9130
+EI 1588-2861
+PD MAR
+PY 2019
+VL 118
+IS 3
+BP 763
+EP 786
+DI 10.1007/s11192-019-03015-0
+UT WOS:000460804500003
+ER
+
+PT J
+AU Amirbagheri, K
+   Nunez-Carballosa, A
+   Guitart-Tarres, L
+   Merigo, JM
+AF Amirbagheri, Keivan
+   Nunez-Carballosa, Ana
+   Guitart-Tarres, Laura
+   Merigo, Jose M.
+TI Research on green supply chain: a bibliometric analysis
+SO CLEAN TECHNOLOGIES AND ENVIRONMENTAL POLICY
+RI Merigo, Jose M./G-3614-2010
+OI Merigo, Jose M./0000-0002-4672-6961
+SN 1618-954X
+EI 1618-9558
+PD JAN
+PY 2019
+VL 21
+IS 1
+BP 3
+EP 22
+DI 10.1007/s10098-018-1624-1
+UT WOS:000456178400002
+ER
+
+PT J
+AU Belkhouja, M
+   Yoon, H
+AF Belkhouja, Mustapha
+   Yoon, Hyungseok (David)
+TI How does openness influence the impact of a scholar's research? An
+   analysis of business scholars' citations over their careers
+SO RESEARCH POLICY
+OI Yoon, Hyungseok/0000-0003-1423-9808
+SN 0048-7333
+EI 1873-7625
+PD DEC
+PY 2018
+VL 47
+IS 10
+BP 2037
+EP 2047
+DI 10.1016/j.respol.2018.07.012
+UT WOS:000450134200013
+ER
+
+PT J
+AU Paine, CET
+   Fox, CW
+AF Paine, C. E. Timothy
+   Fox, Charles W.
+TI The effectiveness of journals as arbiters of scientific impact
+SO ECOLOGY AND EVOLUTION
+RI Fox, Charles/I-5274-2012
+OI Fox, Charles/0000-0002-7545-7967
+SN 2045-7758
+PD OCT
+PY 2018
+VL 8
+IS 19
+BP 9566
+EP 9585
+DI 10.1002/ece3.4467
+UT WOS:000448803000001
+PM 30386557
+ER
+
+PT J
+AU Meyer, M
+   Waldkirch, RW
+   Duscher, I
+   Just, A
+AF Meyer, Matthias
+   Waldkirch, Ruediger W.
+   Duscher, Irina
+   Just, Alexander
+TI Drivers of citations: An analysis of publications in "top" accounting
+   journals
+SO CRITICAL PERSPECTIVES ON ACCOUNTING
+SN 1045-2354
+PD MAR
+PY 2018
+VL 51
+SI SI
+BP 24
+EP 46
+DI 10.1016/j.cpa.2017.07.001
+UT WOS:000430781500003
+ER
+
+PT J
+AU Popp, J
+   Balogh, P
+   Olah, J
+   Kot, S
+   Rakos, MH
+   Lengyel, P
+AF Popp, Jozsef
+   Balogh, Peter
+   Olah, Judit
+   Kot, Sebastian
+   Rakos, Monika Harangi
+   Lengyel, Peter
+TI Social Network Analysis of Scientific Articles Published by Food Policy
+SO SUSTAINABILITY
+RI Kot, Sebastian/P-5165-2018
+OI Kot, Sebastian/0000-0002-8272-6918; Judit, Dr. Olah/0000-0003-2247-1711;
+   Balogh, Peter/0000-0002-8611-0221
+SN 2071-1050
+PD MAR
+PY 2018
+VL 10
+IS 3
+AR 577
+DI 10.3390/su10030577
+UT WOS:000428567100004
+ER
+
+PT J
+AU Reingewertz, Y
+   Lutmar, C
+AF Reingewertz, Yaniv
+   Lutmar, Carmela
+TI Academic in-group bias: An empirical examination of the link between
+   author and journal affiliation
+SO JOURNAL OF INFORMETRICS
+SN 1751-1577
+EI 1875-5879
+PD FEB
+PY 2018
+VL 12
+IS 1
+BP 74
+EP 86
+DI 10.1016/j.joi.2017.11.006
+UT WOS:000427479800006
+ER
+
+PT J
+AU Merigo, JM
+   Yang, JB
+AF Merigo, Jose M.
+   Yang, Jian-Bo
+TI A bibliometric analysis of operations research and management science
+SO OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE
+RI Yang, Jian-Bo/C-2411-2015; Yang, Jian-Bo/D-8047-2016; Merigo, Jose
+   M./G-3614-2010
+OI Merigo, Jose M./0000-0002-4672-6961
+SN 0305-0483
+PD DEC
+PY 2017
+VL 73
+BP 37
+EP 48
+DI 10.1016/j.omega.2016.12.004
+UT WOS:000412964700004
+ER
+
+PT J
+AU Vogel, R
+   Hattke, F
+   Petersen, J
+AF Vogel, Rick
+   Hattke, Fabian
+   Petersen, Jessica
+TI Journal rankings in management and business studies: What rules do we
+   play by?
+SO RESEARCH POLICY
+SN 0048-7333
+EI 1873-7625
+PD DEC
+PY 2017
+VL 46
+IS 10
+BP 1707
+EP 1722
+DI 10.1016/j.respol.2017.07.001
+UT WOS:000413796800001
+ER
+
+PT J
+AU Nielsen, MW
+AF Nielsen, Mathias Wullum
+TI Gender and citation impact in management research
+SO JOURNAL OF INFORMETRICS
+OI Nielsen, Mathias Wullum/0000-0001-8759-7150
+SN 1751-1577
+EI 1875-5879
+PD NOV
+PY 2017
+VL 11
+IS 4
+BP 1213
+EP 1228
+DI 10.1016/j.joi.2017.09.005
+UT WOS:000418020600021
+ER
+
+PT J
+AU Fox, CW
+AF Fox, Charles W.
+TI Difficulty of recruiting reviewers predicts review scores and editorial
+   decisions at six journals of ecology and evolution
+SO SCIENTOMETRICS
+RI Fox, Charles/I-5274-2012
+OI Fox, Charles/0000-0002-7545-7967
+SN 0138-9130
+EI 1588-2861
+PD OCT
+PY 2017
+VL 113
+IS 1
+BP 465
+EP 477
+DI 10.1007/s11192-017-2489-5
+UT WOS:000412527000023
+ER
+
+PT J
+AU St Clair, R
+   Hicks, D
+   Isett, KR
+AF St Clair, Rebekah
+   Hicks, Diana
+   Isett, Kimberley R.
+TI An Investigation Into the Characteristics of Papers With High Scholarly
+   Citations in Public Administration: The Relativity of Theory and Method
+SO REVIEW OF PUBLIC PERSONNEL ADMINISTRATION
+SN 0734-371X
+EI 1552-759X
+PD SEP
+PY 2017
+VL 37
+IS 3
+BP 323
+EP 350
+DI 10.1177/0734371X17698188
+UT WOS:000407125200003
+ER
+
+PT J
+AU Hanel, PHP
+   Haase, J
+AF Hanel, Paul H. P.
+   Haase, Jennifer
+TI Predictors of Citation Rate in Psychology: Inconclusive Influence of
+   Effect and Sample Size
+SO FRONTIERS IN PSYCHOLOGY
+OI Hanel, Paul H. P./0000-0002-3225-1395
+SN 1664-1078
+PD JUL 11
+PY 2017
+VL 8
+AR 1160
+DI 10.3389/fpsyg.2017.01160
+UT WOS:000405222800002
+PM 28744246
+ER
+
+PT J
+AU Summers, SL
+   Wood, DA
+AF Summers, Scott L.
+   Wood, David A.
+TI An Evaluation of the General versus Specialist Nature of Top Accounting
+   Journals
+SO ACCOUNTING HORIZONS
+OI Summers, Scott L./0000-0002-7824-6591
+SN 0888-7993
+EI 1558-7975
+PD JUN
+PY 2017
+VL 31
+IS 2
+BP 105
+EP 124
+DI 10.2308/acch-51712
+UT WOS:000403089000006
+ER
+
+PT J
+AU Wu, CJ
+   Yan, EJ
+   Hill, C
+AF Wu, Chaojiang
+   Yan, Erjia
+   Hill, Chelsey
+TI Disciplinary knowledge diffusion in business research
+SO JOURNAL OF INFORMETRICS
+RI Yan, Erjia/E-7887-2011
+OI Yan, Erjia/0000-0002-0365-9340
+SN 1751-1577
+EI 1875-5879
+PD MAY
+PY 2017
+VL 11
+IS 2
+BP 655
+EP 668
+DI 10.1016/j.joi.2017.04.005
+UT WOS:000403857200024
+ER
+
+PT J
+AU Ronda-Pupo, GA
+AF Armando Ronda-Pupo, Guillermo
+TI The effect of document types and sizes on the scaling relationship
+   between citations and co-authorship patterns in management journals
+SO SCIENTOMETRICS
+RI Ronda-Pupo, Guillermo/F-9512-2014
+OI Ronda-Pupo, Guillermo/0000-0002-9049-8249
+SN 0138-9130
+EI 1588-2861
+PD MAR
+PY 2017
+VL 110
+IS 3
+BP 1191
+EP 1207
+DI 10.1007/s11192-016-2231-8
+UT WOS:000394339500006
+ER
+
+PT J
+AU Martinez-Blasco, M
+   Argiles-Bosch, JM
+   Garcia-Blandon, J
+   Zorita, CMD
+AF Martinez-Blasco, Monica
+   Maria Argiles-Bosch, Josep
+   Garcia-Blandon, Josep
+   De Ibarreta Zorita, Carlos Martinez
+TI Factors influencing citations in accounting: an analysis of REFC
+SO SPANISH JOURNAL OF FINANCE AND ACCOUNTING-REVISTA ESPANOLA DE
+   FINANCIACION Y CONTABILIDA
+SN 0210-2412
+EI 2332-0753
+PD DEC
+PY 2016
+VL 45
+IS 4
+BP 487
+EP 516
+DI 10.1080/02102412.2016.1216815
+UT WOS:000387789500005
+ER
+
+PT J
+AU Fox, CW
+   Paine, CET
+   Sauterey, B
+AF Fox, Charles W.
+   Paine, C. E. Timothy
+   Sauterey, Boris
+TI Citations increase with manuscript length, author number, and references
+   cited in ecology journals
+SO ECOLOGY AND EVOLUTION
+OI Paine, C. E. Timothy/0000-0001-8705-3719; Sauterey,
+   Boris/0000-0001-6164-756X
+SN 2045-7758
+PD NOV
+PY 2016
+VL 6
+IS 21
+BP 7717
+EP 7726
+DI 10.1002/ece3.2505
+UT WOS:000387120800014
+PM 30128123
+ER
+
+PT J
+AU Gorjizadeh, D
+   Eftekhar, A
+AF Gorjizadeh, Davood
+   Eftekhar, Azar
+TI A Scientometric Analysis of Scholarly Publication in the Fields of
+   Management, Operations, Economics, and Business from Iran
+SO JOURNAL OF SCHOLARLY PUBLISHING
+SN 1198-9742
+EI 1710-1166
+PD JUL
+PY 2016
+VL 47
+IS 4
+BP 347
+EP 361
+DI 10.3138/jsp.47.4.347
+UT WOS:000380393000004
+ER
+
+PT J
+AU Nair, LB
+   Gibbert, M
+AF Nair, Lakshmi Balachandran
+   Gibbert, Michael
+TI What makes a 'good' title and (how) does it matter for citations? A
+   review and general model of article title attributes in management
+   science
+SO SCIENTOMETRICS
+SN 0138-9130
+EI 1588-2861
+PD JUN
+PY 2016
+VL 107
+IS 3
+BP 1331
+EP 1359
+DI 10.1007/s11192-016-1937-y
+UT WOS:000376273700021
+ER
+
+PT J
+AU Gallivan, M
+   Ahuja, M
+AF Gallivan, Michael
+   Ahuja, Manju
+TI Co-authorship, Homophily, and Scholarly Influence in Information Systems
+   Research
+SO JOURNAL OF THE ASSOCIATION FOR INFORMATION SYSTEMS
+SN 1536-9323
+EI 1558-3457
+PD DEC
+PY 2015
+VL 16
+IS 12
+BP 980
+EP 1015
+UT WOS:000367680700001
+ER
+
+PT J
+AU Mingers, J
+   Leydesdorff, L
+AF Mingers, John
+   Leydesdorff, Loet
+TI A review of theory and practice in scientometrics
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+RI Zuluaga Gaviria, Jennifer Daniela/T-2321-2017; Leydesdorff,
+   Loet/E-2903-2010
+OI Leydesdorff, Loet/0000-0002-7835-3098; Mingers, John/0000-0002-4102-4696
+SN 0377-2217
+EI 1872-6860
+PD OCT 1
+PY 2015
+VL 246
+IS 1
+BP 1
+EP 19
+DI 10.1016/j.ejor.2015.04.002
+UT WOS:000356742800001
+ER
+
+PT J
+AU Stegehuis, C
+   Litvak, N
+   Waltman, L
+AF Stegehuis, Clara
+   Litvak, Nelly
+   Waltman, Ludo
+TI Predicting the long-term citation impact of recent publications
+SO JOURNAL OF INFORMETRICS
+SN 1751-1577
+EI 1875-5879
+PD JUL
+PY 2015
+VL 9
+IS 3
+BP 642
+EP 657
+DI 10.1016/j.joi.2015.06.005
+UT WOS:000360907400020
+ER
+
+PT J
+AU Amara, N
+   Landry, R
+   Halilem, N
+AF Amara, Nabil
+   Landry, Rejean
+   Halilem, Norrin
+TI What can university administrators do to increase the publication and
+   citation scores of their faculty members?
+SO SCIENTOMETRICS
+RI Halilem, Norrin/H-2653-2017
+OI Halilem, Norrin/0000-0001-7970-4884
+SN 0138-9130
+EI 1588-2861
+PD MAY
+PY 2015
+VL 103
+IS 2
+BP 489
+EP 530
+DI 10.1007/s11192-015-1537-2
+UT WOS:000352995000009
+ER
+
+PT J
+AU Stremersch, S
+   Camacho, N
+   Vanneste, S
+   Verniers, I
+AF Stremersch, Stefan
+   Camacho, Nuno
+   Vanneste, Sofie
+   Verniers, Isabel
+TI Unraveling scientific impact: Citation types in marketing journals
+SO INTERNATIONAL JOURNAL OF RESEARCH IN MARKETING
+SN 0167-8116
+EI 1873-8001
+PD MAR
+PY 2015
+VL 32
+IS 1
+BP 64
+EP 77
+DI 10.1016/j.ijresmar.2014.09.004
+UT WOS:000351020000006
+ER
+
+PT J
+AU Ronda-Pupo, GA
+   Diaz-Contreras, C
+   Ronda-Velazquez, G
+   Ronda-Pupo, JC
+AF Armando Ronda-Pupo, Guillermo
+   Diaz-Contreras, Carlos
+   Ronda-Velazquez, Guillermo
+   Carlos Ronda-Pupo, Jorge
+TI The role of academic collaboration in the impact of Latin-American
+   research on management
+SO SCIENTOMETRICS
+RI Ronda-Pupo, Guillermo/F-9512-2014
+OI Ronda-Pupo, Guillermo/0000-0002-9049-8249
+SN 0138-9130
+EI 1588-2861
+PD FEB
+PY 2015
+VL 102
+IS 2
+BP 1435
+EP 1454
+DI 10.1007/s11192-014-1486-1
+UT WOS:000348324000018
+ER
+
+PT J
+AU Derrick, GE
+   Pavone, V
+AF Derrick, Gemma E.
+   Pavone, Vincenzo
+TI Democratising research evaluation: Achieving greater public engagement
+   with bibliometrics-informed peer review
+SO SCIENCE AND PUBLIC POLICY
+RI Singh, Moirangthem Lokendro/L-4609-2018; Derrick, Gemma/D-8970-2018
+OI Singh, Moirangthem Lokendro/0000-0002-8385-214X; Pavone,
+   Vincenzo/0000-0002-2326-0118; Derrick, Gemma/0000-0001-5386-8653
+SN 0302-3427
+EI 1471-5430
+PD OCT
+PY 2013
+VL 40
+IS 5
+BP 563
+EP 575
+DI 10.1093/scipol/sct007
+UT WOS:000328357300001
+ER
+
+PT J
+AU Mingers, J
+   Willmott, H
+AF Mingers, John
+   Willmott, Hugh
+TI Taylorizing business school research: On the "one best way' performative
+   effects of journal ranking lists
+SO HUMAN RELATIONS
+OI Mingers, John/0000-0002-4102-4696
+SN 0018-7267
+EI 1741-282X
+PD AUG
+PY 2013
+VL 66
+IS 8
+BP 1051
+EP 1073
+DI 10.1177/0018726712467048
+UT WOS:000322506300002
+ER
+
+PT J
+AU Martinez, C
+   Azagra-Caro, JM
+   Maraut, S
+AF Martinez, Catalina
+   Azagra-Caro, Joaquin M.
+   Maraut, Stephane
+TI Academic Inventors, Scientific Impact and the Institutionalisation of
+   Pasteur's Quadrant in Spain
+SO INDUSTRY AND INNOVATION
+RI Martinez, Catalina/M-4056-2014; Azagra-Caro, Joaquin M./I-3356-2015
+OI Martinez, Catalina/0000-0003-1010-8384; Azagra-Caro, Joaquin
+   M./0000-0002-9598-0376
+SN 1366-2716
+EI 1469-8390
+PD JUL 1
+PY 2013
+VL 20
+IS 5
+SI SI
+BP 438
+EP 455
+DI 10.1080/13662716.2013.824194
+UT WOS:000324087400005
+ER
+
+PT J
+AU Trier, M
+   Molka-Danielsen, J
+AF Trier, Matthias
+   Molka-Danielsen, Judith
+TI Sympathy or strategy: social capital drivers for collaborative
+   contributions to the IS community
+SO EUROPEAN JOURNAL OF INFORMATION SYSTEMS
+SN 0960-085X
+PD MAY
+PY 2013
+VL 22
+IS 3
+BP 317
+EP 335
+DI 10.1057/ejis.2012.27
+UT WOS:000317572500005
+ER
+
+PT J
+AU Vanclay, JK
+AF Vanclay, Jerome K.
+TI Factors affecting citation rates in environmental science
+SO JOURNAL OF INFORMETRICS
+OI Vanclay, Jerome/0000-0002-5639-5481
+SN 1751-1577
+EI 1875-5879
+PY 2013
+VL 7
+IS 2
+BP 265
+EP 271
+DI 10.1016/j.joi.2012.11.009
+UT WOS:000318377100002
+ER
+
+PT J
+AU Schneider, JW
+AF Schneider, Jesper W.
+TI Caveats for using statistical significance tests in research assessments
+SO JOURNAL OF INFORMETRICS
+RI Schneider, Jesper Wiborg/J-9068-2012
+OI Schneider, Jesper Wiborg/0000-0001-5556-0919
+SN 1751-1577
+EI 1875-5879
+PD JAN
+PY 2013
+VL 7
+IS 1
+BP 50
+EP 62
+DI 10.1016/j.joi.2012.08.005
+UT WOS:000313121300005
+ER
+
+PT J
+AU Ou, AY
+   Varriale, L
+   Tsui, AS
+AF Ou, Amy Y.
+   Varriale, Luisa
+   Tsui, Anne S.
+TI International Collaboration for Academic Publication: Implications From
+   the Resource-Based View and Transaction Cost Theory
+SO GROUP & ORGANIZATION MANAGEMENT
+SN 1059-6011
+PD AUG
+PY 2012
+VL 37
+IS 4
+BP 407
+EP 451
+DI 10.1177/1059601112448422
+UT WOS:000306841300001
+ER
+
+PT J
+AU Bragge, J
+   Korhonen, P
+   Wallenius, H
+   Wallenius, J
+AF Bragge, Johanna
+   Korhonen, Pekka
+   Wallenius, Hannele
+   Wallenius, Jyrki
+TI SCHOLARLY COMMUNITIES OF RESEARCH IN MULTIPLE CRITERIA DECISION MAKING:
+   A BIBLIOMETRIC RESEARCH PROFILING STUDY
+SO INTERNATIONAL JOURNAL OF INFORMATION TECHNOLOGY & DECISION MAKING
+RI Wallenius, Hannele/L-7785-2013; Bragge, Johanna/C-6227-2008
+OI Wallenius, Hannele/0000-0003-4324-9319; Bragge,
+   Johanna/0000-0002-4084-3104
+SN 0219-6220
+EI 1793-6845
+PD MAR
+PY 2012
+VL 11
+IS 2
+BP 401
+EP 426
+DI 10.1142/S0219622012400081
+UT WOS:000304102700008
+ER
+
+PT J
+AU Hofer, V
+   Leitner, J
+AF Hofer, Vera
+   Leitner, Johannes
+TI A bivariate Sarmanov regression model for count data with generalised
+   Poisson marginals
+SO JOURNAL OF APPLIED STATISTICS
+SN 0266-4763
+PY 2012
+VL 39
+IS 12
+BP 2599
+EP 2617
+DI 10.1080/02664763.2012.724661
+UT WOS:000310130900005
+ER
+
+PT J
+AU Taylor, J
+AF Taylor, Jim
+TI The Assessment of Research Quality in UK Universities: Peer Review or
+   Metrics?
+SO BRITISH JOURNAL OF MANAGEMENT
+SN 1045-3172
+PD JUN
+PY 2011
+VL 22
+IS 2
+BP 202
+EP 217
+DI 10.1111/j.1467-8551.2010.00722.x
+UT WOS:000290580600002
+ER
+
+PT J
+AU Perez-Cabanero, C
+   Cuadrado-Garcia, M
+AF Perez-Cabanero, Carmen
+   Cuadrado-Garcia, Manuel
+TI Evolution of Arts and Cultural Management Research Over the First Ten
+   AIMAC Conferences (1991-2009)
+SO INTERNATIONAL JOURNAL OF ARTS MANAGEMENT
+RI Perez-Cabanero, Carmen/L-1335-2014
+OI Perez-Cabanero, Carmen/0000-0002-6198-3990
+SN 1480-8986
+PD SPR
+PY 2011
+VL 13
+IS 3
+BP 56
+EP 68
+UT WOS:000295491200005
+ER
+
+PT J
+AU Mingers, J
+   Lipitakis, EAECG
+AF Mingers, John
+   Lipitakis, Evangelia A. E. C. G.
+TI Counting the citations: a comparison of Web of Science and Google
+   Scholar in the field of business and management
+SO SCIENTOMETRICS
+OI Mingers, John/0000-0002-4102-4696; Lipitakis,
+   Evangelia/0000-0002-9506-4319
+SN 0138-9130
+PD NOV
+PY 2010
+VL 85
+IS 2
+BP 613
+EP 625
+DI 10.1007/s11192-010-0270-0
+UT WOS:000282048200018
+ER
+
+EF

@@ -1,0 +1,968 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Chen, Y
+   Deng, SY
+   Kwak, DH
+   Elnoshokaty, A
+   Wu, J
+AF Chen, Yan
+   Deng, Shuyuan
+   Kwak, Dong-Heon
+   Elnoshokaty, Ahmed
+   Wu, Jiao
+TI A Multi-Appeal Model of Persuasion for Online Petition Success: A
+   Linguistic Cue-Based Approach
+SO JOURNAL OF THE ASSOCIATION FOR INFORMATION SYSTEMS
+SN 1536-9323
+EI 1558-3457
+PY 2019
+VL 20
+IS 2
+BP 105
+EP 131
+DI 10.17705/1jais.00530
+UT WOS:000462270200001
+ER
+
+PT J
+AU Dalal, N
+   Pauleen, DJ
+AF Dalal, Nikunj
+   Pauleen, David J.
+TI The wisdom nexus: Guiding information systems research, practice, and
+   education
+SO INFORMATION SYSTEMS JOURNAL
+SN 1350-1917
+EI 1365-2575
+PD JAN
+PY 2019
+VL 29
+IS 1
+BP 224
+EP 244
+DI 10.1111/isj.12196
+UT WOS:000452626400010
+ER
+
+PT J
+AU Reijers, W
+   Wright, D
+   Brey, P
+   Weber, K
+   Rodrigues, R
+   O'Sullivan, D
+   Gordijn, B
+AF Reijers, Wessel
+   Wright, David
+   Brey, Philip
+   Weber, Karsten
+   Rodrigues, Rowena
+   O'Sullivan, Declan
+   Gordijn, Bert
+TI Methods for Practising Ethics in Research and Innovation: A Literature
+   Review, Critical Analysis and Recommendations
+SO SCIENCE AND ENGINEERING ETHICS
+SN 1353-3452
+EI 1471-5546
+PD OCT
+PY 2018
+VL 24
+IS 5
+BP 1437
+EP 1481
+DI 10.1007/s11948-017-9961-8
+UT WOS:000447771500005
+PM 28900898
+ER
+
+PT J
+AU Lee, K
+   Park, J
+   Suh, J
+AF Lee, Kyuhan
+   Park, Jinsoo
+   Suh, Jihae
+TI Investigating Knowledge Flows between Information Systems and Other
+   Disciplines: Seeking Greater Research Opportunities
+SO DATA BASE FOR ADVANCES IN INFORMATION SYSTEMS
+SN 0095-0033
+PD MAY
+PY 2018
+VL 49
+IS 2
+BP 14
+EP 34
+UT WOS:000433516500002
+ER
+
+PT J
+AU Hassan, NR
+   Mingers, J
+   Stahl, B
+AF Hassan, Nik Rushdi
+   Mingers, John
+   Stahl, Bernd
+TI Philosophy and information systems: where are we and where should we go?
+SO EUROPEAN JOURNAL OF INFORMATION SYSTEMS
+OI Stahl, Bernd Carsten/0000-0002-4058-4456
+SN 0960-085X
+EI 1476-9344
+PY 2018
+VL 27
+IS 3
+SI SI
+BP 263
+EP 277
+DI 10.1080/0960085X.2018.1470776
+UT WOS:000434327800001
+ER
+
+PT J
+AU Ngwenyama, O
+   Klein, S
+AF Ngwenyama, Ojelanki
+   Klein, Stefan
+TI Phronesis, argumentation and puzzle solving in IS research: illustrating
+   an approach to phronetic IS research practice
+SO EUROPEAN JOURNAL OF INFORMATION SYSTEMS
+SN 0960-085X
+EI 1476-9344
+PY 2018
+VL 27
+IS 3
+SI SI
+BP 347
+EP 366
+DI 10.1080/0960085X.2018.1435229
+UT WOS:000434327800006
+ER
+
+PT J
+AU Rowe, F
+AF Rowe, Frantz
+TI Being critical is good, but better with philosophy! From digital
+   transformation and values to the future of IS research
+SO EUROPEAN JOURNAL OF INFORMATION SYSTEMS
+RI Montjoy, Daniel/Q-1947-2018
+OI Montjoy, Daniel/0000-0002-5492-356X
+SN 0960-085X
+EI 1476-9344
+PY 2018
+VL 27
+IS 3
+SI SI
+BP 380
+EP 393
+DI 10.1080/0960085X.2018.1471789
+UT WOS:000434327800008
+ER
+
+PT J
+AU Cruz, AGB
+   Seo, Y
+   Rex, M
+AF Cruz, Angela Gracia B.
+   Seo, Yuri
+   Rex, Mathew
+TI Trolling in online communities: A practice-based theoretical perspective
+SO INFORMATION SOCIETY
+RI ; Seo, Yuri/B-7702-2014
+OI Cruz, Angela Gracia B./0000-0002-8977-6088; Seo,
+   Yuri/0000-0003-0463-4708
+SN 0197-2243
+EI 1087-6537
+PY 2018
+VL 34
+IS 1
+BP 15
+EP 26
+DI 10.1080/01972243.2017.1391909
+UT WOS:000428727800002
+ER
+
+PT J
+AU Standing, S
+   Standing, C
+AF Standing, Susan
+   Standing, Craig
+TI The ethical use of crowdsourcing
+SO BUSINESS ETHICS-A EUROPEAN REVIEW
+SN 0962-8770
+EI 1467-8608
+PD JAN
+PY 2018
+VL 27
+IS 1
+BP 72
+EP 80
+DI 10.1111/beer.12173
+UT WOS:000418073700006
+ER
+
+PT J
+AU Lowry, PB
+   Dinev, T
+   Willison, R
+AF Lowry, Paul Benjamin
+   Dinev, Tamara
+   Willison, Robert
+TI Why security and privacy research lies at the centre of the information
+   systems (IS) artefact: proposing a bold research agenda
+SO EUROPEAN JOURNAL OF INFORMATION SYSTEMS
+RI Lowry, Paul/A-2790-2008
+OI Lowry, Paul/0000-0002-0187-5808
+SN 0960-085X
+EI 1476-9344
+PD NOV
+PY 2017
+VL 26
+IS 6
+SI SI
+BP 546
+EP 563
+DI 10.1057/s41303-017-0066-x
+UT WOS:000416280000002
+ER
+
+PT J
+AU Charki, MH
+   Josserand, E
+   Boukef, N
+AF Charki, Mohamed Hedi
+   Josserand, Emmanuel
+   Boukef, Nabila
+TI The paradoxical effects of legal intervention over unethical information
+   technology use: A rational choice theory perspective
+SO JOURNAL OF STRATEGIC INFORMATION SYSTEMS
+SN 0963-8687
+EI 1873-1198
+PD MAR
+PY 2017
+VL 26
+IS 1
+BP 58
+EP 76
+DI 10.1016/j.jsis.2016.07.001
+UT WOS:000397689700005
+ER
+
+PT J
+AU Chang, CLH
+   Chen, JQ
+AF Chang, Christina Ling-hsing
+   Chen, Jim Q.
+TI The information ethics perception gaps between Chinese and American
+   students A Chinese guanxi perspective
+SO INFORMATION TECHNOLOGY & PEOPLE
+SN 0959-3845
+EI 1758-5813
+PY 2017
+VL 30
+IS 2
+BP 473
+EP 502
+DI 10.1108/ITP-08-2014-0181
+UT WOS:000404809400011
+ER
+
+PT J
+AU Chang, CLH
+AF Chang, Christina Ling-Hsing
+TI Confucian ethics perspective The effect of course style on the
+   information ethics cognition of students
+SO MANAGEMENT DECISION
+SN 0025-1747
+EI 1758-6070
+PY 2017
+VL 55
+IS 2
+BP 427
+EP 449
+DI 10.1108/MD-07-2016-0447
+UT WOS:000398030100011
+ER
+
+PT J
+AU Dzienkowski, JS
+   Peroni, RJ
+AF Dzienkowski, John S.
+   Peroni, Robert J.
+TI THE DECLINE IN TAX ADVISER PROFESSIONALISM IN AMERICAN SOCIETY
+SO FORDHAM LAW REVIEW
+SN 0015-704X
+PD MAY
+PY 2016
+VL 84
+IS 6
+BP 2721
+EP 2753
+UT WOS:000384827700014
+ER
+
+PT J
+AU Stahl, BC
+   Timmermans, J
+   Mittelstadt, BD
+AF Stahl, Bernd Carsten
+   Timmermans, Job
+   Mittelstadt, Brent Daniel
+TI The Ethics of Computing: A Survey of the Computing-Oriented Literature
+SO ACM COMPUTING SURVEYS
+OI Stahl, Bernd Carsten/0000-0002-4058-4456
+SN 0360-0300
+EI 1557-7341
+PD MAY
+PY 2016
+VL 48
+IS 4
+AR 55
+DI 10.1145/2871196
+UT WOS:000375705500007
+ER
+
+PT J
+AU Goel, L
+   Hart, D
+   Junglas, I
+   Ives, B
+AF Goel, Lakshmi
+   Hart, Dana
+   Junglas, Iris
+   Ives, Blake
+TI Acceptable IS Use: Conceptualization and measurement
+SO COMPUTERS IN HUMAN BEHAVIOR
+SN 0747-5632
+EI 1873-7692
+PD FEB
+PY 2016
+VL 55
+BP 322
+EP 328
+DI 10.1016/j.chb.2015.09.029
+PN A
+UT WOS:000367755400035
+ER
+
+PT J
+AU Mittelstadt, BD
+   Stahl, BC
+   Ben Fairweather, N
+AF Mittelstadt, Brent Daniel
+   Stahl, Bernd Carsten
+   Ben Fairweather, N.
+TI How to Shape a Better Future? Epistemic Difficulties for Ethical
+   Assessment and Anticipatory Governance of Emerging Technologies
+SO ETHICAL THEORY AND MORAL PRACTICE
+OI Stahl, Bernd Carsten/0000-0002-4058-4456
+SN 1386-2820
+EI 1572-8447
+PD NOV
+PY 2015
+VL 18
+IS 5
+BP 1027
+EP 1047
+DI 10.1007/s10677-015-9582-8
+UT WOS:000363485800010
+ER
+
+PT J
+AU Grover, V
+   Lyytinen, K
+AF Grover, Varun
+   Lyytinen, Kalle
+TI NEW STATE OF PLAY IN INFORMATION SYSTEMS RESEARCH: THE PUSH TO THE EDGES
+SO MIS QUARTERLY
+OI Grover, Varun/0000-0001-5367-2423
+SN 0276-7783
+PD JUN
+PY 2015
+VL 39
+IS 2
+BP 271
+EP U310
+DI 10.25300/MISQ/2015/39.2.01
+UT WOS:000361601700002
+ER
+
+PT J
+AU Mingers, J
+AF Mingers, John
+TI Helping business schools engage with real problems: The contribution of
+   critical realism and systems thinking
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+SN 0377-2217
+EI 1872-6860
+PD APR 1
+PY 2015
+VL 242
+IS 1
+BP 316
+EP 331
+DI 10.1016/j.ejor.2014.10.058
+UT WOS:000348687900028
+ER
+
+PT J
+AU Chatterjee, S
+   Sarker, S
+   Valacich, JS
+AF Chatterjee, Sutirtha
+   Sarker, Suprateek
+   Valacich, Joseph S.
+TI The Behavioral Roots of Information Systems Security: Exploring Key
+   Factors Related to Unethical IT Use
+SO JOURNAL OF MANAGEMENT INFORMATION SYSTEMS
+SN 0742-1222
+EI 1557-928X
+PD SPR
+PY 2015
+VL 31
+IS 4
+BP 49
+EP 87
+DI 10.1080/07421222.2014.1001257
+UT WOS:000353145800004
+ER
+
+PT J
+AU Newell, S
+   Marabelli, M
+AF Newell, Sue
+   Marabelli, Marco
+TI Strategic opportunities (and challenges) of algorithmic decision-making:
+   A call for action on the long-term societal effects of 'datification'
+SO JOURNAL OF STRATEGIC INFORMATION SYSTEMS
+SN 0963-8687
+EI 1873-1198
+PD MAR
+PY 2015
+VL 24
+IS 1
+BP 3
+EP 14
+DI 10.1016/j.jsis.2015.02.001
+UT WOS:000353084400002
+ER
+
+PT J
+AU Rehg, W
+AF Rehg, William
+TI Discourse ethics for computer ethics: a heuristic for engaged dialogical
+   reflection
+SO ETHICS AND INFORMATION TECHNOLOGY
+SN 1388-1957
+EI 1572-8439
+PD MAR
+PY 2015
+VL 17
+IS 1
+BP 27
+EP 39
+DI 10.1007/s10676-014-9359-0
+UT WOS:000350553500003
+ER
+
+PT J
+AU Sojer, M
+   Alexy, O
+   Kleinknecht, S
+   Henkel, J
+AF Sojer, Manuel
+   Alexy, Oliver
+   Kleinknecht, Sven
+   Henkel, Joachim
+TI Understanding the Drivers of Unethical Programming Behavior: The
+   Inappropriate Reuse of Internet-Accessible Code
+SO JOURNAL OF MANAGEMENT INFORMATION SYSTEMS
+SN 0742-1222
+EI 1557-928X
+PD WIN
+PY 2014
+VL 31
+IS 3
+BP 287
+EP 325
+DI 10.1080/07421222.2014.995563
+UT WOS:000351413300011
+ER
+
+PT J
+AU Aakhus, M
+   Agerfalk, PJ
+   Lyytinen, K
+   Te'eni, D
+AF Aakhus, Mark
+   Agerfalk, Par J.
+   Lyytinen, Kalle
+   Te'eni, Dov
+TI SYMBOLIC ACTION RESEARCH IN INFORMATION SYSTEMS: INTRODUCTION TO THE
+   SPECIAL ISSUE
+SO MIS QUARTERLY
+OI Aakhus, Mark/0000-0002-5414-147X
+SN 0276-7783
+PD DEC
+PY 2014
+VL 38
+IS 4
+BP 1187
+EP 1200
+DI 10.25300/MISQ/2014/38:4.3
+UT WOS:000348600300012
+ER
+
+PT J
+AU Stahl, BC
+   Doherty, NF
+   Shaw, M
+   Janicke, H
+AF Stahl, Bernd Carsten
+   Doherty, Neil F.
+   Shaw, Mark
+   Janicke, Helge
+TI Critical Theory as an Approach to the Ethics of Information Security
+SO SCIENCE AND ENGINEERING ETHICS
+RI Doherty, Neil/A-4783-2010
+OI Stahl, Bernd Carsten/0000-0002-4058-4456
+SN 1353-3452
+EI 1471-5546
+PD SEP
+PY 2014
+VL 20
+IS 3
+BP 675
+EP 699
+DI 10.1007/s11948-013-9496-6
+UT WOS:000339818400004
+PM 24293199
+ER
+
+PT J
+AU Wakunuma, KJ
+   Stahl, BC
+AF Wakunuma, Kutoma J.
+   Stahl, Bernd Carsten
+TI Tomorrow's ethics and today's response: An investigation into the ways
+   information systems professionals perceive and address emerging ethical
+   issues
+SO INFORMATION SYSTEMS FRONTIERS
+OI Stahl, Bernd Carsten/0000-0002-4058-4456; Wakunuma,
+   Kutoma/0000-0002-8236-3221
+SN 1387-3326
+EI 1572-9419
+PD JUL
+PY 2014
+VL 16
+IS 3
+BP 383
+EP 397
+DI 10.1007/s10796-014-9490-9
+UT WOS:000338280900005
+ER
+
+PT J
+AU Mingers, J
+   Willcocks, L
+AF Mingers, John
+   Willcocks, Leslie
+TI An integrative semiotic framework for information systems: The social,
+   personal and material worlds
+SO INFORMATION AND ORGANIZATION
+OI Mingers, John/0000-0002-4102-4696
+SN 1471-7727
+EI 1873-7919
+PD JAN
+PY 2014
+VL 24
+IS 1
+BP 48
+EP 70
+DI 10.1016/j.infoandorg.2014.01.002
+UT WOS:000349278300003
+ER
+
+PT J
+AU Skaletsky, M
+   Soremekun, O
+   Galliers, RD
+AF Skaletsky, Maria
+   Soremekun, Olumayokun
+   Galliers, Robert D.
+TI The Changing - and Unchanging - Face of the Digital Divide: an
+   Application of Kohonen Self-Organizing Maps
+SO INFORMATION TECHNOLOGY FOR DEVELOPMENT
+SN 0268-1102
+EI 1554-0170
+PY 2014
+VL 20
+IS 3
+BP 218
+EP 250
+DI 10.1080/02681102.2013.804396
+UT WOS:000340256600002
+ER
+
+PT J
+AU Walsham, G
+AF Walsham, Geoff
+TI Empiricism in interpretive IS research: a response to Stahl
+SO EUROPEAN JOURNAL OF INFORMATION SYSTEMS
+SN 0960-085X
+EI 1476-9344
+PD JAN
+PY 2014
+VL 23
+IS 1
+BP 12
+EP 16
+DI 10.1057/ejis.2012.57
+UT WOS:000329350500002
+ER
+
+PT J
+AU Swanson, RD
+   Smith, RJ
+AF Swanson, R. David
+   Smith, Ronn J.
+TI A Path to a Public-Private Partnership: Commercial Logistics Concepts
+   Applied to Disaster Response
+SO JOURNAL OF BUSINESS LOGISTICS
+RI Swanson, David/G-8006-2017
+OI Swanson, David/0000-0003-2389-9293
+SN 0735-3766
+EI 2158-1592
+PD DEC
+PY 2013
+VL 34
+IS 4
+BP 335
+EP 346
+DI 10.1111/jbl.12031
+UT WOS:000327896200008
+ER
+
+PT J
+AU Standing, C
+   Standing, S
+   Law, F
+AF Standing, Craig
+   Standing, Susan
+   Law, Fergus
+TI The Role of the Lifeworld Concept in Wiki Adoption and Use
+SO DESIGN JOURNAL
+SN 1460-6925
+EI 1756-3062
+PD DEC
+PY 2013
+VL 16
+IS 4
+BP 486
+EP 508
+DI 10.2752/175630613X13746645186205
+UT WOS:000327416000006
+ER
+
+PT J
+AU Bernroider, EWN
+   Pilkington, A
+   Cordoba, JR
+AF Bernroider, Edward W. N.
+   Pilkington, Alan
+   Cordoba, Jose-Rodrigo
+TI Research in information systems: a study of diversity and
+   inter-disciplinary discourse in the AIS basket journals between 1995 and
+   2011
+SO JOURNAL OF INFORMATION TECHNOLOGY
+OI Pilkington, Alan/0000-0002-3880-1757
+SN 0268-3962
+EI 1466-4437
+PD MAR
+PY 2013
+VL 28
+IS 1
+SI SI
+BP 74
+EP 89
+DI 10.1057/jit.2013.5
+UT WOS:000315931800006
+ER
+
+PT J
+AU Chatterjee, S
+   Sarker, S
+AF Chatterjee, Sutirtha
+   Sarker, Suprateek
+TI Infusing Ethical Considerations in Knowledge Management Scholarship:
+   Toward a Research Agenda
+SO JOURNAL OF THE ASSOCIATION FOR INFORMATION SYSTEMS
+SN 1536-9323
+EI 1558-3457
+PY 2013
+VL 14
+IS 8
+BP 452
+EP 481
+UT WOS:000327545000003
+ER
+
+PT J
+AU Rowe, F
+AF Rowe, Frantz
+TI Toward a richer diversity of genres in information systems research: new
+   categorization and guidelines
+SO EUROPEAN JOURNAL OF INFORMATION SYSTEMS
+SN 0960-085X
+EI 1476-9344
+PD SEP
+PY 2012
+VL 21
+IS 5
+BP 469
+EP 478
+DI 10.1057/ejis.2012.38
+UT WOS:000308448100001
+ER
+
+PT J
+AU Liu, CJ
+   Yang, SC
+AF Liu, Chien-Jen
+   Yang, Shu Ching
+TI Applying the Practical Inquiry Model to investigate the quality of
+   students' online discourse in an information ethics course based on
+   Bloom's teaching goal and Bird's 3C model
+SO COMPUTERS & EDUCATION
+SN 0360-1315
+PD SEP
+PY 2012
+VL 59
+IS 2
+BP 466
+EP 480
+DI 10.1016/j.compedu.2012.01.018
+UT WOS:000305036400027
+ER
+
+PT J
+AU von Krogh, G
+   Haefliger, S
+   Spaeth, S
+   Wallin, MW
+AF von Krogh, Georg
+   Haefliger, Stefan
+   Spaeth, Sebastian
+   Wallin, Martin W.
+TI CARROTS AND RAINBOWS: MOTIVATION AND SOCIAL PRACTICE IN OPEN SOURCE
+   SOFTWARE DEVELOPMENT
+SO MIS QUARTERLY
+RI Spaeth, Sebastian/B-8409-2012
+OI Spaeth, Sebastian/0000-0003-1029-5263; Wallin,
+   Martin/0000-0002-5263-1483
+SN 0276-7783
+PD JUN
+PY 2012
+VL 36
+IS 2
+BP 649
+EP 676
+UT WOS:000304296400015
+ER
+
+PT J
+AU March, ST
+   Niederman, F
+AF March, Salvatore T.
+   Niederman, Fred
+TI The future of the information systems discipline: a response to Walsham
+SO JOURNAL OF INFORMATION TECHNOLOGY
+SN 0268-3962
+PD JUN
+PY 2012
+VL 27
+IS 2
+BP 96
+EP 99
+DI 10.1057/jit.2012.10
+UT WOS:000304441100003
+ER
+
+PT J
+AU Adam, A
+AF Adam, Alison
+TI IS and its agenda
+SO JOURNAL OF INFORMATION TECHNOLOGY
+SN 0268-3962
+PD JUN
+PY 2012
+VL 27
+IS 2
+BP 102
+EP 103
+DI 10.1057/jit.2012.12
+UT WOS:000304441100005
+ER
+
+PT J
+AU Street, CT
+   Ward, KW
+AF Street, Christopher T.
+   Ward, Kerry W.
+TI Improving validity and reliability in longitudinal case study timelines
+SO EUROPEAN JOURNAL OF INFORMATION SYSTEMS
+SN 0960-085X
+EI 1476-9344
+PD MAR
+PY 2012
+VL 21
+IS 2
+SI SI
+BP 160
+EP 175
+DI 10.1057/ejis.2011.53
+UT WOS:000301619100005
+ER
+
+PT J
+AU Constantinides, P
+   Chiasson, MW
+   Introna, LD
+AF Constantinides, Panos
+   Chiasson, Mike W.
+   Introna, Lucas D.
+TI THE ENDS OF INFORMATION SYSTEMS RESEARCH: A PRAGMATIC FRAMEWORK
+SO MIS QUARTERLY
+RI Introna, Lucas D./G-9262-2018
+OI Introna, Lucas D./0000-0001-6713-4204
+SN 0276-7783
+PD MAR
+PY 2012
+VL 36
+IS 1
+BP 1
+EP 19
+UT WOS:000300480200002
+ER
+
+PT J
+AU Stahl, BC
+AF Stahl, Bernd Carsten
+TI Morality, Ethics, and Reflection: A Categorization of Normative IS
+   Research
+SO JOURNAL OF THE ASSOCIATION FOR INFORMATION SYSTEMS
+OI Stahl, Bernd Carsten/0000-0002-4058-4456
+SN 1536-9323
+EI 1558-3457
+PY 2012
+VL 13
+IS 8
+BP 636
+EP 656
+UT WOS:000309812000002
+ER
+
+PT J
+AU Scott, SV
+   Orlikowski, WJ
+AF Scott, Susan V.
+   Orlikowski, Wanda J.
+TI Reconfiguring relations of accountability: Materialization of social
+   media in the travel sector
+SO ACCOUNTING ORGANIZATIONS AND SOCIETY
+SN 0361-3682
+EI 1873-6289
+PD JAN
+PY 2012
+VL 37
+IS 1
+BP 26
+EP 40
+DI 10.1016/j.aos.2011.11.005
+UT WOS:000300649200003
+ER
+
+PT J
+AU Workman, M
+AF Workman, Michael
+TI Rash impulsivity, vengefulness, virtual-self and amplification of
+   ethical relativism on cyber-smearing against corporations
+SO COMPUTERS IN HUMAN BEHAVIOR
+SN 0747-5632
+PD JAN
+PY 2012
+VL 28
+IS 1
+BP 217
+EP 225
+DI 10.1016/j.chb.2011.09.003
+UT WOS:000297392700025
+ER
+
+PT J
+AU Ross, A
+   Chiasson, M
+AF Ross, Alain
+   Chiasson, Mike
+TI Habermas and information systems research: New directions
+SO INFORMATION AND ORGANIZATION
+SN 1471-7727
+PD NOV
+PY 2011
+VL 21
+IS 3
+BP 123
+EP 141
+DI 10.1016/j.infoandorg.2011.06.001
+UT WOS:000296116300001
+ER
+
+PT J
+AU Stahl, BC
+   Tremblay, MC
+   LeRouge, CM
+AF Stahl, Bernd Carsten
+   Tremblay, Monica Chiarini
+   LeRouge, Cynthia M.
+TI Focus groups and critical social IS research: how the choice of method
+   can promote emancipation of respondents and researchers
+SO EUROPEAN JOURNAL OF INFORMATION SYSTEMS
+RI ; Tremblay, Monica Chiarini/H-8650-2012
+OI LeRouge, Cynthia/0000-0002-5523-9700; Tremblay, Monica
+   Chiarini/0000-0003-1289-6679; Stahl, Bernd Carsten/0000-0002-4058-4456
+SN 0960-085X
+PD JUL
+PY 2011
+VL 20
+IS 4
+BP 378
+EP 394
+DI 10.1057/ejis.2011.21
+UT WOS:000292083700002
+ER
+
+PT J
+AU Truex, D
+   Cuellar, M
+   Takeda, H
+   Vidgen, R
+AF Truex, Duane
+   Cuellar, Michael
+   Takeda, Hirotoshi
+   Vidgen, Richard
+TI The scholarly influence of Heinz Klein: ideational and social measures
+   of his impact on IS research and IS scholars
+SO EUROPEAN JOURNAL OF INFORMATION SYSTEMS
+OI Vidgen, Richard/0000-0001-7578-8339; Cuellar,
+   Michael/0000-0002-3981-9625
+SN 0960-085X
+PD JUL
+PY 2011
+VL 20
+IS 4
+BP 422
+EP 439
+DI 10.1057/ejis.2011.16
+UT WOS:000292083700005
+ER
+
+EF
