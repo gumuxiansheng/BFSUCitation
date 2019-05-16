@@ -8,6 +8,21 @@ johns_years = [2010, 2015, 2007, 2011, 2013, 2010, 2010, 2006, 2013, 2010, 2008,
 h_index = 17
 
 
+# A-indices
+def a_indices():
+    return sum(johns_works[0:h_index - 1]) / float(h_index)
+
+
+# R-indices
+def r_indices():
+    return sum(johns_works[0:h_index - 1])**0.5
+
+
+# Rm-indices
+def rm_indices():
+    return sum(np.sqrt(johns_works[0:h_index - 1]))**0.5
+
+
 # Maxprod = max{r( j)*c( j)}
 def max_prod():
     max_num = 0
