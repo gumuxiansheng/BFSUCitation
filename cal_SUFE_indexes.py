@@ -62,6 +62,63 @@ def k_index():
     return sum(works) * sum(works[0:h_index - 1]) / float((len(works) * (sum(works) - sum(works[0:h_index - 1]))))
 
 
+# h-square-lower-index
+def h_square_lower_index():
+    return 100 * sum(works[h_index:]) / float(sum(works))
+
+
+# h-square-center-index
+def h_square_center_index():
+    return 100 * (h_index ** 2) / float(sum(works))
+
+
+# h-square-upper-index
+def h_square_upper_index():
+    return 100 * (sum(works) - len(works) * h_index) / float(sum(works))
+
+
+j_index_delta_h = [500, 250, 100, 50, 25, 10, 5, 4, 3, 2, 1.5, 1.25]
+j_index_weight = [1, 0.5, 0.333, 0.25, 0.2, 0.167, 0.143, 0.125, 0.111, 0.1, 0.091, 0.083]
+
+
+# j-index
+def j_index():
+    n = []
+    result = 0
+    for i in range(0, 12):
+        thresh = h_index * j_index_delta_h[i]
+        for j in range(0, len(works)):
+            if works[j] < thresh:
+                n.append(j)
+                break
+            else:
+                pass
+
+        result += j_index_weight[i] * n[i] * thresh / float(sum(j_index_weight))
+
+    return result
+
+
+# h_rat index
+def h_rat_index():
+    i = 0
+    x = 0
+    for info in sorted(works, reverse=True):
+        i += 1
+        if info < (h_index + 1):
+            x += h_index + 1 - info
+        if i >= h_index + 1:
+            break
+    print x
+    return (h_index + 1) - x / float(2 * h_index + 1)
+
+
+# h_r index
+def h_r_index():
+    return ((h_index + 1) * works[h_index - 1] - h_index * works[h_index]) / float(
+        1 - works[h_index] + works[h_index - 1])
+
+
 # Maxprod = max{r( j)*c( j)}
 def max_prod():
     max_num = 0
