@@ -1,5 +1,9 @@
 # *- coding:utf-8 -*-
 
+"""
+    Author: Mike Zhu
+    Bibliometric indicators calculation, refer to https://home.mikezhu.cn/paper-read/BibliometricsIndicators
+"""
 import numpy as np
 import pandas as pd
 
@@ -235,7 +239,7 @@ def hg_index():
 
 def get_normalized_citations():
     c_array = np.array(works)
-    return c_array / (sum(c_array) / len(c_array))
+    return c_array / float(max(c_array))
 
 
 def tc_f_index():
