@@ -9,13 +9,14 @@ import pandas as pd
 
 
 def prepare_data():
-    data_frame = pd.read_excel(u'./data/山东财经大学sci2016.xls', header=28)
-    data_frame = data_frame.iloc[0:, :]
-    reference_info = list(data_frame[u'合计引用次数'])
+    data_frame = pd.read_excel(u'./data/山东财经大学sci2016x.xls')
+    # data_frame = data_frame.iloc[0:, :]
+    # print data_frame
+    reference_info = list(data_frame['Captures'])
     return reference_info
 
 
-works = prepare_data()
+works = sorted(prepare_data(), reverse=True)
 
 
 # h-index
